@@ -1,0 +1,918 @@
+2&($16,'(&20081,7<
+'(9(/230(17&200,66,21
+)257+(<($5(1'('-81(3
+&20321(1781,7
+),1$1&,$/67$7(0(176
+
+
+ 
+ 
+OCEANSIDE COMMUNITY 
+DEVELOPMENT COMMISSION 
+ 
+OCEANSIDE, CALIFORNIA 
+ 
+Component Unit 
+Financial Statements 
+ 
+For the Year Ended June 30, 2023 
+ 
+
+
+ 
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION 
+ 
+Component Unit  
+Financial Statements 
+ 
+For the Year Ended June 30, 2023 
+ 
+Table of Contents 
+Page 
+Number 
+ 
+INDEPENDENT AUDITORS’ REPORT ..................................................................................................................... 1 
+ 
+BASIC FINANCIAL STATEMENTS 
+ 
+Government-Wide Financial Statements: 
+Statement of Net Position .......................................................................................................................... 6 
+ 
+Statement of Activities ............................................................................................................................... 7 
+ 
+Fund Financial Statements: 
+ 
+Balance Sheet ........................................................................................................................................... 9 
+ 
+Reconciliation of the Balance Sheet of the Housing Assistance 
+Program to the Statement of Net Position ...................................................................................................... 10 
+ 
+Statement of Revenues, Expenditures, and Changes in Fund Balances ................................................. 11 
+ 
+Reconciliation of the Statement of Revenues, Expenditures, 
+and Changes in Fund Balances of the Housing Assistance 
+Program to the Statement of Activities ........................................................................................................... 12 
+ 
+Notes to Basic Financial Statements ................................................................................................................. 14 
+ 
+REQUIRED SUPPLEMENTARY INFORMATION 
+ 
+Budgetary Comparison Schedule ..................................................................................................................... 20 
+ 
+ 
+
+
+1611 E. Fourth Street, Suite 200 
+Santa Ana, CA 92701 
+(714) 569-1000 
+203 N. Brea Blvd, Suite 203 
+Brea, CA 92821 
+(714) 672-0022 
+21 Waterway Avenue, Suite 30089 
+The Woodlands, TX 77380 
+(936) 828-4587 
+2151 River Plaza Dr., Suite 150 
+Sacramento, CA 95833 
+(916) 503-9691 
+24422 Avenida de la Carlota, Suite 275 
+Laguna Hills, CA 92653 
+(949) 829-8299 
+www.lslcpas.com 
+ 
+INDEPENDENT AUDITORS’ REPORT  
+ 
+To the Board of Commissioners 
+Oceanside Community Development Commission 
+Oceanside, California 
+ 
+Report on the Audit of the Financial Statements 
+ 
+Opinions 
+ 
+We have audited the accompanying financial statements of the governmental activities and the Housing Assistance 
+Program fund of the Oceanside Community Development Commission (the “Commission”), a component unit of the 
+City of Oceanside, California (the “City”), as of and for the year ended June 30, 2023, and the related notes to the 
+financial statements, which collectively comprise the Commission’s basic financial statements as listed in the table 
+of contents. 
+ 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the respective 
+financial position of the governmental activities and the Housing Assistance Program fund of the Commission, as 
+of June 30, 2023, and the respective changes in financial position for the year then ended in accordance with 
+accounting principles generally accepted in the United States of America. 
+ 
+Basis for Opinions 
+ 
+We conducted our audit in accordance with auditing standards generally accepted in the United States of America 
+and the standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States. Our responsibilities under those standards are further described in the 
+Auditor’s Responsibilities for the Audit of the Financial Statements section of our report. We are required to be 
+independent of the Commission and to meet our other ethical responsibilities, in accordance with the relevant ethical 
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient and appropriate 
+to provide a basis for our audit opinions. 
+ 
+Emphasis of Matter 
+ 
+Component Unit Reporting 
+ 
+As discussed in Note 1, the financial statements of the Commission are intended to present the financial position 
+and the changes in financial position of only that portion of the governmental activities, the business-type activities, 
+each major fund, and the aggregate remaining fund information of the City that is attributable to the transactions of 
+the Commission. They do not purport to, and do not, present fairly the financial position of the City, as of  
+June 30, 2023, the changes in its financial position, or, where applicable, its cash flows for the year then ended in 
+accordance with accounting principles generally accepted in the United States of America. Our opinion is not 
+modified with respect to this matter. 
+ 
+Responsibilities of Management for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of the financial statements in accordance with 
+accounting principles generally accepted in the United States of America, and for the design, implementation, and 
+maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free 
+from material misstatement, whether due to fraud or error.
+
+
+ 
+To the Board of Commissioners 
+Oceanside Community Development Commission 
+Oceanside, California 
+ 
+ 
+In preparing the financial statements, management is required to evaluate whether there are conditions or events, 
+considered in the aggregate, that raise substantial doubt about the Commission’s ability to continue as a going 
+concern for twelve months beyond the financial statement date, including any currently known information that may 
+raise substantial doubt shortly thereafter. 
+ 
+Auditor’s Responsibilities for the Audit of the Financial Statements 
+ 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinions. 
+Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee 
+that an audit conducted in accordance with generally accepted auditing standards and Government Auditing 
+Standards will always detect a material misstatement when it exists. The risk of not detecting a material 
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, 
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are considered material 
+if there is a substantial likelihood that, individually or in the aggregate, they would influence the judgment made by 
+a reasonable user based on the financial statements. 
+ 
+In performing an audit in accordance with generally accepted auditing standards and Government Auditing 
+Standards, we: 
+ 
+ 
+Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ 
+ 
+Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, 
+and design and perform audit procedures responsive to those risks. Such procedures include examining, on a 
+test basis, evidence regarding the amounts and disclosures in the financial statements. 
+ 
+ 
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the 
+Commission’s internal control. Accordingly, no such opinion is expressed. 
+ 
+ 
+Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting 
+estimates made by management, as well as evaluate the overall presentation of the financial statements. 
+ 
+ 
+Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that raise 
+substantial doubt about the Commission’s ability to continue as a going concern for a reasonable period of time. 
+ 
+We are required to communicate with those charged with governance regarding, among other matters, the planned 
+scope and timing of the audit, significant audit findings, and certain internal control-related matters that we identified 
+during the audit. 
+ 
+Required Supplementary Information  
+ 
+Accounting principles generally accepted in the United States of America require that the budgetary comparison 
+schedule be presented to supplement the basic financial statements. Such information is the responsibility of 
+management and, although not a part of the basic financial statements, is required by the Governmental Accounting 
+Standards Board who considers it to be an essential part of financial reporting for placing the basic  
+financial statements in an appropriate operational, economic, or historical context. We have applied certain limited 
+procedures to the required supplementary information in accordance with auditing standards generally accepted in 
+the United States of America, which consisted of inquiries of management about the methods of preparing the 
+information and comparing the information for consistency with management’s responses to our inquiries, the basic 
+financial statements, and other knowledge we obtained during our audit of the basic financial statements. We do 
+not express an opinion or provide any assurance on the information because the limited procedures do not provide 
+us with sufficient evidence to express an opinion or provide any assurance. 
+2
+
+
+ 
+To the Board of Commissioners 
+Oceanside Community Development Commission 
+Oceanside, California 
+ 
+ 
+Management has omitted management’s discussion and analysis that accounting principles generally accepted in 
+the United States of America require to be presented to supplement the basic financial statements. Such missing 
+information, although not a part of the basic financial statements, is required by the Governmental Accounting 
+Standards Board, who considers it to be an essential part of financial reporting for placing the basic  
+financial statements in an appropriate operational, economic, or historical context. Our opinions on the basic 
+financial statements are not affected by this missing information. 
+ 
+Other Reporting Required by Government Auditing Standards 
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated January 25, 2024, on 
+our consideration of the City’s internal control over the Commission‘s financial reporting and on our tests of its 
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters. The 
+purpose of that report is solely to describe the scope of our testing of internal control over financial reporting and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the City’s internal 
+control over the Commission‘s financial reporting or on compliance. That report is an integral part of an audit 
+performed in accordance with Government Auditing Standards in considering City’s internal control over the 
+Commission‘s financial reporting and compliance. 
+ 
+ 
+Brea, California 
+January 25, 2024 
+3
+
+
+BASIC FINANCIAL STATEMENTS
+4
+
+
+GOVERNMENT-WIDE FINANCIAL STATEMENTS
+5
+
+
+Oceanside Community Development Commission
+(A Component Unit of the City of Oceanside, California)
+Statement of Net Position
+June 30, 2023
+Governmental
+Activities
+ASSETS
+Pooled cash and investments
+2,013,803
+$        
+Restricted cash and investments
+541,657
+             
+Receivables:
+Accounts receivable
+115,927
+             
+Due from other governments
+263,517
+             
+Due from other City funds
+51,085
+               
+Notes and loans receivable
+3,779,929
+          
+Prepaid costs
+2,655
+                 
+Total assets
+6,768,573
+          
+LIABILITIES
+Accounts payable
+70,330
+               
+Accrued liabilities
+21,498
+               
+Due to program participants
+566,610
+             
+Due to other City funds
+215,381
+             
+Unearned revenues
+182,075
+             
+Deposits payable
+115,314
+             
+Total liabilities
+1,171,208
+          
+NET POSITION
+Restricted - low and moderate income housing
+5,597,365
+          
+Total net position
+5,597,365
+$        
+The notes to financial statements are an integral part of this statement.
+6
+
+
+Oceanside Community Development Commission
+(A Component Unit of the City of Oceanside, California)
+Statement of Activities
+For the Year Ended June 30, 2023
+Governmental
+Activities
+EXPENSES
+Community development
+25,805,453
+$    
+Total expenses
+25,805,453
+      
+PROGRAM REVENUES
+Community development:
+Charges for services
+108,292
+           
+Operating grants and contributions
+24,331,586
+      
+Total program revenues
+24,439,878
+      
+Net program (expenses) revenues
+(1,365,575)
+       
+GENERAL REVENUES
+Use of money and property
+483,830
+           
+Miscellaneous
+316,106
+           
+Total general revenues
+799,936
+           
+Change in Net Position
+(565,639)
+          
+Net position-beginning
+6,163,004
+        
+Net position-ending
+5,597,365
+$      
+The notes to financial statements are an integral part of this statement.
+7
+
+
+FUND FINANCIAL STATEMENTS 
+Governmental Fund Financial Statements
+8
+
+
+Oceanside Community Development Commission
+(A Component Unit of the City of Oceanside, California)
+Balance Sheet
+Housing Assistance Program
+June 30, 2023
+ASSETS
+Pooled cash and investments
+2,013,803
+$        
+Restricted cash and investments
+541,657
+             
+Receivables:
+Accounts receivable
+115,927
+             
+Due from other governments
+263,517
+             
+Due from other City funds
+51,085
+               
+Notes and loans receivable
+3,779,929
+          
+Prepaid costs
+2,655
+                 
+Total assets
+6,768,573
+$        
+LIABILITIES
+Accounts payable
+70,330
+$             
+Accrued liabilities
+21,498
+               
+Due to program participants
+566,610
+             
+Due to other City funds
+215,381
+             
+Unearned revenues
+182,075
+             
+Deposits payable
+115,314
+             
+Total liabilities
+1,171,208
+          
+DEFERRED INFLOWS OF RESOURCES
+Unavailable revenue
+3,879,825
+          
+Total deferred inflows of resources
+3,879,825
+          
+FUND BALANCE
+Nonspendable - prepaid costs
+2,655
+                 
+Restricted - low and moderate income housing
+1,714,885
+          
+Total fund balance
+1,717,540
+          
+Total liabilities, deferred inflows of resources
+and fund balance
+6,768,573
+$        
+The notes to financial statements are an integral part of this statement.
+9
+
+
+Oceanside Community Development Commission
+(A Component Unit of the City of Oceanside, California)
+Reconciliation of the Balance Sheet of the Housing Assistance Program
+to the Statement of Net Position
+June 30, 2023
+Fund balance of the Housing Assistance Program
+1,717,540
+$        
+Amounts reported for governmental activities in the Statement of Net Position are 
+different because:
+Unavailable revenue is present in governmental fund financial statements to
+indicate that receivables are not available currently; however, in the
+Statement of Net Position, these deferrals are eliminated.
+3,879,825
+          
+Net position of governmental activities
+5,597,365
+$        
+The notes to financial statements are an integral part of this statement.
+10
+
+
+Oceanside Community Development Commission
+(A Component Unit of the City of Oceanside, California)
+Statement of Revenues, Expenditures, and Changes in Fund Balance
+Housing Assistance Program
+For the Year Ended June 30, 2023
+REVENUES
+Intergovernmental
+24,424,599
+$      
+Licenses and permits
+4,375
+                 
+Charges for services
+103,917
+             
+Use of money and property
+483,830
+             
+Miscellaneous
+316,106
+             
+Total revenues
+25,332,827
+        
+EXPENDITURES
+Current:
+Community development
+25,805,453
+        
+Total expenditures
+25,805,453
+        
+Net change in fund balance
+(472,626)
+            
+Fund balance-beginning
+2,190,166
+          
+Fund balance-ending
+1,717,540
+$        
+The notes to financial statements are an integral part of this statement.
+11
+
+
+Oceanside Community Development Commission
+(A Component Unit of the City of Oceanside, California)
+Reconciliation of the Statement of Revenues, Expenditures,
+and Changes in Fund Balance of the Housing Assistance Program
+to the Statement of Activities
+For the Year Ended June 30, 2023
+Net change in fund balances - Housing Assistance Program
+(472,626)
+$     
+Amounts reported for governmental activities in the Statement of Activities are
+different because:
+Revenues reported as unavailable revenue in the governmental funds and
+recognized in the statement of activities.  These are included in the intergovernmental
+revenues in the governmental fund activity.
+(93,013)
+         
+Change in net position of governmental activities
+(565,639)
+$     
+The notes to financial statements are an integral part of this statement.
+12
+
+
+NOTES TO FINANCIAL STATEMENTS 
+13
+
+
+Oceanside Community Development Commission 
+(A Component Unit of the City of Oceanside, California) 
+Notes to the Financial Statements 
+For the Year Ended June 30, 2023 
+ 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+The basic financial statements of the Oceanside Community Development Commission (the Commission) have 
+been prepared in conformity with accounting principles generally accepted in the United States of America (GAAP) 
+as applied to governmental agencies. The Governmental Accounting Standards Board (GASB) is the accepted 
+standard setting body for establishing governmental accounting and financial reporting principles. The more 
+significant of the Commission’s accounting policies are described below. 
+ 
+A. Financial Reporting Entity 
+ 
+The Commission was established on July 16, 1980, and includes all activities previously performed by the Former 
+Oceanside Redevelopment Agency and the Oceanside Housing Authority. The Former Oceanside Redevelopment 
+Agency was originally established on November 19, 1975, pursuant to the State of California Health and Safety 
+Code entitled "Community Redevelopment Law". Its purpose was to eliminate blighted areas by encouraging the 
+development of residential, commercial, industrial, recreational, and public facilities. The Oceanside Housing 
+Authority was originally established on February 24, 1971, and dissolved April 9, 1975, due to inactivity. It was 
+reactivated on April 9, 1980, pursuant to the State of California Health and Safety Code. This department is 
+responsible for all assisted housing projects within the City of Oceanside (the City). The Former Redevelopment 
+Agency was dissolved on January 31, 2012 through Supreme Court decision on Assembly Bill 1X 26. 
+ 
+B. Basis of Accounting and Measurement Focus 
+ 
+The accounts of the Commission are organized on the basis of funds, each of which is considered a separate 
+accounting entity. The operations of each fund are accounted for with a separate set of self-balancing accounts that 
+comprise its assets, liabilities, fund equity, revenues, and expenditures. Government resources are allocated to and 
+accounted for in individual funds based upon the purpose for which they are to be spent and the means by which 
+spending activities are controlled. 
+ 
+Government-Wide Financial Statements: 
+ 
+The Commission's government-wide financial statements include a Statement of Net Position and a Statement of 
+Activities. These statements present summaries of governmental type activities for the Commission. 
+ 
+These basic financial statements are presented on an "economic resources" measurement focus and the accrual 
+basis of accounting. Accordingly, all of the Commission's assets and liabilities, including capital assets and  
+long-term liabilities, are included in the accompanying Statement of Net Position. The Statement of Activities 
+presents changes in net position. Under the accrual basis of accounting, revenues are recognized in the period in 
+which they are earned while expenses are recognized in the period in which the liability is incurred. 
+ 
+Certain types of transactions are reported as program revenues for the Commission in three categories: 
+ 
+ 
+Charges for services 
+ 
+ 
+Operating grants and contributions 
+ 
+ 
+Capital grants and contributions 
+ 
+ 
+14
+
+
+Oceanside Community Development Commission 
+(A Component Unit of the City of Oceanside, California) 
+Notes to the Financial Statements 
+For the Year Ended June 30, 2023 
+ 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ 
+Governmental Fund Financial Statements 
+ 
+Governmental fund financial statements include a Balance Sheet and a Statement of Revenues Expenditures and 
+Changes in Fund Balances for all major governmental funds. An accompanying schedule is presented to reconcile 
+and explain the differences in net position as presented in these statements to the net position presented in the 
+government-wide financial statements. The Commission has one fund which is presented as a major fund. 
+ 
+All governmental funds are accounted for on a spending or "current financial resources" measurement focus and 
+the modified accrual basis of accounting. Accordingly, only current assets and current liabilities are included on the 
+Balance Sheet. The Statement of Revenues, Expenditures and Changes in Fund Balances present increases 
+(revenues and other financing sources) and decreases (expenditures and other financing uses) in net current 
+assets. Under the modified accrual basis of accounting, revenues are recognized in the accounting period in which 
+they become both measurable and available to finance expenditures of the current period. 
+ 
+Revenues are recorded when received in cash, except those revenues subject to accrual (generally 60 days after 
+year-end) are recognized when due. Expenditures are generally recorded in the accounting period in which the 
+related fund liability is incurred, except for principal and interest on long-term liabilities which are recognized as 
+expenditures only when payment is due. 
+ 
+Unavailable revenues arise when potential revenues do not meet both the "measurable" and "available" criteria for 
+recognition in the current period. Unavailable revenues also arise when the government receives resources before 
+it has a legal claim to them as when grant monies are received prior to incurring qualifying expenditures. In 
+subsequent periods when both revenue recognition criteria are met or when the government has a legal claim to 
+the resources, the unavailable revenue is removed from the balance sheet and revenue is recognized. 
+ 
+The Reconciliation of the Fund Financial Statements to the Government-Wide Financial Statements is provided to 
+explain the differences created by the integrated approach of GASB Statement No. 34. 
+ 
+The funds designated as major funds are determined by a mathematical calculation consistent with  
+GASB Statement No. 34. The Commission reports the following major governmental fund: 
+ 
+The Housing Assistance Program Special Revenue Fund is used to account for the operation of the City's low- and 
+moderate-income housing program. Financing is provided by HUD (Section 8), Community Development Block 
+Grants, and service fees on mortgage revenue bonds. 
+ 
+C. Cash, Cash Equivalents, and Investments 
+ 
+The Commission pools its available cash for investment purposes with the City. The Commission considers pooled 
+cash and investment amounts with original maturities of three months or less to be cash equivalents. 
+ 
+Highly liquid investments with maturities of one year or less at time of purchase are stated at amortized cost. All 
+other investments are stated at fair value. Market value is used as fair value for those securities for which market 
+quotations are readily available. 
+ 
+D. Deferred Outflows/Inflows of Resources 
+ 
+In addition to assets, the statement of financial position will sometimes report a separate section for deferred 
+outflows of resources. This separate financial statement element, deferred outflows of resources, represents a 
+consumption of net assets that applies to a future period(s) and so will not be recognized as an outflow of resources 
+(expense/expenditure) until then.  
+15
+
+
+Oceanside Community Development Commission 
+(A Component Unit of the City of Oceanside, California) 
+Notes to the Financial Statements 
+For the Year Ended June 30, 2023 
+ 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ 
+In addition to liabilities, the statement of financial position will sometimes report a separate section for deferred 
+inflows of resources. This separate financial statement element, deferred inflows of resources, represents an 
+acquisition of net assets that applies to a future period(s) and so will not be recognized as an inflow of resources 
+(revenue) until that time. The Commission has one type of item, which arises only under a modified accrual basis 
+of accounting that qualifies for reporting in this category. The item, unavailable revenue, is reported only in the 
+governmental funds balance sheet. These amounts are deferred and recognized as an inflow of resources in the 
+period that the amounts become available. 
+ 
+E. Fund Balances and Net Position 
+ 
+Fund Financial Statements 
+ 
+The fund balances reported on the fund financial statements consist of the following categories: 
+ 
+Restricted Fund Balance - This includes amounts that can be spent only, for the specific purposes stipulated by 
+constitution, external resource providers, or through enabling legislation. 
+ 
+When an expenditure is incurred for purposes for which both restricted and unrestricted fund balances are available, 
+the Commission's policy is to apply restricted fund balance first. 
+ 
+When an expenditure is incurred for purposes for which committed, assigned or unassigned fund balances are 
+available, the Commission's policy is to apply committed fund balance first, then assigned fund balance, and finally 
+unassigned fund balance. 
+ 
+Government-Wide Financial Statements 
+ 
+The net position reported on the Statement of Net Position consists of the following category: 
+ 
+Restricted Net Position - This amount is restricted by external creditors, grantors, contributors, or laws or regulations 
+of other governments. 
+ 
+When an expense is incurred for purposes for which both restricted and unrestricted net position are available, the 
+Commission's policy is to apply restricted net position first.  
+ 
+F. Net Position Flow Assumption 
+ 
+Sometimes the Commission will fund outlays for a particular purpose from both restricted (e.g., restricted bond or 
+grant proceeds) and unrestricted resources. In order to calculate the amounts to report as restricted – net position 
+and unrestricted – net position in the government-wide and fund financial statements, a flow assumption must be 
+made about the order in which the resources are considered to be applied. It is the Commission’s policy to consider 
+restricted – net position to have been depleted before unrestricted – net position is applied. 
+ 
+G. Fund Balance Flow Assumption 
+ 
+Sometimes the Commission will fund outlays for a particular purpose from both restricted and unrestricted resources 
+(the total of committed, assigned, and unassigned fund balance). In order to calculate the amounts to report as 
+restricted, committed, assigned, and unassigned fund balance in the governmental fund financial statements a flow 
+assumption must be made about the order in which the resources are considered to be applied. It is the 
+government’s policy to consider restricted fund balance to have been depleted before using any of the components 
+of unrestricted fund balance. Further, when the components of unrestricted fund balance can be used for the same 
+purpose, committed fund balance is depleted first, followed by assigned fund balance. Unassigned fund balance is 
+applied last.
+16
+
+
+Oceanside Community Development Commission 
+(A Component Unit of the City of Oceanside, California) 
+Notes to the Financial Statements 
+For the Year Ended June 30, 2023 
+ 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ 
+H. Use of Estimates 
+ 
+The preparation of financial statements in conformity with accounting principles generally accepted in the  
+United States of America requires management to make estimates and assumptions that affect the reported 
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the  
+financial statements and the reported amounts of revenues and expenditures during the reporting period. Actual 
+results could differ from those estimates and assumptions. 
+ 
+NOTE 2: 
+BUDGETARY INFORMATION 
+ 
+The Commission follows these procedures in establishing the budgetary data reflected in the financial statements. 
+ 
+ 
+During May of each year, the Executive Director submits to the Commissioners a proposed annual operating 
+budget for the fiscal year commencing the following July 1. The operating budget includes proposed 
+expenditures and the revenue sources to finance the expenditures. 
+ 
+ 
+Public hearings are conducted at Commissioners' meetings to obtain taxpayer comments prior to and after May. 
+ 
+ 
+Prior to July 1, the budget is legally adopted through passage of an appropriation resolution. 
+ 
+The Executive Director is authorized to transfer funds appropriated within the same fund. Revisions that alter the 
+total appropriations of any department or fund must be approved by the Commissioners. Budgets are adopted on 
+a basis consistent with accounting principles generally accepted in the United States of America. Budgeted amounts 
+are as originally adopted and as further amended by the Commissioners. All annual appropriations lapse at  
+year-end. Formal budgetary integration is employed as a management control device during the year. Expenditures 
+may not legally exceed appropriations at the activity level. 
+ 
+NOTE 3: 
+CASH AND INVESTMENTS 
+ 
+The Commission reports $2,013,803 in unrestricted cash and investments and $541,657 in restricted cash and 
+investments for a total cash and investment balance of $2,555,460 at June 30, 2023. The Commission’s funds are 
+pooled with the City’s cash and investments in order to generate optimum interest income. Each fund's share of the 
+pooled cash account is separately accounted for, and investment income is allocated to all participating funds based 
+on the relationship of their average daily cash balances to the total of the pooled cash and investments. Information 
+regarding the authorized types of deposits and investments, the type of risks (i.e. credit, interest rate, custodial, 
+etc.) and other disclosures associated with the City's pooled cash and investments is included in the City's 
+comprehensive annual financial report, which are available on the City’s website.  
+ 
+NOTE 4: 
+NOTE RECEIVABLE 
+ 
+As of June 30, 2023, the Commission's Housing Assistance Program Special Revenue Fund had $3,779,929 in 
+notes receivable from various low or noninterest bearing loans to property owners for the rehabilitation of property 
+and first-time home buyer program within the City. The notes are payable upon the sale of the property or upon the 
+death of the current property owner. 
+ 
+NOTE 5: 
+RISK MANAGEMENT  
+ 
+The Commission, through the City, is a member of the Public Risk Innovation, Solutions, and Management (PRISM) 
+which provides general liability insurance. Further information on risk management is available in the 
+comprehensive annual financial report of the City. 
+ 
+17
+
+
+Oceanside Community Development Commission 
+(A Component Unit of the City of Oceanside, California) 
+Notes to the Financial Statements 
+For the Year Ended June 30, 2023 
+ 
+NOTE 6: 
+COMMITMENTS AND CONTINGENCIES 
+ 
+The Commission is involved in certain matters of litigation that have arisen in the normal course of conducting 
+business. Commission management believes, based upon consultation with the City Attorney, that these cases, in 
+the aggregate, are not expected to result in a material adverse financial impact on the Commission. Additionally, 
+Commission management believes that the current insurance programs are sufficient to cover any potential losses 
+should an unfavorable outcome be realized. 
+ 
+NOTE 7: 
+SUBSEQUENT EVENTS 
+ 
+The Commission evaluated subsequent events for recognition and disclosure through January 25, 2024, the date 
+on which these financial statements were available to be issued. Management concluded that no material 
+subsequent events have occurred since June 30, 2023, that required recognition or disclosure in these  
+financial statements. 
+ 
+ 
+ 
+18
+
+
+REQUIRED SUPPLEMENTAY INFORMATION
+19
+
+
+Oceanside Community Development Commission
+(A Component Unit of the City of Oceanside, California)
+Budgetary Comparison Schedule
+Housing Assistance Program
+For the Year Ended June 30, 2023
+Variance with
+Final Budget
+Budget Amounts
+Actual
+Positive
+Original
+Final
+Amounts
+(Negative)
+REVENUES
+Intergovernmental
+23,817,883
+$      
+23,817,883
+$      
+24,424,599
+$      
+606,716
+$           
+Licenses and permits
+8,750
+                 
+8,750
+                 
+4,375
+                 
+(4,375)
+                
+Charges for services
+66,634
+               
+66,634
+               
+103,917
+             
+37,283
+               
+Use of money and property
+1,630,273
+          
+905,564
+             
+483,830
+             
+(421,734)
+            
+Miscellaneous
+506,830
+             
+556,830
+             
+316,106
+             
+(240,724)
+            
+Total revenues
+26,030,370
+        
+25,355,661
+        
+25,332,827
+        
+(22,834)
+              
+EXPENDITURES
+Current:
+Community development
+27,220,163
+        
+26,954,089
+        
+25,805,453
+        
+1,148,636
+          
+Total expenditures
+27,220,163
+        
+26,954,089
+        
+25,805,453
+        
+1,148,636
+          
+Net change in fund balance
+(1,189,793)
+         
+(1,598,428)
+         
+(472,626)
+            
+1,125,802
+          
+Fund balance-beginning
+2,190,166
+          
+Fund balance-ending
+1,717,540
+$        
+20

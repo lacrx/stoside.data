@@ -1,0 +1,4149 @@
+{
+  "source": "City of Oceanside — FY 2006-2008 Capital Improvement Program (5-year plan FY 06-07 through FY 10-11)",
+  "source_pdf": "raw_pdfs/FY0608_CIP_section.pdf",
+  "extraction_method": "EasyOCR + structured parsing of scanned PDF",
+  "extracted_project_count": 75,
+  "note": "Scanned source — expect some OCR errors in numbers and titles. Review before publishing.",
+  "projects": [
+    {
+      "pdf_page": 6,
+      "project_name": "San Luis Rey BicyclelPedestrian Bridge",
+      "management_dept": "~Svpre ss Rd Public Works",
+      "description": "To establish & Iink from neighborhoods (0 the 1 j existing San Luis Rey trail. 3",
+      "type_of_project": "New construction",
+      "operating_budget_impact": "Maintenance will be absorbed in budget",
+      "funding_sources": [
+        {
+          "source": "StreetshTransnet",
+          "five_year_total": 40000.0,
+          "fy06_07": 40000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Gas Tax",
+          "five_year_total": 20000.0,
+          "fy06_07": 20000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            60000.0,
+            60000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            60000.0,
+            60000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          60000.0,
+          60000.0
+        ]
+      },
+      "five_year_total_funding": 60000.0,
+      "likely_active_transportation": true,
+      "at_keywords_matched": [
+        "pedestrian bridge",
+        "trail"
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "project_name": "Bike Path Coastal Rail Trail",
+      "management_dept": "Public Works",
+      "description": "This federally funded project constructs a Class |, Class and Class III Bikeway within 60 the City of Oceanside and the North County , Transit District's railroad right-of-way:",
+      "type_of_project": "New Construction-Bike PathiCoastal Rail Trail",
+      "operating_budget_impact": "Maintenance will be absorbed in budget",
+      "funding_sources": [
+        {
+          "source": "Bicycle PathsiTransnet",
+          "five_year_total": 300000.0,
+          "fy06_07": 300000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            300000.0,
+            300000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            8300000.0,
+            0,
+            300000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          8300000.0,
+          0,
+          300000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 300000.0,
+      "likely_active_transportation": true,
+      "at_keywords_matched": [
+        "bike",
+        "bike path",
+        "bikeway",
+        "rail trail",
+        "trail"
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "project_name": "Neighborhood Traffic Improvement",
+      "management_dept": "Public Works 9e#jiaive",
+      "description": "To provide funding for studies of traffic related issues in neighborhoods throughout the City.",
+      "type_of_project": "Traffic Study",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Streets/ Transnet",
+          "five_year_total": 600000.0,
+          "fy06_07": 200000.0,
+          "fy07_08": 100000.0,
+          "fy08_09": 100000.0,
+          "fy09_10": 100000.0,
+          "fy10_11": 100000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            800000.0,
+            200000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            600000.0,
+            520000.0,
+            100000.0,
+            100000.0,
+            5100000.0,
+            100000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          600000.0,
+          520000.0,
+          100000.0,
+          100000.0,
+          5100000.0,
+          100000.0
+        ]
+      },
+      "five_year_total_funding": 600000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 9,
+      "project_name": "Miscellaneous Sidewalks ADA",
+      "management_dept": "Ueajiaide Public Works",
+      "description": "To upgrade sidewalks t0 comply with ADA regulations:",
+      "type_of_project": "ADA compliance",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "Streets Transnet",
+          "five_year_total": 500000.0,
+          "fy06_07": 100000.0,
+          "fy07_08": 100000.0,
+          "fy08_09": 100000.0,
+          "fy09_10": 100000.0,
+          "fy10_11": 100000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            500000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            500000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            5100000.0,
+            100000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          500000.0,
+          100000.0,
+          100000.0,
+          100000.0,
+          5100000.0,
+          100000.0
+        ]
+      },
+      "five_year_total_funding": 500000.0,
+      "likely_active_transportation": true,
+      "at_keywords_matched": [
+        "sidewalks"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "project_name": "Street Restoration and Overlay",
+      "management_dept": "Public Works",
+      "description": "To remove and replaceme deteriorated sections of streets, crack-sealing the application of a Rubberized Asphalt Cement to provide & flexible, new wearing surface to extend tne useful life of the streets. Qeemnaid2",
+      "type_of_project": "Annual Overiay",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "Streets/Transnet",
+          "five_year_total": 8000000.0,
+          "fy06_07": 2000000.0,
+          "fy07_08": 1500000.0,
+          "fy08_09": 1500000.0,
+          "fy09_10": 1500000.0,
+          "fy10_11": 1500000.0,
+          "ocr_quality_note": "total_adjusted_from_800000_to_8000000"
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            8000000.0,
+            2000000.0,
+            1500000.0,
+            1500000.0,
+            1500000.0,
+            1500000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            8000000.0,
+            2000000.0,
+            500000.0,
+            1500000.0,
+            500000.0,
+            1500000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          8000000.0,
+          2000000.0,
+          500000.0,
+          1500000.0,
+          500000.0,
+          1500000.0
+        ]
+      },
+      "five_year_total_funding": 8000000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 11,
+      "project_name": "Street Restoration",
+      "management_dept": "Weaaiaide Public Works",
+      "description": "Ongoing restoration and repair of streets throughout the City.",
+      "type_of_project": "Ongoing street restorationtrepair",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Transnet",
+          "five_year_total": 2500000.0,
+          "fy06_07": 500000.0,
+          "fy07_08": 500000.0,
+          "fy08_09": 500000.0,
+          "fy09_10": 500000.0,
+          "fy10_11": 500000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            2500000.0,
+            500000.0,
+            500000.0,
+            500000.0,
+            500000.0,
+            500000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            2500000.0,
+            5500000.0,
+            500000.0,
+            500000.0,
+            8500000.0,
+            500000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          2500000.0,
+          5500000.0,
+          500000.0,
+          500000.0,
+          8500000.0,
+          500000.0
+        ]
+      },
+      "five_year_total_funding": 2500000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 12,
+      "project_name": "Miscellaneous Street Projects",
+      "management_dept": "')eajusile Public Works",
+      "description": "To provide funding for repair of streets that are not otherwise scheduled in the Citys Street Restoration and Overlay project.",
+      "type_of_project": "Street Repair",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Streetsf Transnet",
+          "five_year_total": 750000.0,
+          "fy06_07": 150000.0,
+          "fy07_08": 150000.0,
+          "fy08_09": 150000.0,
+          "fy09_10": 150000.0,
+          "fy10_11": 150000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            750000.0,
+            150000.0,
+            150000.0,
+            150000.0,
+            150000.0,
+            150000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            750000.0,
+            150000.0,
+            150000.0,
+            8150000.0,
+            150000.0,
+            5150000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          750000.0,
+          150000.0,
+          150000.0,
+          8150000.0,
+          150000.0,
+          5150000.0
+        ]
+      },
+      "five_year_total_funding": 750000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 13,
+      "project_name": "Industry Street Reconstruction",
+      "management_dept": "Oceanxide Dive Public Works",
+      "description": "To remove and repiace sections of failed asphalt paving on Industry Street between Oceanside Boulevard and El Camino Real",
+      "type_of_project": "Replacementtreconstruction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Streets[Transnet",
+          "five_year_total": 50000.0,
+          "fy06_07": 50000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            50000.0,
+            50000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            50000.0,
+            50000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          50000.0,
+          50000.0
+        ]
+      },
+      "five_year_total_funding": 50000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 14,
+      "project_name": "Sleeping_Indian Drive Reconstruction",
+      "management_dept": "Public Works",
+      "description": "6 To rehabilitate Sleeping Indian Drive between Morro Heights Road and City Limits.",
+      "type_of_project": "Replacementlreconstruction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Streets/ Transnet",
+          "five_year_total": 25000.0,
+          "fy06_07": 25000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            25000.0,
+            25000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            25000.0
+          ]
+        },
+        {
+          "label": "$ 25,000 S",
+          "vals": [
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          25000.0
+        ]
+      },
+      "five_year_total_funding": 25000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 15,
+      "project_name": "College Boulevard Raising at Buena Vista Creek",
+      "management_dept": "Public Works Mira €",
+      "description": "To raise College Blvd from Plaza Drive to Lake Vista Boulevard. 78",
+      "type_of_project": "Improvement",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Streetsi Transnet",
+          "five_year_total": 750000.0,
+          "fy06_07": 750000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Major Thoroughfare Fees Fd",
+          "five_year_total": 2000000.0,
+          "fy06_07": 2000000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            2750000.0,
+            2000000.0,
+            750000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            2750000.0,
+            52000000.0,
+            5750000.0
+          ]
+        },
+        {
+          "label": "8",
+          "vals": [
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          2750000.0,
+          52000000.0,
+          5750000.0
+        ]
+      },
+      "five_year_total_funding": 2750000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 16,
+      "project_name": "Douglas Bridge Seismic Retrofit",
+      "management_dept": "Public Works Rainier Way",
+      "description": "V\" Ie 'Cjj DI This is a Highway Bricge Rehabilitation and NRiver Rd Replacement (HBRRP) funded project t0 retrofit S1 the Dougias Bridge t0 meet earthquake Biq Bend Way San standards Avenika Descansc Old RIve",
+      "type_of_project": "Seismic retrofit",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Streets{Transnet",
+          "five_year_total": 745550.0,
+          "fy06_07": 11470.0,
+          "fy07_08": 114700.0,
+          "fy08_09": 619380.0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "HBRRP",
+          "five_year_total": 5754450.0,
+          "fy06_07": 88530.0,
+          "fy07_08": 885300.0,
+          "fy08_09": 4780620.0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            6500000.0,
+            100000.0,
+            1000000.0,
+            5400000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            6500000.0,
+            0,
+            100000.0,
+            0,
+            1000000.0,
+            55400000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          6500000.0,
+          0,
+          100000.0,
+          0,
+          1000000.0,
+          55400000.0
+        ]
+      },
+      "five_year_total_funding": 6500000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 17,
+      "project_name": "North Coast Highway Bridge Seismic Retrofit",
+      "management_dept": "Public Works",
+      "description": "This is a Highway Bridge Rehab and Replacement (HBRRP) funded project t0 retrofit Coast Highway Bridge to meet earthquake standards. 0'",
+      "type_of_project": "Seismic retrofit",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Streets/ Transnet",
+          "five_year_total": 745550.0,
+          "fy06_07": 5730.0,
+          "fy07_08": 11470.0,
+          "fy08_09": 114700.0,
+          "fy09_10": 613650.0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "HBRRP",
+          "five_year_total": 5754450.0,
+          "fy06_07": 44270.0,
+          "fy07_08": 88530.0,
+          "fy08_09": 885300.0,
+          "fy09_10": 4736350.0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            6500000.0,
+            50000.0,
+            100000.0,
+            1000000.0,
+            5350000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            6500000.0,
+            550000.0
+          ]
+        },
+        {
+          "label": "8",
+          "vals": [
+            100000.0
+          ]
+        },
+        {
+          "label": "8",
+          "vals": [
+            1000000.0,
+            55350000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          6500000.0,
+          550000.0
+        ]
+      },
+      "five_year_total_funding": 6500000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 18,
+      "project_name": "Camino Real Median Mesa to Mission",
+      "management_dept": "Public Works aalinent",
+      "description": "Ct\"e To build a median on El Camino Real from 'Eah St Mesa to Mission. Deibomn $i 0\" BatsakLn Ruga Ra Bantem/\"",
+      "type_of_project": "New construction",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "StreetsiTransnet",
+          "five_year_total": 800000.0,
+          "fy06_07": 800000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            800000.0,
+            800000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            800000.0,
+            800000.0
+          ]
+        },
+        {
+          "label": "8",
+          "vals": [
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          800000.0,
+          800000.0
+        ]
+      },
+      "five_year_total_funding": 800000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 19,
+      "project_name": "South Coast Highway Tree Wells",
+      "management_dept": "Public Works",
+      "description": "% To identify and replace iost street trees along South Coast Highway and enlarge the 46 landscaped area t0 accommodate future ^ po shrubs",
+      "type_of_project": ":",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 25000.0,
+          "fy06_07": 25000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            25000.0,
+            25000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            25000.0,
+            525000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          25000.0,
+          525000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 25000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 20,
+      "project_name": "Bus Benches and Shelters",
+      "management_dept": "Public Works W)eeanside",
+      "description": "To improve bus stops throughout tne City.",
+      "type_of_project": "Improvement project",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 125000.0,
+          "fy06_07": 25000.0,
+          "fy07_08": 25000.0,
+          "fy08_09": 25000.0,
+          "fy09_10": 25000.0,
+          "fy10_11": 25000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            125000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            125000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          125000.0,
+          25000.0,
+          25000.0,
+          25000.0,
+          25000.0,
+          25000.0
+        ]
+      },
+      "five_year_total_funding": 125000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 21,
+      "project_name": "City Sidewalk Repair",
+      "management_dept": "Jeennaide Public Works",
+      "description": "To remove and replace concrete driveway approaches, sidewalk and curblgutters at locations throughout the City.",
+      "type_of_project": ":",
+      "operating_budget_impact": "Nc impact",
+      "funding_sources": [
+        {
+          "source": "Street_T ransnet Fd",
+          "five_year_total": 900000.0,
+          "fy06_07": 300000.0,
+          "fy07_08": 150000.0,
+          "fy08_09": 150000.0,
+          "fy09_10": 150000.0,
+          "fy10_11": 150000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            900000.0,
+            300000.0,
+            150000.0,
+            150000.0,
+            150000.0,
+            150000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            900000.0,
+            5300000.0,
+            8150.0,
+            8150000.0,
+            5150000.0,
+            150000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          900000.0,
+          5300000.0,
+          8150.0,
+          8150000.0,
+          5150000.0,
+          150000.0
+        ]
+      },
+      "five_year_total_funding": 900000.0,
+      "likely_active_transportation": true,
+      "at_keywords_matched": [
+        "sidewalk"
+      ]
+    },
+    {
+      "pdf_page": 22,
+      "project_name": "Tree_Trimming",
+      "management_dept": "'Vehai;ij; Public Works",
+      "description": "Contracts are issued annually t0 trim City trees that are damaged or that cause unsafe conditions in roadways",
+      "type_of_project": "Annual program",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 750000.0,
+          "fy06_07": 150000.0,
+          "fy07_08": 150000.0,
+          "fy08_09": 150000.0,
+          "fy09_10": 150000.0,
+          "fy10_11": 150000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Other",
+          "vals": [
+            750000.0,
+            150000.0,
+            150000.0,
+            150000.0,
+            150000.0,
+            150000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            750000.0,
+            150000.0,
+            8150000.0,
+            150000.0,
+            8150000.0,
+            150000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          750000.0,
+          150000.0,
+          8150000.0,
+          150000.0,
+          8150000.0,
+          150000.0
+        ]
+      },
+      "five_year_total_funding": 750000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 23,
+      "project_name": "Miscellaneous Storm Drain Improvements",
+      "management_dept": "Public Works",
+      "description": "Ongoing upgrades to storm drains in addition to the storm drain cleaning program:  This effort helps maintain flood  handling capacity of the City's storm drain system as required by National Pollutant Discharge Elimination System permit: Veawilide",
+      "type_of_project": "Ongoing storm drain upgrades and drain cleaning",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 260000.0,
+          "fy06_07": 60000.0,
+          "fy07_08": 50000.0,
+          "fy08_09": 50000.0,
+          "fy09_10": 50000.0,
+          "fy10_11": 50000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            260000.0,
+            60000.0,
+            50000.0,
+            50000.0,
+            50000.0,
+            50000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            260000.0,
+            60000.0,
+            50000.0,
+            50000.0,
+            50000.0,
+            50000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          260000.0,
+          60000.0,
+          50000.0,
+          50000.0,
+          50000.0,
+          50000.0
+        ]
+      },
+      "five_year_total_funding": 260000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 24,
+      "project_name": "Alley Improvements",
+      "management_dept": "4 % Public Works",
+      "description": "0' Divisioi Alleys in the downtown area are improved 5 each year pe 4 6 3",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 100000.0,
+          "fy06_07": 100000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            100000.0,
+            100000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          100000.0,
+          100000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 100000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 25,
+      "project_name": "Unscheduled Signals/Street Lights",
+      "management_dept": "Weeaiaide Public Works",
+      "description": "To provide funding on an annual basis for street lights, signs and signals that are not othenwise scheduled",
+      "type_of_project": "Annual program",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 145000.0,
+          "fy06_07": 45000.0,
+          "fy07_08": 25000.0,
+          "fy08_09": 25000.0,
+          "fy09_10": 25000.0,
+          "fy10_11": 25000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            145000.0,
+            45000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            145000.0,
+            45000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          145000.0,
+          45000.0,
+          25000.0,
+          25000.0,
+          25000.0,
+          25000.0
+        ]
+      },
+      "five_year_total_funding": 145000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 26,
+      "project_name": "Lucky Street Storm Drain",
+      "management_dept": "Public Works Foc",
+      "description": "To construct a small-diameter storm drain to convey runoff from the Lucky Street cul-de-sac across from Marshall Street Park.  Presently, uncontrolled surface runoff from Lucky Street flooding grass areas_ The storm drain will improve recreation utility of the park 4 % 2",
+      "type_of_project": "Improvement project",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 140000.0,
+          "fy06_07": 140000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            140000.0,
+            140000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            140000.0,
+            8140000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          140000.0,
+          8140000.0
+        ]
+      },
+      "five_year_total_funding": 140000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 27,
+      "project_name": "Pacific StreetILoma Alta Creek Bridge Resurface",
+      "management_dept": "Public Works 700",
+      "description": "Application of a methacrylate coating t0 seal cracks in the concrete surface of the bridge deck This is routine maintainance t0 protect 8 the reinforcing steel in the bridge deck 2 extend its service life .",
+      "type_of_project": "Improvement project",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Gas Tax",
+          "five_year_total": 50000.0,
+          "fy06_07": 50000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            50000.0,
+            50000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            50000.0,
+            550000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          50000.0,
+          550000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 50000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 28,
+      "project_name": "Rehabilitation of Women's Resource Center",
+      "management_dept": "Housing & Neighborhood Services Diviion Sh",
+      "description": "5 To rehabilitate the emergency shelter for &6 victims of domestic violence , which is managed by the Women's Resource Center S Work will inciude plumbing and electrical upgrades, kitchen and bath improvements , exterior improvements_",
+      "type_of_project": "CDBG Social Services Project",
+      "operating_budget_impact": "No impact on future budgets",
+      "funding_sources": [
+        {
+          "source": "CDBG Funds",
+          "five_year_total": 25000.0,
+          "fy06_07": 25000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            25000.0,
+            25000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            25000.0,
+            25000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          25000.0,
+          25000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 25000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 29,
+      "project_name": "Libby Lake Park Lighting_",
+      "management_dept": "Housing & Neighborhood Services Foster S1",
+      "description": "Roz\" To install lighting at Libby Lake Park    Design 1 1 work for this project was completed in 2005-06 S0 and the Public Works Department will begin 9 accepting bids on this project later this year: There is currently no lighting at the park: 2 3 6",
+      "type_of_project": "CDBG Social Services Project",
+      "operating_budget_impact": "No impact on future budgets",
+      "funding_sources": [
+        {
+          "source": "CDBG Funds",
+          "five_year_total": 162000.0,
+          "fy06_07": 162000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            162000.0,
+            162000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            162000.0,
+            162000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          162000.0,
+          162000.0
+        ]
+      },
+      "five_year_total_funding": 162000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 30,
+      "project_name": "Boys & Girls Club Parking_Lot",
+      "management_dept": "Greenbrier Di Housing & Neighborhood Services",
+      "description": "To repair the parking Iot at the Oceanside 3 R and Girls Club. The Iot has not been 0 resurfaced for more than fifteen years and has numerous potholes and areas of broken pol$' asphalt: The lot will be completely resurfaced and sealed, extending its life for another ten t0 fifteen Fostar 5i 0 Duie St Maxson Si 1 WNinchester Si 0",
+      "type_of_project": "CDBG Social Services Project",
+      "operating_budget_impact": "No impact on future budgets",
+      "funding_sources": [
+        {
+          "source": "CDBG Funds",
+          "five_year_total": 67835.0,
+          "fy06_07": 67835.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            67835.0,
+            67835.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            67835.0,
+            67835.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          67835.0,
+          67835.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 67835.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 31,
+      "project_name": "North County Lifeline Acquisition",
+      "management_dept": "Housing & Neighborhood Services",
+      "description": "To support the acquisition of an Oceanside 6e facility by North County Lifeline. Lifeline currently rents space in tho Copperwood Center, and has obtained financing to purchase a building at 707 Oceanside 2 Boulevard.  Both Oceanside and Carisbad will contribute CDBG funds toward the acquisition of the building; which will provide social, mental health and family services t0 residents in Oceanside the north coastal region.",
+      "type_of_project": "CDBG Social Services Project",
+      "operating_budget_impact": "No impact on future budgets",
+      "funding_sources": [
+        {
+          "source": "CDBG Funds",
+          "five_year_total": 164180.0,
+          "fy06_07": 164180.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            164180.0,
+            164180.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            164180.0,
+            164180.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          164180.0,
+          164180.0
+        ]
+      },
+      "five_year_total_funding": 164180.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 32,
+      "project_name": "TERI Inc_Fitness Center",
+      "management_dept": "Housing & Neighborhood Services Toad Ci",
+      "description": "TERI Inc. (Training, Education & Research Institute) is developing a fitness center for use by the children and youth whom the 2 organization serves, and as a fitness program Rol for employees: CDBG funds will help TERI Inc: t0 obtain chairs, tables, equipment and supplies for the center, while the organization pays for staffing costs. Vla Dol Monte C",
+      "type_of_project": "CDBG Social Services Project",
+      "operating_budget_impact": "No impact on future budgets",
+      "funding_sources": [
+        {
+          "source": "CDBG Funds",
+          "five_year_total": 10100.0,
+          "fy06_07": 10100.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            10100.0,
+            10100.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            10100.0,
+            10100.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          10100.0,
+          10100.0
+        ]
+      },
+      "five_year_total_funding": 10100.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 33,
+      "project_name": "Pacific Street at San Luis Rey RiverIBridge",
+      "management_dept": "Public Works ath",
+      "description": "To construct a bridge over the San Luis River from Pacific Street to South Harbor Drive for improved emergency access and t0 replace a crossing that washes out in major storms_",
+      "type_of_project": "New construction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Hwy Bridge Rehab & ReplcmntTransnet",
+          "five_year_total": 11000000.0,
+          "fy06_07": 500000.0,
+          "fy07_08": 5000000.0,
+          "fy08_09": 5500000.0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            11000000.0,
+            500000.0,
+            5000000.0,
+            5500000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            11000000.0,
+            500000.0,
+            5000000.0,
+            55500000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          11000000.0,
+          500000.0,
+          5000000.0,
+          55500000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 11000000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 34,
+      "project_name": "El Corazon Silica Reclamation and Check Dam",
+      "management_dept": "Public Works Oceanalot Bha",
+      "description": "To implement the safe stabilization mine recovery plan for El Corazon site . 0' 4",
+      "type_of_project": "Replacement Project",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "General Capital Projects Fd",
+          "five_year_total": 1050000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 250000.0,
+          "fy08_09": 250000.0,
+          "fy09_10": 150000.0,
+          "fy10_11": 150000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            1050000.0,
+            250000.0,
+            250000.0,
+            250000.0,
+            150000.0,
+            150000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            1050000.0,
+            250000.0,
+            250000.0,
+            5250000.0,
+            150000.0,
+            150000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          1050000.0,
+          250000.0,
+          250000.0,
+          5250000.0,
+          150000.0,
+          150000.0
+        ]
+      },
+      "five_year_total_funding": 1050000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 35,
+      "project_name": "Fire Station No 7 Construction",
+      "management_dept": "Public Works Q61",
+      "description": "To construct a new Fire Station on the north side of Mission Avenue east of Foussat Road_ It will house two engine companies, a medic company and a battalion chief for a total of eleven personnel housed at the site on each shift: L 8 3 0t",
+      "type_of_project": "New Construction",
+      "operating_budget_impact": "Will require funding for maintenance and operations",
+      "funding_sources": [
+        {
+          "source": "General Fund",
+          "five_year_total": 8000000.0,
+          "fy06_07": 6000000.0,
+          "fy07_08": 2000000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            8000000.0,
+            6000000.0,
+            2000000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            8000000.0,
+            6000000.0,
+            52000000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          8000000.0,
+          6000000.0,
+          52000000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 8000000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 36,
+      "project_name": "Fire Station No. 1 Construction",
+      "management_dept": "Public Works",
+      "description": "To design and construct a new Fire Station No. 8 at 602 Civic Center Drive. Project includes the removal of the existing structures.",
+      "type_of_project": "New construction",
+      "operating_budget_impact": "Will require funding for maintenance",
+      "funding_sources": [
+        {
+          "source": "General Fund",
+          "five_year_total": 5100000.0,
+          "fy06_07": 3600000.0,
+          "fy07_08": 1500000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Public Facility Fees Fund",
+          "five_year_total": 700000.0,
+          "fy06_07": 700000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Redevelopment Fund",
+          "five_year_total": 2200000.0,
+          "fy06_07": 400000.0,
+          "fy07_08": 1800000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            8000000.0,
+            4000000.0,
+            4000000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            8000000.0,
+            4000.0,
+            4000000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          8000000.0,
+          4000.0,
+          4000000.0
+        ]
+      },
+      "five_year_total_funding": 8000000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 37,
+      "project_name": "Fire Training Facility",
+      "management_dept": "Public Works ISna ni",
+      "description": "Rental expense for temporary trailers for Fire Station No. 6",
+      "type_of_project": "Temporary facility",
+      "operating_budget_impact": "No impacl",
+      "funding_sources": [
+        {
+          "source": "Public Facility Fees",
+          "five_year_total": 225000.0,
+          "fy06_07": 45000.0,
+          "fy07_08": 45000.0,
+          "fy08_09": 45000.0,
+          "fy09_10": 45000.0,
+          "fy10_11": 45000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            225000.0,
+            45000.0,
+            45000.0,
+            45000.0,
+            45000.0,
+            45000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            225000.0,
+            45000.0,
+            45000.0,
+            45000.0,
+            45000.0,
+            45000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          225000.0,
+          45000.0,
+          45000.0,
+          45000.0,
+          45000.0,
+          45000.0
+        ]
+      },
+      "five_year_total_funding": 225000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 38,
+      "project_name": "Public Art",
+      "management_dept": "Smsie Public Works",
+      "description": "To provide funding for art installations throughout the City:",
+      "type_of_project": "General",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Public Facility Funds",
+          "five_year_total": 125000.0,
+          "fy06_07": 25000.0,
+          "fy07_08": 25000.0,
+          "fy08_09": 25000.0,
+          "fy09_10": 25000.0,
+          "fy10_11": 25000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            125000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            25000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            125000.0,
+            25000.0,
+            25000.0,
+            25000.0,
+            525000.0,
+            25000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          125000.0,
+          25000.0,
+          25000.0,
+          25000.0,
+          525000.0,
+          25000.0
+        ]
+      },
+      "five_year_total_funding": 125000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 39,
+      "project_name": "Mission Avenue Building Upgrade",
+      "management_dept": "9 $ Fogtet",
+      "description": "3 Demolition project at the former Oceanside Police Department jail to remove jail cells and Laurel Si construct new stud wall framing: ~ 1 30",
+      "type_of_project": "Improvement",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Public Facility Funds",
+          "five_year_total": 400000.0,
+          "fy06_07": 200000.0,
+          "fy07_08": 200000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            400000.0,
+            200000.0,
+            200000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            400000.0,
+            8200000.0,
+            8200000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          400000.0,
+          8200000.0,
+          8200000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 400000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 40,
+      "project_name": "College Boulevard Adaptive Signal Timing_",
+      "management_dept": "Thalna; Si Cane? Dr",
+      "description": "Arenii_ Dc La Pbu To implemente Signal on College Boulevard to facilitate trafiic. Oceank PIl Gaibar 5i",
+      "type_of_project": "Maintenance",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "Traffic Signal Fees",
+          "five_year_total": 300000.0,
+          "fy06_07": 300000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            300000.0,
+            300000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            300000.0,
+            5300000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          300000.0,
+          5300000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 300000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 41,
+      "project_name": "Signal Modification at Mesa and El Camino Real",
+      "management_dept": "882 Banten Avd",
+      "description": "To modify the traffic signal at El Camino Real & Mesa Gam Di Daatbot 81 DouseackLn",
+      "type_of_project": "Maintenance",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "Traffic Signal Fees",
+          "five_year_total": 50000.0,
+          "fy06_07": 50000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            50000.0,
+            50000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            50000.0,
+            50000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          50000.0,
+          50000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 50000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 42,
+      "project_name": "Multiple Habitat Conservation",
+      "management_dept": "Public Works Gmspe",
+      "description": "To maintain and preserve existing habitat conidors",
+      "type_of_project": "Maintenance",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "SLRR-DD-I1lZone-1A Fd",
+          "five_year_total": 150000.0,
+          "fy06_07": 30000.0,
+          "fy07_08": 30000.0,
+          "fy08_09": 30000.0,
+          "fy09_10": 30000.0,
+          "fy10_11": 30000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            150000.0,
+            30000.0,
+            30000.0,
+            30000.0,
+            30000.0,
+            30000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            150000.0,
+            30000.0,
+            30000.0,
+            30000.0,
+            30000.0,
+            30000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          150000.0,
+          30000.0,
+          30000.0,
+          30000.0,
+          30000.0,
+          30000.0
+        ]
+      },
+      "five_year_total_funding": 150000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 43,
+      "project_name": "Mira Mar Mobile Home Community Slope Repair",
+      "management_dept": "Public Works",
+      "description": "To repair erosion damage on slope nexlt t0 8 Citys bike path.",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Drainage District 1A",
+          "five_year_total": 80000.0,
+          "fy06_07": 80000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            80000.0,
+            80000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            80000.0,
+            580000.0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          80000.0,
+          580000.0,
+          0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 80000.0,
+      "likely_active_transportation": true,
+      "at_keywords_matched": [
+        "bike",
+        "bike path"
+      ]
+    },
+    {
+      "pdf_page": 44,
+      "project_name": "Libby Lake Drainage Pumps",
+      "management_dept": "Public Works Fovter Si",
+      "description": "Rac To replace pump house with structure compatible with existing pavillion.  Rehabilitate pumps, motors , and piping:",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Drainage Dist 1D",
+          "five_year_total": 120000.0,
+          "fy06_07": 120000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            120000.0,
+            120000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            120000.0,
+            120000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          120000.0,
+          120000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 120000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 45,
+      "project_name": "Loma Alta Creek at El Camino Real Detention Basin",
+      "management_dept": "Public Works",
+      "description": "To construct a detention basin to improve flood protection for the residents along Loma Alta Creek downstream of El Camino Real: To design and construct detention basins to complete a Conditional Letter Of Map Cceanside Bivd Revision (CLOMAR):   This removes downstream property from the floodway Industty St mapped by the Federal Flood Insurance Program.",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Drainage FeesiTransnet",
+          "five_year_total": 2140400.0,
+          "fy06_07": 2140400.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            2140400.0,
+            2140400.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            null,
+            null,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          null,
+          null,
+          0
+        ]
+      },
+      "five_year_total_funding": 2140400.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 46,
+      "project_name": "Loma Alta Creek at Rancho Del Oro Detention Basin",
+      "management_dept": "Public Works San",
+      "description": "c To construct a detention basin to improve flood protection for the residents aiong Loma Alta Oeanic Pl Creek downstream at Rancho Del Oro. To design and construct detention basins to complete a Conditional Letter Of Revision Cearsida Bl (CLOMAR)   This removes downstream property from the floodway mapped by the Federal Flood Insurance Program:",
+      "type_of_project": "New construction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Drainage FeeshTransnet",
+          "five_year_total": 3200000.0,
+          "fy06_07": 2150000.0,
+          "fy07_08": 1050000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            3200000.0,
+            2150000.0,
+            1050000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            3200000.0,
+            52.15,
+            1050000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          3200000.0,
+          52.15,
+          1050000.0
+        ]
+      },
+      "five_year_total_funding": 3200000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 47,
+      "project_name": "College Boulevard Median Storm Drain Improvements",
+      "management_dept": "Public Works Celeste [",
+      "description": "To replace the open drainage ditch on College ct Boulevard iocated between Berard Drive and Roselle Avenue with an underground storm 6 drain and a landscaped median. Aiture",
+      "type_of_project": "Replacement construction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Major Thoroughfare Fees Fd",
+          "five_year_total": 350000.0,
+          "fy06_07": 300000.0,
+          "fy07_08": 50000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            350000.0,
+            300000.0,
+            50000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            350000.0,
+            5300000.0,
+            50000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          350000.0,
+          5300000.0,
+          50000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 350000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 48,
+      "project_name": "Camino Real Widening Mesa to Oceanside Boulevard",
+      "management_dept": "Public Works Tseiru",
+      "description": "Cjrrt 'h %1 To complete the widening of the northbound right-tum Iane from El Camino Real t0 Mesa Blvd. Dearbom S 0 BousexkLo Ra 2 Benkh 2",
+      "type_of_project": null,
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Major Thoroughfare Fees Fd",
+          "five_year_total": 140000.0,
+          "fy06_07": 140000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            140000.0,
+            140000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            140000.0,
+            140000.0
+          ]
+        },
+        {
+          "label": "Impact on Operating Budget: No impact",
+          "vals": [
+            176.0
+          ]
+        },
+        {
+          "label": "Vu",
+          "vals": [
+            70.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          140000.0,
+          140000.0
+        ]
+      },
+      "five_year_total_funding": 140000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 49,
+      "project_name": "Thoroughfare Master Plan",
+      "management_dept": "(Sjp: Public Works",
+      "description": "To update the City's Circulation Element to include future roadways, transit development and the construction of new subdivisions, commercial, office and industrial land uses .",
+      "type_of_project": "Master",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Major Thoroughfare Fees Fd",
+          "five_year_total": 200000.0,
+          "fy06_07": 20000.0,
+          "fy07_08": 45000.0,
+          "fy08_09": 45000.0,
+          "fy09_10": 45000.0,
+          "fy10_11": 45000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Other",
+          "vals": [
+            200000.0,
+            20000.0,
+            45000.0,
+            45000.0,
+            45000.0,
+            45000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            200000.0,
+            520000.0,
+            45000.0,
+            45000.0,
+            45000.0,
+            45000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          200000.0,
+          520000.0,
+          45000.0,
+          45000.0,
+          45000.0,
+          45000.0
+        ]
+      },
+      "five_year_total_funding": 200000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 50,
+      "project_name": "Citywide Transportation Circulation Update",
+      "management_dept": "Public Works",
+      "description": "To update the City's Traffic Master Plan:",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Major Thoroughfare Fees Fd",
+          "five_year_total": 65000.0,
+          "fy06_07": 65000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Other",
+          "vals": [
+            65000.0,
+            65000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            65000.0,
+            65.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          65000.0,
+          65.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 65000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 51,
+      "project_name": "Driving_Range Remodel Design",
+      "management_dept": "Aeri & Jambolee 53",
+      "description": "To design the remodel of the driving range at the Municipal Golf Course. Caroi B: 6 69",
+      "type_of_project": "Improvements",
+      "operating_budget_impact": null,
+      "funding_sources": [
+        {
+          "source": "Golf Course Fees",
+          "five_year_total": 290000.0,
+          "fy06_07": 40000.0,
+          "fy07_08": 250000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Preliminary Engineering",
+          "vals": [
+            290000.0,
+            40000.0,
+            250000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            290000.0,
+            40000.0,
+            250000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          290000.0,
+          40000.0,
+          250000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 290000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 52,
+      "project_name": "Buddy Todd Park Restrooms Phase",
+      "management_dept": "Public Works",
+      "description": "To build restrooms at Buddy Todd Park: 7 Todd Ct 4",
+      "type_of_project": ":",
+      "operating_budget_impact": "Will require funding for maintenance",
+      "funding_sources": [
+        {
+          "source": "Prop 12-Cal State",
+          "five_year_total": 468191.0,
+          "fy06_07": 468191.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "General Fund",
+          "five_year_total": 250000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Water Utilities",
+          "five_year_total": 250000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Park Fees Fund",
+          "five_year_total": 40809.0,
+          "fy06_07": 40809.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            1009000.0,
+            1009000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            1009000.0,
+            51009000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          1009000.0,
+          51009000.0
+        ]
+      },
+      "five_year_total_funding": 1009000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 53,
+      "project_name": "Mance Buchanon Park",
+      "management_dept": "Public Works S &",
+      "description": "Malag\" Of Los Morros Way N Redondo Di To develop a new park with five soccer fields, N River Ra access road, parking Iot and restrooms 0",
+      "type_of_project": "New construction",
+      "operating_budget_impact": "Will require funding for maintenance",
+      "funding_sources": [
+        {
+          "source": "12-Cal State",
+          "five_year_total": 1458000.0,
+          "fy06_07": 1458000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Prop 40-Cal State",
+          "five_year_total": 452754.0,
+          "fy06_07": 452754.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "General Fund",
+          "five_year_total": 1000000.0,
+          "fy06_07": 1000000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Park Fund",
+          "five_year_total": 4289246.0,
+          "fy06_07": 4289246.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            7200000.0,
+            7200000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            7200000.0,
+            57200000.0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          7200000.0,
+          57200000.0,
+          0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 7200000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 54,
+      "project_name": "Specialty Parks (Skate: BMX)",
+      "management_dept": "Public Works",
+      "description": "To construct specialty parks , including a permanent skate park, a dog park, and a BMX Rd park: 4 Via Del Monte",
+      "type_of_project": ":",
+      "operating_budget_impact": "Will require funding for maintenance",
+      "funding_sources": [
+        {
+          "source": "Park Fees Fund",
+          "five_year_total": 500000.0,
+          "fy06_07": 500000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            500000.0,
+            500000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            500000.0,
+            500000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          500000.0,
+          500000.0
+        ]
+      },
+      "five_year_total_funding": 500000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 55,
+      "project_name": "El Corazon Senior Center",
+      "management_dept": "Bareine Bi0 Public Works",
+      "description": "01 To construct City's second Senior Center at El Corazon. Yo Mcl 2 Oceanlc PI",
+      "type_of_project": "New construction",
+      "operating_budget_impact": "Will require funding for maintenance/Operations",
+      "funding_sources": [
+        {
+          "source": "CDBG Section 108 Loan",
+          "five_year_total": 3500000.0,
+          "fy06_07": 3500000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Prop 40 Cal State",
+          "five_year_total": 735000.0,
+          "fy06_07": 735000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "General Fund",
+          "five_year_total": 2500000.0,
+          "fy06_07": 2500000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Park Fees Fund",
+          "five_year_total": 1265000.0,
+          "fy06_07": 1265000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            8000000.0,
+            8000000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            8000000.0,
+            0,
+            8000000.0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          8000000.0,
+          0,
+          8000000.0,
+          0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 8000000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 56,
+      "project_name": "Park Enhancements",
+      "management_dept": "Gnsp: Public Works",
+      "description": "Minor and miscellaneous improvements at existing parks.",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Park Fees Fund",
+          "five_year_total": 100000.0,
+          "fy06_07": 100000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "5",
+          "vals": [
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          100000.0,
+          100000.0
+        ]
+      },
+      "five_year_total_funding": 100000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 57,
+      "project_name": "Harbor Aquatics Center",
+      "management_dept": "Harbor",
+      "description": "This project consists of a community room facility similar t0 the Community Rooms located within the Main Library complex, an aquatics program office , an outrigger boating center; a beach maintenance facility, and parking to support these activities",
+      "type_of_project": "New Construction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Harbor Fund",
+          "five_year_total": 500000.0,
+          "fy06_07": 500000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            500000.0,
+            500000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            500000.0,
+            500000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          500000.0,
+          500000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 500000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 58,
+      "project_name": "Mission San Luis Water Line",
+      "management_dept": "Water Utility 250 500",
+      "description": "TANCI Ohi PALAROAD To construct a water line between Mission Ave CADINA Or and EI Camino Real through the Mission San Upaz couri Luis area.  This will connect existing water COVI lines to provide increased distribution system reliability and volume for fire flow. Mission Sch LufblRey Fveject Mino & Site",
+      "type_of_project": "New Construction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 291500.0,
+          "fy06_07": 291500.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Fed Gr Spec Rev Fd-EPA",
+          "five_year_total": 238500.0,
+          "fy06_07": 238500.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            530000.0,
+            530000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            530000.0,
+            530000.0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          530000.0,
+          530000.0,
+          0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 530000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 59,
+      "project_name": "Loma Alta Lagoon Enhancement & Treatment Facility",
+      "management_dept": "Water Utility Loma Alta",
+      "description": "To remove sediment non-native vegetation in the Loma Lagoon and construct an ultra-violet light water treatment system t0 reduce bacteria.",
+      "type_of_project": "New Construction",
+      "operating_budget_impact": ":",
+      "funding_sources": [
+        {
+          "source": "St & Local Grant Fd",
+          "five_year_total": 2355000.0,
+          "fy06_07": 2355000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            2355000.0,
+            2355000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            52355000.0,
+            52355000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          52355000.0,
+          52355000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 2355000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 60,
+      "project_name": "Weese Plant Minor Improvements",
+      "management_dept": "PEMAA Water Utility",
+      "description": "COPHER CANYON Weese Water Filtration Piant improvement Feetnn projects as needed:",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 1250000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 250000.0,
+          "fy08_09": 250000.0,
+          "fy09_10": 250000.0,
+          "fy10_11": 250000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            1250000.0,
+            250000.0,
+            250000.0,
+            250000.0,
+            250000.0,
+            250000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            1250000.0,
+            250000.0,
+            250000.0,
+            5250000.0,
+            250000.0,
+            5250000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          1250000.0,
+          250000.0,
+          250000.0,
+          5250000.0,
+          250000.0,
+          5250000.0
+        ]
+      },
+      "five_year_total_funding": 1250000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 61,
+      "project_name": "Weese Technological Improvements",
+      "management_dept": "Water Utility SILVERLEAF",
+      "description": "GopheR Canyon 3eanlnas Weese Water Filtration Plant technology projects as needed. 0",
+      "type_of_project": "On-going maintenance",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 50259.0,
+          "fy06_07": 50259.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            50259.0,
+            50259.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            50259.0,
+            50259.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          50259.0,
+          50259.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 50259.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 62,
+      "project_name": "Weese Plant Capacity Expansion",
+      "management_dept": "Water Utility BILVERLEAF",
+      "description": "CopheR CANO4 To design and construct the 25 mgd expansion of CRehed the Weese Water Filtration Plant; 9 PAIAT",
+      "type_of_project": "Plant Expansion",
+      "operating_budget_impact": "Preliminary estimates of $456,665/year starting in 2008-09",
+      "funding_sources": [
+        {
+          "source": "Bond Proceeds/State Loan",
+          "five_year_total": 30730554.0,
+          "fy06_07": 20950277.0,
+          "fy07_08": 9780277.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            30730554.0,
+            20950277.0,
+            9780277.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            30730554.0,
+            20950277.0,
+            9780277.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          30730554.0,
+          20950277.0,
+          9780277.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 30730554.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 63,
+      "project_name": "Peacock Hills Regulator",
+      "management_dept": "Peacock Hiilg Regulator",
+      "description": "To replace existing pressure regulation station_",
+      "type_of_project": "Replacement",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 274035.0,
+          "fy06_07": 274035.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            274035.0,
+            274035.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            274035.0,
+            5274035.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          274035.0,
+          5274035.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 274035.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 64,
+      "project_name": "Mission Basin Desalter Minor Improvements",
+      "management_dept": "Water Utility 220",
+      "description": "Mission Basin Desalting Facility improvement projects as needed Mission Basin Groundwater Purlflcatlon Racillty",
+      "type_of_project": "Plant Improvernents",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 1250000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 250000.0,
+          "fy08_09": 250000.0,
+          "fy09_10": 250000.0,
+          "fy10_11": 250000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            1250000.0,
+            250000.0,
+            250000.0,
+            250000.0,
+            250000.0,
+            250000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            1250000.0,
+            5250000.0,
+            5250000.0,
+            5250000.0,
+            250000.0,
+            250000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          1250000.0,
+          5250000.0,
+          5250000.0,
+          5250000.0,
+          250000.0,
+          250000.0
+        ]
+      },
+      "five_year_total_funding": 1250000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 65,
+      "project_name": "Miscellaneous Water Projects",
+      "management_dept": "Water Utillity OEEAN:IE",
+      "description": "Miscellaneous water projects as needed.",
+      "type_of_project": "Various repair and maintenance projects",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 2600000.0,
+          "fy06_07": 1000000.0,
+          "fy07_08": 400000.0,
+          "fy08_09": 400000.0,
+          "fy09_10": 400000.0,
+          "fy10_11": 400000.0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            2600000.0,
+            1000000.0,
+            400000.0,
+            400000.0,
+            400000.0,
+            400000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            2600000.0,
+            1000000.0,
+            8400000.0,
+            400000.0,
+            5400000.0,
+            5400000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          2600000.0,
+          1000000.0,
+          8400000.0,
+          400000.0,
+          5400000.0,
+          5400000.0
+        ]
+      },
+      "five_year_total_funding": 2600000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 66,
+      "project_name": "San Luis Rey WWTP Reclaimed Water Expansion",
+      "management_dept": "Water Utility 235 470",
+      "description": "1o To plan, design and construct the expansion of the San Luis WWTP Reclaimed Water Facility project: Slubb Wastuta ueatuc8 Plalt",
+      "type_of_project": "Water expansion",
+      "operating_budget_impact": "Preliminary design will determine any additional operating and maintenance",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 5553000.0,
+          "fy06_07": 1953000.0,
+          "fy07_08": 3600000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            5553000.0,
+            1953000.0,
+            3600000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            5553000.0,
+            1953000.0,
+            83600000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          5553000.0,
+          1953000.0,
+          83600000.0
+        ]
+      },
+      "five_year_total_funding": 5553000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 67,
+      "project_name": "Oceanside_Desalter",
+      "management_dept": "Pipollne Water Utilities",
+      "description": "Aigelon To plan, design and construct a pilot Grounaha seawaterlgroundwater extraction facility. Purtcatlon Facllity Ocean Desalter swa",
+      "type_of_project": "Pilot Study",
+      "operating_budget_impact": "Preliminary design wiil determine",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 1100000.0,
+          "fy06_07": 500000.0,
+          "fy07_08": 600000.0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            1100000.0,
+            500000.0,
+            600000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            1100000.0,
+            5500.0,
+            600000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          1100000.0,
+          5500.0,
+          600000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 1100000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 68,
+      "project_name": "CollegelMesa Water Line",
+      "management_dept": "'College Water Utilities",
+      "description": "To construct a pipeline t0 serve a secondary feed t0 the Peacock Hills service area.",
+      "type_of_project": "Improvement",
+      "operating_budget_impact": "Preventative maintenance will be performed as scheduled and will not",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 4250000.0,
+          "fy06_07": 4250000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            4250000.0,
+            4250000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            4250000.0,
+            4250000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          4250000.0,
+          4250000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 4250000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 69,
+      "project_name": "Geographic Information System",
+      "management_dept": "OCEANSIVE Water Utility",
+      "description": "Annual allocation for GIS projects as needed.",
+      "type_of_project": ":",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 500000.0,
+          "fy06_07": 100000.0,
+          "fy07_08": 100000.0,
+          "fy08_09": 100000.0,
+          "fy09_10": 100000.0,
+          "fy10_11": 100000.0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 50000.0,
+          "fy06_07": 50000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            550000.0,
+            150000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            550000.0,
+            150000.0
+          ]
+        },
+        {
+          "label": "5",
+          "vals": [
+            100000.0,
+            100000.0,
+            0,
+            100000.0,
+            0,
+            100000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          550000.0,
+          150000.0
+        ]
+      },
+      "five_year_total_funding": 550000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 70,
+      "project_name": "Supervisory Control and Data Acquisition",
+      "management_dept": "@szAnsiVe Water Utility",
+      "description": "Computerized system control and monitoring projects as needed:",
+      "type_of_project": "Maintenance & Operations",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 500000.0,
+          "fy06_07": 100000.0,
+          "fy07_08": 100000.0,
+          "fy08_09": 100000.0,
+          "fy09_10": 100000.0,
+          "fy10_11": 100000.0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 50000.0,
+          "fy06_07": 50000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            550000.0,
+            150000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            550000.0,
+            450000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            100000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          550000.0,
+          450000.0,
+          100000.0,
+          100000.0,
+          100000.0,
+          100000.0
+        ]
+      },
+      "five_year_total_funding": 550000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 71,
+      "project_name": "Security Upgrades_",
+      "management_dept": "Water 9FEANjI';",
+      "description": "Security Systems upgrade projects as needed",
+      "type_of_project": "System Upgrade",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 500000.0,
+          "fy06_07": 100000.0,
+          "fy07_08": 100000.0,
+          "fy08_09": 100000.0,
+          "fy09_10": 100000.0,
+          "fy10_11": 100000.0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 100000.0,
+          "fy06_07": 100000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            600000.0,
+            200000.0,
+            100000.0,
+            100000.0,
+            100000.0,
+            100000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            600000.0,
+            200000.0,
+            400000.0,
+            100000.0,
+            100000.0,
+            100000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          600000.0,
+          200000.0,
+          400000.0,
+          100000.0,
+          100000.0,
+          100000.0
+        ]
+      },
+      "five_year_total_funding": 600000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 72,
+      "project_name": "Ocean Outfall",
+      "management_dept": "Water Utilities 140 ,280",
+      "description": "To analyze and plan the ocean outfall future capacity.",
+      "type_of_project": "Analysis and Planning",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 250000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        },
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 400000.0,
+          "fy06_07": 400000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            850000.0,
+            650000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            650000.0,
+            650000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          650000.0,
+          650000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 650000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 73,
+      "project_name": "Land Outfall",
+      "management_dept": "Water Utilities 1,9509,900",
+      "description": "Land Outfall To design and construct new land outfall:",
+      "type_of_project": "New Construction",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Water Fund",
+          "five_year_total": 8892500.0,
+          "fy06_07": 825000.0,
+          "fy07_08": 4033750.0,
+          "fy08_09": 4033750.0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Preliminary Engineering",
+          "vals": [
+            412500.0,
+            412500.0
+          ]
+        },
+        {
+          "label": "Construction",
+          "vals": [
+            8480000.0,
+            412500.0,
+            4033750.0,
+            4033750.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            8892500.0,
+            825000.0,
+            0,
+            4033.75,
+            4033750.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          8892500.0,
+          825000.0,
+          0,
+          4033.75,
+          4033750.0
+        ]
+      },
+      "five_year_total_funding": 8892500.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 74,
+      "project_name": "Oceanside Boulevard Sewer Lift Station",
+      "management_dept": "Oceanside Blvd Water Utilities",
+      "description": "8 To purchase property, design construct new lift station .",
+      "type_of_project": "Property acquisition and new construction",
+      "operating_budget_impact": "Preventative maintenance will be performed as scheduled and will not",
+      "funding_sources": [
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 190000.0,
+          "fy06_07": 190000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            190000.0,
+            190000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            190000.0,
+            8190000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          190000.0,
+          8190000.0
+        ]
+      },
+      "five_year_total_funding": 190000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 75,
+      "project_name": "Buena Vista Lift Station",
+      "management_dept": "Water Utilities HIGHWAY 78",
+      "description": "To construct a new expanded sewer lift station. VISTA Usma WAY",
+      "type_of_project": ":",
+      "operating_budget_impact": ":",
+      "funding_sources": [
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 1609446.0,
+          "fy06_07": 1609446.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            1609446.0,
+            1609446.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            1609446.0,
+            1609446.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          1609446.0,
+          1609446.0
+        ]
+      },
+      "five_year_total_funding": 1609446.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 76,
+      "project_name": "El Camino Real Detention Basin to 18 Inches",
+      "management_dept": "OCEANSIDE BOULEVARD Sprinter RR",
+      "description": "To design and construct an access road detention basin t0 facilitate operations and maintenance on existing sewer pipeline. 8 ECR Detention Basln t0 18 Inches OCEANEIQE BOULEVARDA",
+      "type_of_project": "New Construction",
+      "operating_budget_impact": "No Impact",
+      "funding_sources": [
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 624500.0,
+          "fy06_07": 624500.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            624500.0,
+            624500.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            624500.0,
+            624500.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          624500.0,
+          624500.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 624500.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 77,
+      "project_name": "San Luis WWTP Minor Improvements",
+      "management_dept": "Pladt Water Utilities",
+      "description": "San Luis WWTP improvement projects as 8 needed SeLubRey Wastawwata ieaten8",
+      "type_of_project": "Repairs and maintenance",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 250000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            250000.0,
+            250000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            250000.0,
+            250000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          250000.0,
+          250000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 250000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 78,
+      "project_name": "Lift Station Upgrades",
+      "management_dept": "Water Utilities Jseamsive",
+      "description": "Lift Station upgrade projects &s needed",
+      "type_of_project": "Upgrade",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 400000.0,
+          "fy06_07": 400000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            400000.0,
+            400000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            400000.0,
+            400000.0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          400000.0,
+          400000.0
+        ]
+      },
+      "five_year_total_funding": 400000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 79,
+      "project_name": "La Salina Minor Improvements",
+      "management_dept": "Water Utilities T40 280",
+      "description": "La Salina WWTP improvement projects as needed,",
+      "type_of_project": "Repairs and maintenance",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 250000.0,
+          "fy06_07": 250000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            250000.0,
+            250000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            250000.0,
+            250000.0,
+            0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          250000.0,
+          250000.0,
+          0,
+          0
+        ]
+      },
+      "five_year_total_funding": 250000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    },
+    {
+      "pdf_page": 80,
+      "project_name": "Miscellaneous Sewer Projects",
+      "management_dept": "Water Utilities 9e.nn;is",
+      "description": "Miscellaneous Sewer Projects as needed.",
+      "type_of_project": "On-going maintenance",
+      "operating_budget_impact": "No impact",
+      "funding_sources": [
+        {
+          "source": "Sewer Fund",
+          "five_year_total": 1000000.0,
+          "fy06_07": 1000000.0,
+          "fy07_08": 0,
+          "fy08_09": 0,
+          "fy09_10": 0,
+          "fy10_11": 0,
+          "ocr_quality_note": null
+        }
+      ],
+      "cost_breakdown": [
+        {
+          "label": "Construction",
+          "vals": [
+            1000000.0,
+            1000000.0
+          ]
+        },
+        {
+          "label": "Total Construction",
+          "vals": [
+            1000000.0,
+            1000000.0,
+            0
+          ]
+        }
+      ],
+      "total_construction": {
+        "label": "Total Construction",
+        "vals": [
+          1000000.0,
+          1000000.0,
+          0
+        ]
+      },
+      "five_year_total_funding": 1000000.0,
+      "likely_active_transportation": false,
+      "at_keywords_matched": []
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+
+
+<!DOCTYPE html>
+<!-- TemplateVersion="1302r" -->
+
+<html class="no-js" lang="en">
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="keywords" content="Council, Agenda/Minutes">
+<meta name="description" content="Council Agenda/Minutes">
+
+<script type="text/javascript">
+	if (document.all && !document.addEventListener) {
+		// IE8 or lower, riderect!
+		window.location.replace("/custom/browserSupport/default.asp");
+	}
+</script>
+
+<script src="/inc/public/js/jquery/v1.9.1/jquery-1.9.1.min.js" type="text/javascript"></script>
+<meta name="viewport" content="width=device-width" />
+
+<title>City of Oceanside, California - Council Agenda/Minutes</title>
+
+
+<link rel="stylesheet" type="text/css" href="/custom/filebank/common.css">
+<script TYPE="text/javascript" SRC="/inc/js/jquery/1.4.2/jquery.validate.min.js"></script>
+<!--script TYPE="text/javascript" SRC="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script-->
+
+<script type="text/javascript">
+
+jQuery.validator.addMethod(
+      "date",
+      function (value, element) {
+        var check = false;
+        var re = /^\d{1,2}\/\d{1,2}\/\d{4}$/;
+        if (re.test(value)) {
+          var adata = value.split('/');
+          var mm = parseInt(adata[0], 10);
+          var gg = parseInt(adata[1], 10);
+          var aaaa = parseInt(adata[2], 10);
+          var xdata = new Date(aaaa, mm - 1, gg);
+          if ((xdata.getFullYear() == aaaa) && (xdata.getMonth() == mm - 1) && (xdata.getDate() == gg))
+            check = true;
+          else
+            check = false;
+        } else
+          check = false;
+        return this.optional(element) || check;
+      },
+      "format: m/d/yyyy"
+);
+
+function ShowAgendas(coa, cos, wsa, wss, cla, cls, spa, sps) {
+  
+
+  $('div#agenda-display').load('/custom/filebank/aja-council.asp', { coa: coa, cos: cos, wsa: wsa, wss: wss, cla: cla, cls: cls, spa: spa, sps: sps, t:'?t=-3155784436' }, function () {
+  });
+
+
+
+  $('div#archive-search').load('/custom/filebank/aja-archive-search-form.asp', { t: (new Date()).getTime() }, function () {
+    $('#archiveSearch').validate({
+      debug: true,
+      rules: {},
+      submitHandler: function (form) {
+
+        var currentTime = new Date()
+        var ser = $(form).serialize() + '&t=' + currentTime.getTime();
+        //alert(ser);
+        showoverlay(800, 430, '/custom/filebank/archive-search-details.asp', ser);
+
+      }
+    });
+    $('#archiveSearch .checkbox').change(function (e) {
+      ArchiveChange(e);
+    });
+
+    $('#archiveSearch .date').change(function (e) {
+      ArchiveChange(e);
+    });
+
+  });
+
+  //return;
+
+  $('div#report-search').load('/custom/filebank/aja-staff-report-form.asp', { t: (new Date()).getTime() }, function () {
+    $('#staffReport').validate({
+      debug: true,
+      rules: {},
+      submitHandler: function (form) {
+
+        var currentTime = new Date()
+        var ser = $(form).serialize() + '&t=' + currentTime.getTime();
+        //alert(ser);
+        showoverlay(800, 430, '/custom/filebank/staff-search-details.asp', ser);
+
+      }
+    });
+
+  });
+
+
+
+}
+
+function ArchiveChange(e) {
+
+  $('#archiveSearch input[type=submit]').attr('disabled', 'disabled');
+
+  var ser = $('#archiveSearch').serialize() + '&t=' + (new Date()).getTime();
+  //alert('changed: ' + $(this).val() + '\n' + ser);
+
+  //$('div#dbg-msg').load('/custom/filebank/aja-archive-check.asp?' + ser);
+
+  $.post('/custom/filebank/aja-archive-check.asp?' + ser, function (data) {
+    //$('div#dbg-msg').html(data);
+    if (data == 'true') {
+      $('#archiveSearch input[type=submit]').removeAttr('disabled');
+    }
+    else {
+      $('#archiveSearch input[type=submit]').attr('disabled', 'disabled');
+    }
+  });
+
+}
+
+
+</script>
+
+
+<!-- Favicons -->
+<link rel="icon" href="https://records.ci.oceanside.ca.us/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://records.ci.oceanside.ca.us/favicon.ico" type="image/x-icon" />
+
+    
+<!--[if lt IE 9]>
+
+    
+
+<![endif]-->
+
+
+<!-- CSS (DEBUG) -->
+<link rel="stylesheet" href="/inc/public/css/foundation/normalize.css" />
+<link rel="stylesheet" href="/inc/public/css/foundation/foundation.css" />
+<link rel="stylesheet" href="/inc/public/js/civica/slideshows/nivo-slider/nivo-slider.css" />
+<link rel="stylesheet" href="/inc/public/js/civica/slideshows/nivo-slider/themes/default/default.css" />
+<link rel="stylesheet" href="/inc/public/js/galleria/themes/classic/galleria.classic.css" />
+<link rel="stylesheet" href="/inc/public/js/superfish/themes/superfish.css" />
+<link rel="stylesheet" href="/inc/js/jquery/jquery-ui-1.10.3.custom/css/jquery-ui-1.10.3.custom.min.css" />
+<link rel="stylesheet" href="/navdata/menu00.css" />
+<link rel="stylesheet" href="/inc/public/css/global.css" />
+<link rel="stylesheet" href="https://records.ci.oceanside.ca.us/inc/00/fonts.css" />
+<link rel="stylesheet" href="/inc/00/widgets.css" />
+<link rel="stylesheet" href="/inc/public/css/bookmarquee.css" />
+<link rel="stylesheet" href="/inc/00/base.css?ver=1.06" />
+<link rel="stylesheet" href="/inc/00/modules.css" />
+<link rel="stylesheet" href="/inc/00/megaMenus.css" />
+<link rel="stylesheet" href="/inc/00/481up.css" />
+<link rel="stylesheet" href="/inc/00/768up.css?ver=1.07" />
+<link rel="stylesheet" href="/inc/00/1030up.css" />
+<link rel="stylesheet" href="/inc/00/1280up.css?ver=1.04" />
+<link rel="stylesheet" href="/inc/00/spooky.css" />
+
+
+<!-- JS (DEBUG) -->
+<script src="/inc/public/js/modernizr/custom.modernizr.js"></script>
+
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+var iCurrFolderID = 937;
+var iNavFolderID = 937;
+</SCRIPT>
+
+
+</head>
+<body>
+
+<!-- start: Page Wrap -->
+<div id="page-wrap">
+
+
+
+    <!-- start: Header -->
+    <header id="page-header">
+
+        <div id="header-row" class="row">
+
+			
+					<div id="header-left" class="large-4 columns">
+				
+              <div id="city-logo"></div>
+              <div id="print-logo">
+                  <img class="invisible" src="/img/00/printlogo.png" />
+              </div>
+			  <div id="open-hours"></div>
+            </div>
+			
+					<div id="header-mid" class="large-4 columns">
+						
+				
+
+							<!--  -->
+								<div id="translate">
+									<!-- start: Google Translate -->
+										<div id="google_translate_element"></div>
+										<!-- <script type="text/javascript">
+											function googleTranslateElementInit() {
+												new google.translate.TranslateElement({
+													pageLanguage: 'en'
+												}, 'google_translate_element');
+											}
+										</script> -->
+										<!-- <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
+										<!-- end: Google Translate -->
+								</div>
+							   <!--  -->
+	          </div>
+							
+
+            <div id="header-right" class="large-4 columns">
+                
+                <div class="row collapse">
+
+                    <!-- start: Low Graphics Version -->
+                    <div class="large-12 columns">
+                        <ul class="head-links cf">
+                            <li>
+                              <div class="fontsize">
+                                
+                                </div>
+                            </li>
+                            
+                            
+
+                        </ul>
+                        <div id="header-social"></div>
+                                  
+                    </div>
+                    <!-- end: Low Graphics Version -->
+
+                </div>
+                <div class="ecoDevSearch row collapse">
+
+                    <!-- start: Site Search -->
+                    <div class="small-9 columns">
+                        
+                    </div>
+                    <div class="small-3 columns">
+                        
+                    </div>
+                    <!-- end: Site Search -->
+
+                </div>
+
+                
+            </div>
+        
+        </div>
+
+    </header>
+    <!-- end: Header -->
+    
+
+    
+    <!-- start: Navigation -->
+    <section id="top-nav">
+
+        <div class="row nav-row">
+
+            <div class="large-12 columns nav-inner">
+
+                <div id="dynamic-top-nav"></div>
+
+            </div>
+
+        </div>
+   
+    </section>
+    <!-- end: Navigation -->
+
+  
+
+<!-- start: Page Body -->
+<div id="page-body"><div id="big-bg-image"><div id="dynamic-bg-left" ><div id="dynamic-bg-left"></div></div><div id="dynamic-bg-right"></div></div><div id="content-row" class="content-row row">
+
+    <!-- start: Breadcrumbs -->
+    <section id="bcrumbs">
+
+        <div id="crumby-wrap" class="row">
+
+            <div class="large-9 columns">
+
+                <!-- start: Breadcrumbs List --><ul class="bcrumb-list"><li class="home"><a href="http://records.ci.oceanside.ca.us/default.asp">Home</a></li><li class="arr">&raquo;</li><li><a href="/gov/default.asp">Government</a></li><li class="arr">&raquo;</li><li><a href="/gov/council/default.asp">City Council</a></li><li class="arr">&raquo;</li><li class="current">Council Agenda/Minutes</li></ul><!-- end: Breadcrumbs List -->
+
+            </div>
+
+            <div class="large-3 columns system-btns-col">
+
+            
+
+                <!-- start: System Buttons -->
+                <ul class="system-btns-list">
+                    <li><a href="#" id="btn-email" class="small radius button system-button"><span>Email</span></a><ul class="system-menu"><li class="send-link"><a class="link-send-link" href="javascript:showoverlay('100%',600, '/custom/overlay/send-a-link.asp?u=http://records.ci.oceanside.ca.us/gov/council/agenda.asp&i=2032&t=');">Send a link</a></li><a title="Contact" href="https://oceansideca.seamlessdocs.com/f/ContactCityStaff" target="_blank">Email Us</a></ul></li><li><a href="javascript:window.print();" id="btn-print" class="small radius button system-button"><span>Print</span></a></li>
+                </ul>
+                <!-- end: System Buttons -->
+
+            </div>
+
+        </div>
+
+        
+
+    </section>
+    <!-- end: Breadcrumbs -->
+
+<div id="sidenav-col" class="large-3 columns">
+<!-- start: Side Navigation -->
+<div id="dynamic-side-nav-wrapper"><nav id="side-nav"><div id="dynamic-side-nav"></div></nav></div>
+<!-- end: Side Navigation -->
+
+<!-- start: Side Buttons -->
+<div id="dynamic-side-btns"></div>
+<!-- end: Side Buttons -->
+</div><div class="html-content large-9 columns">
+<!-- start: Page Content -->
+<section id="page-content"><div class="pgtitle"><h1 class="content-title">Council Agenda/Minutes</h1><div id="titlebar-image"></div></div><div class="edtdiv"><div id="pageHTML"><div id="pageHTML">
+<div class="jquery-placeholder" id="archive-search">
+<form style="display:inline; margin:0;" id="archiveSearch" name="archiveSearch" novalidate="novalidate">
+    <table class="table1" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+            <tr class="table1_header">
+                <td colspan="6">Archive Search</td>
+            </tr>
+            <tr class="table2a_header">
+                <td colspan="6">Commissions</td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb208" name="DocumentTypeID" value="208" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb208">Buena Vista Lagoon Commission Agendas</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb209" name="DocumentTypeID" value="209" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb209">Buena Vista Lagoon Commission Staff Reports</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb210" name="DocumentTypeID" value="210" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb210">Buena Vista Lagoon Commission Summary</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb43" name="DocumentTypeID" value="43" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb43">CDC Summary</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb193" name="DocumentTypeID" value="193" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb193">City Engineer Hearing Agenda</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb196" name="DocumentTypeID" value="196" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb196">City Engineer Hearing Public Hearing</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb194" name="DocumentTypeID" value="194" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb194">City Engineer Hearing Staff Report</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb195" name="DocumentTypeID" value="195" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb195">City Engineer Hearing Summary</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb38" name="DocumentTypeID" value="38" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb38">Closed Session Agenda</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb39" name="DocumentTypeID" value="39" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb39">Closed Session Summary</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb30" name="DocumentTypeID" value="30" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb30">Council Meeting Agenda</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb123" name="DocumentTypeID" value="123" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb123">Council Meeting Staff Report</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb31" name="DocumentTypeID" value="31" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb31">Council Meeting Summary</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb32" name="DocumentTypeID" value="32" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb32">Council Workshop Agenda</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb203" name="DocumentTypeID" value="203" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb203">Council Workshop Staff Report</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb33" name="DocumentTypeID" value="33" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb33">Council Workshop Summary</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb190" name="DocumentTypeID" value="190" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb190">Homelessness Ad Hoc Committee Agenda</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb191" name="DocumentTypeID" value="191" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb191">Homelessness Ad Hoc Committee Staff Report</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb192" name="DocumentTypeID" value="192" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb192">Homelessness Ad Hoc Committee Summary</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb172" name="DocumentTypeID" value="172" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb172">Investment Oversight Committee Minutes</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb173" name="DocumentTypeID" value="173" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb173">Investment Oversight Committee Staff Reports</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb178" name="DocumentTypeID" value="178" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb178">Measure X Citizen Oversight Committee Agenda</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb179" name="DocumentTypeID" value="179" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb179">Measure X Citizen Oversight Committee Minutes</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb180" name="DocumentTypeID" value="180" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb180">Measure X Citizen Oversight Committee Staff Reports</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb165" name="DocumentTypeID" value="165" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb165">Senior Standing Committee Agenda</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb166" name="DocumentTypeID" value="166" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb166">Senior Standing Committee Minutes</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb167" name="DocumentTypeID" value="167" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb167">Senior Standing Committee Staff Reports</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb34" name="DocumentTypeID" value="34" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb34">Special Meeting Agenda</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb35" name="DocumentTypeID" value="35" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb35">Special Meeting Summary</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb197" name="DocumentTypeID" value="197" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb197">UC Budget Agenda</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb198" name="DocumentTypeID" value="198" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb198">UC Budget Minutes</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb199" name="DocumentTypeID" value="199" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb199">UC Budget Staff Reports</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb200" name="DocumentTypeID" value="200" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb200">UC Solid Waste and Recycling Agenda</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb201" name="DocumentTypeID" value="201" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb201">UC Solid Waste and Recycling Minutes</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb202" name="DocumentTypeID" value="202" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb202">UC Solid Waste and Recycling Staff Reports</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb184" name="DocumentTypeID" value="184" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb184">UC Water/Sewer - Agenda</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb185" name="DocumentTypeID" value="185" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb185">UC Water/Sewer - Minutes</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb186" name="DocumentTypeID" value="186" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb186">UC Water/Sewer - Staff Reports</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb69" name="DocumentTypeID" value="69" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb69">Utilities Commission Agenda</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb116" name="DocumentTypeID" value="116" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb116">Utilities Commission Minutes</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb117" name="DocumentTypeID" value="117" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb117">Utilities Commission Staff Reports</label></td>
+                <td class="cb-input"><br />
+                </td>
+                <td class="cb-label"><br />
+                </td>
+            </tr>
+            <tr class="table2a_header">
+                <td colspan="6">Departments</td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb5" name="DocumentTypeID" value="5" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb5">City Attorney</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb6" name="DocumentTypeID" value="6" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb6">City Clerk</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb7" name="DocumentTypeID" value="7" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb7">City Manager</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb124" name="DocumentTypeID" value="124" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb124">City Treasurer</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb8" name="DocumentTypeID" value="8" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb8">Development Services</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb12" name="DocumentTypeID" value="12" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb12">Finance</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb11" name="DocumentTypeID" value="11" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb11">Fire Department</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb13" name="DocumentTypeID" value="13" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb13">Library Dept</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb14" name="DocumentTypeID" value="14" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb14">Mayor &amp; City Council</label></td>
+            </tr>
+            <tr class="table1_row1">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb9" name="DocumentTypeID" value="9" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb9">Neighborhood Services</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb15" name="DocumentTypeID" value="15" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb15">Personnel / HR</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb16" name="DocumentTypeID" value="16" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb16">Police Department</label></td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb17" name="DocumentTypeID" value="17" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb17">Public Works</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb125" name="DocumentTypeID" value="125" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb125">Water Utilities</label></td>
+                <td class="cb-input"><br />
+                </td>
+                <td class="cb-label"><br />
+                </td>
+            </tr>
+            <tr class="table2a_header">
+                <td colspan="6">Project</td>
+            </tr>
+            <tr class="table1_row0">
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb170" name="DocumentTypeID" value="170" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb170">Local Coastal Program Update</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb162" name="DocumentTypeID" value="162" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb162">Mission Avenue Improvements</label></td>
+                <td class="cb-input"><input type="checkbox" class="checkbox" id="cb171" name="DocumentTypeID" value="171" onsubmit="return false;" /></td>
+                <td class="cb-label"><label class="search" for="cb171">North River Farms</label></td>
+            </tr>
+            <tr style="background: #CFECFE;">
+                <td colspan="6">
+                <table style="width:100%; margin: 2 0 1 0; background: #CFECFE;" cellpadding="0" cellspacing="0" border="0">
+                    <tbody>
+                        <tr>
+                            <td class="date-label" style="padding-left:0;">Start Date</td>
+                            <td class="date-input"><input class="date" name="StartDate" id="StartDate" type="text" size="10" /></td>
+                            <td class="date-label">End Date</td>
+                            <td class="date-input" style="padding-right:0;"><input class="date" name="EndDate" id="EndDate" type="text" size="10" /></td>
+                        </tr>
+                    </tbody>
+                </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6" align="center"><input name="Search" type="submit" value="Search" /></td>
+            </tr>
+        </tbody>
+    </table>
+    <input type="hidden" name="CatIds" value="208,209,210,43,193,196,194,195,38,39,30,123,31,32,203,33,190,191,192,172,173,178,179,180,165,166,167,34,35,197,198,199,200,201,202,184,185,186,69,116,117,-1,5,6,7,124,8,12,11,13,14,9,15,16,17,125,-1,170,162,171" />
+</form>
+</div>
+<div class="jquery-placeholder" id="report-search">
+<form style="display:inline; margin:0;" id="staffReport" name="staffReport" novalidate="novalidate">
+    <table class="table1" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+            <tr class="table1_header">
+                <td colspan="6">Staff Report Search</td>
+            </tr>
+            <tr>
+                <td class="date-label">Item #</td>
+                <td class="date-input"><input class="text" name="item" type="text" size="7" /></td>
+                <td class="date-label">Title</td>
+                <td class="date-input"><input class="text" name="title" type="text" size="25" /></td>
+            </tr>
+            <tr>
+                <td class="date-label">Department</td>
+                <td colspan="3" class="dept-input"><select class="text" id="SubCategoryID" name="SubCategoryID">
+                <option value="0"></option>
+                <option value="143">ARC</option>
+                <option value="77">Arts Commission</option>
+                <option value="209">Buena Vista Lagoon Commission</option>
+                <option value="194">City Engineer Hearing</option>
+                <option value="123">Council Meeting</option>
+                <option value="152">Council Study Session</option>
+                <option value="203">Council Workshop</option>
+                <option value="140">Developer's Conference</option>
+                <option value="155">Downtown Advisory Committee</option>
+                <option value="82">Economic Development Commission</option>
+                <option value="161">El Corazon Standing Committee</option>
+                <option value="84">Harbor and Beaches Advisory Committee</option>
+                <option value="86">Historic Preservation Advisory Commission</option>
+                <option value="191">Homelessness Ad Hoc Committee</option>
+                <option value="88">Housing Commission</option>
+                <option value="90">Integrated Waste Commission</option>
+                <option value="173">Investment Oversight Committee</option>
+                <option value="92">Library Board of Trustees</option>
+                <option value="93">Manufactured Home Fair Practices Comm</option>
+                <option value="180">Measure X Citizen Oversight Committee</option>
+                <option value="80">Oceanside Building Authority</option>
+                <option value="94">Oceanside Mobile Home Park Financing Auth</option>
+                <option value="157">Oversight Board</option>
+                <option value="96">Parks and Recreation Commission</option>
+                <option value="98">Planning Commission</option>
+                <option value="138">Planning Commission Workshop</option>
+                <option value="100">Police and Fire Commission</option>
+                <option value="146">PSRC</option>
+                <option value="104">Redevelopment Advisory Committee</option>
+                <option value="108">Rehabilitation Loan Review Committee</option>
+                <option value="135">Rehabilitation Loan Review Committee</option>
+                <option value="110">Relocation Appeals Board</option>
+                <option value="167">Senior Standing Committee</option>
+                <option value="149">Special Meeting</option>
+                <option value="199">UC Budget</option>
+                <option value="202">UC Solid Waste and Recycling</option>
+                <option value="186">UC Water/Sewer -</option>
+                <option value="117">Utilities Commission</option>
+                </select></td>
+            </tr>
+            <tr>
+                <td class="date-label">Start Date</td>
+                <td class="date-input"><input class="date" name="StartDate" id="StartDate" type="text" size="10" /></td>
+                <td class="date-label">End Date</td>
+                <td class="date-input"><input class="date" name="EndDate" id="EndDate" type="text" size="10" /></td>
+            </tr>
+            <tr>
+                <td colspan="4" align="center"><input name="Search" type="submit" value="Search" /></td>
+            </tr>
+        </tbody>
+    </table>
+</form>
+</div>
+</div></div></div></section>
+<!-- end: Page Content -->
+</div></div></div>
+<!-- end: Page Body -->
+
+
+<!-- start: Footer -->
+<footer id="page-footer">
+    <div class="row fader">
+            <div class="small-12 large-3 columns">
+                <span class="shim"></span>
+                <div class="row">
+                           
+                </div>
+        </div>
+
+        <div class="small-12 large-3 columns footer-links-r">
+            <span class="shim"></span>  
+        <nav>
+      </nav>
+        </div>
+
+        <div class="small-12 large-3 columns footer-links-l">
+            <span class="shim"></span>
+           
+        </div>
+
+
+        <div class="small-12 large-3 columns">
+           <div id="PageContacts"><table border="0" cellspacing="0" cellpadding="0"><tr class="footer-image"><td class="photo"><img src="/civicax/inc/blobfetch.aspx?BlobID=38458"></td></tr><tr><td><p class="footer-title"><a href="javascript:showoverlay(1200,800,'https://oceansideca.seamlessdocs.com/f/ContactCityStaff','m=22&amp;u=http://records.ci.oceanside.ca.us/gov/council/agenda.asp
+													&amp;i=7');">Email Us</a></p><p>300 North Coast Hwy<br>Oceanside, CA 92054<br>T. (760) 435-4500<br><p><br data-mce-bogus="1"></p><br></p></td></tr></table></div>
+        </div>
+
+    </div>
+
+
+
+</footer>
+<!-- end: Footer -->
+
+<!-- start: Copyright -->
+<div id="copyright-span">
+
+    <div class="row">
+
+        <div class="large-12 columns">
+
+            <a id="civica-foot-logo" href="http://www.civicasoft.com/" target="_blank">
+              <img src="/img/00/Civica_Granicus_logo_vertical.svg" title="Powered by Civica Software" alt="Civica Software a Granicus Company" /></a>
+
+        </div>
+
+    </div>
+
+</div>
+<!-- end: Copyright -->
+
+<form class="hidden" name="frmPrintable" id="frmPrintable" action="/gov/council/agenda.asp" method="post" target="_blank"><input type="hidden" name="prnt" value="y" /></form><form class="hidden" name="frmGrpxVer" id="frmGrpxVer" action="/gov/council/agenda.asp" method="post"><input type="hidden" name="grpxver" value="lo" /></form><form class="hidden" name="wfpost" method=post target="_new" action=""></form><div id="cvOvrlyShim" style="display:none;position:absolute;"></div><div id="cvOvrlyWrapper" style="display:none;position:absolute;"><div id="cvOvrlyContainer"><table id="cvOvrlyTable" cellpadding="0" cellspacing ="0" border="0"><tr><iframe id="cvOvrlyIFrame" width="100%" height="500px" frameborder="0" src="" scrolling="auto" ></iframe></tr></table></div></div>
+
+<div id="modal-pollution"></div>
+
+
+
+</div>
+<!-- end: Page Wrap -->
+
+
+
+<!-- JS (DEBUG) -->
+<!-- Default Browser 1.0--><script type="text/javascript"><!--function cvfb_DisplayWarning( blobID ){if( confirm('FYI: This file is from an External Source. Are you sure you want to view it?') ){civicapopupwin('/civicax/filebank/blobdload.aspx?BlobID='+blobID,'fbdisplay','');}}// --></script>
+<script src="/inc/public/js/civica/modules/filebank.js"></script>
+<script src="/inc/public/js/civica/iconliscroll/iconliscroll.js"></script>
+<script src="/inc/public/js/civica/clock/jquery.clock.js"></script>
+<script src="/inc/public/js/civica/widgets/display.js"></script>
+<script>var responsive_viewport = $(window).width();
+$(window).resize(function () { responsive_viewport = $(window).width(); });</script>
+<script src="/inc/public/js/foundation/foundation_all.js"></script>
+<script>$(document).foundation('tooltips', { 'disable-for-touch': true });</script>
+<script src="/inc/public/js/jquery/jquery.tools.min.js"></script>
+<script src="/inc/public/js/jquery/jquery.scrollTo-min.js"></script>
+<script src="/inc/public/js/moment/moment.js"></script>
+<script src="/inc/public/js/formval/FormVal.js"></script>
+<script src="/inc/public/js/jquery/jquery.marquee.min.js"></script>
+<script src="/inc/public/js/jquery/jquery.nospam.js"></script>
+<script src="/inc/public/js/superfish/superfish.js"></script>
+<script src="/inc/public/js/jquery/jquery.nivo.slider.min.js"></script>
+<script src="/inc/public/js/galleria/galleria-1.2.9.min.js"></script>
+<script src="/inc/public/js/jquery/jquery.hoverIntent.min.js"></script>
+<script src="/inc/js/jquery/1.4.2/jquery.cvcalendar3.js"></script>
+<script src="/inc/js/jquery/1.4.2/jquery.cvcalendar3b.js"></script>
+<script src="/civica/calendar/inc/calendar-3.js"></script>
+<script src="/custom/overlay/contact-us.js"></script>
+<script src="/inc/js/jquery/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.min.js"></script>
+<script src="/inc/public/js/civica/dynamic.js"></script>
+<script src="https://records.ci.oceanside.ca.us//inc/public/js/civica/civica.js"></script>
+<script src="/navdata/mainnav.js"></script>
+<script src="/navdata/937json.js"></script>
+<script type="text/javascript">
+var cvPageID = 2032;
+var ciLastButton = 9;
+var sLayoutPath = '/img/00';
+var iLayoutStyle = '00 ';
+var grpxver = 'hi';
+var cvMediaFQD = 'https://records.ci.oceanside.ca.us/';
+</script>
+<script src="https://records.ci.oceanside.ca.us//custom/extranet/extranetAllPages.js"></script>
+<script src="/inc/public/js/civica/calendar/cvwidgetcalendar.js"></script>
+<script src="/inc/public/js/civica/navigation/Civica_NavigationFactory.js"></script>
+<script src="/inc/public/js/civica/slideshows/orbit/Civica_Orbit.js"></script>
+<script src="/inc/public/js/civica/slideshows/nivo-slider/Civica_NivoSlider.js"></script>
+<script src="/inc/public/js/civica/slideshows/galleria/Civica_Galleria.js"></script>
+<script src="/inc/public/js/civica/media/button/Civica_MediaButtonGen.js"></script>
+<script src="/inc/public/js/civica/modal/Civica_Modal.js"></script>
+<script src="/inc/public/js/responsive-tables.js"></script>
+<script type="text/javascript" src="/inc/js/jquery/plugins/jquery.bxslider.js"></script>
+<script type="text/javascript" src="/inc/js/jquery/plugins/jquery.easing.1.3.js"></script>
+<script src="/inc/public/js/site.js?ver=1.1"></script>
+<script src="/civica/js/common.js"></script>
+<script src="/custom/overlay/overlay.js"></script>
+<script type="text/javascript">
+if (typeof addthis_config !== "undefined") {
+addthis_config.data_track_addressbar = false
+} else {
+var addthis_config = {
+data_track_addressbar: false
+};
+}
+</script>
+
+<script type="text/javascript">
+jQuery(document).ready(function()
+{
+Civica_MediaButtonGen.init({ mmID: 167, showText: 0, showSubText:0, count: 1, mediaDispType: 'css-bg' }).create('#city-logo');
+$.get('/civica/DynaCon/sb/inc/refreshmenus.asp?t=-3155784436', function(data){if(data!=''){alert(data);}});
+Civica_MediaButtonGen.init({ mmID: 168, showText: 0, showSubText: 0, count:1, appendMarkup:'<div id="lbg-overlay"></div>', mediaDispType: 'img' }).create('#dynamic-bg-left');
+Civica_MediaButtonGen.init({ mmID: 169, showText: 0, showSubText: 0, count:1, appendMarkup:'<div id="rbg-overlay"></div>', mediaDispType: 'img' }).create('#dynamic-bg-right');
+Civica_NavigationFactory.init(cvSideNav).create('#dynamic-side-nav', 'side-left');
+Civica_MediaButtonGen.init({ mmID: 171, count: 4, mediaDispType:'css-bg', showText:1, showSubText:0  }).create('#dynamic-side-btns');
+Civica_MediaButtonGen.init({ mmID: 170, showText: 0, showSubText: 0, count: 1, appendMarkup:'<div id="tb-overlay"></div>', mediaDispType: 'css-bg' }).create('#titlebar-image');
+ShowAgendas(78,79,1338,1338,1345,1345,1343,1343);
+$('a.email_replace').nospam({replaceText: false, filterLevel: 'normal'});
+trapExternalLinks();
+});
+</script>
+<form style="display:inline; margin:0px;" class="calendar3b_form" action='/cals/' method=POST><input type="hidden" name=calDate value='4/17/2026'><input type="hidden" name=ViewBy value='0'></form>
+</body>
+</html>

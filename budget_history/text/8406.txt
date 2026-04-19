@@ -1,0 +1,956 @@
+ 
+ 
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+SINGLE AUDIT REPORT 
+ 
+JUNE 30, 2010 
+ 
+203 North Brea Blvd
+Suite 203
+Brea, CA  92821
+Lance Soll & Lunghard, LLP 
+41185 Golden Gate Circle
+Suite 103
+Murrieta, CA  92562
+
+
+ 
+ 
+ 
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+SINGLE AUDIT REPORT 
+ 
+JUNE 30, 2010
+
+
+ 
+ 
+ 
+ 
+CITY OF OCEANSIDE 
+ 
+JUNE 30, 2010 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+Page 
+ 
+Number 
+ 
+Report on Internal Control Over Financial Reporting and on Compliance  
+and Other Matters Based on an Audit of Financial Statements Performed  
+in Accordance with Government Auditing Standards ...................................................................... 1 
+ 
+Independent Auditor’s Report on Compliance with Requirements That Could  
+Have a Direct and Material Effect on Each Major Program, on Internal  
+Control Over Compliance, and on the Schedule of Expenditures of Federal  
+Awards in Accordance with OMB Circular A-133 ................................................................................ 3 
+ 
+Schedule of Expenditures of Federal Awards for the 
+Fiscal Year Ended June 30, 2010 ........................................................................................................ 5 
+ 
+Notes to the Schedule of Expenditures of Federal Awards .................................................................... 7 
+ 
+Schedule of Findings and Questioned Costs for the 
+Fiscal Year Ended June 30, 2010 ........................................................................................................ 8 
+ 
+Schedule of Prior Year Findings and Questioned Costs for the 
+Fiscal Year Ended June 30, 2009 ...................................................................................................... 12 
+ 
+ 
+ 
+
+
+REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+ AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT 
+ OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE 
+ WITH GOVERNMENT AUDITING STANDARDS
+To the Honorable Mayor and Members of the City Council
+City of Oceanside, California 
+We have audited the financial statements of the governmental activities, the business-type activities, each 
+major fund, and the aggregate remaining fund information of the City of Oceanside, California, (the City) 
+as of and for the year ended June 30, 2010 which collectively comprise the City’s basic financial 
+statements and have issued our report thereon dated March 1, 2011. We conducted our audit in 
+accordance with auditing standards generally accepted in the United States of America and the standards 
+applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller 
+General of the United States. 
+Internal Control Over Financial Reporting 
+In planning and performing our audit, we considered the City’s internal control over financial reporting as 
+a basis for designing our auditing procedures for the purpose of expressing our opinions on the financial 
+statements, but not for the purpose of expressing an opinion on the effectiveness of the City’s internal 
+control over financial reporting. Accordingly, we do not express an opinion on the effectiveness of the 
+City’s internal control over financial reporting.
+Our consideration of internal control over financial reporting was for the limited purpose described in the 
+preceding paragraph and was not designed to identify all deficiencies in internal control over financial 
+reporting that might be deficiencies, significant deficiencies or material weaknesses. However, as 
+discussed below, we identified certain deficiencies in internal control that we consider to be material 
+weaknesses and other deficiencies that we consider to be significant deficiencies.
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent or 
+detect misstatements on a timely basis. A material weakness is a deficiency, or combination of 
+deficiencies, in internal control such that there is a reasonable possibility that a material misstatement of 
+the City’s financial statements will not be prevented, or detected and corrected on a timely basis. We 
+consider the deficiencies described in the accompanying schedule of findings and questioned costs as 
+finding 2010-1 and 2010-2 to be material weaknesses in internal control.  
+A significant deficiency is a deficiency, or combination of deficiencies, in internal control that is less 
+severe than a material weakness, yet important enough to merit attention by those charged with 
+governance. We consider the deficiencies described in the accompanying schedule of findings and 
+questioned costs as finding 2010-3 and 2010-4 to be significant deficiencies in internal control.  
+Brandon W. Burrows, CPA
+David E. Hale, CPA, CFP
+    A Professional Corporation
+Donald G. Slater, CPA
+Richard K. Kikuchi, CPA
+Susan F. Matz, CPA
+Shelly K. Jackley, CPA
+Bryan S. Gruber, CPA
+Lance, Soll & Lunghard, LLP    203 North Brea Boulevard    Suite 203    Brea, CA 92821    TEL: 714.672.0022    Fax: 714.672.0331    www.lslcpas.com
+                41185 Golden Gate Circle    Suite 103    Murrieta, CA 92562    TEL: 951.304.2728    Fax: 951.304.3940
+
+
+To the Honorable Mayor and Members of the City Council
+City of Oceanside, California 
+Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether the City’s financial statements are free of 
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, 
+contracts, and grant agreements, noncompliance with which could have a direct and material effect on 
+the determination of financial statement amounts. However, providing an opinion on compliance with 
+those provisions was not an objective of our audit, and accordingly, we do not express such an opinion. 
+The results of our tests disclosed the following instances of noncompliance or other matters that are 
+required to be reported under Government Auditing Standards. 
+This report is intended solely for the information and use of management, the audit committee, the City 
+Council, federal awarding agencies and pass-through entities, and is not intended to be and should not 
+be used by anyone other than these specified parties. 
+March 1, 2011 
+2
+
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE WITH REQUIREMENTS THAT 
+COULD HAVE A DIRECT AND MATERIAL EFFECT ON EACH MAJOR PROGRAM, ON INTERNAL 
+CONTROL OVER COMPLIANCE, AND ON THE SCHEDULE OF EXPENDITURES OF FEDERAL 
+AWARDS IN ACCORDANCE WITH OMB CIRCULAR A-133 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California 
+Compliance 
+We have audited the compliance of the City of Oceanside (the “City”) with the types of compliance 
+requirements described in the OMB Circular A-133 Compliance Supplement that could have a direct and 
+material effect on each of its major federal programs for the year ended June 30, 2010. The City’s major 
+federal programs are identified in the summary of auditor’s results section of the accompanying schedule 
+of findings and questioned costs. Compliance with the requirements of laws, regulations, contracts, and 
+grants applicable to each of its major federal programs is the responsibility of the City’s management. Our 
+responsibility is to express an opinion on the City’s compliance based on our audit. 
+We conducted our audit of compliance in accordance with auditing standards generally accepted in the 
+United States of America; the standards applicable to financial audits contained in Government Auditing 
+Standards, issued by the Comptroller General of the United States; and OMB Circular A-133, Audits of 
+States, Local Governments, and Non-Profit Organizations. Those standards and OMB Circular A-133 
+require that we plan and perform the audit to obtain reasonable assurance about whether noncompliance 
+with the types of compliance requirements referred to above that could have a direct and material effect 
+on a major federal program occurred. An audit includes examining, on a test basis, evidence about the 
+City’s compliance with those requirements and performing such other procedures as we considered 
+necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+Our audit does not provide a legal determination of the City’s compliance with those requirements.  
+In our opinion, the City complied, in all material respects, with the compliance requirements referred to 
+above that could have a direct and material effect on each of its major federal programs for the year 
+ended June 30, 2010.
+However, the results of our auditing procedures disclosed instances of 
+noncompliance with those requirements, which are required to be reported in accordance with OMB 
+Circular A-133 and which are described in the accompanying schedule of findings and questioned costs 
+as items 2010-5 through 2010-8. 
+Internal Control Over Compliance 
+Management of the City is responsible for establishing and maintaining effective internal control over 
+compliance with the requirements of laws, regulations, contracts, and grants applicable to federal 
+programs. In planning and performing our audit, we considered the City’s internal control over compliance 
+with the requirements that could have a direct and material effect on a major federal program to 
+determine the auditing procedures for the purpose of expressing our opinion on compliance and to test 
+and report on internal control over compliance in accordance with OMB Circular A-133, but not for the 
+purpose of expressing an opinion on the effectiveness of internal control over compliance. Accordingly, 
+we do not express an opinion on the effectiveness of the City’s internal control over compliance. 
+Brandon W. Burrows, CPA
+David E. Hale, CPA, CFP
+    A Professional Corporation
+Donald G. Slater, CPA
+Richard K. Kikuchi, CPA
+Susan F. Matz, CPA
+Shelly K. Jackley, CPA
+Bryan S. Gruber, CPA
+Lance, Soll & Lunghard, LLP    203 North Brea Boulevard    Suite 203    Brea, CA 92821    TEL: 714.672.0022    Fax: 714.672.0331    www.lslcpas.com
+                41185 Golden Gate Circle    Suite 103    Murrieta, CA 92562    TEL: 951.304.2728    Fax: 951.304.3940
+
+
+ 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis. A material weakness in internal control over compliance is a 
+deficiency, or combination of deficiencies in internal control over compliance, such that there is a 
+reasonable possibility that material noncompliance with a type of compliance requirement of a federal 
+program will not be prevented, or detected and corrected, on timely basis.  
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the 
+preceding paragraph and would not necessarily identify all deficiencies in the entity’s internal control over 
+compliance that might be deficiencies, significant deficiencies or material weaknesses. We did not identify 
+any deficiencies in internal control over compliance that we consider to be material weaknesses, as 
+defined above. However, we identified certain deficiencies in internal control over compliance that we 
+consider to be significant deficiencies as described in the accompanying schedule of findings and 
+questioned costs as items 2010-5 through 2010-8. A significant deficiency in internal control over 
+compliance is a deficiency, or combination of deficiencies, in internal control over compliance with a type 
+of compliance requirement of a federal program that is less severe than a material weakness in internal 
+control over compliance, yet important enough to merit attention by those charged with governance.  
+ 
+The City’s responses to the findings identified in our audit are described in the accompanying schedule of 
+findings and questioned costs. We did not audit the City’s responses and, accordingly, express no opinion 
+on them.  
+ 
+Schedule of Expenditures of Federal Awards 
+ 
+We have audited the basic financial statements of the City as of and for the year ended June 30, 2010, 
+and have issued our report thereon dated March 1, 2011, which contained an unqualified opinion on 
+those financial statements. Our audit was performed for the purpose of forming an opinion of the basic 
+financial statements taken as a whole. The accompanying schedule of expenditures of federal awards is 
+presented for purposes of additional analysis as required by OMB Circular A-133 and is not a required 
+part of the basic financial statements. Such information is the responsibility of management and was 
+derived from and relates directly to the underlying accounting and other records used to prepare the 
+financial statements. The information has been subjected to the auditing procedures applied in the audit 
+of the basic financial statements and certain additional procedures, including comparing and reconciling 
+such information directly to the underlying accounting and other records used to prepare the financial 
+statements or to the financial statements themselves, and other additional procedures in accordance with 
+auditing standards generally accepted in the United States of America.  In our opinion, the information is 
+fairly stated in all material respects in relation to the financial statements taken as a whole. 
+ 
+This report is intended solely for the information of the City Council, management, federal awarding 
+agencies and pass-through entities and is not intended to be, and should not be, used by anyone other 
+than these specified parties. 
+ 
+ 
+ 
+March 24, 2011 
+4
+
+
+CITY OF OCEANSIDE
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2010
+Federal
+Pass-Through
+CFDA
+Grantor's
+Federal Grantor/Pass-Through Grantor/Program Title
+Number
+Number
+Expenditures
+U.S. Department of Housing and Urban Development
+Direct Programs:
+Community Development Block Grant*
+14.218
+B09-MC-06-0547
+1,888,908
+$
+ARRA - Community Development Block Grant *
+(Recovery Act Funded)
+14.253
+B09-MY-06-0547
+129,842
+         
+Total Community Development Block Grant Cluster
+2,018,750
+Supportive Housing Program
+14.235
+CA0714B9D100801
+94,277
+           
+CA0714B9D100802
+53,413
+           
+147,690
+         
+Home Investment Partnerships Program *
+14.239
+MC00-MC-06-0523
+1,205,609
+MC01-MC-06-0523
+15,580
+           
+MC06-MC-06-0523
+222,772
+         
+MC07-MC-06-0523
+41,300
+           
+MC08-MC-06-0523
+25,000
+           
+MC09-MC-06-0523
+91,846
+           
+1,602,107
+Economic Development Initiative - Special Project,
+Neighborhood Initiative and Misc. Grants
+14.251
+B-02-SP-CA-0089
+88,333
+           
+ARRA - Homelessness Prevention and Rapid Re-
+Housing Program (Recovery Act Funded)
+14.257
+S09-MY-06-0547
+152,743
+         
+Section 8 Housing Choice Vouchers *
+14.871
+CA132VO
+14,791,232
+Passed through the State of California, 
+Department of Housing and Community Development:
+Community Development Block Grants/State's Program
+and Non-Entitlement Grants in Hawaii *
+14.228
+09-NSPI-6106
+980,411
+         
+     Total U.S. Department of Housing
+       and Urban Development
+19,781,266
+U.S. Department of Justice
+Passed through the County of San Diego,
+Sheriff's Department:
+San Diego County Integrated Narcotics Task Force
+16.UNKNOWN
+N/A
+27,412
+Services for Trafficking Victims
+16.320
+517470
+20,905
+           
+Direct Programs:
+Part E-Developing, Testing and Demonstrative
+Promising New Programs
+16.541
+2009-JL-FX-0109
+154,977
+Edward Byrne Memorial Justice Assistance Grant
+16.738
+2007-DJ-BX-0201
+26,606
+2008-DJ-BX-0604
+35,361
+2009-DJ-BX-0247
+48,149
+110,116
+         
+ARRA - Edward Byrne Memorial Justice Assistance 
+Grant (Recovery Act Funded)
+16.804
+2008-SB-B9-0784
+103,262
+         
+     Total U.S. Department of Justice
+416,672
+5
+
+
+CONTINUED
+CITY OF OCEANSIDE
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2010
+Federal
+Pass-Through
+CFDA
+Grantor's
+Federal Grantor/Pass-Through Grantor/Program Title
+Number
+Number
+Expenditures
+U.S. Department of Transportation
+Passed through the State of California,
+Department of Transportation, Highway Planning:
+Recreational Trails Program
+20.219
+BTA0910-11SD-01
+342,026
+         
+Passed through SANDAG:
+New Freedom Program
+20.521
+5000961
+1,305
+             
+State and Highway Community Highway Safety
+20.600
+CT09291
+7,984
+             
+CT10291
+10,607
+           
+AL0939
+14,390
+           
+AL0917
+120,553
+         
+AL1070
+187,867
+         
+341,401
+         
+     Total U.S. Department of Transportation
+684,732
+U.S. Department of Treasury
+Passed through the County of San Diego:
+Operation Gang Buster
+21.UNKNOWN
+110SD1857
+3,260
+     Total U.S. Department of Treasury
+3,260
+U.S. National Endowment for the Arts
+Direct Program:
+ARRA - Promotion of the Arts - Grants to Organizations
+and Individuals (Recovery Act Funded)
+45.024
+52859
+22,319
+     Total U.S. National Endowment for the Arts
+22,319
+U.S. Environmental Protection Agency
+Direct Program:
+Congressionally Mandated Projects
+66.202
+XP-97965601-3
+238,500
+     Total U.S. Environmental Protection Agency
+238,500
+U.S. Department of Energy
+Direct Program:
+ARRA - Energy Efficiency and Conservation
+Block Grant Program (Recovery Act Funded)
+81.128
+DE-SC0001736
+231,044
+     Total U.S. Department of Energy
+231,044
+U.S. Department of Homeland Security
+Passed through the County of San Diego:
+Homeland Security Grant Program
+97.067
+073-00000
+27,854
+State Homeland Security Program (SHSP)
+97.073
+073-00000
+82,888
+     Total U.S. Department of Homeland Security
+110,742
+     Total Federal Expenditures
+21,488,535
+$
+* Major Program
+Note a: Refer to Note 1 to the schedule of expenditures of federal awards for a description of 
+significant accounting policies used in preparing this schedule.
+Note b: There was no federal awards expended in the form of noncash assistance and insurance in effect
+during the year.
+Note c: Refer to Note 2 to the schedule of expenditures of federal awards for payments made to 
+subrecipients during the year.
+6
+
+
+CITY OF OCEANSIDE 
+ 
+NOTES TO THE SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+ 
+Note 1: 
+Summary of Significant Accounting Policies Applicable to the Schedule of Expenditures of 
+Federal Awards 
+ 
+a. Scope of Presentation 
+ 
+The accompanying schedule presents only the expenditures incurred by the City of 
+Oceanside, California, that are reimbursable under federal programs of federal financial 
+assistance. For the purposes of this schedule, federal awards include both federal financial 
+assistance received directly from a federal agency, as well as federal funds received 
+indirectly by the City from a non-federal agency or other organization. Only the portion of 
+program expenditures reimbursable with such federal funds is reported in the accompanying 
+schedule. Program expenditures in excess of the maximum federal reimbursement 
+authorized or the portion of the program expenditures that were funded with state, local or 
+other non-federal funds are excluded from the accompanying schedule. 
+ 
+b. Basis of Accounting 
+ 
+The expenditures included in the accompanying schedule were reported on the modified 
+accrual basis of accounting. Under the modified accrual basis of accounting, expenditures 
+are incurred when the City becomes obligated for payment as a result of the receipt of the 
+related goods and services. Expenditures reported included any property or equipment 
+acquisitions incurred under the federal program. 
+ 
+Note 2: 
+Payments to Subrecipients 
+ 
+For the year ended June 30, 2010, payments to subrecipients consisted of the following: 
+ 
+CFDA #
+Program Name
+Amount
+14.218
+Community Development Block Grant
+339,277
+$          
+14.228
+Community Development Block Grants/State's Program
+930,411
+            
+14.235
+Supportive Housing Program
+140,710
+            
+14.253
+ARRA - Community Development Block Grant 
+(Recovery Act Funded)
+72,870
+              
+14.239
+Home Investment Partnerships Program
+1,468,386
+         
+Total
+2,951,654
+$       
+ 
+Note 3: 
+Loans Outstanding 
+ 
+For the year ended June 30, 2010, loans outstanding consisted of the following: 
+ 
+ 
+CFDA #
+Program Name
+Amount
+14.228
+Community Development Block Grants/State's Program
+866,871
+$          
+14.239
+Home Investment Partnerships Program
+206,100
+            
+Total
+1,072,971
+$       
+7
+
+
+CITY OF OCEANSIDE 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2010 
+SECTION I - SUMMARY OF AUDITORS' RESULTS 
+ 
+Financial Statements 
+ 
+Type of auditors' report issued:  Unqualified Opinion 
+ 
+Internal control over financial reporting: 
+ 
+ 
+Significant deficiencies identified? 
+   X    yes 
+        no 
+ 
+ 
+Significant deficiencies identified that are  
+considered to be material weaknesses? 
+   X    yes 
+        none reported 
+ 
+Noncompliance material to financial 
+statements noted? 
+        yes 
+   X    no 
+ 
+Federal Awards 
+ 
+Internal control over major programs: 
+ 
+ 
+Significant deficiencies identified? 
+    X    yes 
+        no 
+ 
+ 
+Significant deficiencies identified that are  
+considered to be material weaknesses? 
+        yes 
+    X   none reported 
+ 
+Type of auditors' report issued on compliance for major programs:  Unqualified Opinion 
+ 
+Any audit findings disclosed that are required to be 
+reported in accordance with Section 510(a) of  
+Circular A-133? 
+    X    yes 
+        no 
+ 
+Identification of major programs: 
+ 
+CFDA Number(s) 
+Name of Federal Program or Cluster   
+ 
+14.218, 14.253 
+Community Development Block Grant Cluster 
+14.239 
+HOME Investment Partnerships Program 
+14.228 
+Community Development Block Grants/State’s Program 
+and Non-Entitlement Grants in Hawaii 
+14.871 
+Section 8 Housing Choice Vouchers  
+ 
+Dollar threshold used to distinguish 
+between type A and type B program 
+$612,841  
+ 
+Auditee qualified as low-risk auditee? 
+ 
+         yes 
+   X    no 
+8
+
+
+CITY OF OCEANSIDE 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2010 
+ 
+SECTION II - FINANCIAL STATEMENT FINDINGS 
+ 
+Finding Number 2010-1: Bank Reconciliations 
+ 
+During our interim review in July 2010, reconciliations of the City’s general checking account were reconciled 
+through August 2009.  This did not constitute a timely reconciliation of this account which is of critical 
+importance for the City.  We followed up at our year end contact in September 2010 and determined that 
+though the reconciliations had been completed through June 2010, various audit adjusting entries were 
+required to correct the account balance. 
+ 
+We recommend that the City perform a thorough reconciliation of the City’s cash and investment accounts in a 
+timely manner to ensure that the general ledger amounts are correct. 
+ 
+Finding Number 2010-2: General Ledger 
+ 
+During the course of the audit, material audit adjustments were necessary to areas such as long-term debt, 
+retentions payable, loans receivable, deferred revenue and accounts receivable.  Based on our discussions 
+with management, there appears to be accounting functions that are performed outside of the finance 
+department and there is a lack of communication between the various departments and finance. We 
+recommend that internal control procedures be implemented to ensure all information is communicated to the 
+finance department in a timely manner to ensure all adjustments are recorded on the general ledger prior to 
+the start of the audit. 
+ 
+Finding Number 2010-3: Budget Information in General Ledger 
+ 
+During our audit, we noted that the budget amounts in the general ledger were not consistent with the amounts 
+in the original budget document as approved by City Council.  In addition, the amounts for the amended 
+budget were incorrect.  We recommend that management ensure that approved budget amounts are reflected 
+in the general ledger. 
+ 
+Finding Number 2010-4: Journal Entry Support 
+ 
+During our review of year end closing entries, we determined that adequate support was not maintained.  We 
+recommend that detailed support be maintained for all journal entries posted to the general ledger 
+ 
+ 
+SECTION III - FEDERAL AWARD FINDINGS AND QUESTIONED COSTS 
+ 
+Finding Number 2010-5:  
+ 
+ 
+Program 
+ 
+ 
+CFDA number: 14.218, 14.253 
+ 
+ 
+Title: Community Development Block Grant Cluster 
+ 
+ 
+Federal Agency: U.S. Department of Housing and Urban Development 
+ 
+ 
+Condition 
+ 
+ 
+The results of our audit indicated that the City did not properly certify its cost allocation plan in the 
+timeline required. 
+ 
+ 
+Criteria 
+ 
+OMB Circular A-87 requires plans to be prepared within six months prior to the beginning of each 
+of the City’s fiscal years and to include a required certification which is to be signed by an 
+individual at a level no lower than chief financial officer. 
+ 
+ 
+Questioned Costs 
+  
+None 
+9
+
+
+CITY OF OCEANSIDE 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2010 
+ 
+SECTION III - FEDERAL AWARD FINDINGS AND QUESTIONED COSTS (Continued) 
+ 
+Finding Number 2010-5 (Continued):  
+ 
+ 
+Effect 
+  
+The City’s plan does not comply with the certification requirements of OMB Circular A-87. 
+ 
+ 
+Recommendation 
+  
+We recommend the City establish procedures to ensure proper documentation of the plan 
+including certification are done in accordance with the timeline established in OMB Circular A-87.  
+ 
+ 
+Management’s Response 
+The City agrees with the finding and has subsequently completed the required certification. 
+ 
+Finding Number 2010-6:  
+ 
+ 
+Program 
+ 
+ 
+CFDA number: 14.239 
+ 
+ 
+Title: HOME Investment Partnerships Program 
+ 
+ 
+Federal Agency: U.S. Department of Housing and Urban Development 
+ 
+ 
+Condition 
+ 
+ 
+The results of our audit indicated that the City did not properly certify its cost allocation plan in the 
+timeline required. 
+ 
+ 
+Criteria 
+ 
+OMB Circular A-87 requires plans to be prepared within six months prior to the beginning of each 
+of the City’s fiscal years and to include a required certification which is to be signed by an 
+individual at a level no lower than chief financial officer. 
+ 
+ 
+Questioned Costs 
+  
+None 
+ 
+ 
+Effect 
+  
+The City’s plan does not comply with the certification requirements of OMB Circular A-87. 
+ 
+ 
+Recommendation 
+  
+We recommend the City establish procedures to ensure proper documentation of the plan 
+including certification are done in accordance with the timeline established in OMB Circular A-87.  
+ 
+ 
+Management’s Response 
+The City agrees with the finding and has subsequently completed the required certification. 
+ 
+Finding Number 2010-7:  
+ 
+ 
+Program 
+ 
+ 
+CFDA number: 14.228 
+ 
+Title: Community Development Block Grants/State’s Program and Non-Entitlement Grants in    
+Hawaii 
+ 
+ 
+Federal Agency: U.S. Department of Housing and Urban Development 
+ 
+ 
+Condition 
+ 
+ 
+The results of our audit indicated that the City did not properly certify its cost allocation plan in the 
+timeline required. 
+ 
+10
+
+
+CITY OF OCEANSIDE 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2010 
+ 
+SECTION III - FEDERAL AWARD FINDINGS AND QUESTIONED COSTS (Continued) 
+ 
+Finding Number 2010-7 (Continued):  
+ 
+ 
+Criteria 
+ 
+OMB Circular A-87 requires plans to be prepared within six months prior to the beginning of each 
+of the City’s fiscal years and to include a required certification which is to be signed by an 
+individual at a level no lower than chief financial officer. 
+ 
+ 
+Questioned Costs 
+  
+None 
+ 
+ 
+Effect 
+  
+The City’s plan does not comply with the certification requirements of OMB Circular A-87. 
+ 
+ 
+Recommendation 
+  
+We recommend the City establish procedures to ensure proper documentation of the plan 
+including certification are done in accordance with the timeline established in OMB Circular A-87.  
+ 
+ 
+Management’s Response 
+The City agrees with the finding and has subsequently completed the required certification. 
+ 
+Finding Number 2010-8:  
+ 
+ 
+Program 
+ 
+ 
+CFDA number: 14.871 
+ 
+Title: Section 8 Housing Choice Vouchers 
+ 
+ 
+Federal Agency: U.S. Department of Housing and Urban Development 
+ 
+ 
+Condition 
+ 
+ 
+The results of our audit indicated that the City did not properly certify its cost allocation plan in the 
+timeline required. 
+ 
+ 
+Criteria 
+ 
+OMB Circular A-87 requires plans to be prepared within six months prior to the beginning of each 
+of the City’s fiscal years and to include a required certification which is to be signed by an 
+individual at a level no lower than chief financial officer. 
+ 
+ 
+Questioned Costs 
+  
+None 
+ 
+ 
+Effect 
+  
+The City’s plan does not comply with the certification requirements of OMB Circular A-87. 
+ 
+ 
+Recommendation 
+  
+We recommend the City establish procedures to ensure proper documentation of the plan 
+including certification are done in accordance with the timeline established in OMB Circular A-87.  
+ 
+ 
+Management’s Response 
+The City agrees with the finding and has subsequently completed the required certification. 
+11
+
+
+CITY OF OCEANSIDE 
+ 
+SCHEDULE OF PRIOR YEAR FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2009 
+SECTION II - FINANCIAL STATEMENT FINDINGS 
+ 
+No matters were reported. 
+ 
+ 
+SECTION III - FEDERAL AWARD FINDINGS AND QUESTIONED COSTS 
+ 
+Finding Number 2009-1:  
+ 
+ 
+Program 
+ 
+ 
+CFDA number: 14.218 
+ 
+ 
+Title: Community Development Block Grant – Entitlement grant 
+ 
+ 
+Federal Agency: U.S. Department of Housing and Urban Development 
+ 
+ 
+Condition 
+ 
+ 
+The results of our reporting test work indicated that the City did not file the Federal Cash 
+Transactions Reports (SF-272) on a timely basis for all quarters during the fiscal year.  
+ 
+ 
+Criteria 
+ 
+The applicable federal code (24 CFR 84.52) states, “Recipients shall be required to submit not 
+more than the original and two copies of the SF-272 15 calendar days following the end of each 
+quarter.  
+ 
+ 
+Questioned Costs 
+  
+None 
+ 
+ 
+Effect 
+  
+The City may be penalized or fined for its noncompliance with program compliance requirements.  
+ 
+ 
+Recommendation 
+  
+We recommend that the City establish procedures to ensure that the required reports are filed on 
+a timely basis. The performance of these procedures should be documented to ensure 
+compliance with monitoring and review programs.  
+ 
+ 
+Management’s Response 
+During HUD Program Year 2008 (7/1/2008-6/30/2009), the City established new procedures for 
+submitting the quarterly SF-272 form; during Program Year 2009, the City has submitted each 
+report correctly and in a timely manner. Program staff and accounting staff have calendar 
+reminders of the date these reports are due. The CDBG Program Manager maintains both 
+electronic and paper copies of the reports and the dates submitted to the HUD-Los Angeles Field 
+Office. The City intends to remain in full compliance with requirements for submittal.  
+ 
+ 
+Status 
+The City has corrected this finding and no instances were noted in the current year.   
+12

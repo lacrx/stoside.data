@@ -1,0 +1,2749 @@
+STATISTICAL SECTION
+
+
+
+
+DESCRIPTION OF STATISTICAL SECTION CONTENTS
+June 30, 2008
+This part of the City of Oceanside's comprehensive annual financial report presents detailed
+information as a context for understanding what the information in the financial statements, note
+disclosures, and required supplementary information say about the City's overall financial health.
+Contents:
+Financial Trends theses schedules contain trend information to help the reader
+understand how the City's financial performance and well-being have changed
+over time.
+Revenue Capacity these schedules contain information to help the reader
+assess the City's most significant local revenue source, the property tax.
+Debt Capacity these schedules present information to help the reader assess
+the affordability of the City's current levels of outstanding debt and the City's
+ability to issue additional debt in the future.
+Demographic and Economic Information these schedules offer demographic
+and economic indicators to help the reader understand the environment within
+which the City's financial activities take place.
+Operating Information these schedules contain service and infrastructure data
+to help the reader understand how the information in the City's financial
+report relates to the services the City provides and the activities it performs.
+144 - ISS
+156 - 161
+162 - 168
+169 -170
+171-173
+Sources:
+Unless otherwise noted, the information in these schedules is derived from the
+comprehensive annual financial report for the relevant year.
+The City implemented GASB
+Statement 34 in 2002; schedules presenting government-wide information include information
+beginning in that year.
+- 143 -
+
+
+City of Oceanside
+Net Assets by Component
+Last Seven Fiscal Years
+(accrual basis of accounting)
+Fiscal Year
+2002
+2003
+2004
+Governmental Activities:
+Invested in capital assets, net of related debt
+$ 128,824,063
+$ 131,689,993
+$ 127,949,282
+Restricted for:
+Debt Service
+10,973,122
+16,096,883
+25,485,168
+Capital Projects
+7,917,407
+8,804,301
+49,438,960
+Specific Projects and Programs
+9,636,988
+5,551,055
+15,924,959
+Total Restricted
+28,527,517
+30,452,239
+90,849,087
+Unrestricted
+71,005,500
+72,725,338
+27,925,986
+Total governmental activities net assets
+$ 228,357,080
+$ 234,867,570
+$ 246,724,355
+Business-type Activities:
+Invested in capital assets, net of related debt
+$ 151,817,550
+$ 187,817,205
+$ 164,670,433
+Restricted for:
+Capital Projects
+42,923,238
+15,082,800
+11,275,256
+Unrestricted
+44,429,166
+51,565,061
+84,857,099
+Total business-type activities net assets
+$ 239,169,954
+$ 254,465,066
+$ 260,802,788
+Primary Government:
+Invested in capital assets, net of related debt
+$ 280,641,613
+$ 319,507,198
+$ 292,619,715
+Restricted
+71,450,755
+45,535,039
+102,124,343
+Unrestricted
+115,434,666
+124,290,399
+112,783,085
+Total Primary Government net assets
+$ 467,527,034
+$ 489,332,636
+$ 507,527,143
+- 144-
+
+
+Fiscal Year
+2005
+2006
+2007
+2008
+$ 140,206,876
+$ 162,782,050
+$ 192,580,094
+$ 223,022,078
+20,725,317
+27,428,593
+10,400,086
+9,401,419
+58,342,462
+51,988,076
+56,481,472
+75,302,178
+18,624,363
+30,309,265
+56,971,726
+45,513,582
+97,692,142
+109,725,934
+123,853,284
+130,217,179
+34,006,389
+28,199,762
+45,103,813
+45,039,132
+$ 271,905,407
+$ 300,707,746
+$ 361,537,191
+$ 398,278,389
+$ 174,541,773
+3,582,124
+82,186,952
+$ 260,310,849
+$ 314,748,649
+101,274,266
+116,193,341
+$ 532,216,256
+$ 175,923,102
+1,876,361
+77,186,066
+$ 254,985,529
+$ 338,705,152
+111,602,295
+105,385,828
+$ 555,693,275
+$ 187,894,276
+1,899,746
+63,744,851
+$ 253,538,873
+$ 380,474,370
+125,753,030
+108,848,664
+$ 615,076,064
+$ 196,363,003
+2,252,846
+59,188,035
+$ 257,803,884
+$ 419,385,081
+132,470,025
+104,227,167
+$ 656,082,273
+- 145-
+
+
+City of Oceanside
+Changes in Net Assets
+Last Seven Fiscal Years
+(accrual basis of accounting)
+Fiscal Year
+2002
+2003
+2004
+Expenses
+Governmental activities:
+General government
+$
+9,344,781
+$
+11,363,651
+$
+11,852,001
+Public safety
+41,142,786
+44,795,800
+49,876,905
+Public works
+10,564,747
+18,482,236
+23,272,166
+Community development
+17,144,538
+24,282,082
+23,713,393
+Community/cultural services
+15,550,599
+9,797,438
+11,784,754
+Depreciation (unallocated)
+10,380,880
+12,483,792
+Interest on long-tcnn debt
+7,693,201
+8,484,102
+7,598,288
+Total governmental activities
+111,821 ,532
+129,689,101
+128,097,507
+Business-type activities:
+Water
+30,372,348
+31,795,689
+34,028,999
+Sewer
+17,723,166
+18,643,636
+19,708,826
+Waste disposal
+14,955,237
+16,839,565
+18,223,894
+Special aviation
+225,154
+207,165
+259,743
+Oceanside Small Craft Harbor District
+4,629,071
+5,031,595
+4,883,873
+Total business-type activities
+67,904,976
+72,517,650
+77,105,335
+Total primary government expenses
+$ 179,726,508
+$ 202,206,751
+$ 205,202,842
+Program Revenues
+Governmental activities:
+Charges for services:
+General government
+$
+2,290,656
+$
+2,429,359
+$
+2,315,566
+Public safety
+4,032,448
+3,651,672
+4,043,265
+Public works
+2,976,298
+5,565,540
+5,917,747
+Community development
+7,168,624
+5,881,502
+6,416,404
+Community/cultural services
+650,290
+700,323
+737,450
+Operating Grants and Contributions
+24,383,098
+28,931,414
+26,287,219
+Capital Grants and Contributions
+1,000,639
+1,719,425
+2,337,569
+Total governmental activities program revenues
+42,502,053
+48,879,235
+48,055,220
+Business-type activities:
+Charges for services:
+Water
+36,260,949
+37,671,574
+39,255,725
+Sewer
+17,280,192
+23,780,852
+22,457,309
+Waste disposal
+16,312,565
+17,175,663
+18,082,898
+Special aviation
+139,493
+133,076
+205,778
+Oceanside Small Craft Harbor District
+4,320,648
+4,435,217
+4,611,728
+Operating Grants and Contributions
+33,719
+200,246
+2,726,913
+Capital Grants and Contributions
+882,127
+3,101,356
+850,000
+Total business-type activities program revenues
+75,229,693
+86,497,984
+88,190,351
+Total primary government Program revenues
+$ 117,731,746
+$ 135,377,219
+$ 136,245,571
+Net (Expense)/Revenue
+Governmental activities
+$ (69,319,479)
+$ (80,809,866)
+$ (80,042,287)
+Business-type activities
+7,324,717
+13,980,334
+11 ,085,016
+Total primary government net expense
+$ (61,994,762)
+$ (66,829,532)
+$ (68,957,271)
+- 146-
+
+
+2005
+2006
+Fiscal Year
+2007
+2008
+$
+11,345,079
+$
+11,936,686
+$
+13,958,047
+$
+16,004,013
+55,728,435
+61,977,977
+64,713,256
+68,521,173
+23,140,587
+25,475,444
+24,585,242
+27,088,207
+23,377,424
+23,295,927
+26,915,033
+24,715,209
+11,700,438
+12,806,800
+14,224,389
+14,191,135
+9,548,310
+8,634,066
+7,634,724
+7,486,339
+134,840,273
+144,126,900
+152,030,691
+158,006,076
+34,100,516
+37,074,165
+41,066,482
+40,649,208
+21,607,092
+23,735,275
+26,465,182
+27,039,628
+19,365,317
+19,105,879
+20,074,362
+20,846,158
+457,490
+483,012
+467,505
+432,432
+5,115,937
+5,501,277
+5,700,513
+5,807,752
+80,646,352
+85,899,608
+93,774,044
+94,775,178
+$ 215,486,625
+$ 230,026,508
+$ 245,804,735
+$ 252,781,254
+$
+2,435,479
+$
+2,556,047
+$
+2,726,649
+$
+2,910,185
+4,360,499
+5,121,602
+4,506,019
+5,546,313
+5,909,863
+6,830,916
+6,546,976
+21,137,007
+10,641,984
+7,539,632
+7,426,082
+5,992,226
+870,579
+851,456
+952,830
+1,283,498
+25,830,552
+33,579,124
+42,771,143
+31,173,230
+5,356,513
+5,274,095
+7,612,717
+9,418,160
+55,405,469
+61,752,872
+72,542,416
+77,460,619
+35,120,057
+36,716,820
+39,415,143
+42,185,950
+19,791,178
+20,723,540
+23,054,008
+24,749,371
+19,210,840
+19,816,761
+20,405,194
+20,961,319
+296,693
+394,072
+439,422
+464,774
+4,921,907
+4,996,577
+5,299,861
+5,322,666
+166,152
+4,220,677
+372,451
+79,879,278
+82,647,770
+88,613,628
+97,904,757
+$ 135,284,747
+$ 144,400,642
+$ 161,156,044
+$ 175,365,376
+$ (79,434,804)
+$ (82,374,028)
+$ (79,488,275)
+$ (80,545,457)
+(767,074)
+(3,251,838)
+(5,160,416)
+3,129,579
+$ (80,201,878)
+$ (85,625,866)
+$ (84,648,691)
+$ (77,415,878)
+- 147-
+
+
+City of Oceanside
+Net Assets by Component (continued)
+Last Seven Fiscal Years
+(accrual basis of accounting)
+Fiscal Year
+2002
+2003
+2004
+General Revenues and Other Changes in Net Assets
+Governmental activities:
+Taxes:
+Property taxes
+$
+23,928,088
+$
+25,114,104
+$
+28,536,578
+Sales taxes
+13,003,666
+13,042,280
+13,841,866
+Other taxes
+16,289,504
+17,845,639
+16,764,144
+Total taxes
+53,221,258
+56,002,023
+59,142,588
+Intergovernmental unrestricted
+8,998,124
+9,295,765
+9,792,530
+Investment earnings
+13,638,035
+11,914,037
+8,366,058
+Developer contributions
+7,823,035
+5,532,316
+7,974,965
+Miscellaneous
+3,656,089
+3,002,863
+2,337,777
+Gain/(loss) on sale ofassets
+(44,828)
+146,390
+Transfers
+900,000
+1,426,960
+1,181,848
+Total Governmental activities
+88,191,713
+87,320,354
+88,795,766
+Business-type activities:
+Investment earnings
+3,845,942
+3,771,450
+345,296
+Gain/(Ioss) on sale of assets
+(9,865)
+(3,910,742)
+Transfers
+(900,000)
+(1,426,960)
+(1,181,848)
+Total business-type activities:
+2,945,942
+2,334,625
+(4,747,294)
+Total primary government
+$
+91,137,655
+$
+89,654,979
+$
+84,048,472
+Change in n Net Assets
+Governmental activities
+$
+18,872,234
+$
+6,510,488
+$
+8,753,479
+Business-type activities:
+10,270,659
+16,314,959
+6,337,722
+Total primary government
+$
+29,142,893
+$
+22,825,447
+$
+15,091,201
+- 148-
+
+
+2005
+2006
+Fiscal Year
+2007
+2008
+$
+40,004,828
+$
+48,001,309
+$
+54,682,295
+$
+58,663,948
+15,198,456
+15,675,218
+17,814,047
+18,734,655
+10,796,296
+14,027,416
+11,437,735
+11,746,323
+65,999,580
+77,703,943
+83,934,077
+89,144,926
+11,339,407
+11,981,723
+12,682,555
+13,633,572
+9,153,835
+9,711,778
+14,095,895
+13,343,619
+6,368,599
+10,663,038
+1,651,856
+329,321
+1,072,547
+563,443
+9,604,277
+61,726
+219,935
+157,154
+1,395,108
+2,391,713
+1,408,380
+1,883,945
+105,512,662
+112,843,242
+113,413,389
+118,726,659
+2,520,243
+2,274,912
+3,945,045
+3,017,902
+5,599
+1,475
+(1,395,108)
+(2,391,713)
+(1,408,380)
+(1,883,945)
+1,125,135
+(116,801)
+2,542,264
+1,135,432
+$ 106,637,797
+$ 112,726,441
+$ 115,955,653
+$ 119,862,091
+$
+26,077,858
+$
+30,469,214
+$
+33,925,114
+$
+38,181,202
+358,061
+(3,368,639)
+(2,618,152)
+4,265,011
+$
+26,435,919
+$
+27,100,575
+$
+31,306,962
+$
+42,446,213
+- 149 -
+
+
+City of Oceanside
+Fund Balances, Governmental Funds
+Last Seven Fiscal Years
+(modified accrual basis of accounting)
+Fiscal Year
+2002
+2003
+2004
+General Fund:
+Reserved
+$
+21,285,917
+$
+25,330,173
+$
+7,111,978
+Unreserved, designated
+Unreserved, undesignated
+12,378,639
+11,359,926
+24,706,920
+Total Gencral Fund
+$
+33,664,556
+$
+36,690,099
+$
+31,818,898
+All Other Governmental Funds:
+Reserved:
+Special revenue funds
+$
+2,874,675
+$
+2,611,628
+$
+2,429,146
+Debt service funds
+10,973,122
+7,168,681
+14,727,685
+Capital projects funds
+13,980,571
+15,097,680
+24,380,725
+Unreserved, designated:
+Special revenue funds
+86,133
+64,926
+Debt service funds
+Capital projects funds
+24,599,406
+349,671
+Unreserved, undesignated, reported in:
+Special revenue funds
+14,602,735
+14,554,605
+13,047,258
+Debt service funds
+Capital projects funds
+29,721,530
+29,524,502
+Total All Other Governmental Funds
+$
+67,116,642
+$
+69,568,721
+$
+84,109,316
+All Governmental Funds
+$ 100,781,198
+$ 106,258,820
+$ 115,928,214
+- 150 -
+
+
+Fiscal Year
+2005
+2006
+2007
+2008
+$
+3,700,253
+$
+3,701,873
+$
+3,740,229
+$
+3,607,416
+35,804,645
+37,879,006
+41,657,973
+46,202,605
+4,711,757
+$
+41,579,259
+$
+45,359,846
+$
+49,942,834
+$
+44,123,818
+$
+3,224,903
+16,572,344
+$
+9,014,958
+13,514,019
+14,807,661
+$
+9,179,056
+9,721,949
+13,727,570
+$
+22,373,194
+9,401,419
+13,525,685
+21,812,104
+12,607,488
+17,875,218
+45,615,179
+14,808,283
+7,689,118
+(l2,434,455)
+(12,669,680)
+47,606,317
+41,465,183
+61,608,352
+61,776,493
+$
+87,700,170
+$
+96,677,039
+$ 127,417,651
+$ 131,027,498
+$ 129,279,429
+$ 142,036,885
+$ 177,360,485
+$ 175,151,316
+- 151 -
+
+
+City of Oceanside
+Changes in Fund Balances, Governmental Funds
+Last Seven Fiscal Years
+(modified accrnal basis of acconnting)
+Fiscal Year
+2002
+2003
+2004
+Revenues:
+Taxes
+$
+44,249,811
+$
+46,115,955
+$
+51,579,405
+Special assessments
+5,613,928
+6,077,472
+4,005577
+Licenses and pennits
+2,776,858
+2,467,648
+2,747,218
+Intergovernmental
+31,485,240
+36,426,546
+34,397,718
+Charges for services
+10,945,780
+10,494,390
+11,067,922
+Fines and forfeitures
+2,871,536
+3,058,767
+3,397,840
+Lease revenue
+2,868,446
+1,218,150
+2,193,296
+Interest and rentals
+10,643,668
+9,752,164
+6,095,994
+Administrative and in lieu charges
+8,998,124
+9,295,765
+9,792,530
+Developer fees
+7,868,050
+6,433,319
+8,195,886
+Other revenues
+1,145,984
+3,106,787
+2,195,752
+Total Revenues
+129,467,425
+134,446,963
+135,669,138
+Expenditures:
+General government
+10,837,924
+11,940,876
+11,240,628
+Public safety
+43,729,924
+44,493,491
+50,307,345
+Public works
+11,515,892
+11,465,976
+12,497,077
+Community development
+18,632,934
+24,376,852
+20,071,741
+Community/cultural services
+17,483,458
+10,121,335
+10,560,829
+Capital outlay
+15,897,171
+21,496,691
+24,946,758
+Debt service:
+Principal retirement
+6,937,400
+29,582,600
+3,620,000
+Interest and fees
+7,306,270
+7,746,132
+7,495,816
+Total Expenditures
+132,340,973
+161,223,953
+140,740,194
+Excess of Revenues over (under) expenditures
+(2,873,548)
+(26,776,990)
+(5,071,056)
+Other Financing Sources (Uses)
+Issuance of long-tenn debt
+25,580,000
+25,185,000
+17,800,000
+Issuance of refunding debt
+7,740,000
+Bond premium
+Payment of unfunded pension liability
+Redemption ofrefunded debt
+(7,725,000)
+Loan proceeds
+Proceed from sale ofreal property
+Transfers in
+9,016,036
+52,371,476
+24,877,011
+Transfers out
+(8,665,262)
+(51,481,976)
+(29,640,481)
+Total other financing sources (uses)
+25,930,774
+26,074,500
+13,051,530
+Net cbange in fund balances
+$
+23,057,226
+$
+(702,490)
+$
+7,980,474
+Debt Service as a percentage ofnoncapital expenditures
+(infonnation related to capital expenditures is included in the
+reconciliation on page 32)
+12,62%
+25.40%
+9.05%
+- 152 -
+
+
+11.32%
+9.29%
+9.78%
+- 153 -
+8.77%
+
+
+City of Oceanside
+Tax Revenues by Source, Governmental Funds
+Last Ten Fiscal Years
+(mondified accuraI basis of accounting)
+Fiscal
+Property
+Transient
+Year
+Property
+Sales and Use
+Transfer
+Occupancy
+1999
+$
+13,363,198
+$
+10,314,069
+$
+522,439
+$
+989,103
+2000
+14,833,244
+11,611,506
+610,854
+1,244,663
+2001
+16,209,212
+13,276,435
+688,450
+1,612,339
+2002
+17,553,721
+14,278,918
+814,524
+1,759,862
+2003
+19,022,047
+14,377,600
+933,209
+2,057,390
+2004
+21,166,344
+15,298,955
+1,351,548
+2,239,271
+2005
+32,063,276
+16,802,110
+1,525,040
+2,473,674
+2006
+38,983,217
+17,404,797
+1,451,267
+2,908,792
+2007
+44,484,217
+19,548,981
+897,005
+2,938,174
+2008
+48,002,987
+19,355,845
+760,351
+3,389,739
+Change
+1999-2008
+259.2%
+87.7%
+45.5%
+242.7%
+Source: Financial Services Department, Financial Management Division
+- 154-
+
+
+Licenses
+Total
+$
+1,997,359
+$
+1,784,611
+$
+28,970,779
+2,275,968
+1,924,961
+32,501,196
+2,679,821
+1,993,464
+36,459,721
+3,404,165
+2,156,102
+39,967,292
+2,869,643
+2,205,215
+41,465,104
+3,155,125
+2,871,865
+46,083,108
+3,519,787
+3,171,676
+59,555,563
+3,711,531
+3,671,388
+68,130,992
+3,882,369
+3,627,383
+75,378,129
+3,932,716
+3,687,900
+79,129,538
+96.9%
+106.7%
+173.1%
+- 155 -
+
+
+City of Oceanside
+Schednle of Assessed Valnation
+Last Ten Fiscal Years
+ASSESSED VALUATIONS
+Fiscal
+Personal
+Year
+Land
+Improvements
+Property
+Total
+1999
+$
+2,679,909,636
+$
+4,279,702,265
+$
+168,533,851
+$
+7,128,145,752
+2000
+2,952,919,100
+4,821,728,563
+184,100,866
+7,958,748,529
+2001
+3,216,269,785
+5,224,785,198
+200,931,968
+8,641,986,951
+2002
+3,546,963,968
+5,634,397,700
+211,583,030
+9,392,944,698
+2003
+3,952,597,283
+6,021,996,378
+210,635,332
+10,185,228,993
+2004
+4,606,106,935
+6,527,429,835
+230,249,013
+11,363,785,783
+2005
+5,446,445,740
+7,111,669,686
+322,243,551
+12,880,358,977
+2006
+6,676,968,166
+7,920,412,950
+341,089,785
+14,938,470,901
+2007
+8,052,273,214
+8,424,362,316
+453,725,069
+16,930,360,599
+2008
+8,946,406,079
+9,080,678,149
+424,946,166
+18,452,030,394
+NOTE: In 1978 the voters ofthe State of California passed Proposition 13 which limited property taxes to a total maximum
+rate of 1% based upon the assessed value ofthe property being taxed. Each year, the assessed value ofproperty may be
+increased by an "inflation factor" (limited to a maximum increase of 2%). With few exceptions, property is only reassessed
+at the time that it is sold to a new owner. At that point, the new assessed value is reassessed at the purchase price of the
+property sold. The assessed valuation data shown above represents the only data currently available with respect to the
+actual market value oftaxable property and is subject to the limitations described above.
+Source: County of San Diego
+- 156 -
+
+
+EXEMPTIONS
+Direct
+Tax
+Net Taxable
+Tax
+Homeowner's
+Increment
+All Other
+Value
+Rate
+$
+185,347,226
+$
+257,858,541
+$
+84,359,241
+$
+6,600,580,744
+0.202%
+196,172,866
+298,888,185
+108,045,709
+7,355,641,769
+0.202%
+199,230,182
+338,559,438
+120,131,739
+7,984,065,592
+0.203%
+206,633,730
+388,111,963
+120,936,174
+8,677,262,831
+0.202%
+207,976,179
+452,051,202
+126,357,701
+9,398,843,911
+0.202%
+214,520,710
+523,768,158
+150,502,216
+10,474,994,699
+0.202%
+216,130,116
+584,103,912
+190,068,080
+11,890,056,869
+0.270%
+222,311 ,284
+697,018,563
+202,450,936
+13,816,690,118
+0.282%
+223,131,924
+832,836,578
+216,620,223
+15,657,771,874
+0.284%
+223,068,966
+931,606,219
+223,594,652
+17,073,760,557
+0.281%
+- 157 -
+
+
+City of Oceanside
+Direct and Overlapping Property Tax Rates
+Last Ten Fiscal Years
+Fiscal
+Special Districts
+City of
+Basic County!
+Total
+Ycar
+Education
+Improvements
+Oceanside
+City Rate
+Tax Rate (1)
+1999
+0.00022%
+0.00997%
+0.00000%
+1.00000%
+1.01019%
+2000
+0.00000%
+0.00990%
+0.00000%
+1.00000%
+1.00990%
+2001
+0.00000%
+0.00971%
+0.00000%
+1.00000%
+1.00971%
+2002
+0.00000%
+0.00853%
+0.00000%
+1.00000%
+1.00853%
+2003
+0.05390%
+0.00745%
+0.00000%
+1.00000%
+1.06135%
+2004
+0.04802%
+0.00677%
+0.00000%
+1.00000%
+1.05479%
+2005
+0.05401%
+0.00580%
+0.00000%
+1.00000%
+1.05981%
+2006
+0.04628%
+0.00520%
+0.00000%
+1.00000%
+1.05148%
+2007
+0.04372%
+0.00470%
+0.00000%
+1.00000%
+1.04842%
+2008
+0.06415%
+0.00450%
+0.00000%
+1.00000%
+1.06865%
+(1)
+Represents a typical tax rate area. The City of Oceanside is comprised of 72 tax rate areas with different tax rates.
+Source: County of San Diego
+- 158 -
+
+
+City of Oceanside
+Principal Property Owners
+Current Year and Nine Years Ago
+2008
+1999
+%of
+%of
+Total
+Total
+Assessed
+Assessed
+Assessed
+Assessed
+Principal Tax Payers
+Valuation
+Rank
+Valuation
+Valuation
+Rank
+Valuation
+Genentech Inc.
+S
+470,582,717
+2.550%
+P K II EI Camino North
+Limited Partnership
+132,568,425
+2
+0.718%
+RPRN Land Company LLC
+73,969,215
+3
+0.401%
+W2005 M R D Realty LLC
+72,012,000
+4
+0.390%
+NfCompany
+64,542,840
+5
+0.350%
+WL Homes LLC
+60,175,227
+6
+0.326%
+Lakeridge Island Club Apartments Partners
+58,661,493
+7
+0.318%
+K Partnership
+53,279,751
+8
+0.289%
+Essex CAL A Limited Partnership
+50,613,889
+9
+0.274%
+Pacific Coast Plaza Investments
+Limited Partnership
+42,460,569
+10
+0.230%
+Haagen Alexander Properties
+S
+48,298,209
+1
+0.678%
+Pacific Coast Plaza Investments
+40,336,746
+2
+0.566%
+Lakeridge Associates
+28,000,000
+3
+0.393%
+Cox Communications San Diego
+25,073,407
+4
+0.352%
+Southridge-Oxford LTD Partnership
+23,252,804
+5
+0.326%
+Amstar Texas Pool Limited
+22,887,008
+6
+0.321%
+Riverview Springs Limited
+20,701,135
+7
+0.290%
+Village Protfolio LTD Partnership
+18,782,610
+8
+0.263%
+Wal Mart Stores Inc.
+18,678,072
+9
+0.262%
+Sumitomo Metal Mining U.S.A. Inc.
+17,832,538
+10
+0.250%
+S 1,078,866,126
+5.847%
+S
+263,842,529
+3.701%
+Sources: HdL Coren & Cone
+County of San Diego
+- 159 -
+
+
+City of Oceanside
+Property Tax Levies and Collections
+Last Ten Fiscal Years
+Penalties
+Taxes Levied
+Collected within the
+Interest and
+Fiscal
+for the
+Fiscal Year ofthe Levy
+Other Years
+Year
+Fiscal Year (1)
+Amount (2)
+% ofLevy
+Collections (2)
+1999
+$
+13,803,797
+$
+12,625,950
+91.5%
+$
+299,211
+2000
+15,175,558
+14,040,151
+92.5%
+240,411
+2001
+16,445,369
+15,185,325
+92.3%
+234,060
+2002
+17,746,985
+16,513,511
+93.0%
+189,895
+2003
+19,078,758
+17,850,457
+93.6%
+215,738
+2004
+21,027,106
+19,772,652
+94.0%
+204,803
+2005
+23,664,948
+22,246,003
+94.0%
+192,902
+2006
+27,527,769
+25,724,882
+93.5%
+264,784
+2007
+31,383,881
+28,910,192
+92.1%
+183,106
+2008
+34,633,156
+31,292,435
+90.4%
+700,023
+(1) Taxes Levied does not include Supplemental Assessments, Adjustments/Corrections or Prior Year Escapes.
+(2) Collections do not include Current or Prior Year collections of Supplemental Assessments.
+Source: County of San Diego
+- 160-
+
+
+Total Collections
+Delinquent Taxes Receivable
+% of Current
+% of Current
+Amount
+Levy
+Amount
+Levy
+$
+13,363,198
+96.8%
+$
+819,71l
+5.9%
+14,833,244
+97.7%
+847,207
+5.6%
+16,209,200
+98.6%
+805,436
+4.9%
+17,553,721
+98.9%
+708,983
+4.0%
+19,022,047
+99.7%
+753,324
+3.9%
+19,977,455
+95.0%
+852,186
+4.1%
+22,438,905
+94.8%
+1,407,404
+5.9%
+25,989,666
+94.4%
+1,669,035
+6.1%
+29,093,298
+92.7%
+2,133,102
+6.8%
+31,992,458
+92.4%
+2,800,859
+8.1%
+- 161 -
+
+
+City of Oceanside
+Ratios of Outstanding Debt by Type
+Last Ten Fisca! Years
+Governmental Activities
+General
+Pension
+Capital Leases
+Certificates
+Special
+Fiscal
+Obligation
+Obligation
+Redevelopment
+and
+of
+Assessment
+Year
+Bonds
+Bonds
+Bonds
+Notes Payable
+Participation
+Bonds
+1999
+$
+$
+$
+22,355,000
+$
+28,227
+$
+75,890,000
+$
+8,220,000
+2000
+21,975,000
+73,660,000
+7,390,000
+2001
+21,575,000
+71,515,000
+4,800,000
+2002
+43,185,000
+69,250,000
+4,097,600
+2003
+42,745,000
+6,939,000
+63,585,000
+5,805,000
+2004
+60,220,000
+7,613,133
+63,585,000
+2,740,000
+2005
+59,895,000
+8,816,880
+59,450,000
+1,760,000
+2006
+42,780,000
+58,420,000
+3,015,944
+57,020,000
+1,300,000
+2007
+42,365,000
+56,950,000
+2,554,195
+54,345,000
+2008
+41,825,000
+54,975,000
+5,589,096
+51,535,000
+Notes: Details regarding the City's outstanding debt can be found in the notes to the financial statements.
+(l) These ratios are calculated using personal income and population for the prior calendar year.
+Source: San Diego Association of Governments.
+- 162 -
+
+
+Business-TyPe Activites
+Certificates
+Total
+Percentage of
+Revenue
+of
+Loans
+Primary
+Personal
+Per
+Bonds
+Participation
+Payable
+Government
+Income (1)
+Capita (1)
+$
+11,420,000
+$
+31,185,000
+$
+18,204,443
+$ 167,302,670
+2.89%
+$
+1,091
+11,325,000
+29,515,000
+72,410,087
+216,275,087
+3.55%
+1,374
+II,225,000
+27,740,000
+71,527,063
+208,382,063
+3.29%
+1,294
+11,120,000
+26,310,000
+75,734,559
+229,697,159
+3.62%
+1,398
+II,015,000
+26,935,000
+71,862,641
+228,886,641
+3.60%
+1,368
+10,365,000
+26,520,000
+78,781,943
+249,825,076
+3.92%
+1,466
+9,690,000
+24,795,000
+75,605,497
+240,012,377
+3.61%
+1,388
+9,115,000
+23,035,000
+74,369,260
+269,055,204
+3.97%
+1,541
+8,525,000
+21,215,000
+72,763,761
+258,717,956
+3.76%
+1,479
+7,905,000
+19,335,000
+69,208,463
+250,372,559
+3.64%
+1,400
+- 163 -
+
+
+City of Oceanside
+Ratios of General Bonded Debt Ontstanding
+Last Ten Fiscal Years
+Governmental Activities
+General
+Pension
+Certificates
+Special
+Percent of
+Fiscal
+Obligation
+Obligation
+Redevelopment
+of
+Assessment
+Assessed
+Per
+Year
+Bonds
+Bonds
+Bonds
+Participation
+Bonds
+Total
+Value (I)
+Capita
+1999
+$
+S
+$
+22,355,000
+$ 75,890,000
+$ 8,220,000
+$ 106,465,000
+1.49%
+$ 694
+2000
+21,975,000
+73,660,000
+7,390,000
+103,025,000
+1.29%
+655
+2001
+21,575,000
+71,515,000
+4,800,000
+97,890,000
+1.13%
+608
+2002
+43,185,000
+69,250,000
+4,097,600
+116,532,600
+1.24%
+709
+2003
+42,745,000
+38,400,000
+30,990,000
+112,135,000
+1.10%
+670
+2004
+60,220,000
+63,585,000
+2,740,000
+126,545,000
+1.11%
+743
+2005
+59,895,000
+59,450,000
+1,760,000
+121,105,000
+0.94%
+701
+2006
+42,780,000
+58,420,000
+57,020,000
+1,300,000
+159,520,000
+1.07%
+912
+2007
+42,365,000
+56,950,000
+54,345,000
+153,660,000
+0.91%
+870
+2008
+41,825,000
+54,975,000
+51,535,000
+148,335,000
+0.80%
+830
+1 Assessed value has been used because the actual value oftaxable property is not readily available in California.
+- 164-
+
+
+City of Oceanside
+Direct and Overlapping Governmental Activities Debt
+As of J'une 30, 2008
+DIRECT AND OVERLAPPING TAX AND ASSESSMENT DEBT:
+Metropolitan Water District
+Palomar Community College District
+Carlsbad Unified School District
+Oceanside Uified School District
+Vista Unified School District
+Fallbrook Union High School district
+Bonsall Unified School District
+Rainbow Municipal Water District USBR Loan
+City of Oceanside Community Facilites District No. 2000-1
+City of Oceanside Community Facilites District No. 2001-1
+City of Oceanside Community Facilites District No. 2001-1,
+Improvement Area No. I
+City of Oceanside Community Facilites District No, 2006-1
+TOTAL OVERLAPPING TAX AND ASSESSMENT DEBT
+DIRECT AND OVERLAPPING GENERAL FUND OBLIGATION DEBT:
+San Diego County General Fund Obligations
+San Diego County Pension Obligations
+San Diego County Superintendent of Schools Certificates of Participation
+Mira Costa Community College District Certificates of Participation
+Palomar Community College District Certificates of Participation
+Carlsbad Unified School District Certificates of Participation
+Oceanside Unified School District Certificates of Participation
+Vista Unified School District Certificates of Participation
+Bonsall Union School District Certificates of Participation
+City of Oceanside General Fund Obligations
+City of Oceanside Pension Obligations
+Total Debt
+Debt 6/30/08
+$ 327,215,000
+158,000,000
+56,924,271
+118,450,000
+138,209,882
+18,880,071
+16,959,680
+515,000
+24,905,000
+25,510,000
+lO,245,000
+8,880,000
+315,225,000
+1,321,012,916
+17,267,500
+4,240,000
+7,690,000
+54,285,000
+1,190,000
+6,995,000
+2,075,000
+51,535,000
+41,825,000
+% Applicable (I)
+0.977%
+6.156%
+2.337%
+99.877%
+35.957%
+7.502%
+20.865%
+0.725%
+100.000%
+lOO.OOO%
+100.000%
+100.000%
+5.042%
+5.042%
+5.042%
+16.970%
+6.156%
+2.337%
+99.877%
+35.957%
+20.865%
+100.000%
+100.000%
+City's Share of
+Debt 6/30/08
+$
+3,196,891
+9,726,480
+1,330,320
+118,304,307
+49,696,127
+1,416,383
+3,538,637
+3,734
+24,905,000
+25,510,000
+lO,245,000
+8,880,000
+$ 256,752,879
+$
+18,032,461
+58,143,735
+870,627
+719,528
+473,396
+1,268,640
+1,188,536
+2,515,192
+432,949
+51,535,000
+41,825,000
+TOTAL GROSS DIRECT AND OVERLAPPING GENERAL FUND OBLIGATION DEBT
+GROSS COMBINED TOTAL DEBT (2)
+$ 433,757,943
+(1)
+Percentage of overlapping agency's assessed valuation located within the boundaries of the city.
+(2)
+Excludes tax and revenue anticipation notes, enterprise revenue, mortgage revenue and tax allocation bonds and non-bonded captital
+Ratios to 2007-08 Assessed Valuation:
+Total Overlapping Tax and Assessment Debt
+Ratios to Adjusted Assessed Valuation:
+Combined Direct Debt ($93,360,000)
+Combined Total Debt ($93,360,000)
+STATE SCHOOL BUILDING AID REPAYABLE AS OF 6/30/08:
+Source: California Municipal Statistics, Inc
+- 165 -
+1.41%
+0.54%
+2.51%
+$0
+
+
+City of Oceanside
+Legal Debt Margin Information
+Last Ten Years
+Fiscal Year
+1999
+2000
+2001
+2002
+Assessed valuation
+$
+6,600,580,744
+$
+7,355,641,769
+$
+7,984,065,592
+$
+8,677,262,831
+Conversion percentage
+25%
+25%
+25%
+Adjusted assessed valuation
+1,650,145,186
+1,838,910,442
+1,996,016,398
+2,169,315,708
+Debt limit percentage
+15%
+15%
+15%
+15%
+Debt limit
+247,521,778
+275,836,566
+299,402,460
+325,397,356
+Total net debt applicable to limit:
+General & Pension Obligation Bonds
+Legal debt margin
+$
+247,521,778
+$
+275,836,566
+$
+299,402,460
+$
+325,397,356
+Total debt applicable to the limit as a
+percentage of the debt limit
+0,0%
+0.0%
+0.0%
+0.0%
+The Government Code ofthe State of California provides for a legal debt limit of 15% of gross assessed
+However, this provision was enacted when assessed valuation was based upon 25% of market value.
+Effective witb the 1981-82 fiscal year, each parcel is now assessed at 100% of market value (as ofthe
+most recent change in ownership for that parcel). The computations shown above reflect a conversion
+of assessed valuation data for each fiscal year that was in effect at the time that the legal debt margin
+was enacted by the State of California for local governments located within the state,
+- 166-
+
+
+Fiscal Year
+2003
+2004
+2005
+2006
+2007
+$
+9,398,843,911
+$ 10,474,994,699
+$ 11,890,056,869
+$ 13,816,690,118
+$ 15,657,771,874
+$ 17,073,760,557
+25%
+25%
+25%
+25%
+2,349,710,978
+2,618,748,675
+2,972,514,217
+3,454,172,530
+3,914,442,969
+4,268,440,139
+15%
+15%
+15%
+15%
+15%
+15%
+352,456,647
+392,812,301
+445,877,133
+518,125,879
+587,166,445
+640,266,021
+42,780,000
+41,825,000
+$
+352,456,647
+$
+475,345,879
+$
+544,801,445
+$
+598,441,021
+0.0%
+0.0%
+0.0%
+8.3%
+7.2%
+6.5%
+- 167 -
+
+
+City of Oceanside
+Pledged-Revenne Coverage
+Last Ten Years
+Water Revenue Bonds
+Less
+Net
+Fiscal
+Water
+Operating
+Available
+Debt Service
+Year
+Revenue
+Expenses
+Revenue
+Principal
+Interest
+Total
+Coverage
+---
+1999
+$ 28,766,783
+$ 20,971,773
+$ 7,795,010
+$ 170,000
+$
+4,680
+$ 174,680
+44.62
+2000
+31,694,843
+27,303,203
+4,391,640
+95,000
+514,745
+609,745
+7.20
+2001
+33,150,474
+25,965,987
+7,184,487
+100,000
+511,136
+611,136
+11.76
+2002
+37,143,076
+25,133,970
+12,009,106
+105,000
+507,240
+612,240
+19.62
+2003
+37,671,574
+24,185,489
+13,486,085
+105,000
+502,147
+607,147
+22.21
+2004
+39,255,729
+25,928,705
+13,327,024
+650,000
+488,286
+1,138,286
+lUI
+2005
+33,147,648
+28,772,741
+4,374,907
+675,000
+461,949
+1,136,949
+3.85
+2006
+38,067,319
+36,127,676
+1,939,643
+575,000
+436,661
+1,011 ,661
+1.92
+2007
+39,415,143
+40,413,262
+(998,119)
+590,000
+412,631
+1,002,631
+(1.00) *
+2008
+42,185,950
+40,232,163
+1,953,787
+620,000
+387,214
+1,007,214
+1.94
+*Note: Debt coverage will be corrected in future years by increase in Water Revenue from rate increases approved
+by City Council in October of 2007.
+- 168 -
+
+
+City of Oceanside
+Demographic and Economic Statistics
+Last Ten Years
+Personal
+Per Capita
+Fiscal
+Income
+Personal
+Unemployment
+Year
+Population
+(Millions $)
+Income
+Rate
+1999
+157,400
+$
+6,231
+$
+39,586
+nla
+2000
+161,029
+6,471
+40,188
+3.7%
+2001
+164,256
+6,493
+39,528
+4.0%
+2002
+167,334
+6,503
+38,861
+4.9%
+2003
+170,419
+6,520
+38,261
+4.9%
+2004
+172,866
+6,804
+39,361
+4.5%
+2005
+174,597
+6,904
+39,545
+4.1%
+2006
+175,045
+7,049
+40,269
+3.8%
+2007
+176,755
+7,235
+40,931
+4.4%
+2008
+178,806
+nfa
+nla
+nla
+Source: San Diego Association of Governments Service Bureau
+- 169-
+
+
+City of Oceanside
+Principal Employers
+Current Year and Nine Years Ago
+2008
+1999
+Percent of
+Percent of
+Number of
+Total
+Number of
+Total
+Principal Employers
+Employees
+Employment
+Employees
+Employment
+Tri-City Medical
+2,850
+nla
+1,900
+nla
+Oceanside Unified School District
+2,300
+nla
+1,500
+nla
+City of Oceanside
+1,191
+nla
+789
+nla
+Mira Costa College
+801
+nla
+520
+nla
+Genentech
+593
+nla
+nla
+North County Transit District
+578
+nla
+430
+nla
+Oceans eleven Casino
+438
+nla
+nla
+Registry Network
+418
+nla
+nla
+Hydranautics
+397
+nla
+nla
+Sharp Mission Park Medical
+236
+nla
+400
+nla
+Deutsch Company
+nla
+500
+nla
+South Coast Newspapers
+nla
+300
+nla
+F Fashions Inc.
+nla
+300
+nla
+San Diego Auto Auction
+nla
+215
+nla
+Source: City of Oceanside Economic Development Department
+- 170-
+
+
+City of Oceanside
+Foil-time Eqnivalent City Government Employees by Fnnction/Program
+Last Five Years
+Fiscal Year
+Function
+2004
+2005
+2006
+2007
+2008
+General Government
+118
+114
+114
+117
+116
+Public Safety:
+Police
+272
+281
+287
+298
+323
+Fire
+145
+149
+149
+129
+131
+Public Works
+163
+167
+167
+165
+119
+Development Services
+33
+30
+31
+32
+75
+Neighborhood Services
+48
+47
+47
+79
+82
+Economic and Community Development
+13
+15
+12
+14
+14
+Library
+76
+76
+76
+44
+37
+Water Utilities
+141
+141
+141
+142
+141
+Harbor
+41
+40
+40
+39
+Total
+1,050
+1,060
+1,064
+1,059
+1,075
+Source: Financial Services Department
+- 171 -
+
+
+City of Oceanside
+Operating Indicators by Fnnction/Program
+Last Three Fiscal Years
+Fiscal Year
+2006
+2007
+2008
+Police:
+Arrests
+9,296
+10,646
+9,139
+Citations
+24,502
+25,233
+22,514
+Fire:
+Number of Emergency Calls
+11,256
+14,090
+15,678
+Inspections
+5,722
+6,135
+1,702
+Public Works:
+Street Resurfacing (lane miles)
+25
+25
+65
+Water:
+Average Daily Consumption (million Gallons)
+30
+30
+30
+Wastewater:
+Average Daily Sewage Treatment (million gallons)
+14
+13
+13
+Recreation:
+Number of Recreation Classes (quarterly)
+55
+55
+157
+Library:
+Total Volumes in Collection
+354,105
+353,464
+298,976
+Total Volumes Loaned
+488,848
+480,406
+516,222
+Source: Various City Departments
+- 172-
+
+
+City of Oceanside
+Capital Asset Statistics by Function
+Last Ten Fiscal Years
+Fiscal Year
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+Police:
+Number ot'Police Stations
+2
+o/a
+nla
+Fire:
+Number of Fire Stations
+7
+nla
+nla
+7
+7
+7
+7
+8
+8
+8
+Number of Engine
+Companies
+5
+nla
+nln
+5
+5
+7
+6
+6
+Number ofTruck/Rcscue
+Companies
+2
+nla
+o/a
+2
+2
+2
+2
+I
+2
+2
+Nwnber ofAmbulances
+4
+nla
+nla
+4
+4
+4
+4
+4
+4
+4
+Public Works:
+Miles of Streets
+384
+nln
+nla
+396
+392
+394
+394
+400
+400
+400
+Number of Street Lights
+(City Owned)
+9,750
+n/a
+nln
+7,600
+7,749
+7,823
+8,002
+8,002
+8,000
+10,000
+Utilities:
+Miles ofLines and Mains
+500
+nln
+nla
+500
+500
+500
+500
+550
+550
+600
+Nmnber ofWastewater
+Treatment Plant.."
+2
+o/n
+nln
+2
+2
+2
+2
+2
+2
+2
+Miles of Sewers
+450
+nla
+nia
+450
+450
+450
+450
+500
+500
+450
+Recreation and Cultural:
+Number of Parks (Improved
+and Unimproved)
+34
+o/n
+nln
+34
+38
+38
+38
+38
+38
+34
+Area of Parks (In Acres)
+373
+nln
+nla
+371
+592
+600
+600
+600
+670
+375
+Recreation and Senior
+Centers
+5
+n/a
+nla
+5
+5
+5
+5
+5
+5
+8
+Pools
+2
+nln
+o/a
+2
+2
+2
+2
+2
+2
+2
+Numb(,'f ofLibraries
+2
+n/a
+n/a
+2
+2
+2
+2
+3
+2
+2
+Nwnber ofLibrary Outlets
+nln
+n/n
+nln
+n/n
+nla
+o/a
+ola
+n/a
+2
+6
+Number ofBookmobiles
+2
+n/a
+nla
+2
+2
+2
+2
+2
+2
+2
+Computer Terminals for
+internet Access (Public)
+49
+nln
+n/a
+143
+94
+100
+100
+103
+106
+107
+Number of Visitors to
+Library
+nla
+ola
+nla
+o/a
+nln
+nla
+nla
+570,560
+609,497
+679,120
+Source: Vmious City Departments
+- 173 -
+
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I

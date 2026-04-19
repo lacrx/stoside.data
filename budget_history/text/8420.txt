@@ -1,0 +1,602 @@
+ 
+ 
+ 
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+SINGLE AUDIT REPORT 
+ 
+JUNE 30, 2017
+
+
+ 
+ 
+ 
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+JUNE 30, 2017 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+Page 
+ 
+Number 
+ 
+Independent Auditor’s Report on Internal Control Over Financial Reporting and on 
+Compliance and Other Matters Based on an Audit of Financial Statements Performed  
+in Accordance with Government Auditing Standards ...................................................................... 1 
+ 
+Independent Auditors’ Report on Compliance for Each Major Program and on Internal 
+Control Over Compliance; and Report on Schedule of Expenditures of Federal  
+Awards Required by the Uniform Guidance ........................................................................................ 3 
+ 
+Schedule of Expenditures of Federal Awards for the 
+Fiscal Year Ended June 30, 2017 ........................................................................................................ 6 
+ 
+Notes to the Schedule of Expenditures of Federal Awards .................................................................... 7 
+ 
+Schedule of Findings and Questioned Costs for the 
+Fiscal Year Ended June 30, 2017 ........................................................................................................ 8 
+ 
+Schedule of Prior Year Findings and Questioned Costs for the 
+Fiscal Year Ended June 30, 2016 ...................................................................................................... 10 
+ 
+ 
+ 
+
+
+ 
+ 
+INDEPENDENT AUDITORS’ REPORT ON INTERNAL CONTROL 
+OVER FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS 
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE 
+WITH GOVERNMENT AUDITING STANDARDS 
+ 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California  
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States, the financial statements of the governmental 
+activities, the business-type activities, each major fund, and the aggregate remaining fund information of 
+the City of Oceanside, California, (the City) as of and for the year ended June 30, 2017, and the related 
+notes to the financial statements, which collectively comprise the City’s basic financial statements, and 
+have issued our report thereon dated December 7, 2017. 
+ 
+Internal Control over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered the City’s internal control 
+over financial reporting (internal control) to determine the audit procedures that are appropriate in the 
+circumstances for the purpose of expressing our opinions on the financial statements, but not for the 
+purpose of expressing an opinion on the effectiveness of the City’s internal control. Accordingly, we do not 
+express an opinion on the effectiveness of the City’s internal control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow management 
+or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in 
+internal control such that there is a reasonable possibility that a material misstatement of the entity’s 
+financial statements will not be prevented, or detected and corrected on a timely basis. A significant 
+deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a 
+material weakness, yet important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies and therefore, material weaknesses or significant deficiencies may 
+exist that have not been identified. We did identify certain deficiencies in internal control as described in the 
+accompanying schedule of findings and questioned costs that we consider to be material weaknesses 
+(Finding Reference Number 2017-001). 
+ 
+203 N. Brea Blvd., Suite 203           Brea, CA 92821          Phone: 714.672.0022
+An Association of 
+Independent Accounting Firms 
+
+
+ 
+To the Honorable Mayor and Members of the City Council  
+City of Oceanside, California 
+ 
+ 
+Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether the City’s financial statements are free from 
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, 
+contracts, and grant agreements, noncompliance with which could have a direct and material effect on the 
+determination of financial statement amounts. However, providing an opinion on compliance with those 
+provisions was not an objective of our audit, and accordingly, we do not express such an opinion. The 
+results of our tests disclosed no instances of noncompliance or other matters that are required to be 
+reported under Government Auditing Standards. 
+ 
+The City of Oceanside’s Response to Findings 
+ 
+The City’s response to the findings identified in our audit is described in the accompanying schedule of 
+findings and questioned costs. The City’s response was not subjected to the auditing procedures applied 
+in the audit of the financial statements and, accordingly, we express no opinion on it. 
+ 
+Purpose of this Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance 
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal 
+control or on compliance. This report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering the entity’s internal control and compliance. Accordingly, 
+this communication is not suitable for any other purpose. 
+ 
+ 
+Brea, California 
+December 7, 2017 
+ 
+ 
+2
+
+
+INDEPENDENT AUDITORS’ REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM AND  
+ON INTERNAL CONTROL OVER COMPLIANCE; AND REPORT ON SCHEDULE OF EXPENDITURES 
+ OF FEDERAL AWARDS REQUIRED BY THE UNIFORM GUIDANCE 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California 
+Report on Compliance for Each Major Federal Program 
+We have audited the City of Oceanside, California (the City)’s compliance with the types of compliance 
+requirements described in the OMB Compliance Supplement that could have a direct and material effect 
+on each of the City’s major federal programs for the year ended June 30, 2017. The City’s major federal 
+programs are identified in the summary of auditor’s results section of the accompanying schedule of findings 
+and questioned costs. 
+Management’s Responsibility 
+Management is responsible for compliance with federal statues, regulations, and the terms and conditions 
+of its federal awards applicable to its federal programs. 
+Auditor’s Responsibility 
+Our responsibility is to express an opinion on compliance for each of the City’s major federal programs 
+based on our audit of the types of compliance requirements referred to above. We conducted our audit of 
+compliance in accordance with auditing standards generally accepted in the United States of America; the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance). Those standards and the Uniform Guidance require that we plan and 
+perform the audit to obtain reasonable assurance about whether noncompliance with the types of 
+compliance requirements referred to above that could have a direct and material effect on a major federal 
+program occurred. An audit includes examining, on a test basis, evidence about the City’s compliance with 
+those requirements and performing such other procedures as we considered necessary in the 
+circumstances. 
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal 
+program. However, our audit does not provide a legal determination of the City’s compliance. 
+Opinion on Each Major Federal Program 
+In our opinion, the City complied, in all material respects, with the types of compliance requirements referred 
+to above that could have a direct and material effect on each of its major federal programs for the year 
+ended June 30, 2017. 
+203 N. Brea Blvd., Suite 203           Brea, CA 92821          Phone: 714.672.0022
+An Association of 
+Independent Accounting Firms 
+
+
+ 
+To the Honorable Mayor and Members of the City Council  
+City of Oceanside, California 
+ 
+Report on Internal Control over Compliance 
+ 
+Management of the City is responsible for establishing and maintaining effective internal control over 
+compliance with the types of compliance requirements referred to above. In planning and performing our 
+audit of compliance, we considered the City’s internal control over compliance with the types of 
+requirements that could have a direct and material effect on each major federal program to determine the 
+auditing procedures that are appropriate in the circumstances for the purpose of expressing an opinion on 
+compliance for each major federal program and to test and report on internal control over compliance in 
+accordance with the Uniform Guidance, but not for the purpose of expressing an opinion on the 
+effectiveness of internal control over compliance. Accordingly, we do not express an opinion on the 
+effectiveness of the City’s internal control over compliance. 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis. A material weakness in internal control over compliance is a deficiency, 
+or combination of deficiencies, in internal control over compliance, such that there is a reasonable possibility 
+that material noncompliance with a type of compliance requirement of a federal program will not be 
+prevented, or detected and corrected, on a timely basis. A significant deficiency in internal control over 
+compliance is a deficiency, or a combination of deficiencies, in internal control over compliance with a type 
+of compliance requirement of a federal program that is less severe than a material weakness in internal 
+control over compliance, yet important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the first 
+paragraph of this section and was not designed to identify all deficiencies in internal control over compliance 
+that might be material weaknesses or significant deficiencies. We did not identify any deficiencies in internal 
+control over compliance that we consider to be material weaknesses.  However, material weaknesses may 
+exist that have not been identified. 
+ 
+Report on the Schedule of Expenditures of Federal Awards Required by the Uniform Guidance 
+ 
+We have audited the financial statements of the governmental activities, the business-type activities, each 
+major fund, and the aggregate remaining fund information of the City of Oceanside, California, as of and 
+for the year ended June 30, 2017, and the related notes to the financial statements, which collectively 
+comprise the City’s basic financial statements.  We issued our report thereon dated December 7, 2017, 
+which contained an unmodified opinion on those financial statements. Our audit was conducted for the 
+purpose of forming opinions on the financial statements that collectively comprise the basic financial 
+statements. The accompanying schedule of expenditures of federal awards is presented for the purposes 
+of additional analysis as required by the Uniform Guidance and is not a required part of the basic financial 
+statements. Such information is the responsibility of management and was derived from and relates directly 
+to the underlying accounting and other records used to prepare the basic financial statements. The 
+information has been subjected to the auditing procedures applied in the audit of the financial statements 
+and certain additional procedures, including comparing and reconciling such information directly to the 
+underlying accounting and other records used to prepare the basic financial statements or to the basic 
+financial statements themselves, and other additional procedures in accordance with auditing standards 
+generally accepted in the United States of America. In our opinion, the schedule of expenditures of federal 
+awards is fairly stated in all material respects in relation to the basic financial statements as a whole. 
+4
+
+
+ 
+To the Honorable Mayor and Members of the City Council  
+City of Oceanside, California 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing 
+of internal control over compliance and the results of that testing based on the requirements of the Uniform 
+Guidance. Accordingly, this report is not suitable for any other purpose. 
+ 
+ 
+Brea, California 
+February 5, 2018 (except for our report on the Schedule of Expenditures of Federal Awards, for which the 
+date is December 7, 2017.) 
+5
+
+
+CITY OF OCEANSIDE, CALIFORNIA
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2017
+Federal
+Pass-Through
+CFDA
+Entity Identifying
+Passed Through
+Total Federal
+Federal Grantor/Pass-Through Grantor/Program Title
+Number
+Number
+to Subrecipients
+Expenditures
+U.S. Department of Housing and Urban Development
+Direct Awards:
+Community Development Block Grants/Entitlement Grants *
+14.218
+N/A
+617,081
+$            
+2,063,899
+$         
+Supportive Housing Program
+14.235
+N/A
+-
+                          
+147,123
+              
+HOME Investment Partnerships Program
+14.239
+N/A
+-
+                          
+810,387
+              
+Section 8 Housing Choice Vouchers *
+14.871
+N/A
+-
+                          
+17,427,941
+         
+Total U.S. Department of Housing and Urban Development
+617,081
+              
+20,449,350
+         
+U.S. Department of Justice
+Direct Awards:
+Edward Byrne Memorial Justice Assistance Grant Program
+16.738
+N/A
+-
+                          
+79,880
+                
+Congressionally Recommended Awards
+16.753
+N/A
+-
+                          
+22,225
+                
+Recovery Act - Internet Crimes against Children Task Force Program
+16.800
+N/A
+-
+                          
+252
+                     
+Equitable Sharing Program
+16.922
+N/A
+-
+                          
+72,782
+                
+Total U.S. Department of Justice
+-
+                          
+175,139
+              
+U.S. Department of Transportation
+Direct Awards:
+Airport Improvement Program
+20.106
+N/A
+-
+                          
+186,427
+              
+Passed Through:
+State of California Department of Transportation (Caltrans):
+Highway Planning and Construction *
+20.205
+BRLS-5079(30)
+-
+                          
+798,986
+              
+Highway Planning and Construction *
+20.205
+BRLSZD-5079(029)
+-
+                          
+269,175
+              
+Highway Planning and Construction *
+20.205
+HSIPL-5079(031)
+-
+                          
+3,632
+                  
+Highway Planning and Construction *
+20.205
+STPLR-700(238)
+-
+                          
+43,119
+                
+State of California Office of Traffic Safety:
+State and Community Highway Safety
+20.600
+PT16143
+-
+                          
+38,896
+                
+State and Community Highway Safety
+20.600
+PT1783
+-
+                          
+85,384
+                
+Total U.S. Department of Transportation
+-
+                          
+1,425,619
+           
+U.S. Department of Homeland Security
+Passed Through:
+County of San Diego Office of Emergency Services
+Homeland Security Grant Program *
+97.067
+2015-1078
+-
+                          
+98,015
+                
+Homeland Security Grant Program *
+97.067
+2016-0102
+-
+                          
+28,338
+                
+City of San Diego Office of Homeland Security
+Homeland Security Grant Program *
+97.067
+2015-00078
+-
+                          
+124,793
+              
+Homeland Security Grant Program *
+97.067
+2016-00102
+-
+                          
+12,852
+                
+Total U.S. Department of Homeland Security
+-
+                          
+263,998
+              
+Total Federal Expenditures
+617,081
+$            
+22,314,106
+$       
+* Major Program
+Note a: Refer to Note 1 to the schedule of expenditures of federal awards for a description of significant accounting policies used in preparing this schedule.
+Note b: There was no federal awards expended in the form of noncash assistance and insurance in effect during the year.
+Note c: The City expended $279,194 for repayment of the Section 108 Loan Program using Community Development Block Grants/Entitlement Grants
+funding during fiscal year 2016-2017. Refer to Note 2 to the schedule of expenditures of federal awards for a description of the Section 108 Loan
+Program.
+6
+
+
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+NOTES TO THE SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+FOR THE YEAR ENDED JUNE 30, 2017 
+ 
+Note 1: 
+Summary of Significant Accounting Policies Applicable to the Schedule of Expenditures of 
+Federal Awards 
+ 
+a. Scope of Presentation 
+ 
+The accompanying schedule presents only the expenditures incurred by the City of 
+Oceanside, California, that are reimbursable under federal programs of federal financial 
+assistance. For the purposes of this schedule, federal awards include both federal financial 
+assistance received directly from a federal agency, as well as federal funds received 
+indirectly by the City from a non-federal agency or other organization. Only the portion of 
+program expenditures reimbursable with such federal funds is reported in the accompanying 
+schedule. Program expenditures in excess of the maximum federal reimbursement 
+authorized or the portion of the program expenditures that were funded with state, local or 
+other non-federal funds are excluded from the accompanying schedule. 
+ 
+b. Basis of Accounting 
+ 
+The expenditures included in the accompanying schedule were reported on the modified 
+accrual basis of accounting. Under the modified accrual basis of accounting, expenditures are 
+incurred when the City becomes obligated for payment as a result of the receipt of the related 
+goods and services. Expenditures reported included any property or equipment acquisitions 
+incurred under the federal program. The City has elected not to use the  
+10-percent de minimis indirect cost rate allowed under the Uniform Guidance. 
+ 
+Note 2: 
+Section 108 Loan Program 
+ 
+In June 2008, the City entered into a contract with the United States Department of Housing and 
+Urban Development for Loan Guarantee Assistance under Section 108 of the Housing and 
+Community Development Act of 1974, as amended, 42 U.S.C. Section 5308 for Series 2008-A 
+Certificates.  The loans are due in annual installments ranging from $154,000 to $279,000.  
+Interest is payable quarterly at a rate of 4.8 percent.  At June 30, 2017, the outstanding balance of 
+the loans was $2,529,000. 
+ 
+7
+
+
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2017 
+SECTION I - SUMMARY OF AUDITORS' RESULTS 
+ 
+Financial Statements 
+ 
+Type of auditors' report issued:  Unmodified Opinion 
+ 
+Internal control over financial reporting: 
+ 
+ 
+Significant deficiencies identified? 
+        yes 
+   X   no 
+ 
+ 
+Material weaknesses identified? 
+   X   yes 
+        none reported 
+ 
+Noncompliance material to financial 
+statements noted? 
+        yes 
+   X   no 
+ 
+Federal Awards 
+ 
+Internal control over major programs: 
+ 
+ 
+Significant deficiencies identified? 
+        yes 
+   X   no 
+ 
+ 
+Material weaknesses identified? 
+        yes 
+   X   none reported 
+ 
+Type of auditors' report issued on compliance for major programs:  Unmodified Opinion 
+ 
+Any audit findings disclosed that are required to be 
+reported in accordance with the Uniform Guidance? 
+        yes 
+   X   no 
+ 
+Identification of major programs: 
+ 
+CFDA Number(s) 
+Name of Federal Program or Cluster   
+ 
+14.218 
+Community Development Block Grants/Entitlement Grants 
+14.871 
+Section 8 Housing Choice Vouchers 
+20.205 
+Highway Planning and Construction 
+97.067 
+Homeland Security Grant Program 
+ 
+Dollar threshold used to distinguish 
+between type A and type B program 
+$750,000  
+ 
+Auditee qualified as low-risk auditee? 
+ 
+         yes 
+   X   no 
+8
+
+
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2017 
+ 
+SECTION II - FINANCIAL STATEMENT FINDINGS 
+ 
+Finding Reference Number: 
+2017-001 
+ 
+As part of our audit procedures, we reconciled beginning fund balance to the prior year’s ending fund balance. 
+ We noted that the City made several material prior period adjustments to restate beginning fund balance due 
+to corrections of errors in prior years.  These prior period errors were identified by City personnel and 
+corrected prior to our audit testwork being performed. 
+ 
+Recommendation 
+ 
+We recommend that the City implement review procedures during the year-end closing process to identify 
+errors in a timelier manner and avoid having to restate beginning fund balance. 
+ 
+The City of Oceanside’s View and Corrective Action 
+ 
+Discovery of these errors were a result of management implementing diligent monthly review of budget versus 
+actual anomalies and an extensive balance sheet review in fiscal year 2016-2017.  As stated in the auditor’s 
+finding, these adjustments were discovered by management.  One adjustment was an accounting error 
+resulting from a write-off of an invoice.  Procedures are being reviewed to mitigate this in the future. 
+ 
+ 
+SECTION III - FEDERAL AWARD FINDINGS AND QUESTIONED COSTS 
+ 
+No matters were reported. 
+9
+
+
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+SCHEDULE OF PRIOR YEAR FINDINGS AND QUESTIONED COSTS 
+FOR THE FISCAL YEAR ENDED JUNE 30, 2016 
+SECTION I - FINANCIAL STATEMENT FINDINGS 
+ 
+No matters were reported. 
+ 
+ 
+SECTION II - FEDERAL AWARD FINDINGS AND QUESTIONED COSTS 
+ 
+No matters were reported. 
+ 
+10

@@ -1,0 +1,940 @@
+ 
+CITY OF OCEANSIDE, CALFORNIA
+JUNE 30, 2021 
+SINGLE AUDIT REPORT 
+
+
+
+&,7<2)2&($16,'(&$/,)251,$
+
+6,1*/($8',75(3257
+
+-81(
+
+
+ 
+ 
+ 
+ 
+CITY OF OCEANSIDE, CALIFORNIA 
+ 
+SINGLE AUDIT REPORT 
+ 
+JUNE 30, 2021 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+Page 
+ 
+Number 
+ 
+Independent Auditors’ Report on Internal Control Over Financial Reporting and on 
+Compliance and Other Matters Based on an Audit of Financial Statements Performed  
+in Accordance with Government Auditing Standards ...................................................................... 1 
+ 
+Independent Auditors’ Report on Compliance for Each Major Program and on Internal 
+Control Over Compliance; and Report on Schedule of Expenditures of Federal  
+Awards Required by the Uniform Guidance ........................................................................................ 3 
+ 
+Schedule of Expenditures of Federal Awards for the 
+Fiscal Year Ended June 30, 2021 ........................................................................................................ 6 
+ 
+Notes to the Schedule of Expenditures of Federal Awards .................................................................... 8 
+ 
+Schedule of Findings and Questioned Costs for the 
+Fiscal Year Ended June 30, 2021 ........................................................................................................ 9 
+ 
+Summary Schedule of Prior Year Findings and Questioned Costs for the 
+Fiscal Year Ended June 30, 2020 ...................................................................................................... 11 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+203N.BreaBlvd.,Suite203
+Brea,CA92821
+Lance, Soll & Lunghard, LLP 
+Phone: 714.672.0022 
+INDEPENDENT AUDITORS’ REPORT ON INTERNAL CONTROL 
+OVER FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS 
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE 
+WITH GOVERNMENT AUDITING STANDARDS 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California  
+We have audited, in accordance with the auditing standards generally accepted in the United States  
+of America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States, the financial statements of the governmental 
+activities, the business-type activities, each major fund, and the aggregate remaining fund information of 
+the City of Oceanside, California (the City), as of and for the year ended June 30, 2021, and the related 
+notes to the financial statements, which collectively comprise the City’s basic financial statements, and 
+have issued our report thereon dated November 23, 2021. 
+Internal Control over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered the City’s internal control 
+over financial reporting (internal control) as a basis for designing audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinions on the financial statements, but not for the 
+purpose of expressing an opinion on the effectiveness of the City’s internal control. Accordingly, we do not 
+express an opinion on the effectiveness of the City’s internal control. 
+A deficiency in internal control exists when the design or operation of a control does not allow management 
+or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in 
+internal control, such that there is a reasonable possibility that a material misstatement of the entity’s 
+financial statements will not be prevented or detected and corrected on a timely basis. A significant 
+deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a 
+material weakness, yet important enough to merit attention by those charged with governance. 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or, significant deficiencies. Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses. However, material weaknesses 
+may exist that have not been identified. 
+Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether the City’s financial statements are free from 
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, 
+contracts, and grant agreements, noncompliance with which could have a direct and material effect on the 
+financial statements. However, providing an opinion on compliance with those provisions was not  
+an objective of our audit, and accordingly, we do not express such an opinion. The results of our tests 
+disclosed no instances of noncompliance or other matters that are required to be reported under 
+Government Auditing Standards. 
+
+
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California 
+Purpose of this Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance 
+and the results of that testing, and not to provide an opinion on the effectiveness of the City’s internal 
+control or on compliance. This report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering the City’s internal control and compliance. Accordingly, 
+this communication is not suitable for any other purpose. 
+Brea, California 
+November 23, 2021 
+2
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+203N.BreaBlvd.,Suite203
+Brea,CA92821
+Lance, Soll & Lunghard, LLP 
+Phone: 714.672.0022 
+INDEPENDENT AUDITORS’ REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM  
+AND ON INTERNAL CONTROL OVER COMPLIANCE AND REPORT ON SCHEDULE OF 
+EXPENDITURES OF FEDERAL AWARDS REQUIRED BY THE UNIFORM GUIDANCE 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California 
+Report on Compliance for Each Major Federal Program 
+Opinion on Each Major Federal Program 
+We have audited the City of Oceanside, California (the “City”)’s compliance with the types of compliance 
+requirements described in the OMB Compliance Supplement that could have a direct and material effect 
+on each of the City’s major federal programs for the year ended June 30, 2021. The City’s major federal 
+programs are identified in the summary of auditor’s results section of the accompanying schedule of findings 
+and questioned costs. 
+In our opinion, the City complied, in all material respects, with the types of compliance requirements referred 
+to above that could have a direct and material effect on each of its major federal programs for the year 
+ended June 30, 2021. 
+Basis for Opinion 
+We conducted our audit of compliance in accordance with auditing standards generally accepted in the 
+United States of America (GAAS); the standards applicable to financial audits contained in  
+Government Auditing Standards, issued by the Comptroller General of the United States; and the audit 
+requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, 
+Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance).  Our responsibilities 
+under those standards and the Uniform Guidance are further described in the Auditor’s Responsibilities for 
+the Audit of Compliance section of our report. 
+We are required to be independent of the City and to meet our other ethical responsibilities, in accordance 
+with relevant ethical requirements relating to our audit.  We believe the audit evidence we have obtained is 
+sufficient and appropriate to provide a basis for our opinion.  Our audit does not provide a legal 
+determination of the City’s compliance with the compliance requirements referred to above. 
+Responsibilities of Management for Compliance 
+Management is responsible for compliance with the requirements referred to above and for the design, 
+implementation, and maintenance of effective internal control over compliance with the requirements of 
+laws, statutes, regulations, rules, and provisions of contracts or grant agreements applicable to the City’s 
+government programs. 
+
+
+ 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California 
+ 
+ 
+Auditor’s Responsibilities for the Audit of Compliance 
+ 
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the 
+compliance requirements referred to above, whether due to fraud or error, and express an opinion on the 
+City’s compliance based on our audit.  Reasonable assurance is a high level of assurance but is not 
+absolute assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS, 
+Government Auditing Standards, and the Uniform Guidance will always detect material noncompliance 
+when it exists.  The risk of not detecting material noncompliance resulting from fraud is higher than for that 
+resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or 
+the override of internal control.  Noncompliance with the compliance requirements referred to above is 
+considered material if there is a substantial likelihood that, individually or in the aggregate, it would influence 
+the judgment made by a reasonable user of the report on compliance about the City’s compliance with the 
+requirements of the government program as a whole. 
+ 
+In performing an audit in accordance with GAAS, Government Auditing Standards, and  
+Uniform Guidance, we: 
+ 
+ 
+Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ 
+ 
+Identify and assess the risks of material noncompliance, whether due to fraud or error, and design 
+and perform audit procedures responsive to those risks.  Such procedures include examining, on 
+a test basis, evidence regarding the City’s compliance with the compliance requirements referred 
+to above and performing such other procedures as we considered necessary in the circumstances. 
+ 
+ 
+Obtain an understanding of the City’s internal control over compliance relevant to the audit in order 
+to design audit procedures that are appropriate in the circumstances and to test and report on 
+internal control over compliance in accordance with Uniform Guidance, but not for the purpose of 
+expressing an opinion on the effectiveness of the City’s internal control over compliance.  
+Accordingly, no such opinion is expressed. 
+ 
+We are required to communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit and any significant deficiencies and material weaknesses in internal 
+control over compliance that we identified during the audit. 
+ 
+Report on Internal Control over Compliance 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis. A material weakness in internal control over compliance is a deficiency, 
+or a combination of deficiencies, in internal control over compliance, such that there is a reasonable 
+possibility that material noncompliance with a type of compliance requirement of a federal program will not 
+be prevented, or detected and corrected, on a timely basis. A significant deficiency in internal control over 
+compliance is a deficiency, or a combination of deficiencies, in internal control over compliance that is less 
+severe than a material weakness in internal control over compliance, yet important enough to merit attention 
+by those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the  
+Auditor’s Responsibilities for the Audit of Compliance section above and was not designed to identify all 
+deficiencies in internal control over compliance.  Given these limitations, during our audit we did not identify 
+any deficiencies in internal control over compliance that we consider to be a material weakness, as defined 
+above.  However, material weaknesses or significant deficiencies in internal control over compliance may 
+exist that have not been identified.
+4
+
+
+ 
+To the Honorable Mayor and Members of the City Council 
+City of Oceanside, California 
+ 
+ 
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal control 
+over compliance.  Accordingly, no such opinion is expressed. 
+ 
+Report on Schedule of Expenditures of Federal Awards Required by the Uniform Guidance 
+ 
+We have audited the financial statements of the governmental activities, the business-type activities, each 
+major fund, and the aggregate remaining fund information of the City, as of and for the year ended  
+June 30, 2021, and the related notes to the financial statements, which collectively comprise the City’s 
+basic financial statements. We issued our report thereon dated November 23, 2021, which contained 
+unmodified opinions on those financial statements. Our audit was conducted for the purpose of forming 
+opinions on the financial statements that collectively comprise the basic financial statements. The 
+accompanying schedule of expenditures of federal awards is presented for purposes of additional analysis 
+as required by the Uniform Guidance and is not a required part of the basic financial statements. Such 
+information is the responsibility of management and was derived from and relates directly to the underlying 
+accounting and other records used to prepare the basic financial statements. The information has been 
+subjected to the auditing procedures applied in the audit of the financial statements and certain additional 
+procedures, including comparing and reconciling such information directly to the underlying accounting and 
+other records used to prepare the basic financial statements or to the basic financial statements 
+themselves, and other additional procedures in accordance with auditing standards generally accepted in 
+the United States of America. In our opinion, the schedule of expenditures of federal awards is fairly stated 
+in all material respects in relation to the basic financial statements as a whole. 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing 
+of internal control over compliance and the results of that testing based on the requirements of the  
+Uniform Guidance. Accordingly, this report is not suitable for any other purpose. 
+ 
+ 
+Brea, California 
+January 12, 2022 (except for the Report on Schedule of Expenditures of Federal Awards Required by the 
+Uniform Guidance which is dated November 23, 2021) 
+ 
+ 
+5
+
+
+CITY OF OCEANSIDE, CALIFORNIA
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2021
+Assistance
+Listing
+Pass-Through Entity
+Passed-Through
+Total Federal
+Number
+Identifying Number
+to Subrecipients
+Expenditures
+CDBG - Entitlement Grants Cluster
+Department of Housing and Urban Development Direct Programs:
+Community Development Block Grants/Entitlement Grants
+14.218
+N/A
+52,726
+$                
+886,055
+$              
+COVID-19 - Community Development Block Grants/Entitlement Grants
+14.218
+N/A
+340,532
+                
+1,136,664
+             
+Subtotal - Assistance Listing 14.218
+393,258
+                
+2,022,719
+             
+Total Department of Housing and Urban Development Programs in Cluster
+393,258
+                
+2,022,719
+             
+Total CDBG - Entitlement Grants Cluster
+393,258
+                
+2,022,719
+             
+Housing Voucher Cluster *
+Department of Housing and Urban Development Direct Programs:
+Section 8 Housing Choice Vouchers
+14.871
+N/A
+-
+                            
+20,871,680
+           
+COVID-19 - Housing Assistance Payments
+14.871
+N/A
+-
+                            
+1,662,462
+             
+COVID-19 - Administrative Fee Funding
+14.871
+N/A
+-
+                            
+227,031
+                
+Subotal - Assistance Listing 14.871
+-
+                            
+22,761,173
+           
+Mainstream Vouchers
+14.879
+N/A
+-
+                            
+617,738
+                
+Total Department of Housing and Urban Development Programs in Cluster
+-
+                            
+23,378,911
+           
+Total Housing Voucher Cluster
+-
+                            
+23,378,911
+           
+Highway Planning and Construction Cluster
+Department of Transportation Pass-Through Programs from
+State of California Department of Transportation (Caltrans):
+Highway Planning and Construction 
+20.205
+94-900-7744
+-
+                            
+499,017
+                
+Total Department of Transportation Programs in Cluster
+-
+                            
+499,017
+                
+Total Highway Planning and Construction Cluster
+-
+                            
+499,017
+                
+Highway Safety Cluster
+Department of Transportation Pass-Through Programs from
+State of California Office of Traffic and Safety:
+State and Community Highway Safety
+20.600
+96-505-3908
+-
+                            
+174,222
+                
+Total Department of Transportation Programs in Cluster
+-
+                            
+174,222
+                
+Total Highways Safety Cluster
+-
+                            
+174,222
+                
+Other Programs
+Department of Housing and Urban Development Direct Programs:
+HOME Investment Partnerships Program
+14.239
+N/A
+-
+                            
+72,361
+                  
+Continuum of Care Program
+14.267
+N/A
+-
+                            
+62,409
+                  
+Total U.S. Department of Housing and Urban Development
+-
+                            
+134,770
+                
+Department of the Interior Direct Programs:
+WaterSMART - Desalinization
+15.506
+N/A
+-
+                            
+93,009
+                  
+WaterSMART - Water and Energy Efficiency Program
+15.507
+N/A
+-
+                            
+333,529
+                
+Total U.S. Department of the Interior
+-
+                            
+426,538
+                
+Department of Justice Direct Programs:
+COVID-19 - COVID Emergency Supplemental Funding (PPE)
+16.034
+N/A
+-
+                            
+72,945
+                  
+Edward Byrne Memorial Justice Assistance Grant Program
+16.738
+N/A
+-
+                            
+61,835
+                  
+Congressionally Recommended Awards
+16.753
+N/A
+-
+                            
+5,847
+                    
+Recovery Act - Internet Crimes against Children Task Force Program
+16.800
+N/A
+-
+                            
+1,372
+                    
+Equitable Sharing Program
+16.922
+N/A
+-
+                            
+36,626
+                  
+Bureau of Alcohol, Tobacco, Firearms and Explosives
+16.U01
+N/A
+-
+                            
+25,400
+                  
+Total U.S. Department of Justice
+-
+                            
+204,025
+                
+Department of Transportation Direct Programs:
+Airport Improvement Program
+20.106
+N/A
+-
+                            
+30,000
+                  
+Total U.S. Department of Transportation
+-
+                            
+30,000
+                  
+National Endowment for the Arts:
+Direct Programs:
+Grants to States
+45.310
+N/A
+-
+                            
+4,832
+                    
+Passed through the State of California Library:
+Grants to States
+45.310
+95-020-5898
+-
+                            
+17,135
+                  
+Subtotal - Assistance Listing 45.310
+-
+                            
+21,967
+                  
+Total U.S. National Endowment for the Arts
+-
+                            
+21,967
+                  
+Department of Homeland Security:
+Direct Programs:
+Assistance to Firefighters Grant
+97.044
+N/A
+-
+                            
+179,611
+                
+Passed through the State of California Emergency Management Agency:
+Homeland Security Grant Program 
+97.067
+00-958-1646
+-
+                            
+103,455
+                
+Passed through the County of San Diego Office of Homeland Security:
+Homeland Security Grant Program 
+97.067
+00-958-1028
+-
+                            
+59,528
+                  
+Subtotal - Assistance Listing 97.067
+-
+                            
+162,983
+                
+Total U.S. Department of Homeland Security
+-
+                            
+342,594
+                
+Federal Grantor/Pass-Through
+Grantor/Program or Cluster Title
+The notes to the schedule of expenditures of federal awards are an integral part of this schedule.
+6
+
+
+CITY OF OCEANSIDE, CALIFORNIA
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2021
+Assistance
+Listing
+Pass-Through Entity
+Passed-Through
+Total Federal
+Number
+Identifying Number
+to Subrecipients
+Expenditures
+Federal Grantor/Pass-Through
+Grantor/Program or Cluster Title
+Department of the Treasury Pass-Through Programs from
+State of California
+COVID-19 - Coronavirus Relief Fund*
+21.019
+N/A
+-
+                            
+1,944,139
+             
+COVID-19 - State and Local Fiscal Recovery Funds*
+21.027
+N/A
+-
+                            
+256,729
+                
+County of San Diego:
+COVID-19 - Coronavirus Relief Fund*
+21.019
+00-958-1646
+-
+                            
+2,965,993
+             
+Total U.S. Department of Treasury
+-
+                            
+5,166,861
+             
+Total Other Programs
+-
+                            
+6,326,755
+             
+Total Expenditures of Federal Awards
+393,258
+$              
+32,401,624
+$         
+Assistance
+Listing
+Passed-Through
+Total Federal
+Number
+to Subrecipients
+Expenditures
+Department of Housing and Urban Development:
+COVID-19 - Community Development Block Grants/Entitlement Grants
+14.218
+340,532
+$              
+1,136,664
+$           
+COVID-19 - Housing Assistance Payments
+14.871
+-
+                            
+1,662,462
+             
+COVID-19 - Administrative Fee Funding
+14.871
+-
+                            
+227,031
+                
+Total Department of Housing and Urban Development Programs
+-
+                            
+3,026,157
+             
+Department of the Treasury:
+COVID-19 - State and Local Fiscal Recovery Funds*
+21.027
+-
+                            
+256,729
+                
+COVID-19 - Coronavirus Relief Fund*
+21.019
+-
+                            
+4,910,132
+             
+Total Department of the Treasury Programs
+-
+                            
+5,166,861
+             
+Total Coronavirus Emergency Acts Funding
+-
+$                          
+8,193,018
+$           
+* Major Program
+2 The City expended $219,442 for repayment of the Section 108 Loan Program using Community Development Block Grants/Entitlement Grants funding during fiscal year 2020-2021. Refer to
+Note 2 to the schedule of expenditures of federal awards for a description of the Section 108 Loan Program.
+CORONAVIRUS EMERGENCY ACTS FUNDING RECONCILIATION
+Federal Grantor/Pass-Through
+Grantor/Program or Cluster Title
+1 There was no federal awards expended in the form of noncash assistance and insurance in effect during the year.
+The notes to the schedule of expenditures of federal awards are an integral part of this schedule.
+7
+
+
+&,7<2)2&($16,'(&$/,)251,$
+
+127(6727+(6&+('8/(2)(;3(1',785(62))('(5$/$:$5'6
+)257+(<($5(1'('-81(
+
+1RWH
+6XPPDU\RI6LJQLILFDQW$FFRXQWLQJ3ROLFLHV$SSOLFDEOHWRWKH6FKHGXOHRI([SHQGLWXUHV
+RI)HGHUDO$ZDUGV
+
+D 6FRSHRI3UHVHQWDWLRQ
+
+7KH DFFRPSDQ\LQJ VFKHGXOH SUHVHQWV RQO\ WKH H[SHQGLWXUHV LQFXUUHG E\ WKH
+&LW\RI2FHDQVLGH&DOLIRUQLDWKH&LW\WKDWDUHUHLPEXUVDEOHXQGHUIHGHUDOSURJUDPVRI
+IHGHUDOILQDQFLDODVVLVWDQFH)RUWKHSXUSRVHVRIWKLVVFKHGXOHIHGHUDODZDUGVLQFOXGHERWK
+IHGHUDOILQDQFLDODVVLVWDQFHUHFHLYHGGLUHFWO\IURPDIHGHUDODJHQF\DVZHOODVIHGHUDOIXQGV
+UHFHLYHGLQGLUHFWO\E\WKH&LW\IURPDQRQIHGHUDODJHQF\RURWKHURUJDQL]DWLRQ2QO\WKH
+SRUWLRQRISURJUDPH[SHQGLWXUHVUHLPEXUVDEOHZLWKVXFKIHGHUDOIXQGVLVUHSRUWHGLQWKH
+DFFRPSDQ\LQJ VFKHGXOH 3URJUDP H[SHQGLWXUHV LQ H[FHVV RI WKH PD[LPXP IHGHUDO
+UHLPEXUVHPHQWDXWKRUL]HGRUWKHSRUWLRQRIWKHSURJUDPH[SHQGLWXUHVWKDWZHUHIXQGHGZLWK
+VWDWHORFDORURWKHUQRQIHGHUDOIXQGVDUHH[FOXGHGIURPWKHDFFRPSDQ\LQJVFKHGXOH
+
+E %DVLVRI$FFRXQWLQJ
+
+7KHH[SHQGLWXUHVLQFOXGHGLQWKHDFFRPSDQ\LQJVFKHGXOHZHUHUHSRUWHGRQWKHPRGLILHG
+DFFUXDOEDVLVRIDFFRXQWLQJ8QGHUWKHPRGLILHGDFFUXDOEDVLVRIDFFRXQWLQJH[SHQGLWXUHV
+DUHLQFXUUHGZKHQWKH&LW\EHFRPHVREOLJDWHGIRUSD\PHQWDVDUHVXOWRIWKHUHFHLSWRIWKH
+UHODWHGJRRGVDQGVHUYLFHV([SHQGLWXUHVUHSRUWHGLQFOXGHGDQ\SURSHUW\RUHTXLSPHQW
+DFTXLVLWLRQV LQFXUUHG XQGHU WKH IHGHUDO SURJUDP 7KH &LW\ KDV HOHFWHG QRW WR XVH WKH
+SHUFHQWGHPLQLPLVLQGLUHFWFRVWUDWHDOORZHGXQGHUWKH8QLIRUP*XLGDQFH
+
+1RWH
+6HFWLRQ/RDQ3URJUDP
+
+,Q-DQXDU\WKH&LW\HQWHUHGLQWRDFRQWUDFWZLWKWKH8QLWHG6WDWHV'HSDUWPHQWRI+RXVLQJ
+DQG8UEDQ'HYHORSPHQWIRU/RDQ*XDUDQWHH$VVLVWDQFHXQGHU6HFWLRQRIWKH+RXVLQJDQG
+&RPPXQLW\'HYHORSPHQW$FWRIDVDPHQGHG86&6HFWLRQ7KHORDQVDUHGXH
+LQDQQXDOLQVWDOOPHQWVUDQJLQJIURPWR,QWHUHVWLVSD\DEOHTXDUWHUO\DWDUDWH
+RISHUFHQW7KHRXWVWDQGLQJEDODQFHDW-XQHZDV7KH&LW\SOHGJHG
+&RPPXQLW\'HYHORSPHQW%ORFN*UDQWV(QWLWOHPHQW*UDQWVSURJUDPDOORFDWLRQVDQGSURJUDP
+LQFRPHDVVHFXULW\IRUWKHORDQ
+
+
+
+8
+
+
+&,7<2)2&($16,'(&$/,)251,$
+
+6&+('8/(2)),1',1*6$1'48(67,21('&2676
+)257+(),6&$/<($5(1'('-81(
+
+
+6(&7,21,6800$5<2)$8',7256
+5(68/76
+
+)LQDQFLDO6WDWHPHQWV
+
+7\SHRIDXGLWRUV
+UHSRUWLVVXHG8QPRGLILHG2SLQLRQ
+
+,QWHUQDOFRQWURORYHUILQDQFLDOUHSRUWLQJ
+
+x
+0DWHULDOZHDNQHVVHVLGHQWLILHG"
+\HV
+;QR
+
+x
+6LJQLILFDQWGHILFLHQFLHVLGHQWLILHG"
+\HV
+;QRQHUHSRUWHG
+
+1RQFRPSOLDQFHPDWHULDOWRILQDQFLDO
+VWDWHPHQWVQRWHG"
+\HV
+;QR
+
+)HGHUDO$ZDUGV
+
+,QWHUQDOFRQWURORYHUPDMRUSURJUDPV
+
+x
+0DWHULDOZHDNQHVVHVLGHQWLILHG"
+\HV
+;QR
+
+x
+6LJQLILFDQWGHILFLHQFLHVLGHQWLILHG"
+\HV
+;QRQHUHSRUWHG
+
+7\SHRIDXGLWRUV
+UHSRUWLVVXHGRQFRPSOLDQFHIRUPDMRUSURJUDPV8QPRGLILHG2SLQLRQ
+
+$Q\DXGLWILQGLQJVGLVFORVHGWKDWDUHUHTXLUHGWREH
+UHSRUWHGLQDFFRUGDQFHZLWKWKH8QLIRUP*XLGDQFH"
+\HV
+;QR
+
+,GHQWLILFDWLRQRIPDMRUSURJUDPV
+
+$VVLVWDQFH/LVWLQJ1XPEHUV
+1DPHRI)HGHUDO3URJUDPRU&OXVWHU
+
+DQG
++RXVLQJ9RXFKHU&OXVWHU
+
+&RURQDYLUXV5HOLHI)XQG
+
+6WDWHDQG/RFDO)LVFDO5HFRYHU\)XQGV
+
+'ROODUWKUHVKROGXVHGWRGLVWLQJXLVK
+EHWZHHQW\SH$DQGW\SH%SURJUDP
+
+
+$XGLWHHTXDOLILHGDVORZULVNDXGLWHH"
+
+;\HV
+QR
+9
+
+
+&,7<2)2&($16,'(&$/,)251,$
+
+6&+('8/(2)),1',1*6$1'48(67,21('&2676
+)257+(),6&$/<($5(1'('-81(
+
+
+6(&7,21,,),1$1&,$/67$7(0(17),1',1*6
+
+1RPDWWHUVZHUHUHSRUWHG
+
+6(&7,21,,,)('(5$/$:$5'),1',1*6$1'48(67,21('&2676
+
+1RPDWWHUVZHUHUHSRUWHG
+10
+
+
+&,7<2)2&($16,'(
+)LQDQFLDO6HUYLFHV'HSDUWPHQW
+
+
+
+1257+&2$67+,*+:$<x2&($16,'(&$x7(/(3+21(x)$;
+6800$5<6&+('8/(2)35,25<($5),1',1*6$1'48(67,21('&2676
+)257+(),6&$/<($5(1'('-81(
+
+7KHUHZHUHQRILQGLQJVUHSRUWHGIRUWKHILVFDO\HDUHQGHG-XQH
+
+11

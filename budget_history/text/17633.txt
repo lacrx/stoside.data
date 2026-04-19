@@ -1,0 +1,1792 @@
+ 
+OCEANSIDE PUBLIC FINANCING AUTHORITY  
+FOR THE YEAR ENDED JUNE 30, 2025 
+COMPONENT UNIT 
+FINANCIAL STATEMENTS 
+WITH REPORT ON AUDIT BY INDEPENDENT 
+CERTIFIED PUBLIC ACCOUNTANTS 
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+Component Unit 
+Financial Statements 
+With Report on Audit by Independent 
+Certified Public Accountants 
+For the Year Ended June 30, 2025
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+Component Unit 
+Financial Statements 
+With Report on Audit by Independent 
+Certified Public Accountants 
+For the Year Ended June 30, 2025 
+Table of Contents 
+Page  
+Number 
+INDEPENDENT AUDITORS’ REPORT ................................................................................................................... 1 
+BASIC FINANCIAL STATEMENTS: 
+Government - Wide Financial Statements: 
+Statement of Net Position ..................................................................................................................... 4 
+ 
+Statement of Activities ................................................................................................................................. 5 
+Governmental Funds - Fund Financial Statements: 
+Balance Sheet ....................................................................................................................................... 6 
+Reconciliation of the Balance Sheet of Governmental Funds 
+to the Statement of Net Position ........................................................................................................... 7 
+Statement of Revenues, Expenditures and Changes in Fund Balance ................................................ 8 
+Reconciliation of the Statement of Revenues,  
+Expenditures and Changes in Fund Balance of 
+Governmental Funds to the Statement of Activities .............................................................................. 9 
+Proprietary Funds - Fund Financial Statements: 
+Statement of Net Position .................................................................................................................... 10 
+Statement of Revenues, Expenses and Changes in Net Position ....................................................... 11 
+Statement of Cash Flows ...................................................................................................................  12 
+Notes to Basic Financial Statements ........................................................................................................  13 
+Independent Auditors’ Report on Internal Control Over Financial Reporting and 
+on Compliance and Other Matters Based on an Audit of Financial Statements  
+Performed in Accordance with Government Auditing Standards ..........................................................................  22 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+LSLCPAS.COM 
+INDEPENDENT AUDITORS’ REPORT 
+ 
+To the Board of Directors 
+Oceanside Public Financing Authority  
+Oceanside, California  
+ 
+Report on the Audit of the Financial Statements 
+ 
+Opinions 
+ 
+We have audited the accompanying financial statements of the governmental activities, the business-type activities, 
+and each major fund of the Oceanside Public Financing Authority (hereafter, the Authority) a component unit of the 
+City of Oceanside, California (hereafter, the City) as of and for the year ended June 30, 2025, and the related notes 
+to the financial statements, which collectively comprise the Authority’s basic financial statements as listed in the 
+table of contents. 
+ 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the respective 
+financial position of the governmental activities, the business-type activities, and each major fund, of the Authority 
+as of June 30, 2025, and the respective changes in financial position, and, where applicable, cash flows  thereof, 
+for the year then ended in accordance with accounting principles generally accepted in the United States of America. 
+ 
+Basis for Opinions 
+ 
+We conducted our audit in accordance with auditing standards generally accepted in the United States of America 
+and the standards applicable to financial audits contained in Government Auditing Standards issued by the 
+Comptroller General of the United States. Our responsibilities under those standards are further described in the 
+Auditors’ Responsibilities for the Audit of the Financial Statements section of our report. We are required to be 
+independent of the Authority and to meet our other ethical responsibilities, in accordance with the relevant ethical 
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient and appropriate 
+to provide a basis for our audit opinions. 
+ 
+Emphasis of Matter 
+ 
+Component Unit Reporting 
+ 
+As discussed in Note 1, the financial statements present only the Authority and do not purport to, and do not, present 
+fairly the financial position, the changes in financial position, and where applicable, cash flows of only that portion 
+of the governmental activities, the business-type activities, each major fund, and the aggregate remaining fund 
+information of the City that Is attributable to the transactions of the Authority. They do not purport, and do not, 
+present fairly the financial position of the City as of June 30, 2025, the changes in its financial position, or, where 
+applicable, its cash flows for the year then ended in accordance with accounting principles generally accepted in 
+the United States of America. Our opinion is not modified with respect to this matter. 
+ 
+Responsibilities of Management for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of the financial statements in accordance with 
+accounting principles generally accepted in the United States of America, and for the design, implementation, and 
+maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free 
+from material misstatement, whether due to fraud or error.
+
+
+To the Board of Directors 
+Oceanside Public Financing Authority 
+Oceanside, California  
+Auditors’ Responsibilities for the Audit of the Financial Statements 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue an auditors’ report that includes our opinions. 
+Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee 
+that an audit conducted in accordance with generally accepted auditing standards and Government Auditing 
+Standards will always detect a material misstatement when it exists. The risk of not detecting a material 
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, 
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are considered material 
+if there is a substantial likelihood that, individually or in the aggregate, they would influence the judgment made by 
+a reasonable user based on the financial statements. 
+In performing an audit in accordance with generally accepted auditing standards and Government Auditing 
+Standards, we: 
+•
+Exercise professional judgment and maintain professional skepticism throughout the audit.
+•
+Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or
+error, and design and perform audit procedures responsive to those risks. Such procedures include
+examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+•
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of
+the Authority’s internal control. Accordingly, no such opinion is expressed.
+•
+Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting
+estimates made by management, as well as evaluate the overall presentation of the financial statements.
+We are required to communicate with those charged with governance regarding, among other matters, the planned 
+scope and timing of the audit, significant audit findings, and certain internal control-related matters that we identified 
+during the audit. 
+Required Supplementary Information 
+Management has omitted management’s discussion and analysis that accounting principles generally accepted in 
+the United States of America require to be presented to supplement the basic financial statements. Such missing 
+information, although not a part of the basic financial statements, is required by the Governmental Accounting 
+Standards Board who considers it to be an essential part of financial reporting for placing the basic financial 
+statements in an appropriate operational, economic, or historical context. Our opinion on the basic financial 
+statements is not affected by this missing information. 
+2
+
+
+ 
+To the Board of Directors 
+Oceanside Public Financing Authority  
+Oceanside, California  
+ 
+Other Reporting Required by Government Auditing Standards  
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated December 15, 2025, on 
+our consideration of the City’s internal control over the Authority’s financial reporting and on our tests of its 
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters. The 
+purpose of that report is solely to describe the scope of our testing of internal control over financial reporting and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the City’s internal 
+control over the Authority’s financial reporting or on compliance. That report is an integral part of an audit performed 
+in accordance with Government Auditing Standards in considering City’s internal control over the Authority’s 
+financial reporting and compliance. 
+ 
+ 
+Irvine, California  
+December 15, 2025 
+3
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Statement of Net Position
+June 30, 2025
+Governmental 
+Activities
+Business-Type 
+Activities
+Total
+ASSETS
+Current assets:
+Pooled cash and investments
+367,507
+$           
+-
+$
+367,507
+$           
+Cash and investments held with fiscal agents
+976
+ 
+2,304
+ 
+3,280
+ 
+Interest receivable
+188,858
+             
+186,518
+             
+375,376
+             
+Lease receivable
+500,000
+             
+2,005,000
+          
+2,505,000
+          
+Total current assets
+1,057,341
+          
+2,193,822
+          
+3,251,163
+          
+Noncurrent assets:
+Lease receivable
+24,235,528
+        
+34,866,862
+        
+59,102,390
+        
+Total noncurrent assets
+24,235,528
+        
+34,866,862
+        
+59,102,390
+        
+Total assets
+25,292,869
+        
+37,060,684
+        
+62,353,553
+        
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred charge of refunding
+-
+40,027
+ 
+40,027
+ 
+Total deferred outflows of resources
+-
+40,027
+ 
+40,027
+ 
+Liabilities:
+Interest payable
+188,858
+             
+186,518
+             
+375,376
+             
+Revenue bonds payable
+500,000
+             
+2,005,000
+          
+2,505,000
+          
+Total current liabilities
+688,858
+             
+2,191,518
+          
+2,880,376
+          
+Noncurrent liabilities:
+Revenue bonds payable
+24,235,528
+        
+34,603,342
+        
+58,838,870
+        
+Total noncurrent liabilities
+24,235,528
+        
+34,603,342
+        
+58,838,870
+        
+Total liabilities
+24,924,386
+        
+36,794,860
+        
+61,719,246
+        
+DEFERRED INFLOWS OF RESOURCES
+Deferred charge of refunding
+-
+305,851
+ 
+305,851
+             
+Total deferred inflows of resources
+-
+305,851
+ 
+305,851
+             
+NET POSITION
+Restricted for debt service
+368,483
+             
+-
+368,483
+ 
+Total net position
+368,483
+$           
+-
+$
+368,483
+$           
+Primary Government
+The notes to financial statements are an integral part of this statement.
+4
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Statement of Activities
+For the Year Ended June 30, 2025
+Governmental
+Business-Type
+Activities
+Activities
+Total
+EXPENSES
+Interest on long-term debt
+1,038,753
+$        
+-
+$
+ 
+1,038,753
+$        
+Water bonds - interest and fiscal charges
+-
+1,200,820
+ 
+1,200,820
+          
+Total expenses
+1,038,753
+          
+1,200,820
+          
+2,239,573
+          
+GENERAL REVENUES
+Lease revenues
+849,895
+             
+867,611
+             
+1,717,506
+          
+Investment earnings
+191,655
+             
+333,209
+             
+524,864
+             
+Total general revenues
+1,041,550
+          
+1,200,820
+          
+2,242,370
+          
+Change in net position
+2,797
+ 
+-
+2,797
+ 
+Net position-beginning
+365,686
+             
+-
+365,686
+ 
+Net position-ending
+368,483
+$           
+-
+$
+ 
+368,483
+$           
+The notes to financial statements are an integral part of this statement.
+5
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Balance Sheet
+Governmental Funds
+June 30, 2025
+Total
+Governmental
+Funds
+ASSETS
+Pooled cash and investments
+367,507
+$         
+367,507
+$         
+Cash and investments with fiscal agents
+976
+976
+Total assets
+368,483
+$         
+368,483
+$         
+FUND BALANCE
+Restricted for debt service
+368,483
+$         
+368,483
+$         
+Total fund balances
+368,483
+$         
+368,483
+$         
+ 2019
+Lease Revenue 
+Bonds 
+ Debt Service 
+The notes to financial statements are an integral part of this statement.
+6
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Reconciliation of the Balance Sheet of Governmental Funds
+to the Statement of Net Position
+June 30, 2025
+Fund balances of governmental funds
+368,483
+$           
+Amounts reported for governmental activities in the Statement of Net Position are: 
+Lease receivable, which is not considered to be available to finance current
+expenditures, is not reported in the governmental fund. For the Statement of Net
+Assets, this amount is accrued. 
+24,735,528
+        
+Long-term liabilities are not due and payable in the current period. Therefore, 
+long-term liabilities are not reported in the Governmental Fund Balance Sheet.
+(24,735,528)
+       
+Net position of governmental activities
+368,483
+$           
+The notes to financial statements are an integral part of this statement.
+7
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Statement of Revenues, Expenditures, and Changes in Fund Balance
+Governmental Funds
+For the Year Ended June 30, 2025
+ Debt Service 
+Total
+Governmental
+Funds
+REVENUES
+Lease revenue
+1,444,055
+$       
+1,444,055
+$        
+Investment earnings
+2,797
+2,797
+Total revenues
+1,446,852
+         
+1,446,852
+          
+EXPENDITURES
+Current:
+Debt service:
+Principal retirement
+475,000
+            
+475,000
+             
+Interest and fiscal charges
+969,055
+            
+969,055
+             
+Total expenditures
+1,444,055
+         
+1,444,055
+          
+Net change in fund balance
+2,797
+2,797
+Fund Balances, Beginning of Year
+365,686
+            
+365,686
+             
+Fund balance-ending
+368,483
+$          
+368,483
+$           
+ 2019
+Lease Revenue 
+Bonds 
+The notes to financial statements are an integral part of this statement.
+8
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Reconciliation of the Statement of Revenues, Expenditures,
+and Changes in Fund Balance of Governmental Funds
+to the Statement of Activities
+For the Year Ended June 30, 2025
+Net change in fund balances - total governmental funds
+2,797
+$
+ 
+Amounts reported for governmental activities in the Statement of Activities are
+different because:
+The principal portion of lease revenues received from the City of Oceanside provides 
+current financial resources to the governmental fund. However, these transactions have 
+no effect on net position.
+(594,160)
+            
+Investment earnings in the Statement of Activities that do not provide current financial 
+resources are not reported as revenues in the governmental fund. The following
+amount represents the change in accrued interest from the prior year.
+188,858
+             
+The repayment of the principal of long-term debt consumes the current financial 
+resources of governmental fund. These transactions, however, have no effect
+on net position. Also, the governmental fund reports the effect of issuance costs
+and premiums when debt is first issued, whereas these amounts are deferred and
+amortized in the Statement of Activities. These amounts are the net effect of these 
+differences in the treatment of long-term debt:
+Principal payments
+475,000
+$           
+Amortization of bond premiums
+119,160
+             
+594,160
+             
+Interest expense on long-term debt is reported in the Government-Wide Statement 
+of Activities, but it does not require the use of current financial resources. Therefore, 
+interest expense is not reported as an expenditure in the governmental fund. 
+The following amount represents the change in accrued interest from the prior year.
+(188,858)
+            
+Change in net position of governmental activities
+2,797
+$
+ 
+The notes to financial statements are an integral part of this statement.
+9
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Statement of Net Position
+Proprietary Funds
+June 30, 2025
+Totals
+ASSETS
+Current assets:
+Cash and investments with fiscal agents
+787
+$
+ 
+709
+$
+ 
+808
+$
+ 
+2,304
+$
+ 
+Interest receivable
+150,326
+            
+20,369
+              
+15,823
+186,518
+             
+Leases receivable
+520,000
+            
+810,000
+            
+675,000
+             
+2,005,000
+          
+Total current assets
+671,113
+            
+831,078
+            
+691,631
+             
+2,193,822
+          
+Noncurrent assets:
+Leases receivable
+27,038,308
+       
+6,059,291
+         
+1,769,263
+          
+34,866,862
+        
+Total noncurrent assets
+27,038,308
+       
+6,059,291
+         
+1,769,263
+          
+34,866,862
+        
+Total assets
+27,709,421
+       
+6,890,369
+         
+2,460,894
+          
+37,060,684
+        
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred charge on refunding
+- 
+- 
+40,027
+40,027
+Total deferred outflows of resources
+- 
+- 
+40,027
+40,027
+LIABILITIES
+Interest payable
+150,326
+            
+20,369
+              
+15,823
+186,518
+             
+Revenue bonds payable
+520,000
+            
+810,000
+            
+675,000
+             
+2,005,000
+          
+Total current liabilities
+670,326
+            
+830,369
+            
+690,823
+             
+2,191,518
+          
+Noncurrent liabilities:
+Revenue bonds payable
+26,733,244
+       
+6,060,000
+         
+1,810,098
+          
+34,603,342
+        
+Total noncurrent liabilities
+26,733,244
+       
+6,060,000
+         
+1,810,098
+          
+34,603,342
+        
+Total liabilities
+27,403,570
+       
+6,890,369
+         
+2,500,921
+          
+36,794,860
+        
+DEFERRED INFLOWS OF RESOURCES
+Deferred charge on refunding
+305,851
+            
+- 
+- 
+305,851
+             
+Total deferred outflows of resources
+305,851
+            
+- 
+- 
+305,851
+             
+NET POSITION
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Business-Type Activities -
+Enterprise Funds
+ 2020 Water 
+Revenue 
+Bonds 
+ 2021 Water 
+Revenue 
+Refunding 
+Bonds 
+ 2013 Waste 
+Water 
+Refunding 
+Bonds 
+The notes to financial statements are an integral part of this statement.
+10
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Statement of Revenues, Expenses, and 
+Changes in Net Position
+Proprietary Funds
+For the Year Ended June 30, 2025
+Totals
+NONOPERATING REVENUES (EXPENSES)
+Lease revenue
+772,637
+$           
+93,206
+$             
+1,768
+$
+ 
+867,611
+$           
+Investment earnings
+162,689
+             
+39,031
+131,489
+             
+333,209
+             
+Interest expense and fiscal charges
+(935,326)
+            
+(132,237)
+            
+(133,257)
+            
+(1,200,820)
+         
+Changes in net position
+- 
+- 
+- 
+- 
+Net position-beginning
+- 
+- 
+- 
+- 
+Net position-ending
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+ 2021 Water 
+Revenue 
+Refunding 
+Bonds 
+ 2013 Waste 
+Water 
+Refunding 
+Bonds 
+ 2020 Water 
+Revenue Bonds 
+Business-Type Activities - 
+Enterprise Funds
+The notes to financial statements are an integral part of this statement.
+11
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+(A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA)
+Statement of Cash Flows
+Proprietary Funds
+For the Year Ended June 30, 2025
+Totals
+CASH FLOWS FROM NON-CAPITAL
+FINANCING ACTIVITIES
+Lease payment received
+1,272,740
+$       
+903,667
+$         
+511,840
+$           
+2,688,247
+$        
+Principal paid on long-term debt
+(500,000)
+           
+(810,000)
+          
+(640,000)
+            
+(1,950,000)
+         
+Interest and fiscal charges paid on long-term debt
+(935,326)
+           
+(132,237)
+          
+(2,633)
+ 
+(1,070,196)
+         
+Net cash provided by (used for)
+non-capital financing activities
+(162,586)
+           
+(38,570)
+            
+(130,793)
+            
+(331,949)
+            
+CASH FLOWS FROM INVESTING ACTIVITIES
+Investment earnings
+162,689
+            
+39,031
+             
+131,489
+             
+333,209
+             
+Net cash provided by (used for)
+investing activities
+162,689
+            
+39,031
+             
+131,489
+             
+333,209
+             
+Net increase (decrease) and in cash
+103
+ 
+461
+ 
+696
+1,260
+Cash and cash equivalents-beginning
+684
+ 
+248
+ 
+112
+1,044
+Cash and cash equivalents-ending
+787
+$
+ 
+709
+$
+ 
+808
+$
+ 
+2,304
+$               
+NON-CASH FINANCING ACTIVITIES
+Bond premium amortization
+162,689
+$          
+-
+$
+ 
+130,624
+$           
+293,313
+$           
+ 2021 Water 
+Revenue 
+Refunding 
+Bonds 
+ 2013 Waste 
+Water 
+Refunding 
+Bonds 
+ 2020 Water 
+Revenue 
+Bonds 
+Business-Type Activities - Enterprise Funds
+The notes to financial statements are an integral part of this statement.
+12
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES  
+The basic financial statements of the Oceanside Public Financing Authority (the Authority) have been prepared in 
+conformity with accounting principles generally accepted in the United States of America (GAAP) as applied to 
+governmental agencies. The Governmental Accounting Standards Board (GASB) is the accepted standard setting 
+body for establishing governmental accounting and financial reporting principles. The more significant of the 
+Authority's accounting policies are described below. 
+A. Financial Reporting Entity
+The Oceanside Public Financing Authority was established January 23, 2002, under the Joint Exercise of Powers 
+Law of the State of California (constituting Chapter 5 of Division 7 of Title 1 of the California Government Code) to 
+assist in the financing of public capital improvements to be owned by any of its members (the City of Oceanside 
+and the Oceanside Community Development Commission). The Authority is a blended component unit of the City 
+since the governing Board of the Authority is substantively the same as the City. Accordingly, the financial 
+operations of the Authority have also been included in the basic financial statements of the City. 
+B. Basis of Accounting and Measurement Focus
+The accounts of the Authority are organized on the basis of funds, each of which is considered a separate 
+accounting entity. The operations of each fund are accounted for with a separate set of self-balancing accounts that 
+comprise its assets, liabilities, fund equity, revenues, and expenditures or expenses as appropriate. Government 
+resources are allocated to and accounted for in individual funds based upon the purpose for which they are to be 
+spent and the means by which spending activities are controlled. 
+Government-Wide Financial Statements: 
+The Authority's government-wide financial statements include a Statement of Net Position and a Statement of 
+Activities. These statements present summaries of governmental and business-type activities of the Authority, 
+accompanied by a total column. 
+These basic financial statements are presented on an "economic resources" measurement focus and the accrual 
+basis of accounting. Accordingly, all of the Authority's assets and liabilities are included in the accompanying 
+Statement of Net Position. The Statement of Activities presents changes in net position. Under the accrual basis of 
+accounting, revenues are recognized in the period in which they are earned while expenses are recognized in the 
+period in which the liability is incurred. 
+When both restricted and unrestricted resources are available for use, it is the Authority's policy to use restricted 
+resources first, and then use unrestricted resources as they are needed. 
+Governmental Fund Financial Statements: 
+Governmental fund financial statements include a Balance Sheet and a Statement of Revenues Expenditures and 
+Changes in Fund Balances for the Authority's major governmental fund. Accompanying schedules are presented 
+to reconcile and explain the differences in net position as presented in these statements to the net position 
+presented in the government-wide financial statements. 
+All governmental funds are accounted for on a spending or "current financial resources" measurement focus and 
+the modified accrual basis of accounting. Accordingly, only current assets and current liabilities are included on the 
+Balance Sheet. The Statement of Revenues, Expenditures and Changes in Fund Balances present increases 
+(revenues and other financing sources) and decreases (expenditures and other financing uses) in net current 
+assets. Under the modified accrual basis of accounting, revenues are recognized in the accounting period in which 
+they become both "measurable and available" to finance expenditures of the current period. Measurable means 
+knowing or being able to reasonably estimate the amount. Available means collectible within the current period or 
+soon enough thereafter to pay current liabilities. For this purpose, the Authority considers revenues to be available 
+if they are collected within 60 days of the end of the current fiscal period. 
+13
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+ 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ 
+Expenditures are generally recorded in the accounting period in which the related fund liability is incurred. 
+ 
+Unavailable revenues arise when potential revenues do not meet both the "measurable" and "available" criteria for 
+recognition in the current period. Unearned revenues also arise when the government receives resources before it 
+has a legal claim to them, as when grant monies are received prior to incurring qualifying expenditures. In 
+subsequent periods when both revenue recognition criteria are met or when the government has a legal claim to 
+the resources, the deferred revenue is removed from the balance sheet and revenue is recognized. 
+ 
+The Authority reports the following major governmental fund: 
+ 
+The 2019 Lease Revenue Bonds Debt Service Fund is used to account for the payment of principal and interest of 
+the 2019 Lease Revenue Bonds. 
+ 
+Proprietary Fund Financial Statements: 
+ 
+Proprietary fund financial statements include a Statement of Net Position, a Statement of Revenues, Expenses and 
+Changes in Net Position, and a Statement of Cash Flows for all proprietary funds. 
+ 
+Proprietary funds are accounted for using the "economic resources" measurement focus and the accrual basis of 
+accounting. Accordingly, all assets and liabilities (whether current or noncurrent) are included on the Statement of 
+Net Position. 
+ 
+The Statement of Revenues, Expenses and Changes in Net Position present increases (revenues) and decreases 
+(expenses) in total net position. Under the accrual basis of accounting, revenues are recognized in the period in 
+which they are earned while expenses are recognized in the period in which liability is incurred. 
+ 
+Operating revenues in the proprietary funds are those revenues that are generated from the primary operations of 
+the fund. All other revenues are reported as nonoperating revenues. Operating expenses are those expenses that 
+are essential to the primary operations of the fund. All other expenses are reported as nonoperating expenses. 
+ 
+The Authority reports the following major enterprise funds: 
+ 
+The 2020 Water Revenue Bonds Fund is used to account for the payment of principal and interest of the Series 
+2020 Water Revenue Bonds. 
+ 
+The 2021 Water Revenue Refunding Bonds Fund is used to account for the payment of principal and interest of the 
+Series 2021 Water Revenue Refunding Bonds. 
+ 
+The 2013 Waste Water Revenue Refunding Bonds Fund is used to account for the payment of principal and interest 
+of the Series 2013A Sewer Revenue Refunding Bonds. 
+ 
+C. Cash, Cash Equivalents, and Investments 
+ 
+The Authority pools its available cash, other than the restricted cash and investments held by bond trustee, with the 
+City for investment purposes. The Authority considers this pooled cash to be cash equivalents since the Authority 
+can withdraw funds from the City's pool at any time. 
+ 
+Investments are stated at fair value. Market value is used as fair value for those securities for which market 
+quotations are readily available. 
+14
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+ 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ 
+D. Deferred Outflows/Inflows of Resources 
+ 
+In addition to assets, the statement of financial position will sometimes report a separate section for deferred 
+outflows of resources. This separate financial statement element, deferred outflows of resources, represents a 
+consumption of net assets that applies to a future period(s) and so will not be recognized as an outflow of resources 
+(expense/ expenditure) until then. The Authority has only one item that qualifies for reporting in this category. It is 
+the deferred charge on refunding reported in the proprietary statement of net position. A deferred charge on 
+refunding results from the difference in the carrying value of refunded debt and its reacquisition price. This amount 
+is deferred and amortized over the shorter of the life of the refunded or refunding debt. 
+ 
+In addition to liabilities, the statement of financial position will sometimes report a separate section for deferred 
+inflows of resources. This separate financial statement element, deferred inflows of resources, represents an 
+acquisition of net assets that applies to a future period(s) and so will not be recognized as an inflow of resources 
+(revenue) until that time. The Authority has no items that qualify for reporting in this category. 
+ 
+E. Fund Balances 
+ 
+The fund balances reported on the fund statements consist of the following categories: 
+ 
+Nonspendable Fund Balance - This includes amounts that cannot be spent because they are either (a) not in 
+spendable form or (b) legally or contractually required to be maintained intact. 
+ 
+Restricted Fund Balance - This includes amounts that can be spent only for the specific purposes stipulated by 
+constitution, external resource providers, or through enabling legislation. 
+ 
+Committed Fund Balance - This includes amounts that can be used only for the specific purposes determined by a 
+formal action of the Board. 
+ 
+Assigned Fund Balance - This includes amounts that are designated by the Board for specific purposes. 
+ 
+Unassigned Fund Balance - This is the residual classification that includes all spendable amounts not contained in 
+the other classifications. 
+ 
+When expenditures are incurred for purposes for which both restricted and unrestricted (committed, assigned or 
+unassigned) fund balances are available, the Authority's policy is to apply restricted fund balance first. 
+ 
+When expenditures are incurred for purposes for which committed, assigned or unassigned fund balances are 
+available, the Authority's policy is to apply committed fund balance first and then assigned fund balance followed 
+by unassigned fund balance. 
+ 
+F. Net Position 
+ 
+The net position reported on the Statement of Net Position can be classified into the following three categories: 
+ 
+Net Investment in Capital Assets - This amount consists of capital assets, net of accumulated depreciation and 
+reduced by outstanding debt that are attributed to the acquisition, construction, or improvement of the capital assets. 
+ 
+Restricted Net Position - This amount is restricted by external creditors, grantors, contributors, or laws or regulations 
+of other governments. 
+ 
+Unrestricted Net Position - This amount is all net position that do not meet the definition of "net investment in capital 
+assets " or "restricted net position". 
+ 
+15
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+ 
+NOTE 1: 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ 
+G. Flow Assumption 
+ 
+Net Position Flow Assumption 
+ 
+Sometimes the Authority will fund outlays for a particular purpose from both restricted (e.g., restricted bond or grant 
+proceeds) and unrestricted resources. In order to calculate the amounts to report as restricted – net position and 
+unrestricted – net position in the government-wide and proprietary fund financial statements, a flow assumption 
+must be made about the order in which the resources are considered to be applied. It is the Authority’s policy to 
+consider restricted – net position to have been depleted before unrestricted – net position is applied. 
+ 
+Fund Balance Flow Assumptions 
+ 
+Sometimes the Authority will fund outlays for a particular purpose from both restricted and unrestricted resources 
+(the total of committed, assigned, and unassigned fund balance). In order to calculate the amounts to report as 
+restricted, committed, assigned, and unassigned fund balance in the governmental fund financial statements a flow 
+assumption must be made about the order in which the resources are considered to be applied. It is the Authority’s 
+policy to consider restricted fund balance to have been depleted before using any of the components of unrestricted 
+fund balance. Further, when the components of unrestricted fund balance can be used for the same purpose, 
+committed fund balance is depleted first, followed by assigned fund balance. Unassigned fund balance is applied 
+last. 
+ 
+H. Use of Estimates 
+ 
+The preparation of financial statements in conformity with accounting principles generally accepted in the  
+United States of America requires management to make estimates and assumptions that affect the reported 
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial 
+statements and the reported amounts of revenues and expenditures during the reporting period. Actual results could 
+differ from those estimates and assumptions. 
+ 
+NOTE 2: 
+CASH AND INVESTMENTS  
+ 
+Cash and investments at June 30, 2025, are classified in the accompanying financial statements as follows: 
+ 
+ 
+ 
+Cash and Investment
+367,507
+$ 
+Restricted cash and investments
+3,280
+      
+367,990
+$ 
+16
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+ 
+NOTE 2: 
+CASH AND INVESTMENTS (CONTINUED) 
+ 
+Investments Authorized by the California Government Code and the Authority's Investment Policy 
+ 
+The table below identifies the investment types that are authorized for the Authority by the California Government 
+Code (or the Authority's investment policy, where more restrictive). The table also identifies certain provisions of 
+the California Government Code (or the Authority's investment policy, where more restrictive) that address interest 
+rate risk, credit risk, and concentration of credit risk. This table does not address investments of debt proceeds held 
+by bond trustee that are governed by the provisions of debt agreements of the Authority, rather than the general 
+provisions of the California Government Code or the Authority's investment policy. 
+ 
+ 
+ 
+Investments Authorized by Debt Agreements 
+ 
+Investment of debt proceeds held by bond trustee are governed by provisions of the debt agreements, rather than 
+the general provisions of the California Government Code or the Authority's investment policy. Investments 
+authorized for funds held by bond trustee include, United States Treasury Obligations, United States Government 
+Sponsored Enterprise Securities, Commercial Paper, Bankers' Acceptances, Money Market Mutual Funds, 
+Investment Contracts, and any other investments permitted by bond insurer. There were no limitations on the 
+maximum amount that can be invested in one issuer, maximum percentage allowed or the maximum maturity of an 
+investment, except for the maturity of Banker's Acceptance and Commercial Paper which are limited to 180 days 
+and 270 days, respectively. 
+ 
+Disclosures Relating to Interest Rate Risk 
+ 
+Interest rate risk is the risk that changes in market interest rates will adversely affect the fair value of an investment. 
+Generally, the longer the maturity of an investment, the greater the sensitivity of its fair value to changes in market 
+interest rates. One of the ways that the Authority manages its exposure to interest rate risk is by purchasing a 
+combination of shorter term and longer-term investments and by timing cash flows from maturities so that a portion 
+of the portfolio is maturing or coming close to maturity evenly over time as necessary to provide the cash flow and 
+liquidity needed for operations. 
+ 
+Disclosures Relating to Credit Risk 
+ 
+Generally, credit risk is the risk that an issuer of an investment will not fulfill its obligation to the holder of the 
+investment. This is measured by the assignment of a rating by a nationally recognized statistical rating organization.  
+ 
+17
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+ 
+NOTE 2: 
+CASH AND INVESTMENTS (CONTINUED) 
+ 
+Custodial Credit Risk 
+ 
+Custodial credit risk for deposits is the risk that, in the event of the failure of a depository financial institution, a 
+government will not be able to recover its deposits or will not be able to recover collateral securities that are in the 
+possession of an outside party. The custodial credit risk for investments is the risk that, in the event of the failure of 
+the counterparty (e.g., broker-dealer) to a transaction, a government will not be able to recover the value of its 
+investment or collateral securities that are in the possession of another party. The California Government Code and 
+the Authority's investment policy do not contain legal or policy requirements that would limit the exposure to 
+custodial credit risk for deposits or investments, other than the following provision for deposits: The California 
+Government Code requires that a financial institution secure deposits made by state or local governmental units by 
+pledging securities in an undivided collateral pool held by a depository regulated under state law (unless so waived 
+by the governmental unit). 
+ 
+The market value of the pledged securities in the collateral pool must equal at least 110% of the total amount 
+deposited by the public agencies. California law also allows financial institutions to secure the Authority deposits by 
+pledging first trust deed mortgage notes having a value of 150% of the secured public deposits. 
+ 
+Disclosures Related to Interest Rate Risk, Credit Risk, Custodial Credit Risk, and Fair Value Measurements 
+ 
+The Authority's cash and investments are pooled with the City’s cash and investments. Additional disclosures 
+regarding pooled investments related to interest rate risk, credit risk, custodial credit risk, and fair value 
+measurements are available in the City’s Annual Comprehensive Financial Report. 
+ 
+NOTE 3: 
+LEASES RECEIVABLE  
+ 
+The City has entered into various master lease agreements with the Authority. The annual payments required under 
+the leases approximate the debt service requirements of the respective capital improvement project certificates of 
+participation issued by the Authority. The leases shall terminate upon payment of all principal and interest due on 
+the certificates. Ownership of all leased assets will be transferred to the City at expiration of the lease. The Authority 
+has accounted for the agreements as a lease. At June 30, 2025, leases receivable from the City in the amount 
+$61,607,390 has been reflected in the accompanying financial statements. The minimum lease payments to be 
+received correspond approximately to the debt service payments with the final debt service payments to be made 
+from the respective reserve funds of the Authority. 
+ 
+NOTE 4: 
+LONG-TERM LIABILITIES  
+ 
+The following is a summary of changes in long-term debt for the year ended June 30, 2025: 
+ 
+Balance at
+Balance at
+Due Within
+Due in More
+Description
+June 30, 2024
+Additions
+Deletions
+June 30, 2025
+One Year
+than One Year
+Governmental Activities:
+Bonds Payable:
+2019 Lease Revenue Bond
+22,290,000
+$          
+-
+$                
+475,000
+$      
+21,815,000
+$      
+500,000
+$    
+21,315,000
+$  
+Unamortized Bond Premium/(Discount)
+3,024,549
+              
+-
+                  
+104,021
+       
+2,920,528
+         
+-
+                
+2,920,528
+     
+Subtotal - Governmental Activities
+25,314,549
+            
+-
+                  
+579,021
+       
+24,735,528
+        
+500,000
+      
+24,235,528
+   
+Business-Type Activities:
+Bonds Payable:
+2013A Sewer Revenue Refunding Bonds
+2,755,000
+              
+-
+                  
+640,000
+       
+2,115,000
+         
+675,000
+      
+1,440,000
+     
+2020A Water Revenue Bonds
+23,550,000
+            
+-
+                  
+500,000
+       
+23,050,000
+        
+520,000
+      
+22,530,000
+   
+2021A Water Revenue Refunding Bonds
+7,680,000
+              
+-
+                  
+810,000
+       
+6,870,000
+         
+810,000
+      
+6,060,000
+     
+Unamortized Bond Premium/(Discount)
+4,866,655
+              
+-
+                  
+293,313
+       
+4,573,342
+         
+-
+                
+4,573,342
+     
+Subtotal - Business-Type Activities
+38,851,655
+            
+-
+                  
+2,243,313
+     
+36,608,342
+        
+2,005,000
+   
+34,603,342
+   
+Total Long-Term Debt
+64,166,204
+$          
+-
+$                
+2,822,334
+$   
+61,343,870
+$      
+2,505,000
+$ 
+58,838,870
+$  
+18
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+ 
+NOTE 4: 
+LONG-TERM LIABILITIES  
+ 
+A. Governmental Activities Long-Term Liabilities 
+ 
+2019 Lease Revenue Bonds - Original Issuance $22,745,000 
+ 
+On November 1, 2019, the Financing Authority issued the 2019 Lease Revenue Bonds (El Corazon Aquatics Center 
+Project) for a par amount of $22,745,000.  The net proceeds of the sale of the Series 2019 Bonds will be used to 
+(i) finance the costs of the acquisition, construction, and installation of certain capital improvements constituting the 
+El Corazon Aquatics Center and related improvements, facilities and equipment, and (ii) pay the costs incurred in 
+connection with the issuance of the 2019 Bonds.  The Series 2019 Bonds are equally and ratably payable from and 
+secured by base rental payments and certain amounts on deposit in the funds and accounts established under the 
+bond indenture.  In the event of default, the bond trustee may terminate the lease agreement and recover certain 
+damages from the City or may retain the lease agreement and hold the City liable for all base rental  
+payments thereunder.  There is no acceleration in the event of default.  The bonds are payable commencing on 
+November 1, 2023, in principal amounts ranging from $455,000 to $1,355,000 at interest rates ranging from  
+4 percent to 5 percent, and mature November 1, 2049. At June 30, 2025, the outstanding balance of the bonds was 
+$21,815,000 and unamortized bond premium was $2,920,528. 
+ 
+B. Governmental Activities – Debt Service Requirements to Maturity 
+ 
+The annual debt service requirements to maturity on the governmental activities’ long-term debts are as follows: 
+ 
+ 
+ 
+C. Business-Type and Proprietary Funds Long-Term Liabilities 
+ 
+2013A Sewer Revenue Refunding Bonds - Original Issue $15,135,000 
+ 
+The bonds were issued by the City to (a) prepay all of City of Oceanside Revenue Certificates of Participation  
+(1993 Wastewater System Refunding Project) Series 2003 and City of Oceanside Revenue Refunding Certificates 
+of Participation, Series 2008; (b) prepay all amounts due under the 1993 State Loan; (c) finance certain 
+improvements to the City’s Sewer System; and (d) pay the costs of issuing the 2013A Bonds. The bond principal is 
+due in semi-annual installments ranging from $565,000 to $1,255,000 through May 2028. Interest rates range from 
+2.0% to 5.0% and are payable semiannually on May 1 and November 1. Bonds are subject to optional redemption 
+prior to maturity. As of June 30, 2025, the outstanding balance was $2,115,000 and unamortized bond premium 
+was $370,098.  
+ 
+If any event of default shall occur, then the Trustee may, and at the written direction of the bond owners of not less 
+than a majority in aggregate principal amount of the Bonds at the time outstanding shall, upon notice in writing to 
+the Issuer, declare the principal of the bonds then outstanding, and the interest accrued thereon, to be due and 
+payable immediately. 
+June 30
+Principal
+Interest
+2026
+500,000
+$         
+897,000
+$         
+2027
+525,000
+           
+871,375
+           
+2028
+550,000
+           
+847,250
+           
+2029
+570,000
+           
+824,850
+           
+2030
+595,000
+           
+801,550
+           
+2031-2035
+3,415,000
+        
+3,541,375
+        
+2036-2040
+4,235,000
+        
+2,721,900
+        
+2041-2045
+5,155,000
+        
+1,785,900
+        
+2046-2050
+6,270,000
+        
+646,400
+           
+Totals
+21,815,000
+$    
+12,937,600
+$    
+Bonds Payable
+19
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+ 
+NOTE 4: 
+LONG-TERM LIABILITIES (CONTINUED)  
+ 
+2020A Water Revenue Bonds - Original Issue $25,275,000 
+ 
+On July 9, 2020, the City issued the Water Revenue Bonds, Series 2020A in an amount of $25,275,000. The net 
+proceeds of the sale of the Series 2020 Bonds will be used to (i) finance a portion of the acquisition and construction 
+of certain capital improvements to the water system of the City, and (ii) pay the costs of issuance of the 2020 Bonds.  
+The bonds are limited obligations of the City payable solely from net revenues, which consist of revenues of the 
+City’s water system remaining after the payment of operation and maintenance costs, and from amounts on deposit 
+in certain funds and accounts created under the bond indenture.  In the event of default, the bond trustee may, at 
+the direction of the majority of the bondholders, declare the outstanding principal and interest accrued thereon due 
+and payable immediately.  There is no acceleration in the event of default.  The bonds are payable commencing on 
+November 1, 2020, in principal amounts ranging from $335,000 to $1,385,000 at an interest rate of 4 percent mature 
+May 1, 2051. As of June 30, 2025, the outstanding balance was $23,050,000 and unamortized bond premium was 
+$4,203,245. 
+ 
+2021A Water Revenue Refunding Bonds – Original Issue $8,950,000 
+ 
+On May 11, 2021, the City issued the Water Revenue Refunding Bonds, Series 2021A in an amount of $8,950,000.  
+The Bonds were issued to provide moneys: (i) to refund a portion of the outstanding Water Revenue Refunding 
+Bonds, Series 2013A; and (ii) to pay costs of issuance of the Bonds.  The bonds are limited obligations of the City 
+payable solely from net revenues, which consist of revenues of the City’s water system remaining after the payment 
+of operation and maintenance costs, and from amounts on deposit in certain funds and accounts created under the 
+bond indenture.  In the event of default, the bond trustee may, at the direction of the majority of the bondholders, 
+declare the outstanding principal and interest accrued thereon due and payable immediately.  There is no 
+acceleration in the event of default.  The bonds are payable commencing on May 1, 2022, in principal amounts 
+ranging from $240,000 to $915,000 and mature May 1, 2051. Interest rates range from 0.209% to 2.324% and are 
+payable semiannually on May 1 and November 1. As of June 30, 2025, the outstanding balance was $6,870,000. 
+ 
+ 
+D. Business-Type Activities – Debt Service Requirements to Maturity 
+ 
+The annual debt service requirements to maturity on the business-type activities’ long-term debts are as follows: 
+ 
+ 
+ 
+Year Ending June 30,
+Principal
+Interest
+2026
+2,005,000
+$       
+1,138,901
+$       
+2027
+2,070,000
+         
+1,075,417
+         
+2028
+2,130,000
+         
+1,007,215
+         
+2029
+1,430,000
+         
+948,686
+           
+2030
+1,475,000
+         
+910,296
+           
+2031-2035
+6,120,000
+         
+3,904,855
+         
+2036-2040
+4,170,000
+         
+3,040,400
+         
+2041-2045
+5,075,000
+         
+2,137,000
+         
+2046-2050
+6,175,000
+         
+1,037,400
+         
+2051-2055
+1,385,000
+         
+55,400
+             
+32,035,000
+$     
+15,255,570
+$     
+Bonds Payable
+20
+
+
+OCEANSIDE PUBLIC FINANCING AUTHORITY 
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA 
+Notes to Basic Financial Statements 
+For the Year Ended June 30, 2025 
+NOTE 5: 
+INSURANCE COVERAGE  
+The certificates of participation indentures specify the coverage and types of insurance, which should be maintained 
+by the Authority. The Authority, through the City, is a member of the Public Risk Innovation, Solutions, and 
+Management (PRISM) which provides general liability insurance. Further information on risk management is 
+available in the annual comprehensive financial report of the City. 
+NOTE 6: 
+SUBSEQUENT EVENTS 
+The Authority evaluated subsequent events for recognition and disclosure through December 15, 2025, the date on 
+which these financial statements were available to be issued. Management concluded that no material subsequent 
+events have occurred since June 30, 2025, that required recognition or disclosure in these financial statements. 
+21
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDEPENDENT AUDITORS’ REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING AND ON 
+COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN 
+ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS
+To the Board of Directors 
+Oceanside Public Financing Authority 
+Oceanside, California 
+We have audited, in accordance with the auditing standards generally accepted in the United States of America 
+and the standards applicable to financial audits contained in Government Auditing Standards issued by the 
+Comptroller General of the United States, the financial statements of the governmental activities, the business-type 
+activities, and each major fund of the Oceanside Public Financing Authority (hereafter, the Authority), a component 
+unit of the City of Oceanside, California (hereafter, the City) as of and for the year ended June 30, 2025, and the
+related notes to the financial statements, which collectively comprise the Authority’s basic financial statements, and 
+have issued our report thereon dated December 15, 2025. 
+Report on Internal Control over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered the Authority’s internal control over 
+financial reporting (internal control) as a basis for designing audit procedures that are appropriate in the
+circumstances for the purpose of expressing our opinions on the financial statements, but not for the purpose of
+expressing an opinion on the effectiveness of the Authority’s internal control. Accordingly, we do not express an
+opinion on the effectiveness of the Authority’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements, on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal 
+control, such that there is a reasonable possibility that a material misstatement of the entity’s financial statements 
+will not be prevented, or detected and corrected, on a timely basis. A significant deficiency is a deficiency, or a 
+combination of deficiencies, in internal control that is less severe than a material weakness, yet important enough 
+to merit attention by those charged with governance. 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and
+was not designed to identify all deficiencies in internal control that might be material weaknesses or, significant 
+deficiencies. Given these limitations, during our audit we did not identify any deficiencies in internal control that we 
+consider to be material weaknesses. However, material weaknesses or significant deficiencies may exist that were 
+not identified. 
+Report on Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether the Authority’s financial statements are free from material 
+misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, and grant
+agreements, noncompliance with which could have a direct and material effect on the financial statements. 
+However, providing an opinion on compliance with those provisions was not an objective of our audit, and 
+accordingly, we do not express such an opinion. The results of our tests disclosed no instances of noncompliance 
+or other matters that are required to be reported under Government Auditing Standards. 
+LSLCPAS.COM 
+
+
+To the Board of Directors 
+Oceanside Public Financing Authority 
+Oceanside, California 
+Purpose of This Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the 
+results of that testing, and not to provide an opinion on the effectiveness of the Authority’s internal control or on 
+compliance. This report is an integral part of an audit performed in accordance with Government Auditing Standards 
+in considering the Authority’s internal control and compliance. Accordingly, this communication is not suitable for 
+any other purpose. 
+Irvine, California  
+December 15, 2025 
+23

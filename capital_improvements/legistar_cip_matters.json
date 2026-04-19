@@ -1,0 +1,225 @@
+{
+  "source": "Oceanside Legistar search (full-text match on CIP-related terms)",
+  "date_range": "calendar years 2015-2024 (Legistar has data from ~2020+)",
+  "note": "Only 12 matters had proper matter titles — others were attachment-only stub pages whose PDFs have been deleted.",
+  "matter_count": 12,
+  "matters": [
+    {
+      "id": "7052350",
+      "guid": "B8B5D2F3-6689-46D6-9E57-D1D0CA59C7A4",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=7052350&GUID=B8B5D2F3-6689-46D6-9E57-D1D0CA59C7A4&FullText=1",
+      "file_number": "24-442",
+      "title": "Staff recommends that the City Council approve a budget appropriation in the amount of $2,053,795 from the General Fund Infrastructure account to award a Public Works Agreement (PWA) to Fordyce Construction, Inc. (Fordyce), in the amount of $3,247,358, for the construction of the Crown Heights Resource Center Building rehabilitation project; and authorize the City Engineer to execute Contract Change Orders up to 15% of the total contract value $487,104 for a total not to exceed amount of $3,734,462; and authorize the City Manager to execute the agreement upon receipt of all supporting documents.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "12/18/2024",
+      "type": "Agreement",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$2,053,795",
+        "$3,247,358,",
+        "$487,104",
+        "$3,734,462"
+      ]
+    },
+    {
+      "id": "7052347",
+      "guid": "53A21D83-752E-48CE-9CE7-44129E5099B4",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=7052347&GUID=53A21D83-752E-48CE-9CE7-44129E5099B4&FullText=1",
+      "file_number": "24-435",
+      "title": "Staff recommends that the City Council approve five Professional Services Agreements with Dudek, Kimley Horn, NV5, Waterworks Engineers and West Coast Civil in a not-to-exceed amount of $250,000 annually per agreement, for a not-to-exceed total contract price of $750,000 per agreement for an initial three year term for each agreement, for a total first year value of $1,250,000, for as-needed small-to-medium design consulting services for water and sewer Capital Improvement Projects; and authorize the City Manager to execute the agreements.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "12/18/2024",
+      "type": "Agreement",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$250,000",
+        "$750,000",
+        "$1,250,000,"
+      ]
+    },
+    {
+      "id": "6852292",
+      "guid": "353ADA4C-94DE-4C54-AAB2-4B51A86A9F47",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6852292&GUID=353ADA4C-94DE-4C54-AAB2-4B51A86A9F47&FullText=1",
+      "file_number": "23-236",
+      "title": "Staff recommends that the City Council approve Amendment 3 to the Professional Services Agreement (PSA) with GeoPacifica, Inc., in the amount $150,000 for a not-to-exceed total maximum PSA amount of $950,000, for as-needed construction management services to augment Capital Improvement Program (CIP) staff through June 2025; and authorize the City Manager to execute the amendment.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "9/11/2024",
+      "type": "Amendment",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$150,000",
+        "$950,000,"
+      ]
+    },
+    {
+      "id": "7036334",
+      "guid": "7D07556E-6A24-4BA7-957B-047DD2F3C596",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=7036334&GUID=7D07556E-6A24-4BA7-957B-047DD2F3C596&FullText=1",
+      "file_number": "24-418",
+      "title": "Staff and the Police and Fire Commission recommend that the City Council accept and appropriate an additional $251,778 in grant funds from the California Enhancing Law Enforcement Activities Subaccount (ELEAS) awarded to the City for the Citizen's Option for Public Safety (COPS) 2023 Grant Program; approve amendment 1 to Precision Survey Supply, LLC for Leica RTC360 Laser Scanner for $12,000 for a total not to exceed amount of $130,029; and authorize the City Manager, or designee, to execute all grant documents and purchase order.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "12/4/2024",
+      "type": "Purchase Order",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$251,778",
+        "$12,000",
+        "$130,029"
+      ]
+    },
+    {
+      "id": "6832477",
+      "guid": "BBC88115-B6E7-4157-920B-BED5A631082E",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6832477&GUID=BBC88115-B6E7-4157-920B-BED5A631082E&FullText=1",
+      "file_number": "23-229",
+      "title": "Staff recommends that the City Council: 1. Adopt a resolution to accept and appropriate the grant award from the California Interagency Council on Homelessness in the amount of $11,398,467; 2. Approve the Professional Services Agreement (PSA) with Interfaith Community Services (ICS) for FY 2024-25, with the option to renew the PSA for two additional one-year terms for $1,175,000 per year; 3. Approve the Memorandum of Agreement (MOA) with the City of Carlsbad in an amount not to exceed $5,336,578 over a three-year period for the administration of sub-contracts with Encampment Resolution Funding (ERF) program service providers; and, 4. Approve a provisional Management Analyst position for a 3-year term. 5. Authorize the City Manager or designee to execute all relevant documents and agreements upon receipt of all supporting documentation.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "8/21/2024",
+      "type": "Agreement",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$11,398,467",
+        "$1,175,000",
+        "$5,336,578"
+      ]
+    },
+    {
+      "id": "6898578",
+      "guid": "06A6C30A-7A2E-409A-BBCF-E608BEED8A2A",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6898578&GUID=06A6C30A-7A2E-409A-BBCF-E608BEED8A2A&FullText=1",
+      "file_number": "24-366",
+      "title": "Staff recommends the City Council adopt a resolution authorizing the City to accept and appropriate grant funds, in the amount of $400,000, for a \"Safe Streets and Roads for All\" (SS4A) Safety Action Plan that allows access to grant funding for the implementation of projects to improve roadway safety; appropriate $100,000 from the SB1 fund to the City match account; and authorize the City Manager to execute all necessary grant documents.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "10/23/2024",
+      "type": "Resolution",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$400,000,",
+        "$100,000"
+      ]
+    },
+    {
+      "id": "6898576",
+      "guid": "250E0746-74DE-41AE-BD33-F5FDDB087773",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6898576&GUID=250E0746-74DE-41AE-BD33-F5FDDB087773&FullText=1",
+      "file_number": "24-358",
+      "title": "Staff recommends that the City Council accept $328,000 in grant funds from the State of California Office of Traffic Safety (OTS) for the Selective Traffic Enforcement Program 2024-2025; approve the grant budget; appropriate the funds to the Police Department; and authorize the City Manager, or designee, to execute all related grant documents.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "10/23/2024",
+      "type": "Report",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$328,000"
+      ]
+    },
+    {
+      "id": "6815477",
+      "guid": "F62C508D-7350-4294-AE5F-1F358C907F8E",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6815477&GUID=F62C508D-7350-4294-AE5F-1F358C907F8E&FullText=1",
+      "file_number": "23-191",
+      "title": "Staff recommends that the City Council accept $136,917 in grant funds from California State Library, awarded to the City to implement three Library Services Technology Act (LSTA) projects: Sustainable California Libraries, Play for All, and Teens Succeed; and appropriate these funds to the State Grant Fund for the Library Department.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "8/7/2024",
+      "type": "Report",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$136,917"
+      ]
+    },
+    {
+      "id": "6832470",
+      "guid": "B045531A-84DB-466B-9D03-EBF55FE94CA5",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6832470&GUID=B045531A-84DB-466B-9D03-EBF55FE94CA5&FullText=1",
+      "file_number": "23-219",
+      "title": "Staff recommends that the City Council: 1. Adopt a resolution to accept and appropriate the grant award from the Regional Task Force on Homelessness (RTFH) in the amount of $894,473; 2. Approve the Professional Services Agreement (PSA) with Interfaith Community Services (ICS) for diversion-focused services for FY 2024-25, with the option to renew the PSA for one additional year for $181,579 per year; 3. Approve a three-year lease agreement with Kruger/Wilkinson Trust for office space located at 804 Pier View Way, Suites 208 and 209 to house ICS staff, for a total cost of $50,131; 4. Approve funding in the amount of $383,000 for FY 2024-25 for the implementation of a Safe Parking Pilot Program; 5. Authorize the City Manager or Designee to execute all relevant documents and agreements upon receipt of all supporting documentation.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "8/21/2024",
+      "type": "Resolution",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$894,473",
+        "$181,579",
+        "$50,131",
+        "$383,000"
+      ]
+    },
+    {
+      "id": "6815473",
+      "guid": "092EEC50-36B0-42E4-A514-E14CC6C395C0",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6815473&GUID=092EEC50-36B0-42E4-A514-E14CC6C395C0&FullText=1",
+      "file_number": "23-186",
+      "title": "Staff recommends that the City Council approve one purchase order to Downtown Ford for one new Ford F-350 pickup as an addition to fleet for the Public Works Department, in an amount not to exceed $103,905; appropriate $103,905 from the General Fund Assigned Infrastructure fund balance to the Traffic Control account; and authorize the Financial Services Director, or designee, to execute the purchase order.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "8/7/2024",
+      "type": "Report",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$103,905",
+        "$103,905"
+      ]
+    },
+    {
+      "id": "6884790",
+      "guid": "9C33DCF1-5B49-45E0-A44D-E55784CE54FB",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6884790&GUID=9C33DCF1-5B49-45E0-A44D-E55784CE54FB&FullText=1",
+      "file_number": "24-373",
+      "title": "The City Attorney recommends as follows: 1. That the City Council approve a special exemption to City Council Policy 100-55; and 2. That the City Council approve the dedication of that segment of the San Luis Ray River Trail from Pacific Street to Benet Road in memory of Jensen Hughes; and 3. That the City Council authorize staff to work with the Hughes family to coordinate the installation of memorial plaques at the Pacific Street and Benet Road entrances to the San Luis Rey River Trail.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "10/9/2024",
+      "type": "Report",
+      "status": "Passed",
+      "dollars_in_title": []
+    },
+    {
+      "id": "6869261",
+      "guid": "67AE608D-3EC1-44EF-A934-390E122DBD21",
+      "url": "https://oceanside.legistar.com/LegislationDetail.aspx?ID=6869261&GUID=67AE608D-3EC1-44EF-A934-390E122DBD21&FullText=1",
+      "file_number": "24-306",
+      "title": "Staff recommends that the City Council approve seventeen FY 2024-25 Measure X-Youth Services Professional Services Agreements (PSAs) for a total amount not to exceed $889,488; and authorize the City Manager to execute the agreements upon receipt of all supporting documents.",
+      "name": null,
+      "file_created": null,
+      "intro_date": null,
+      "final_date": null,
+      "on_agenda": "9/25/2024",
+      "type": "Agreement",
+      "status": "Passed",
+      "dollars_in_title": [
+        "$889,488"
+      ]
+    }
+  ]
+}

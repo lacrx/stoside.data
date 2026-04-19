@@ -1,0 +1,128 @@
+OCEANSIDE CITY COUNCIL VOTE PARSE LOG
+============================================================
+
+Total PDFs:         90
+Total votes parsed: 1267
+Fully resolved:     1267
+Rows with Unknown:  0
+
+Votes by format:
+  A: 705
+  hybrid: 352
+  B: 210
+
+Member roster: ['SANCHEZ', 'KEIM', 'JOYCE', 'ROBINSON', 'WEISS', 'FIGUEROA', 'RODRIGUEZ']
+
+
+Per-PDF vote counts:
+  2022-12-14_id-1255598.pdf: 1
+  2022-12-21_id-1255599.pdf: 22
+  2023-01-11_id-1255600.pdf: 9
+  2023-01-25_id-1255709.pdf: 24
+  2023-02-01_id-1255601.pdf: 8
+  2023-02-15_id-1255710.pdf: 16
+  2023-03-08_id-1255602.pdf: 20
+  2023-03-22_id-1255603.pdf: 22
+  2023-03-29_id-1255604.pdf: 1
+  2023-04-05_id-1255605.pdf: 21
+  2023-04-19_id-1255606.pdf: 16
+  2023-04-26_id-1255711.pdf: 5
+  2023-05-03_id-1255607.pdf: 21
+  2023-05-17_id-1255608.pdf: 21
+  2023-06-07_id-1255609.pdf: 41
+  2023-06-21_id-1255610.pdf: 36
+  2023-08-09_id-1255611.pdf: 28
+  2023-08-23_id-1255612.pdf: 33
+  2023-08-30_id-1255613.pdf: 0
+  2023-09-13_id-1255712.pdf: 20
+  2023-09-27_id-1255614.pdf: 16
+  2023-10-04_id-1255615.pdf: 15
+  2023-10-11_id-1255713.pdf: 1
+  2023-10-18_id-1255616.pdf: 0
+  2023-11-01_id-1255714.pdf: 19
+  2023-11-15_id-1255617.pdf: 13
+  2023-12-06_id-1255618.pdf: 0
+  2023-12-20_id-1255619.pdf: 21
+  2024-01-10_id-1255620.pdf: 13
+  2024-01-24_id-1255621.pdf: 17
+  2024-01-31_id-1255622.pdf: 0
+  2024-02-14_id-1255623.pdf: 20
+  2024-02-28_id-1255624.pdf: 14
+  2024-03-13_id-1255625.pdf: 12
+  2024-03-27_id-1255626.pdf: 28
+  2024-04-10_id-1255627.pdf: 21
+  2024-04-17_id-1255628.pdf: 0
+  2024-04-24_id-1255629.pdf: 0
+  2024-05-08_id-1255631.pdf: 19
+  2024-05-22_id-1255632.pdf: 17
+  2024-06-05_id-1255633.pdf: 21
+  2024-06-26_id-1255634.pdf: 35
+  2024-08-07_id-1224354.pdf: 4
+  2024-08-21_id-1224437.pdf: 5
+  2024-09-11_id-1226832.pdf: 5
+  2024-09-25_id-1211302.pdf: 19
+  2024-10-09_id-1231692.pdf: 9
+  2024-10-23_id-1211304.pdf: 12
+  2024-11-06_id-1211347.pdf: 2
+  2024-11-20_id-1211348.pdf: 10
+  2024-12-04_id-1211349.pdf: 7
+  2024-12-11_id-1247718.pdf: 1
+  2024-12-18_id-1211350.pdf: 26
+  2025-01-08_id-1247488.pdf: 13
+  2025-01-22_id-1247712.pdf: 16
+  2025-02-05_id-1247714.pdf: 5
+  2025-02-12_id-1281023.pdf: 1
+  2025-02-19_id-1247716.pdf: 16
+  2025-03-12_id-1247748.pdf: 16
+  2025-03-19_id-1287643.pdf: 1
+  2025-03-26_id-1247749.pdf: 23
+  2025-04-09_id-1247786.pdf: 17
+  2025-04-16_id-1293638.pdf: 1
+  2025-04-23_id-1247787.pdf: 10
+  2025-04-30_id-1302958.pdf: 0
+  2025-05-07_id-1247788.pdf: 7
+  2025-05-21_id-1247789.pdf: 22
+  2025-06-04_id-1247790.pdf: 34
+  2025-06-18_id-1247791.pdf: 37
+  2025-08-06_id-1247805.pdf: 14
+  2025-08-20_id-1247806.pdf: 17
+  2025-09-03_id-1247807.pdf: 14
+  2025-09-17_id-1247808.pdf: 28
+  2025-10-01_id-1247809.pdf: 9
+  2025-10-07_id-1343050.pdf: 2
+  2025-10-15_id-1247810.pdf: 16
+  2025-11-05_id-1247811.pdf: 21
+  2025-11-19_id-1247812.pdf: 19
+  2025-11-19_id-1355908.pdf: 1
+  2025-12-03_id-1247853.pdf: 18
+  2025-12-17_id-1247854.pdf: 25
+  2026-01-14_id-1351592.pdf: 14
+  2026-01-21_id-1374365.pdf: 8
+  2026-01-28_id-1351593.pdf: 16
+  2026-02-04_id-1351594.pdf: 9
+  2026-02-18_id-1351595.pdf: 6
+  2026-03-04_id-1396897.pdf: 0
+  2026-03-11_id-1351596.pdf: 23
+  2026-03-25_id-1351598.pdf: 20
+  2026-04-01_id-1386337.pdf: 1
+
+PDFs with 0 votes (suspicious, may need pattern work):
+  2023-08-30_id-1255613.pdf
+  2023-10-18_id-1255616.pdf
+  2023-12-06_id-1255618.pdf
+  2024-01-31_id-1255622.pdf
+  2024-04-17_id-1255628.pdf
+  2024-04-24_id-1255629.pdf
+  2025-04-30_id-1302958.pdf
+  2026-03-04_id-1396897.pdf
+
+
+Issues / Warnings:
+  [2023-02-15_id-1255710.pdf] item 12: saw 'Approved: 5-0' but no Motion/Second and no consent batch — skipped
+  [2023-04-19_id-1255606.pdf] item 15: saw 'Approved: 5-0' but no Motion/Second and no consent batch — skipped
+  [2023-12-20_id-1255619.pdf] item 19: saw 'Approved: 5-0' but no Motion/Second and no consent batch — skipped
+  [2023-12-20_id-1255619.pdf] item 22: saw 'Approved: 5-0' but no Motion/Second and no consent batch — skipped
+  [2024-01-24_id-1255621.pdf] item 17: saw 'Approved: 4-0' but no Motion/Second and no consent batch — skipped
+  [2024-01-24_id-1255621.pdf] item 18: saw 'Approved: 4-0' but no Motion/Second and no consent batch — skipped
+  [2025-04-23_id-1247787.pdf] item 4: saw 'APPROVED: 4-1 (FIGUEROA - NO)' but no Motion/Second and no consent batch — skipped
+  [2025-12-17_id-1247854.pdf] item 27: saw 'APPROVED: 5-0' but no Motion/Second and no consent batch — skipped

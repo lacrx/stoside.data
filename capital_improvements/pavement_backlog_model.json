@@ -1,0 +1,1282 @@
+{
+  "methodology": "Backlog accumulation = annual (true cost \u2212 actual spend), summed since FY2006-07. Lane-miles computed directly from Oceanside PCI workbook (Raw PCI sheet). Four scenarios: (city_overlay_slurry) uses the City's own FY20-21 methodology of overlay+slurry only; (low/mid/high) add reconstruction life-cycle costs with increasing aggressiveness.",
+  "assumptions": {
+    "centerline_miles": 407,
+    "lane_factor": 3.4496314496314495,
+    "lane_miles": 1404,
+    "source": "PCI/Oceanside PCI.xlsx \u2014 Raw PCI sheet (4311 segments)",
+    "current_network_avg_pci": 60,
+    "current_pci_distribution": {
+      "poor_failing": "30.2%",
+      "at_risk": "21.6%",
+      "good_fair": "33.6%",
+      "excellent_very_good": "14.6%"
+    },
+    "lifecycle": {
+      "slurry_seal": {
+        "unit_cost": 25000,
+        "cycle_years": 6
+      },
+      "overlay": {
+        "unit_cost": 350000,
+        "cycle_years": 18
+      },
+      "reconstruction": {
+        "unit_cost": 1500000,
+        "cycle_years": 50
+      }
+    },
+    "scenarios": {
+      "city_overlay_slurry": "City-own methodology from FY20-21 Breakdown sheet: overlay+slurry at measured rates, no reconstruction",
+      "scs_pavement_only": "Save California Streets 2022: San Diego County pavement $/lane-mile \u00d7 Oceanside lane-miles. BMP-in-10-years funding rate.",
+      "scs_pavement_plus_essential": "SCS pavement + essential components (storm drains, curb/gutter, sidewalks, curb ramps, signals, streetlights, signs, ADA, NPDES).",
+      "scs_full_transport": "SCS full transportation: pavement + essential components + active transportation (bike + ped facilities excluding sidewalks).",
+      "low": "industry lifecycle, best-case \u2014 lower unit costs, longer cycles",
+      "mid": "standard industry life-cycle mix (headline prior to SCS integration)",
+      "high": "full reconstruction rotation + inflation headroom"
+    },
+    "scs_source": {
+      "report": "California Statewide Local Streets and Roads Needs Assessment (April 2023)",
+      "url": "https://savecaliforniastreets.org/wp-content/uploads/2023/05/Statewide-Needs-2022-FINAL.pdf",
+      "per_lane_mile_year_2022_dollars": {
+        "pavement_statewide": 25220,
+        "pavement_sd_county": 24235,
+        "essential_statewide": 12142,
+        "essential_sd_county": 14196,
+        "active_transport_statewide": 3488
+      },
+      "statewide_benchmarks": {
+        "mean_pci_2022": 65,
+        "sd_county_pci_2022": 71,
+        "oceanside_pci_2022": 60,
+        "reconstruction_vs_preservation_cost_ratio": 14
+      }
+    }
+  },
+  "calibration": {
+    "city_fy2021_stated_shortfall": 14453411,
+    "city_fy2021_actual_spend": 5592000,
+    "city_fy2021_investment_needed": 20045411,
+    "note": "PCI workbook Breakdown sheet records these values for FY20-21 \u2014 use as the strongest anchor point for the analysis."
+  },
+  "results": {
+    "city_overlay_slurry": {
+      "annual_need": 20045411,
+      "final_backlog_fy2030": 303189864,
+      "years": [
+        {
+          "fiscal_year_end": 2007,
+          "actual_spend": 4880000,
+          "true_annual_need": 20045411,
+          "annual_gap": 15165411,
+          "cumulative_backlog": 15165411
+        },
+        {
+          "fiscal_year_end": 2008,
+          "actual_spend": 4880000,
+          "true_annual_need": 20045411,
+          "annual_gap": 15165411,
+          "cumulative_backlog": 30330822
+        },
+        {
+          "fiscal_year_end": 2009,
+          "actual_spend": 4880000,
+          "true_annual_need": 20045411,
+          "annual_gap": 15165411,
+          "cumulative_backlog": 45496233
+        },
+        {
+          "fiscal_year_end": 2010,
+          "actual_spend": 4880000,
+          "true_annual_need": 20045411,
+          "annual_gap": 15165411,
+          "cumulative_backlog": 60661644
+        },
+        {
+          "fiscal_year_end": 2011,
+          "actual_spend": 4880000,
+          "true_annual_need": 20045411,
+          "annual_gap": 15165411,
+          "cumulative_backlog": 75827055
+        },
+        {
+          "fiscal_year_end": 2012,
+          "actual_spend": 5000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 15045411,
+          "cumulative_backlog": 90872466
+        },
+        {
+          "fiscal_year_end": 2013,
+          "actual_spend": 5000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 15045411,
+          "cumulative_backlog": 105917877
+        },
+        {
+          "fiscal_year_end": 2014,
+          "actual_spend": 5500000,
+          "true_annual_need": 20045411,
+          "annual_gap": 14545411,
+          "cumulative_backlog": 120463288
+        },
+        {
+          "fiscal_year_end": 2015,
+          "actual_spend": 6000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 14045411,
+          "cumulative_backlog": 134508699
+        },
+        {
+          "fiscal_year_end": 2016,
+          "actual_spend": 6000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 14045411,
+          "cumulative_backlog": 148554110
+        },
+        {
+          "fiscal_year_end": 2017,
+          "actual_spend": 6500000,
+          "true_annual_need": 20045411,
+          "annual_gap": 13545411,
+          "cumulative_backlog": 162099521
+        },
+        {
+          "fiscal_year_end": 2018,
+          "actual_spend": 6500000,
+          "true_annual_need": 20045411,
+          "annual_gap": 13545411,
+          "cumulative_backlog": 175644932
+        },
+        {
+          "fiscal_year_end": 2019,
+          "actual_spend": 7000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 13045411,
+          "cumulative_backlog": 188690343
+        },
+        {
+          "fiscal_year_end": 2020,
+          "actual_spend": 10000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 10045411,
+          "cumulative_backlog": 198735754
+        },
+        {
+          "fiscal_year_end": 2021,
+          "actual_spend": 12000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 8045411,
+          "cumulative_backlog": 206781165
+        },
+        {
+          "fiscal_year_end": 2022,
+          "actual_spend": 11000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 9045411,
+          "cumulative_backlog": 215826576
+        },
+        {
+          "fiscal_year_end": 2023,
+          "actual_spend": 12000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 8045411,
+          "cumulative_backlog": 223871987
+        },
+        {
+          "fiscal_year_end": 2024,
+          "actual_spend": 12000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 8045411,
+          "cumulative_backlog": 231917398
+        },
+        {
+          "fiscal_year_end": 2025,
+          "actual_spend": 12000000,
+          "true_annual_need": 20045411,
+          "annual_gap": 8045411,
+          "cumulative_backlog": 239962809
+        },
+        {
+          "fiscal_year_end": 2026,
+          "actual_spend": 7400000,
+          "true_annual_need": 20045411,
+          "annual_gap": 12645411,
+          "cumulative_backlog": 252608220
+        },
+        {
+          "fiscal_year_end": 2027,
+          "actual_spend": 7400000,
+          "true_annual_need": 20045411,
+          "annual_gap": 12645411,
+          "cumulative_backlog": 265253631
+        },
+        {
+          "fiscal_year_end": 2028,
+          "actual_spend": 7400000,
+          "true_annual_need": 20045411,
+          "annual_gap": 12645411,
+          "cumulative_backlog": 277899042
+        },
+        {
+          "fiscal_year_end": 2029,
+          "actual_spend": 7400000,
+          "true_annual_need": 20045411,
+          "annual_gap": 12645411,
+          "cumulative_backlog": 290544453
+        },
+        {
+          "fiscal_year_end": 2030,
+          "actual_spend": 7400000,
+          "true_annual_need": 20045411,
+          "annual_gap": 12645411,
+          "cumulative_backlog": 303189864
+        }
+      ]
+    },
+    "scs_pavement_only": {
+      "annual_need": 34025940,
+      "final_backlog_fy2030": 638722560,
+      "years": [
+        {
+          "fiscal_year_end": 2007,
+          "actual_spend": 4880000,
+          "true_annual_need": 34025940,
+          "annual_gap": 29145940,
+          "cumulative_backlog": 29145940
+        },
+        {
+          "fiscal_year_end": 2008,
+          "actual_spend": 4880000,
+          "true_annual_need": 34025940,
+          "annual_gap": 29145940,
+          "cumulative_backlog": 58291880
+        },
+        {
+          "fiscal_year_end": 2009,
+          "actual_spend": 4880000,
+          "true_annual_need": 34025940,
+          "annual_gap": 29145940,
+          "cumulative_backlog": 87437820
+        },
+        {
+          "fiscal_year_end": 2010,
+          "actual_spend": 4880000,
+          "true_annual_need": 34025940,
+          "annual_gap": 29145940,
+          "cumulative_backlog": 116583760
+        },
+        {
+          "fiscal_year_end": 2011,
+          "actual_spend": 4880000,
+          "true_annual_need": 34025940,
+          "annual_gap": 29145940,
+          "cumulative_backlog": 145729700
+        },
+        {
+          "fiscal_year_end": 2012,
+          "actual_spend": 5000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 29025940,
+          "cumulative_backlog": 174755640
+        },
+        {
+          "fiscal_year_end": 2013,
+          "actual_spend": 5000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 29025940,
+          "cumulative_backlog": 203781580
+        },
+        {
+          "fiscal_year_end": 2014,
+          "actual_spend": 5500000,
+          "true_annual_need": 34025940,
+          "annual_gap": 28525940,
+          "cumulative_backlog": 232307520
+        },
+        {
+          "fiscal_year_end": 2015,
+          "actual_spend": 6000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 28025940,
+          "cumulative_backlog": 260333460
+        },
+        {
+          "fiscal_year_end": 2016,
+          "actual_spend": 6000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 28025940,
+          "cumulative_backlog": 288359400
+        },
+        {
+          "fiscal_year_end": 2017,
+          "actual_spend": 6500000,
+          "true_annual_need": 34025940,
+          "annual_gap": 27525940,
+          "cumulative_backlog": 315885340
+        },
+        {
+          "fiscal_year_end": 2018,
+          "actual_spend": 6500000,
+          "true_annual_need": 34025940,
+          "annual_gap": 27525940,
+          "cumulative_backlog": 343411280
+        },
+        {
+          "fiscal_year_end": 2019,
+          "actual_spend": 7000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 27025940,
+          "cumulative_backlog": 370437220
+        },
+        {
+          "fiscal_year_end": 2020,
+          "actual_spend": 10000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 24025940,
+          "cumulative_backlog": 394463160
+        },
+        {
+          "fiscal_year_end": 2021,
+          "actual_spend": 12000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 22025940,
+          "cumulative_backlog": 416489100
+        },
+        {
+          "fiscal_year_end": 2022,
+          "actual_spend": 11000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 23025940,
+          "cumulative_backlog": 439515040
+        },
+        {
+          "fiscal_year_end": 2023,
+          "actual_spend": 12000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 22025940,
+          "cumulative_backlog": 461540980
+        },
+        {
+          "fiscal_year_end": 2024,
+          "actual_spend": 12000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 22025940,
+          "cumulative_backlog": 483566920
+        },
+        {
+          "fiscal_year_end": 2025,
+          "actual_spend": 12000000,
+          "true_annual_need": 34025940,
+          "annual_gap": 22025940,
+          "cumulative_backlog": 505592860
+        },
+        {
+          "fiscal_year_end": 2026,
+          "actual_spend": 7400000,
+          "true_annual_need": 34025940,
+          "annual_gap": 26625940,
+          "cumulative_backlog": 532218800
+        },
+        {
+          "fiscal_year_end": 2027,
+          "actual_spend": 7400000,
+          "true_annual_need": 34025940,
+          "annual_gap": 26625940,
+          "cumulative_backlog": 558844740
+        },
+        {
+          "fiscal_year_end": 2028,
+          "actual_spend": 7400000,
+          "true_annual_need": 34025940,
+          "annual_gap": 26625940,
+          "cumulative_backlog": 585470680
+        },
+        {
+          "fiscal_year_end": 2029,
+          "actual_spend": 7400000,
+          "true_annual_need": 34025940,
+          "annual_gap": 26625940,
+          "cumulative_backlog": 612096620
+        },
+        {
+          "fiscal_year_end": 2030,
+          "actual_spend": 7400000,
+          "true_annual_need": 34025940,
+          "annual_gap": 26625940,
+          "cumulative_backlog": 638722560
+        }
+      ]
+    },
+    "scs_pavement_plus_essential": {
+      "annual_need": 53957124,
+      "final_backlog_fy2030": 1117070976,
+      "years": [
+        {
+          "fiscal_year_end": 2007,
+          "actual_spend": 4880000,
+          "true_annual_need": 53957124,
+          "annual_gap": 49077124,
+          "cumulative_backlog": 49077124
+        },
+        {
+          "fiscal_year_end": 2008,
+          "actual_spend": 4880000,
+          "true_annual_need": 53957124,
+          "annual_gap": 49077124,
+          "cumulative_backlog": 98154248
+        },
+        {
+          "fiscal_year_end": 2009,
+          "actual_spend": 4880000,
+          "true_annual_need": 53957124,
+          "annual_gap": 49077124,
+          "cumulative_backlog": 147231372
+        },
+        {
+          "fiscal_year_end": 2010,
+          "actual_spend": 4880000,
+          "true_annual_need": 53957124,
+          "annual_gap": 49077124,
+          "cumulative_backlog": 196308496
+        },
+        {
+          "fiscal_year_end": 2011,
+          "actual_spend": 4880000,
+          "true_annual_need": 53957124,
+          "annual_gap": 49077124,
+          "cumulative_backlog": 245385620
+        },
+        {
+          "fiscal_year_end": 2012,
+          "actual_spend": 5000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 48957124,
+          "cumulative_backlog": 294342744
+        },
+        {
+          "fiscal_year_end": 2013,
+          "actual_spend": 5000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 48957124,
+          "cumulative_backlog": 343299868
+        },
+        {
+          "fiscal_year_end": 2014,
+          "actual_spend": 5500000,
+          "true_annual_need": 53957124,
+          "annual_gap": 48457124,
+          "cumulative_backlog": 391756992
+        },
+        {
+          "fiscal_year_end": 2015,
+          "actual_spend": 6000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 47957124,
+          "cumulative_backlog": 439714116
+        },
+        {
+          "fiscal_year_end": 2016,
+          "actual_spend": 6000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 47957124,
+          "cumulative_backlog": 487671240
+        },
+        {
+          "fiscal_year_end": 2017,
+          "actual_spend": 6500000,
+          "true_annual_need": 53957124,
+          "annual_gap": 47457124,
+          "cumulative_backlog": 535128364
+        },
+        {
+          "fiscal_year_end": 2018,
+          "actual_spend": 6500000,
+          "true_annual_need": 53957124,
+          "annual_gap": 47457124,
+          "cumulative_backlog": 582585488
+        },
+        {
+          "fiscal_year_end": 2019,
+          "actual_spend": 7000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 46957124,
+          "cumulative_backlog": 629542612
+        },
+        {
+          "fiscal_year_end": 2020,
+          "actual_spend": 10000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 43957124,
+          "cumulative_backlog": 673499736
+        },
+        {
+          "fiscal_year_end": 2021,
+          "actual_spend": 12000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 41957124,
+          "cumulative_backlog": 715456860
+        },
+        {
+          "fiscal_year_end": 2022,
+          "actual_spend": 11000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 42957124,
+          "cumulative_backlog": 758413984
+        },
+        {
+          "fiscal_year_end": 2023,
+          "actual_spend": 12000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 41957124,
+          "cumulative_backlog": 800371108
+        },
+        {
+          "fiscal_year_end": 2024,
+          "actual_spend": 12000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 41957124,
+          "cumulative_backlog": 842328232
+        },
+        {
+          "fiscal_year_end": 2025,
+          "actual_spend": 12000000,
+          "true_annual_need": 53957124,
+          "annual_gap": 41957124,
+          "cumulative_backlog": 884285356
+        },
+        {
+          "fiscal_year_end": 2026,
+          "actual_spend": 7400000,
+          "true_annual_need": 53957124,
+          "annual_gap": 46557124,
+          "cumulative_backlog": 930842480
+        },
+        {
+          "fiscal_year_end": 2027,
+          "actual_spend": 7400000,
+          "true_annual_need": 53957124,
+          "annual_gap": 46557124,
+          "cumulative_backlog": 977399604
+        },
+        {
+          "fiscal_year_end": 2028,
+          "actual_spend": 7400000,
+          "true_annual_need": 53957124,
+          "annual_gap": 46557124,
+          "cumulative_backlog": 1023956728
+        },
+        {
+          "fiscal_year_end": 2029,
+          "actual_spend": 7400000,
+          "true_annual_need": 53957124,
+          "annual_gap": 46557124,
+          "cumulative_backlog": 1070513852
+        },
+        {
+          "fiscal_year_end": 2030,
+          "actual_spend": 7400000,
+          "true_annual_need": 53957124,
+          "annual_gap": 46557124,
+          "cumulative_backlog": 1117070976
+        }
+      ]
+    },
+    "scs_full_transport": {
+      "annual_need": 58854276,
+      "final_backlog_fy2030": 1234602624,
+      "years": [
+        {
+          "fiscal_year_end": 2007,
+          "actual_spend": 4880000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53974276,
+          "cumulative_backlog": 53974276
+        },
+        {
+          "fiscal_year_end": 2008,
+          "actual_spend": 4880000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53974276,
+          "cumulative_backlog": 107948552
+        },
+        {
+          "fiscal_year_end": 2009,
+          "actual_spend": 4880000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53974276,
+          "cumulative_backlog": 161922828
+        },
+        {
+          "fiscal_year_end": 2010,
+          "actual_spend": 4880000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53974276,
+          "cumulative_backlog": 215897104
+        },
+        {
+          "fiscal_year_end": 2011,
+          "actual_spend": 4880000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53974276,
+          "cumulative_backlog": 269871380
+        },
+        {
+          "fiscal_year_end": 2012,
+          "actual_spend": 5000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53854276,
+          "cumulative_backlog": 323725656
+        },
+        {
+          "fiscal_year_end": 2013,
+          "actual_spend": 5000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53854276,
+          "cumulative_backlog": 377579932
+        },
+        {
+          "fiscal_year_end": 2014,
+          "actual_spend": 5500000,
+          "true_annual_need": 58854276,
+          "annual_gap": 53354276,
+          "cumulative_backlog": 430934208
+        },
+        {
+          "fiscal_year_end": 2015,
+          "actual_spend": 6000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 52854276,
+          "cumulative_backlog": 483788484
+        },
+        {
+          "fiscal_year_end": 2016,
+          "actual_spend": 6000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 52854276,
+          "cumulative_backlog": 536642760
+        },
+        {
+          "fiscal_year_end": 2017,
+          "actual_spend": 6500000,
+          "true_annual_need": 58854276,
+          "annual_gap": 52354276,
+          "cumulative_backlog": 588997036
+        },
+        {
+          "fiscal_year_end": 2018,
+          "actual_spend": 6500000,
+          "true_annual_need": 58854276,
+          "annual_gap": 52354276,
+          "cumulative_backlog": 641351312
+        },
+        {
+          "fiscal_year_end": 2019,
+          "actual_spend": 7000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 51854276,
+          "cumulative_backlog": 693205588
+        },
+        {
+          "fiscal_year_end": 2020,
+          "actual_spend": 10000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 48854276,
+          "cumulative_backlog": 742059864
+        },
+        {
+          "fiscal_year_end": 2021,
+          "actual_spend": 12000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 46854276,
+          "cumulative_backlog": 788914140
+        },
+        {
+          "fiscal_year_end": 2022,
+          "actual_spend": 11000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 47854276,
+          "cumulative_backlog": 836768416
+        },
+        {
+          "fiscal_year_end": 2023,
+          "actual_spend": 12000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 46854276,
+          "cumulative_backlog": 883622692
+        },
+        {
+          "fiscal_year_end": 2024,
+          "actual_spend": 12000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 46854276,
+          "cumulative_backlog": 930476968
+        },
+        {
+          "fiscal_year_end": 2025,
+          "actual_spend": 12000000,
+          "true_annual_need": 58854276,
+          "annual_gap": 46854276,
+          "cumulative_backlog": 977331244
+        },
+        {
+          "fiscal_year_end": 2026,
+          "actual_spend": 7400000,
+          "true_annual_need": 58854276,
+          "annual_gap": 51454276,
+          "cumulative_backlog": 1028785520
+        },
+        {
+          "fiscal_year_end": 2027,
+          "actual_spend": 7400000,
+          "true_annual_need": 58854276,
+          "annual_gap": 51454276,
+          "cumulative_backlog": 1080239796
+        },
+        {
+          "fiscal_year_end": 2028,
+          "actual_spend": 7400000,
+          "true_annual_need": 58854276,
+          "annual_gap": 51454276,
+          "cumulative_backlog": 1131694072
+        },
+        {
+          "fiscal_year_end": 2029,
+          "actual_spend": 7400000,
+          "true_annual_need": 58854276,
+          "annual_gap": 51454276,
+          "cumulative_backlog": 1183148348
+        },
+        {
+          "fiscal_year_end": 2030,
+          "actual_spend": 7400000,
+          "true_annual_need": 58854276,
+          "annual_gap": 51454276,
+          "cumulative_backlog": 1234602624
+        }
+      ]
+    },
+    "low": {
+      "annual_need": 52688999.99999999,
+      "final_backlog_fy2030": 1086635999.9999998,
+      "years": [
+        {
+          "fiscal_year_end": 2007,
+          "actual_spend": 4880000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47808999.99999999,
+          "cumulative_backlog": 47808999.99999999
+        },
+        {
+          "fiscal_year_end": 2008,
+          "actual_spend": 4880000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47808999.99999999,
+          "cumulative_backlog": 95617999.99999999
+        },
+        {
+          "fiscal_year_end": 2009,
+          "actual_spend": 4880000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47808999.99999999,
+          "cumulative_backlog": 143426999.99999997
+        },
+        {
+          "fiscal_year_end": 2010,
+          "actual_spend": 4880000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47808999.99999999,
+          "cumulative_backlog": 191235999.99999997
+        },
+        {
+          "fiscal_year_end": 2011,
+          "actual_spend": 4880000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47808999.99999999,
+          "cumulative_backlog": 239044999.99999997
+        },
+        {
+          "fiscal_year_end": 2012,
+          "actual_spend": 5000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47688999.99999999,
+          "cumulative_backlog": 286733999.99999994
+        },
+        {
+          "fiscal_year_end": 2013,
+          "actual_spend": 5000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47688999.99999999,
+          "cumulative_backlog": 334422999.99999994
+        },
+        {
+          "fiscal_year_end": 2014,
+          "actual_spend": 5500000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 47188999.99999999,
+          "cumulative_backlog": 381611999.99999994
+        },
+        {
+          "fiscal_year_end": 2015,
+          "actual_spend": 6000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 46688999.99999999,
+          "cumulative_backlog": 428300999.99999994
+        },
+        {
+          "fiscal_year_end": 2016,
+          "actual_spend": 6000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 46688999.99999999,
+          "cumulative_backlog": 474989999.99999994
+        },
+        {
+          "fiscal_year_end": 2017,
+          "actual_spend": 6500000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 46188999.99999999,
+          "cumulative_backlog": 521178999.99999994
+        },
+        {
+          "fiscal_year_end": 2018,
+          "actual_spend": 6500000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 46188999.99999999,
+          "cumulative_backlog": 567367999.9999999
+        },
+        {
+          "fiscal_year_end": 2019,
+          "actual_spend": 7000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 45688999.99999999,
+          "cumulative_backlog": 613056999.9999999
+        },
+        {
+          "fiscal_year_end": 2020,
+          "actual_spend": 10000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 42688999.99999999,
+          "cumulative_backlog": 655745999.9999999
+        },
+        {
+          "fiscal_year_end": 2021,
+          "actual_spend": 12000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 40688999.99999999,
+          "cumulative_backlog": 696434999.9999999
+        },
+        {
+          "fiscal_year_end": 2022,
+          "actual_spend": 11000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 41688999.99999999,
+          "cumulative_backlog": 738123999.9999999
+        },
+        {
+          "fiscal_year_end": 2023,
+          "actual_spend": 12000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 40688999.99999999,
+          "cumulative_backlog": 778812999.9999999
+        },
+        {
+          "fiscal_year_end": 2024,
+          "actual_spend": 12000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 40688999.99999999,
+          "cumulative_backlog": 819501999.9999999
+        },
+        {
+          "fiscal_year_end": 2025,
+          "actual_spend": 12000000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 40688999.99999999,
+          "cumulative_backlog": 860190999.9999999
+        },
+        {
+          "fiscal_year_end": 2026,
+          "actual_spend": 7400000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 45288999.99999999,
+          "cumulative_backlog": 905479999.9999999
+        },
+        {
+          "fiscal_year_end": 2027,
+          "actual_spend": 7400000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 45288999.99999999,
+          "cumulative_backlog": 950768999.9999999
+        },
+        {
+          "fiscal_year_end": 2028,
+          "actual_spend": 7400000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 45288999.99999999,
+          "cumulative_backlog": 996057999.9999999
+        },
+        {
+          "fiscal_year_end": 2029,
+          "actual_spend": 7400000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 45288999.99999999,
+          "cumulative_backlog": 1041346999.9999999
+        },
+        {
+          "fiscal_year_end": 2030,
+          "actual_spend": 7400000,
+          "true_annual_need": 52688999.99999999,
+          "annual_gap": 45288999.99999999,
+          "cumulative_backlog": 1086635999.9999998
+        }
+      ]
+    },
+    "mid": {
+      "annual_need": 75270000.0,
+      "final_backlog_fy2030": 1628580000.0,
+      "years": [
+        {
+          "fiscal_year_end": 2007,
+          "actual_spend": 4880000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 70390000.0,
+          "cumulative_backlog": 70390000.0
+        },
+        {
+          "fiscal_year_end": 2008,
+          "actual_spend": 4880000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 70390000.0,
+          "cumulative_backlog": 140780000.0
+        },
+        {
+          "fiscal_year_end": 2009,
+          "actual_spend": 4880000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 70390000.0,
+          "cumulative_backlog": 211170000.0
+        },
+        {
+          "fiscal_year_end": 2010,
+          "actual_spend": 4880000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 70390000.0,
+          "cumulative_backlog": 281560000.0
+        },
+        {
+          "fiscal_year_end": 2011,
+          "actual_spend": 4880000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 70390000.0,
+          "cumulative_backlog": 351950000.0
+        },
+        {
+          "fiscal_year_end": 2012,
+          "actual_spend": 5000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 70270000.0,
+          "cumulative_backlog": 422220000.0
+        },
+        {
+          "fiscal_year_end": 2013,
+          "actual_spend": 5000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 70270000.0,
+          "cumulative_backlog": 492490000.0
+        },
+        {
+          "fiscal_year_end": 2014,
+          "actual_spend": 5500000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 69770000.0,
+          "cumulative_backlog": 562260000.0
+        },
+        {
+          "fiscal_year_end": 2015,
+          "actual_spend": 6000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 69270000.0,
+          "cumulative_backlog": 631530000.0
+        },
+        {
+          "fiscal_year_end": 2016,
+          "actual_spend": 6000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 69270000.0,
+          "cumulative_backlog": 700800000.0
+        },
+        {
+          "fiscal_year_end": 2017,
+          "actual_spend": 6500000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 68770000.0,
+          "cumulative_backlog": 769570000.0
+        },
+        {
+          "fiscal_year_end": 2018,
+          "actual_spend": 6500000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 68770000.0,
+          "cumulative_backlog": 838340000.0
+        },
+        {
+          "fiscal_year_end": 2019,
+          "actual_spend": 7000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 68270000.0,
+          "cumulative_backlog": 906610000.0
+        },
+        {
+          "fiscal_year_end": 2020,
+          "actual_spend": 10000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 65270000.0,
+          "cumulative_backlog": 971880000.0
+        },
+        {
+          "fiscal_year_end": 2021,
+          "actual_spend": 12000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 63270000.0,
+          "cumulative_backlog": 1035150000.0
+        },
+        {
+          "fiscal_year_end": 2022,
+          "actual_spend": 11000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 64270000.0,
+          "cumulative_backlog": 1099420000.0
+        },
+        {
+          "fiscal_year_end": 2023,
+          "actual_spend": 12000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 63270000.0,
+          "cumulative_backlog": 1162690000.0
+        },
+        {
+          "fiscal_year_end": 2024,
+          "actual_spend": 12000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 63270000.0,
+          "cumulative_backlog": 1225960000.0
+        },
+        {
+          "fiscal_year_end": 2025,
+          "actual_spend": 12000000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 63270000.0,
+          "cumulative_backlog": 1289230000.0
+        },
+        {
+          "fiscal_year_end": 2026,
+          "actual_spend": 7400000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 67870000.0,
+          "cumulative_backlog": 1357100000.0
+        },
+        {
+          "fiscal_year_end": 2027,
+          "actual_spend": 7400000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 67870000.0,
+          "cumulative_backlog": 1424970000.0
+        },
+        {
+          "fiscal_year_end": 2028,
+          "actual_spend": 7400000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 67870000.0,
+          "cumulative_backlog": 1492840000.0
+        },
+        {
+          "fiscal_year_end": 2029,
+          "actual_spend": 7400000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 67870000.0,
+          "cumulative_backlog": 1560710000.0
+        },
+        {
+          "fiscal_year_end": 2030,
+          "actual_spend": 7400000,
+          "true_annual_need": 75270000.0,
+          "annual_gap": 67870000.0,
+          "cumulative_backlog": 1628580000.0
+        }
+      ]
+    },
+    "high": {
+      "annual_need": 97850999.99999999,
+      "final_backlog_fy2030": 2170523999.9999995,
+      "years": [
+        {
+          "fiscal_year_end": 2007,
+          "actual_spend": 4880000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92970999.99999999,
+          "cumulative_backlog": 92970999.99999999
+        },
+        {
+          "fiscal_year_end": 2008,
+          "actual_spend": 4880000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92970999.99999999,
+          "cumulative_backlog": 185941999.99999997
+        },
+        {
+          "fiscal_year_end": 2009,
+          "actual_spend": 4880000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92970999.99999999,
+          "cumulative_backlog": 278912999.99999994
+        },
+        {
+          "fiscal_year_end": 2010,
+          "actual_spend": 4880000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92970999.99999999,
+          "cumulative_backlog": 371883999.99999994
+        },
+        {
+          "fiscal_year_end": 2011,
+          "actual_spend": 4880000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92970999.99999999,
+          "cumulative_backlog": 464854999.99999994
+        },
+        {
+          "fiscal_year_end": 2012,
+          "actual_spend": 5000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92850999.99999999,
+          "cumulative_backlog": 557705999.9999999
+        },
+        {
+          "fiscal_year_end": 2013,
+          "actual_spend": 5000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92850999.99999999,
+          "cumulative_backlog": 650556999.9999999
+        },
+        {
+          "fiscal_year_end": 2014,
+          "actual_spend": 5500000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 92350999.99999999,
+          "cumulative_backlog": 742907999.9999999
+        },
+        {
+          "fiscal_year_end": 2015,
+          "actual_spend": 6000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 91850999.99999999,
+          "cumulative_backlog": 834758999.9999999
+        },
+        {
+          "fiscal_year_end": 2016,
+          "actual_spend": 6000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 91850999.99999999,
+          "cumulative_backlog": 926609999.9999999
+        },
+        {
+          "fiscal_year_end": 2017,
+          "actual_spend": 6500000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 91350999.99999999,
+          "cumulative_backlog": 1017960999.9999999
+        },
+        {
+          "fiscal_year_end": 2018,
+          "actual_spend": 6500000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 91350999.99999999,
+          "cumulative_backlog": 1109311999.9999998
+        },
+        {
+          "fiscal_year_end": 2019,
+          "actual_spend": 7000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 90850999.99999999,
+          "cumulative_backlog": 1200162999.9999998
+        },
+        {
+          "fiscal_year_end": 2020,
+          "actual_spend": 10000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 87850999.99999999,
+          "cumulative_backlog": 1288013999.9999998
+        },
+        {
+          "fiscal_year_end": 2021,
+          "actual_spend": 12000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 85850999.99999999,
+          "cumulative_backlog": 1373864999.9999998
+        },
+        {
+          "fiscal_year_end": 2022,
+          "actual_spend": 11000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 86850999.99999999,
+          "cumulative_backlog": 1460715999.9999998
+        },
+        {
+          "fiscal_year_end": 2023,
+          "actual_spend": 12000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 85850999.99999999,
+          "cumulative_backlog": 1546566999.9999998
+        },
+        {
+          "fiscal_year_end": 2024,
+          "actual_spend": 12000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 85850999.99999999,
+          "cumulative_backlog": 1632417999.9999998
+        },
+        {
+          "fiscal_year_end": 2025,
+          "actual_spend": 12000000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 85850999.99999999,
+          "cumulative_backlog": 1718268999.9999998
+        },
+        {
+          "fiscal_year_end": 2026,
+          "actual_spend": 7400000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 90450999.99999999,
+          "cumulative_backlog": 1808719999.9999998
+        },
+        {
+          "fiscal_year_end": 2027,
+          "actual_spend": 7400000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 90450999.99999999,
+          "cumulative_backlog": 1899170999.9999998
+        },
+        {
+          "fiscal_year_end": 2028,
+          "actual_spend": 7400000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 90450999.99999999,
+          "cumulative_backlog": 1989621999.9999998
+        },
+        {
+          "fiscal_year_end": 2029,
+          "actual_spend": 7400000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 90450999.99999999,
+          "cumulative_backlog": 2080072999.9999998
+        },
+        {
+          "fiscal_year_end": 2030,
+          "actual_spend": 7400000,
+          "true_annual_need": 97850999.99999999,
+          "annual_gap": 90450999.99999999,
+          "cumulative_backlog": 2170523999.9999995
+        }
+      ]
+    }
+  }
+}

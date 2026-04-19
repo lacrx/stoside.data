@@ -1,0 +1,498 @@
+City of Oceanside 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comprehensive Annual Financial Report 
+ 
+For the year ended June 30, 2002 
+
+
+City of Oceanside 
+Basic Financial Statements 
+For the year ended June 30, 2002 
+ 
+Table of Contents 
+ 
+ 
+i 
+ 
+ 
+Page 
+INTRODUCTORY SECTION 
+ 
+Table of Contents .................................................................................................................................................... i 
+Letter of Transmittal............................................................................................................................................... iii 
+Principal Officials.................................................................................................................................................... vii 
+Organizational Chart.............................................................................................................................................. viii 
+ 
+FINANCIAL SECTION 
+ 
+Independent Auditors’ Report .....................................................................................................................................1 
+ 
+Management Discussion and Analysis ......................................................................................................................3 
+ 
+Basic Financial Statements: 
+ 
+ 
+Government – Wide Financial Statements: 
+ 
+ 
+ 
+Statement of Net Assets...................................................................................................................................15 
+ 
+ 
+Statement of Activities and Changes in Net Assets ....................................................................................16 
+ 
+ 
+Fund Financial Statements: 
+ 
+ 
+ 
+Governmental Fund Financial Statements: 
+ 
+ 
+ 
+Balance Sheet..............................................................................................................................................22 
+ 
+ 
+ 
+Reconciliation of the Governmental Funds Balance Sheet 
+ 
+ 
+ 
+ 
+to the Government –Wide Statement of Net Assets ......................................................................25 
+ 
+Statement of Revenues, Expenditures  
+ 
+ 
+and Changes in Fund Balances.........................................................................................................26 
+ 
+ 
+ 
+Reconciliation of the Governmental Funds Statement of Revenues, 
+ 
+ 
+ 
+ 
+Expenditures and Changes in Fund Balances to the Government – Wide 
+ 
+ 
+ 
+ 
+Statement of Activities and Changes in Net Assets.......................................................................28 
+ 
+ 
+ 
+Proprietary Fund Financial Statements: 
+ 
+ 
+ 
+Statement of Net Assets............................................................................................................................30 
+ 
+ 
+ 
+Statement of Revenues, Expenses  
+ 
+ 
+ 
+ 
+and Changes in Fund Net Assets .....................................................................................................34 
+ 
+ 
+ 
+Statement of Cash Flows ..........................................................................................................................36 
+ 
+ 
+ 
+Fiduciary Fund Financial Statements: 
+ 
+ 
+ 
+Statement of Fiduciary Net Assets..........................................................................................................40 
+ 
+ 
+ 
+Statement of Changes in Net Assets.......................................................................................................41 
+ 
+ 
+Notes to the Basic Financial Statements............................................................................................................43 
+ 
+ 
+Required Supplemental Information.................................................................................................................91 
+
+
+City of Oceanside 
+Basic Financial Statements 
+For the year ended June 30, 2002 
+ 
+Table of Contents, Continued 
+ 
+ 
+ii 
+ 
+ 
+Page 
+Supplementary Information: 
+ 
+ 
+Non-Major Governmental Funds: 
+ 
+ 
+Combining Balance Sheet..............................................................................................................................102 
+ 
+ 
+Combining Statement of Revenues, Expenditures  
+ 
+ 
+ 
+and Changes in Fund Balances..............................................................................................................104 
+ 
+ 
+Statement of Revenues, Expenditures  
+ 
+ 
+and Changes in Fund Balances – Budget and Actual 
+ 
+ 
+Special Revenue Funds: 
+ 
+ 
+ 
+Asset Seizure ..............................................................................................................................106 
+ 
+Library.........................................................................................................................................107 
+ 
+ 
+ 
+Gas Tax........................................................................................................................................108 
+ 
+ 
+ 
+Murray Road Bridge..................................................................................................................109 
+ 
+ 
+ 
+Community Development........................................................................................................110 
+ 
+ 
+ 
+Recreation ...................................................................................................................................111 
+ 
+ 
+ 
+Maintenance Districts ...............................................................................................................112 
+ 
+ 
+ 
+Stop..............................................................................................................................................113 
+ 
+ 
+ 
+Grants ..........................................................................................................................................114 
+ 
+ 
+ 
+Capital Projects Fund: 
+ 
+ 
+ 
+Oceanside Building Authority.................................................................................................115 
+ 
+ 
+Internal Service Funds: 
+ 
+ 
+Combining Statement of Net Assets............................................................................................................118 
+ 
+ 
+Combining Statement of Revenues, Expenses 
+ 
+ 
+ 
+and Changes in Net Assets ....................................................................................................................119 
+Combining Statement of Cash Flows.................................................................................................................120 
+ 
+ 
+Capital Assets Used in the Operating Of Governmental Funds: 
+ 
+ 
+Schedule by Source ........................................................................................................................................122 
+ 
+ 
+Schedule of Changes in Capital Assets – By Function and Activity.......................................................123 
+ 
+STATISTICAL SECTION (Unaudited) 
+ 
+General Government Expenditures - By Function.................................................................................................126 
+Schedule of Revenues – By Source ...........................................................................................................................128 
+Schedule of Taxes – By Type.....................................................................................................................................131 
+Property Tax Rates – All Direct and Overlapping Governments ........................................................................136 
+Special Assessment Levies and Collections ............................................................................................................137 
+Computation of Legal Debt Margin.........................................................................................................................139 
+Ratio of Net General Bonded Debt to Assessed Valuation and Net Bonded Debt Per Capita........................140 
+Ratio of Bonded Debt Service to General Governmental Expenditures .............................................................142 
+Direct and Overlapping Tax, Assessment and Lease Obligation Debt...............................................................143 
+Schedule of Revenue Bond Coverage (Water Fund) .............................................................................................145 
+Property Value and Construction.............................................................................................................................146 
+Principal Employers/Taxpayers...............................................................................................................................148 
+Miscellaneous Statistics..............................................................................................................................................149 
+
+
+December 13, 2002 
+ 
+Honorable Mayor, Members of the City Council, and Citizens of the City of Oceanside 
+ 
+It is with great pleasure that we submit the Comprehensive Annual Financial Report 
+(CAFR) for the City of Oceanside for the fiscal year ended June 30, 2002.  This is the 
+first year that the Finance Division has prepared the report in accordance with GASB 
+Statement 34.  These financial statements have been prepared in accordance with 
+generally accepted accounting principles (GAAP) and audited in accordance with 
+generally accepted auditing standards by Caporicci & Larson, LLP.  The financial 
+statements are the responsibility of the City Management and, to the best of our 
+knowledge, the enclosed statements are accurate in all material respects and present fairly 
+the financial position and results of operations for the City of Oceanside. 
+ 
+ 
+The Primary Government 
+ 
+The City of Oceanside (City) is a General Law City incorporated in 1888 under the 
+Constitution of the State of California.  The City follows the Council/Manager form of 
+government, whereby the City Council sets laws and policies, and the City Manager 
+performs administrative duties established by ordinances and policies. 
+ 
+As a full-service city, Oceanside provides the community with police, fire, library, water 
+and sewer, and parks and recreation services.  The City also maintains an airport and a 
+small craft harbor. 
+ 
+Additional reporting entities include the Oceanside Community Development 
+Commission, the Oceanside Small Craft Harbor District, the Oceanside Building 
+Authority, the Oceanside Finance Authority, and the Oceanside Bridge Corporation.  
+Additional information on these entities is contained in Note 1 to the Financial 
+Statements. 
+ 
+ 
+The City of Oceanside 
+ 
+The City of Oceanside is located 35 miles north of San Diego and 83 miles south of Los 
+Angeles and covers 42 square miles.  The City is located on the Pacific Ocean, offering a 
+moderate climate that ranks second most desirable in the nation.  Oceanside boasts 3.5 
+miles of coastline, a harbor with over 900 boat slips, and one of the longest wooden piers 
+on the West Coast, measuring 1,942 feet in length. 
+ 
+The City is home to the Mission San Luis Rey, which was completed in 1798.  Oceanside 
+was founded in 1880 and incorporated in 1888.  In 1942, 125,000 acres were sold to the 
+Federal Government to establish Camp Pendleton Marine Corps Base. 
+ 
+
+
+The population of Oceanside is 167,200, almost a 30 % increase over 1990 census 
+numbers, making it the second largest city in the San Diego.  The average household 
+income for the City is $67,770, just slightly behind the San Diego County average of 
+$73,377.  The overall unemployment rate is 4.9%, over 25% lower than the state average. 
+ 
+ 
+Economic Outlook 
+ 
+San Diego County enjoys close proximity to the major economic centers of Los Angeles, 
+Mexico, and the Pacific Rim countries.  Since the decline of the defense industry in the 
+early nineties, the county has been able to diversify into high-technology commercial 
+endeavors, seeing growth in areas such as telecommunications, electronics, computers, 
+and biotechnology. 
+ 
+The steady population growth has fueled home prices, with the median price for a single-
+family detached home in San Diego County increasing 23.7% in one year to $434,931 in 
+2002.  To Oceanside’s benefit, the central portion of the City of San Diego is extensively 
+built out, forcing new development into surrounding communities. 
+ 
+Despite a relatively favorable outlook for the San Diego economy, there are areas of 
+concern that must be remedied.  Traffic congestion, water supply, and sewage treatment 
+capacity and solid waste disposal are challenges that are being studied by both the public 
+and private sectors. 
+ 
+As a well-established coastal community, Oceanside should continue to benefit from new 
+development in the eastern portion of the City and the redevelopment efforts in the 
+western portion.  Community Facilities Districts (CFD), such as the Ocean Ranch 
+Corporate Centre and Morro Hills, continue to bolster City revenues and increase the 
+allure of Oceanside. 
+ 
+ 
+Financial Controls 
+ 
+The management of the City is responsible for establishing and maintaining procedures to 
+ensure internal controls commensurate with protecting City assets from theft, loss, or 
+abuse.  City Management also ensures that adequate accounting data is compiled to allow 
+for the preparation of accurate financial statements in accordance with generally accepted 
+accounting principles.  Under the guise of reasonable assurance, it is assumed that it is 
+not cost beneficial to ensure that financial statements are free of immaterial 
+misstatements but, rather, that auditors focus on material misstatements. 
+ 
+Budgetary Controls are implemented by the City Management to ensure compliance with 
+legal provisions set forth in annual budgets.  These controls further ensure that the will of 
+the City Council is preserved.  The City budgets on a two-year cycle to facilitate effective 
+planning and to identify shortfalls that may arise from current decisions.  Management’s 
+
+
+Discussion and Analysis (MD&A) and the Notes to the Financial Statements discuss the 
+budgeting process in more detail. 
+ 
+A Single Audit is performed by Caporicci & Larson, LLP to ensure that adequate internal 
+controls are in place to ensure compliance with laws and regulations relating to various 
+federal, state and local funding provided to the City. 
+ 
+Other Information 
+ 
+Spending Limitation:  Proposition 4, known as the Gann Initiative, was passed in 1979 to 
+limit government spending by capping the total proceeds of taxes that my be appropriated 
+in a fiscal year.  When a city exceeds the limit, excess tax revenue must be returned to the 
+citizens through refunds, rebates, or other means.  The City is well below the established 
+Gann limit of $211,700,366.  
+ 
+Pension Benefits:  The City contributes to a defined benefit pension plan through 
+CalPERS.  Recent market trends have eroded investment returns, exposing members of 
+CalPERS to potential increases as high as 34% in fiscal year 2004-05 for Public Safety 
+personnel and 5.9% for Miscellaneous employees.  The additional cost to the City could 
+reach $1 million in fiscal year 2003 – 04 and $4.4 million in fiscal year 2004 – 05.  
+Presently, CalPERS and the City are investigating measures to mitigate these effects. 
+ 
+Risk Management:  The City has initiated self-insurance programs to provide for the 
+general liability and workers’ compensation claims and belongs to a joint powers 
+authority insurance pool to provide insurance coverage for payment of claims beyond its’ 
+self-insured retention.  The fund revenues are primarily premium charges to other funds 
+based on past loss histories, as well as refunds from insurance premiums based on the 
+City’s annual loss history.  
+ 
+ 
+Acknowledgements 
+ 
+This report has been a joint effort by all members of the Finance Division, who deserve 
+full credit for the preparation of this report.  We would also like to take this opportunity 
+to thank the Mayor and the members of the Council for their continuing support and 
+guidance for the staff.  We appreciate the dedication and professionalism of our auditors, 
+Caporicci & Larson, who have spent countless hours working with us to successfully 
+transition to the GASB 34 Comprehensive Annual Financial Report format. 
+ 
+Respectfully submitted, 
+ 
+ 
+ 
+Carol O. Swindell 
+Chief Financial Officer 
+
+
+vii 
+ 
+PRINCIPAL OFFICIALS 
+ 
+AT 
+ 
+JUNE 30, 2002 
+ 
+ 
+CITY COUNCIL 
+ 
+ 
+Terry W. Johnson, Mayor 
+ 
+Jack Feller, Deputy Mayor 
+ 
+Betty Harding, Councilmember 
+Carol McCauley, Councilmember 
+ 
+Esther Sanchez, Councilmember 
+ 
+ 
+ADMINISTRATION AND DEPARTMENT HEADS 
+ 
+ 
+City Manager  
+Steven R. Jepsen 
+ 
+City Clerk 
+Barbara Riegel Wayne 
+ 
+City Treasurer 
+Rosemary R. Jones 
+ 
+City Attorney 
+Duane E. Bennett 
+ 
+Deputy City Managers 
+Michael J. Blessing 
+ 
+Jose Aponte 
+ 
+ 
+Assistant to the City Manager 
+Michelle Skaggs-Lawrence 
+ 
+Administrative Services Director 
+Ronald C. Jack 
+ 
+Building Director 
+Gregory C. Anderson 
+ 
+Economic Development/Redevelopment Director 
+Jane D. McVey 
+ 
+Acting Fire Chief 
+Glenn McCloskey 
+ 
+Harbor and Beaches Director 
+Donald L. Hadley 
+Housing and Neighborhood Services Director 
+Margery Pierce 
+Library Director 
+Deborah Polich 
+Personnel Director 
+William McLeod 
+Planning Director 
+Gerald Gilbert 
+Police Chief 
+Michael S. Poehlman 
+Public Works Director 
+Peter A. Weiss 
+Water Utilities Director 
+Barry E. Martin 
+Community Development Commission: 
+Executive Director 
+Steven R. Jepson 
+ 
+ 
+
+
+Police
+Public Works
+Water Utilities
+Personnel
+Harbor & Beaches
+Fire
+Administrative 
+Services
+Deputy City Manager
+City Manager
+Assistant to the City 
+Manager
+City Attorney
+Economic 
+Development & 
+Redevelopment
+Parks and Recreation
+Deputy City Manger
+Building
+Planning
+Library
+Housing & 
+Neighborhood Svcs.
+CITY OF OCEANSIDE ORGANIZATIONAL CHART
+Citizens of Oceanside
+City Council
+Boards, Commissions 
+and Advisory Bodies
+City Clerk
+City Treasurer

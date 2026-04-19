@@ -1,0 +1,4257 @@
+=== page 1 ===
+California Statewide Local Streets
+and Roads Needs Assessment
+Final Report
+April 2023
+501 Canal Boulevard, Suite I
+Point Richmond, CA 94804
+Phone: 510.215.3620
+Prepared by
+Rural Counties Task Force
+Regional Transportation Planning Agencies
+Sponsored by
+RTPA
+RCTF
+=== page 2 ===
+501 Canal Boulevard, Suite I
+Point Richmond, CA 94804
+Phone: 510.215.3620
+Prepared by
+www.SaveCaliforniaStreets.org
+California Statewide Local Streets
+and Roads Needs Assessment
+Final Report
+April 2023
+California 
+and Roads
+Final Repor
+April 2023
+=== page 3 ===
+California Statewide Local Streets and Roads Needs Assessment i 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents  
+Executive Summary  ................................ ................................ ................................ ..........  1 
+1 Introduction  ................................ ................................ ................................ ...............  6 
+1.1  Study Objectives  ................................ ................................ ..............................  7 
+1.2  Study Assumptions  ................................ ................................ ...........................  8 
+1.3  Study Sponsors ................................ ................................ ................................ . 9 
+2 Pavement Needs Assessment  ................................ ................................ ....................  11 
+2.1  Methodology and Assumptions  ................................ ................................ .......  11 
+2.1.1  Filling in the Gaps  ................................ ................................ ............  11 
+2.1.2  Pavement Needs Assessment Goal  ................................ ...................  12 
+2.1.3  Maintenance and Rehabilitation Treatment Types and Costs  ............  12 
+2.1.4  Escalation Factors  ................................ ................................ ............  17 
+2.2  Average Network Condition  ................................ ................................ ............  17 
+2.3  Sustainable Pavement Practices  ................................ ................................ .....  22 
+2.4  Complete Streets  ................................ ................................ ...........................  24 
+2.5  Additional Regulatory Requirements  ................................ ..............................  28 
+2.6  Unpaved Roads  ................................ ................................ ..............................  28 
+2.7  Pavement Needs  ................................ ................................ ............................  29 
+3 Essential Components Needs Assessment  ................................ ................................ .. 32 
+3.1  Data Collection  ................................ ................................ ..............................  33 
+3.2  Needs Methodology  ................................ ................................ .......................  35 
+3.3  Active Transportation  ................................ ................................ .....................  37 
+3.3.1  Active Transportation Needs  ................................ ............................  39 
+3.3.2  Impact of Bicycle Facilities on Greenhouse Gas Emissions  ................  39 
+3.4  Determination of Essential Components’ Needs  ................................ ..............  42 
+4 Funding Analyses  ................................ ................................ ................................ ......  45 
+4.1  Pavement Revenue Sources  ................................ ................................ ............  45 
+4.2  Pavement Expenditures  ................................ ................................ ..................  51 
+4.3  Impact of Electric and Hybrid Vehicles on the Gas Tax  ................................ ....  53 
+4.4  Essential Components Revenue Sources  ................................ .........................  56 
+4.5  Essential Components Expenditures  ................................ ...............................  57 
+4.6  Funding Shortfalls  ................................ ................................ ..........................  60 
+4.7  Pavement Funding Scenarios  ................................ ................................ ..........  60 
+4.8  Other Performance Measures  ................................ ................................ .........  63 
+=== page 4 ===
+California Statewide Local Streets and Roads Needs Assessment ii 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.9  How Did We Get Here?  ................................ ................................ ...................  64 
+4.10  Summary  ................................ ................................ ................................ ........  65 
+5 Bridge Needs & Funding Analysis  ................................ ................................ ..............  66 
+6 Summary and Conclusions ................................ ................................ .........................  71 
+ 
+Appendices  
+A List of Fiscal Sponsors  
+B Data Collection  
+C Pavement Condition & Needs by County  
+D Essential Component Needs by County  
+ 
+  
+=== page 5 ===
+California Statewide Local Streets and Roads Needs Assessment iii 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Figures  
+Figure 1.1 Breakdown of Maintained Road Centerline Miles by Agency 2 ................................ ...............  6 
+Figure 2.1 PCI Thresholds & Treatments Assigned for Asphalt Pavements  ................................ ...........  13 
+Figure 2.2 Unit Price Trends for Preventive Maintenance Treatments  ................................ .................  15 
+Figure 2.3 Unit Price Trends for Thin HMA Overlays  ................................ ................................ ...........  15 
+Figure 2.4 Unit Price Trends for Thick HMA Overlays  ................................ ................................ ..........  16 
+Figure 2.5 Unit Price Trends for Reconstruction  ................................ ................................ .................  16 
+Figure 2.6 Generalized Pavement Life Cycle Curve  ................................ ................................ .............  20 
+Figure 2.7 Loca l Street with PCI of 65  ................................ ................................ ................................ . 21 
+Figure 2.8 Average PCI by County for 2008 and 2022  ................................ ................................ ..........  22 
+Figure 2.9 Elements of a Complete Street  ................................ ................................ ..........................  25 
+Figure 2.10 Number of Agencies with and without Complete Streets Projects  ................................ .....  26 
+Figure 2.11 Examples of Complete Street Projects  ................................ ................................ ..............  27 
+Figure 2.12 Unpaved Roads  ................................ ................................ ................................ ...............  29 
+Figure 2.13 10 -Year Pavement Needs by County  ................................ ................................ .................  31 
+Figure 3.1 Water Ma in Break on Sunset Blvd, Los Angeles – 2014 (Courtesy LA Times)  ........................  33 
+Figure 3. 2 Bicycle Lane Class es in California. Top -left: Class 1; top -right: Class II; bottom left: Class III; 
+bottom -right: Class IV; (California Air Resources Board 2019)  ................................ ............................  38 
+Figure 3. 3 Inventory of Different Classes of Bike Lanes (Miles)  ................................ ...........................  41 
+Figure 3. 4 10-Year Needs for Essential Components ($ Billion)  ................................ ...........................  43 
+Figure 3. 5 Essential Components’ Needs by County  ................................ ................................ ............  44 
+Figure 4.1 Pavement Funding by Source (% by Source On Left)  ................................ ...........................  48 
+Figure 4.2 Trends in Pavement Expenditures  ................................ ................................ ......................  51 
+Figure 4.3 Difference s Between Predicted and Actual Expenditures  ................................ ....................  53 
+Figure 4.4 Estimated Loss of Gas Tax Over Time  ................................ ................................ .................  56 
+Figure 4.5 Local Revenue Sources for Essential Components ($M)  ................................ ......................  57 
+Figure 4.6 Results of Scenario 1: Existing Budget ($3.36 billion/year)  ................................ .................  62 
+Figure 4.7 Results of Scenario 2: Maintain PCI at 65 ($3.76 billion/year) ................................ .............  62 
+Figure 4.8 Results of Scenario 3: BMP ($8.54 billion/year)  ................................ ................................ .. 63 
+Figure 4.9 Examples of Streets in Poor Condition  ................................ ................................ ...............  64 
+=== page 6 ===
+California Statewide Local Streets and Roads Needs Assessment iv 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5.1 Number of Local Bridges by County (includes Cities within County)  ................................ ....  68 
+Figure 5.2 Local Bridge Age Distribution  ................................ ................................ ............................  68 
+Figure 5.3 Local Bridge Needs Summary (2020)  ................................ ................................ ..................  69 
+Figure 5.4 Percent of Bridges in Poor Condition by Annual Budget  ................................ .....................  70 
+  
+  
+=== page 7 ===
+California Statewide Local Streets and Roads Needs Assessment v 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Tables  
+Table 1.1 Breakdowns of Functional Classification and Unpaved Roads  ................................ ................  7 
+Table 1.2 Comparison of 2022 Statewide Study and Caltrans SHOPP Attributes  ............................  9 
+Table 2.1 Assumptions Used to Populate Missing Inventory Data  ................................ .......................  11 
+Table 2.2 Unit Costs Used for Different Treatments and Road Classifications  ................................ ......  14 
+Table 2.3 Average 2022 PCI by Type of Road  ................................ ................................ ......................  17 
+Table 2.4 Summary of PCI Data by County (includes Cities) for 2008 –2022  ................................ .........  18 
+Table 2.5 Summary of Sustainable Pavement Strategies  ................................ ................................ .....  23 
+Table 2.6 Elements of Complete Streets Policy  ................................ ................................ ...................  25 
+Table 2.7 Additiona l Regulatory Requirements (10 -Year Needs and Funding)  ................................ ......  28 
+Table 2.8 Cumulative Pavement Needs  ................................ ................................ ..............................  30 
+Table 3.1 Percentage of Agencies Responding with Data on Essential Components  .............................  34 
+Table 3.2 Percentage of Agencies with Survey Responses for Essential Components  ...........................  36 
+Table 3.3 Summary of Active Transportation Facilities  ................................ ................................ .......  38 
+Table 3.4 Summary of Active Transportation Facilities  ................................ ................................ .......  39 
+Table 3.5 10 -Year Needs for Active Transportation Facilities  ................................ ..............................  39 
+Table 3.6 Potential VMT and GHG Reductions from New Bicycle Lanes (Caltrans 2020)  .......................  40 
+Table 3.7 VTM and GHG Reduction Scenarios for Bicycle Facilities  ................................ ......................  42 
+Table  4.1 Funding Sources for Pavements  ................................ ................................ ..........................  48 
+Table 4.2 Gas Tax Trends for Pavements  ................................ ................................ ............................  50 
+Table 4.3 General Funds for Pavement Funding  ................................ ................................ ..................  50 
+Table 4.4 Local Sales Tax Trends  ................................ ................................ ................................ ........  50 
+Table 4.5 Breakdown of Pavement Expenditures ($M)  ................................ ................................ ........  50 
+Table 4.6 Projected Pavement Expenditures Per Lane Mile  ................................ ................................ . 52 
+Table 4.7 Assumptions Used in Analyzing Impact of ZEVs  ................................ ................................ ...  55 
+Table 4.8 Funding Sources for Essential Components ($M)  ................................ ................................ . 58 
+Table 4.9 Breakdown of Expenditures for Essential Components  ................................ ........................  58 
+Table 4.10 Breakdown of Expenditures on Essential Components by Agency ($/Lane Mile)  .................  59 
+Table 4.11 Summary of 10 -Year Needs & Shortfall (2022 $ Billion)  ................................ .....................  60 
+Table 4.12 Breakdown of Pavements by Condition Category for Each Scenario (2031)  ........................  63 
+=== page 8 ===
+California Statewide Local Streets and Roads Needs Assessment vi 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 6.1 Summary of 10 -Year Needs and Shortfall Calculations (2022 $ Billion)  ................................ . 71 
+Table 6.2 Summary of Funding Analysis  ................................ ................................ .............................  72 
+ 
+ 
+=== page 9 ===
+California Statewide Local Streets and Roads Needs Assessment 1 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Executive Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary  
+Nearly every trip begins on a city street or county 
+road. Whether traveling by bicycle, bus, rail, 
+truck or family automobile, Californians need a 
+reliable and well -maintained local street an d 
+road system.  
+Every component of California’s transportation 
+system is critical to providing a seamless, 
+interconnected system that supports the 
+traveling public and economic vitality 
+throughout the state. Sustainable c ommunities  
+cannot function without a well -maintained local 
+street and road system  that provides  access for 
+transit and active modes of transportation like 
+bicycling and walking . 
+The first comprehensive statewide study of California’s local street and road system in 2008 provided 
+critical information and analysis o f the local transportation network’s condition and funding needs. Each 
+subsequent report has monitored the changes biennially.   
+This study sought answers to important questions: What are the current pavemen t conditions of local 
+streets and roads? What will it cost to repair all streets and roads? What measures are necessary for a 
+system to function safely?  What is the impact of the additional funding available from the Road Repair 
+and Accountability Act of 2 017 ( SB 1 ) on the condition of local streets and roads, bridges,  and essential 
+components ? 
+Responsible for over 8 5 percent of California’s 
+roads, cities and counties find the continuation 
+of this study to be of critical importance for 
+several reasons.  Its results continue to educate 
+policymakers at all levels of government and the 
+public about the infrastructure investments 
+needed to provide California with a seamless, 
+multi -modal transportation system. Its  findings 
+provide a credible and defensible analysi s to 
+support a dedicated, stable funding source for 
+local system  maintenance . It also provides the 
+rationale for the most effective and efficient 
+investment of public funds, potentially saving 
+taxpayers from paying significantly more to fix 
+local streets a nd roads into the future.  
+Cities
+47.7%Counties
+38.2%
+State 
+highways
+9.0%
+Federal
+4.6%
+Other
+0.5%
+Road Centerline Miles by Agency
+=== page 10 ===
+California Statewide Local Streets and Roads Needs Assessment 2 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Executive Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous editions of this report cautioned that without an influx of new revenues, the vital local street 
+and road system would continue to deteriorate and cost taxpayers increasingly more  to repair .  
+After years of careful consid eration and study, the Legislature passed and Governor Jerry Brown signed 
+SB 1  in 2017. The passage of SB 1 was a significant success for municipal governments statewide and 
+injected a long -awaited substantial infusion of funding to maintain local street a nd road system s. The 
+bill  provides over $5 billion annually for transportation , and  of this, approximately $1.5 billion is 
+allocated to the local street and road system owned and maintained by 539 cities and counties.  
+Despite the passage of SB 1 in 2017, there was considerable uncertainty surrounding local transportation 
+funding through 2022  due  first  to the effort to repeal SB 1 in November 2018 , and then  to the COVID -
+19 pandemic in early 2020. The former created a climate of uncertainty where cities and counties were 
+reluctant to commit to long -term repair efforts, and t he latter  resulted in significant revenue reductions 
+and uncertainty through the 202 2 construction season. Both of these events impact ed local government 
+transportation project delivery between 2018 to 2022 . 
+As with previous updates , this 2022 update surveyed all of California’s 539 cities and counties. Almost 
+70 percent of the agencies that were solicited responded – a level of participation that makes clear the  
+sustained  interest in addressing the growing problems of crumbling  local  streets and roads.  
+Pavements  
+The Pavement Condition Index (PCI) of California’s local streets and roads has decreased by half a point 
+since 20 20. On a scale of zero (failed) to 100 (excellent ), the average statewide PCI  for local streets and 
+roads  is 65, or “At Risk”. Fifty -four  of 58 counties have either  at risk or poor pavements . The  maps on 
+the following  page illustrate the changes in condition since 2008.  
+To use taxpayer money wisely, it makes more sense to preserve and maintain roads in good condition 
+than to wait and repair or replace them when they deteriorate or fail. The estimated costs  reported in 
+this study are based on improving  roadway pavement cond ition to meet  best management p ractice s 
+(BMP s). At BMP conditions , preventive maintenance treatments (i.e., slurry sea ls, chip seals, thin 
+overlays) are most cost -effective. In addition to costing less, p reventive maintenance interferes less 
+with commerce and the public’s mobility and is more environmentally friendly than rehabilitation or 
+reconstruction.  
+The importance of this approach is significant. As roadway pavement conditions deteriorate, the cost to 
+repair them increases exponentially. For example, it costs as much as 14 times more to reconstruct a 
+pavement than to preserve it when it is in good condition. Even modest resurfacing is 4 times more 
+expensive than maintaining pavement in the BMP condition. To put it another way, 14 miles of roadway 
+can b e maintained in a BMP condition for the same cost as reconstructing 1 mile of failed pavement. By 
+bringing the local roadway system to BMP condition, cities and counties will be able to then maintain 
+streets and roads at the most cost -effective level. This  outcome  is not only optimal, but also  necessary.  
+=== page 11 ===
+California Statewide Local Streets and Roads Needs Assessment 3 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Executive Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technological Cost Savings  
+This r eport also includes the impact of using sustainable technologies (e.g. , cold -in-place recycling) that 
+result in significant cost savings. Since 2012, the number of agencies that  employ some form of recycling 
+has more than doubled. This trend is expected to continue,  and cost  savings can be as much as 25 percent 
+over conventio nal treatments , result ing  in a reduction of the 10 -year pavement funding  needs.  These 
+cost savings  are therefore included in the  funding scenarios  presented here .  
+Funding Scenarios  (in constant 202 2 dollars)  
+Three funding scenarios were analyzed : 
+1. Existing Funding with SB 1 ($3.36 billion/year ) – This is the current funding amount  and includes 
+SB 1 together with cost savings from paving technologies. The PCI is expected to drop slightly to 
+63 by 203 2, however,  the percent of good pavements will increase to over 60 percent (see Table).  
+Note that this scenario does not consider the impact of zero -emission vehicles ( ZEVs ), which 
+are  estimated to reduce gas revenues  by up to  $1.5 billion annually by 2035  (see Section 4.3).   
+2. Maintain PCI at 6 5 ($3. 76 billion/year)  – To maintain the PCI at 6 5, additional funding ($3. 76 
+billion/year) is needed. In this scenario, t he pavement would  be rated ‘good’ in  two -thirds of the 
+network.  
+3. Funding required to reach BMP ($ 8.54  billion/year)  – The optimal scenario is to bring all 
+pavements into a state of good repair so that BMPs can prevail. To reach BMP levels (PCI in 80s), 
+$85.4  billion would be needed over the next 10 years. After that, it would only require $3 .28  
+
+=== page 12 ===
+California Statewide Local Streets and Roads Needs Assessment 4 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Executive Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+billion each  year to maintain the pavements  in that  condition . This is essentially the same as 
+the existing level of funding.  
+The following table summarizes the results of each scenario.  
+Scenarios  
+Annual 
+Budget 
+($B) 
+PCI in 
+2032 
+Condition 
+Category 
+ 
+% Pavements 
+in 
+Poor/Failed 
+Condition 
+% Pavements 
+in Good 
+Condition 
+Current Condition (2022) - 65 At Risk  23.0% 55.1% 
+1. Existing Funding $3.36  63 At Risk  21.0% 60.6% 
+2. Maintain PCI at 65 $3.76  65 At Risk  21.1% 66.0% 
+3. Best Management Practice $8.54  87 Excellent  0.0% 100.0% 
+Essential Components  
+The transportation network also includes essential safety and traffic components such as curb ramps, 
+sidewalks, storm drains, streetlights,  and signals. Maintenance of these  components will require $ 39 
+billion  in total  over the next 10 years , and there is an estimated funding shortfall of $ 22. 6 billion.  
+Bridges  
+Local bridges are an integral part of local street 
+and road infrastructure. They  make up 
+approximately 48 percent of all  the bridges in 
+California, and t here ar e 12, 339  local bridges. 
+The ir average age is over 50 years, 10 years 
+older  than the national average,  and  more than 
+half (52.1 percent by deck area) are in fair or 
+poor condition.  
+The bridge safety, strengthening , and widening 
+improvements necessary to kee p pace with 
+California’s modern mobility needs  will require 
+$7.2 billion . To simply  maintain the ir current 
+condition will require $800 million annually, 
+but only $290 million is available. T here is an 
+estimated shortfall of $ 4.3  billion to maintain 
+the saf ety and integrity of bridge 
+infrastructure.  
+Total Funding Shortfall  
+The table on the next page shows the total funding shortfall of $ 74.3 billion ( 202 2 dollars) over the next 
+10 years. For comparison, the funding needs from the previous updates are also included.  Note that the 
+
+=== page 13 ===
+California Statewide Local Streets and Roads Needs Assessment 5 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Executive Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+pavement and essential component needs have markedly increased due to higher construction costs . 
+Finally, for the first time, Acti ve Transportation costs have been separated from Essential Components.  
+ 
+*Bridge needs are from 2020 report. 
+Conclusions  
+SB 1  is a critical funding source that has resulted in cities and counties stabilizing the average statewide 
+local pavement condition at 65 . However, it is too soon  to conclude that SB 1  will succeed in its goal of 
+stabi liz ing  the deterioration observed since 2008 . Effort s to rescind the new revenues from SB 1  in the  
+first 2 years after its passage resulted in industry -wide  hesita tion  to expand construction capacity . This 
+was coupled with agencies’  concerns about  over -committing on future project  delivery . The limited  
+construction capacity had an unintended consequence ; bid prices for street and bridge maintenance and 
+repairs were as much as 30 percent higher in 2022  than 2020 . In addition, the needs of other 
+infrastructure components continue to grow, reducing  the funding available for pavements. The impacts 
+of COVID -19 also led to reductions in pavement revenues and  expenditures in 2020 –2022.  
+ 
+2008 2010 2012 2014 2016 2018 2020 Needs Funding Shortfall
+Pavement 67.6 $    70.5 $    72.4 $    72.7 $    70.0 $    61.7 $     76.0 $    81.0 $    33.6 $    (47.4) $    
+Essential Components 32.1 $    29.0 $    30.5 $    31.0 $    32.1 $    34.1 $     35.5 $    27.8 $    
+Active Transportation 11.2 $    
+Bridges 3.3 $      4.3 $      4.3 $      4.6 $      5.5 $       7.2 $      7.2 $      2.9 $      (4.3) $      
+Totals 99.7 $    102.8$  107.2 $  108.0 $  106.7 $  101.3 $   118.7 $  127.2 $  52.9 $    (74.3) $    
+Transportation Asset
+2022 ($B)Needs ($B)
+16.4 $    (22.6) $    
+=== page 14 ===
+California Statewide Local Streets and Roads Needs Assessment 6 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Introduction  
+California’s 58 counties and 481 cities 1 own and maintain over 1 44,530  centerline  miles of local streets  
+and roads 2. This is an impressive 8 5.9 percent of the state’s total publicly maintained centerline miles 
+(Figure 1.1). Conservatively, this network is valued at over $ 253 billion . 
+ 
+ 
+Figure 1.1 Breakdown of Maintained Road Centerline Miles by Agen cy 2 
+Because lane  miles are more commonly used in pavement management analyses (the costs derived are 
+based on areas, and lane mile s are a more accurate indicator of pavement areas), Table 1.1 shows the 
+breakdown of lane mile s for local streets and roads by functional classification, and  for unpaved roads. 
+Major streets or roads are those that are classified as arterials or collectors , and local streets or roads 
+are those that are classified as residentials and alleys. Unpaved roads are those that have either dirt or 
+gravel surfaces.  
+ 
+1 Four new cities (Wildomar, Menifee, Eastvale , and Jurupa Valley) were incorporated after the original 2008 study. Note 
+that San Francisco is traditionally counted as both a city and a county, but for purposes of this analysis, their data have b een 
+included as a city only.  Therefore, a total of 539 ci ties and counties were used in this study.  
+2 California Department of Transportation (Caltrans), Division of Transportation System Information . 201 9 California Public 
+Road Data – Statistical Information Derived from the Highway Performance Monitoring Syste m (HPMS) . December  2020 . The 
+total miles are calculated  from this reference and survey results. Note that the HPMS reports a total of 151,818 miles 
+belonging to cities and counties ; this  is a significant difference from the total miles  reported on the online survey  (144,530 ). 
+For this study, the online survey results were used.  
+
+=== page 15 ===
+California Statewide Local Streets and Roads Needs Assessment 7 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+Streets and roads are also separated into urban and rural classifications. Urban and rural roads are  
+defined b ased on  the U.S. Census Bureau  definitions of urban and rural areas : rural areas have 
+population centers less than 5,000 or have a population density below 1,000 persons per square mile , 
+while  urban areas have population centers with more than 5,000  people. However, an urbanized or rural 
+area may or may not contain an incorporated city and the urban boundary does not necessarily follow 
+city incorporation lines. In this study , each individual city or county categorized their own miles.  
+Table 1.1 Breakdowns of Functional Classification and Unpaved Roads  
+ 
+Approximately  70 percent  of the total paved lane mile s are in urban areas  (Table 1.1) . In addition,  almost  
+94 percent  of rural roads belong to the counties , and 82 percent of urban  roads belong to the cities. 
+Finally, unpaved roads comprise approximately 5. 3 percent  of the total network, and counties own 
+almost  93 percent  of t hese unpaved roads . 
+1.1 Study Objectives  
+In 2008, the first study was conducted to assess statewide local street and road network  needs 3. The 
+purpose  of this  study was to determine how much  funding would be ne eded  to maintain the local streets 
+and roads system for the subsequent  10 years, so that th at information could be reported to the  
+Governor, the State Legislature, the California Transportation Commission, and Caltrans, as well as other 
+stakehol ders.   
+The specific objectives of the 2008 study were summarized as a series of questions:  
+• What are the conditions of local streets and roads ? 
+• What will it cost to bring them up to an acceptable condition?  
+• How much will it cost to maintain them in an accep table condition for the next 10 years?  
+• Similarly, what are the needs for other essential components, such as safety, traffic,  and 
+regulatory items?  
+• Is there a funding shortfall? If so, how much is it?  
+• What are the impacts of different funding scenarios?  
+Since then, the study has been updated  every 2 years, and the objectives have been essentially the 
+same. Bridges were added to the scope in 2014 , and in 2020, a companion report on bridges was also 
+prepared . Previous reports are available for download at  www.SaveCaliforniaStreets.org .  
+ 
+3 Nichols Consulting Engineers, Chtd . California Statewide Local Streets & Roads Needs Assessment . October  2009 . 
+
+=== page 16 ===
+California Statewide Local Streets and Roads Needs Assessment 8 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+In April 2017, Governor Jerry Brown  signed the Road 
+Repair and Accountability Act of 2017 (also known as SB  
+1) which provide d a substantial infusion of funding 
+(approximately $1.5 billion ) for maintaining and 
+improvin g the local transportation system.  This report 
+examines the impacts of SB 1 over the first 4 full fiscal 
+years of new funding for both policymakers and the 
+public.  The data used for this study were collected using 
+an online survey sent to all California ci ties and 
+counties . 
+1.2 Study Assumptions  
+As in the previous studies , some important assumptions 
+were made during data  analys is (Table 1.2 ). Most are 
+consistent with those used in the Caltrans 20 20 State 
+Highway Operation and Protection Program (SHOPP) 4. 
+The assumptions include : 
+• Data were analyzed over  10 years . 
+• All costs reported are in constant 202 2 dollars . 
+• The goal was  to reach a pavement condition where best management practices (BMP s) can occ ur. 
+This translates to a Pavement Condition Index ( PCI ) in the 80s  (on a  scale of 0 to 100, where zero 
+is failed and 100 is excellent) and with  no failed pavements. Caltrans SHOPP defines performance 
+goals quite differently ; e.g. , achieve a pavement pothole and cracking Level of Service of 90 
+percent or greater by 2027, or not less than 98.5 percent of bridge area to be in good or fair 
+condition by 2027.  
+• It is assumed that n o new streets or roads were  added within the analysis period. In addi tion, 
+capital improvement or expansion projects  (e.g. , realignments, widenings, grade separations ) 
+were  not  included . 
+• The inclusion of essential components (safety, traffic and regulatory ) of the roadway system, 
+such as sidewalks, curb ramps, and storm dra ins, is consistent with the SHOPP. Bicycle and 
+pedestrian facilities are also included.  
+• The bridge needs assessment was not updated  for this cycle; however, a  companion report is 
+available  from the 2020  update .  
+ 
+4 Caltrans . 2022 SHOPP – State Highway Operation and  Protection P rogram (SHOPP Plan) . M arch 2022 . 
+
+=== page 17 ===
+California Statewide Local Streets and Roads Needs Assessment 9 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+Table  1.2 Comparison of 2022 Statewide Study and Caltrans SHOP P 
+Assumptions 2022 Statewide Study Caltrans SHOPP 
+Analysis Period 10 years 10 years 
+Cost Basis 2022 dollars 2022 dollars 
+Goals Best management practices (PCI 
+in 80s & no failed pavements) 
+Achieve pavement pothole and 
+cracking Level of Service of 90 
+percent or higher by 2027 
+Total Scenarios Evaluated 3 1 
+Capital Improvement Projects No Only related to operational 
+improvement 
+Essential Components Yes Yes 
+Bridges See 2020 Study Yes 
+1.3 Study Sponsors  
+This study was sponsored by the cities and counties of California and has been managed by a coalition 
+of cities, counties , and Regional Transportation Planning Agencies (RTPAs). The Oversight Committee is 
+composed of representatives from the following:  
+• Lea gue of California Cities ( Cal Cities ) 
+• California State Association of Counties (CSAC)  
+• County Engineers Association of California (CEAC)  
+• Regional Transportation Planning Agencies (RTPA)  
+• Rural Counties Task Force (RCTF)  
+Oversight Committee members include:  
+• Dav id Leamon, Stanislaus County (Project Manager)  
+• Steve Burger, Los Angeles County  
+• Elmer Datuin, Riverside County  
+• Brad Eggleston, City of Palo Alto  
+• Damon Letz, City of Santa Clarita  
+• Heather Miller, Ventura County Transportation  Commission  
+• Matt Randall, Pl acer County (representing Highway Bridge Program)  
+• Sui Tan, Metropolitan Transportation Commission  
+• Ron Vicari, Sacramento County  
+• Mike Woodman, Nevada County Transportation Commission (representing the Rural Counties 
+Task Force)  
+  
+=== page 18 ===
+California Statewide Local Streets and Roads Needs Assessment 10 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+Staff members include:  
+• Damo n Conklin,  League of California Cities  
+• Michael Coleman, League of California Cities  
+• Meghan McKelvey, League of California Cities  
+• Kristina Gallagher , CSAC/CEAC  
+• Mark Neuburger, CSAC/CEAC  
+• Merrin Gerety, CSAC/CEAC  
+Appendix A includes a list of all agencies that contributed  financial ly to the 2020 –2022 updates . 
+ 
+=== page 19 ===
+California Statewide Local Streets and Roads Needs Assessment 11 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Pavement Needs Assessment  
+This chapter  discusses  the methodology and assumptions used for the pavement needs assessment and  
+presents  the results of the  analys is. The data collection efforts are described in more detail in Appendix 
+B, but , briefly , an online survey was made available on the www.SaveCaliforniaStreets.org  website 
+between March  and early June  2022. All cities and counties were contacted and asked to participate in 
+the survey. A total of 379  agencies  respon ded to the survey and either updated or confirmed the data 
+that w ere  provided in previous surveys. Th e response rate (70 percent ) decrease d from 2020 but  
+remained robust enough to accurately  represent conditions statewide .  
+2.1 Meth odolog y and Assumptions  
+Because not all 539 cities and counties responded to the survey, a methodology was developed to 
+estimate the pavement needs of the missing agencies . The following paragraphs describe this 
+methodology , which is consistent with previous updates.  
+2.1.1  Filling in the Gaps  
+Inventory Data  
+To estimate an agency’s  pavement needs, it was crucial to quantify the miles (both centerline and lane 
+mile s) and pavement area  in the jurisdiction.  Missing inventory data were populated based on the 
+following rules:  
+• If no updated inventory data were provided, then previous survey data were used.  
+• If the inventory data provided were incomplete, the average number of lanes and average lane 
+width were ca lculated from agencies  that submitted complete inventory data in the previous 
+surveys. Th ose data ( Table 2.1 ) were  used to populate the missing information..  
+Table  2.1 Assumptions Used to  Populat e Missing Inve ntory Data  
+Functional Class Average Number Average Lane 
+of Lanes Width (feet) 
+Urban Major Roads 2.93 15.4 
+Urban Residential/Local Roads 2.11 15.8 
+Rural Major Roads 2.01 13.8 
+Rural Residential/Local Roads 1.93 10.8 
+Unpaved Roads 1.80 14.8 
+Pavement Condition Data  
+To assist those agencies  that did not have  pavement condition data, the online survey provided a table 
+showing  the average PCI s calculated during  the 202 0 study. The  agencies  were encouraged to look at 
+the data from neighboring cities or counties to make their best estimate of the pavement conditi on in 
+their jurisdiction . For those agencies  that ha d never provided any condition data, the average condition 
+of the associated county was used.  
+=== page 20 ===
+California Statewide Local Streets and Roads Needs Assessment 12 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+The surveys also asked for condition data for different functional classifications, and additional rules 
+were developed to populate the missing data : 
+• If the PCI was provided for one but not the other functional classes, the same PCI was used for 
+all functional classes.  
+• If no pavement condition data were provided in 2020 , the last PCI provided was used, but the 
+number  was extrapolated based on the statewide PCI trend ; i.e. , if the statewide average 
+deteriorated 1 point, then the jurisdiction’s  PCI used  was also assumed to have deteriorated 1 
+point.  
+• The only exception was for San Francisco Bay area agencies, whe re the data were provided by 
+the Metropolitan Transportation Commission (MTC).  
+2.1.2  Pavement Needs Assessment Goal  
+The needs assessment goal  in the 202 2 update  was the same as in 
+previous studies . To reiterate, the goal is for pavements to reach a 
+condition where BMP s can occur, so that only the most cost -
+effective pavement preservation treatments are needed. Other 
+benefits , such as fewer travel delays  and reduced environment al 
+impacts (e.g., dust, noise, energy usage) also result when roads are 
+in good condition . 
+The BMP goal is to reach a PCI in the  high  80s and to eliminate  deferred maintenance . Deferred 
+maintenance , or “unfunded backlog” , is defined as work that is needed but is not funded. MTC’s 
+StreetSaver ® pavement management system program was used  to calculate the unfunded backlog . This 
+program was selected because the analytical modules were able to perform the  required analyses, and 
+the default pavement performance curves were based on data from California cities and counties. This 
+is described in detail in Appendix B of the 2008 report, which can be downloaded at 
+www.SaveCaliforniaStreets.org . 
+2.1.3  Maintenance and Rehabilitation Treatment Types and Costs  
+Assigning the appropriate maintenance and rehabilitation (M&R) treatment is a critical component of 
+the needs assessment . It is important to know both the type  of treatment  and  when  to apply it. This is 
+typically outlined in a decision tree. The Federal Highway Administration ha s widely researched 
+pavement preservation concepts and their efficacy 5, and the National Highway Institute has several 
+training courses available. In addition, the National Center for Pavement Preservation at Michigan State 
+University maintains a technical  library available to the public 6. 
+Asphalt Pavements  
+Figure 2.1 summarizes the types of asphalt treatments assigned in this study. Briefly, if a pavement 
+section has a PCI between 90 and 100, no treatment is required . Good -to-excellent asphalt pavements 
+ 
+5 Federal Highway Administration. “Pavements”. http://www.fhwa.dot.gov/pavement/pres.cfm. 
+6 Michigan State University. “National Center for Pavement Preservation”. https://www.pavementpreservation.org/. 
+Our goal is to bring 
+streets and roads to a 
+condition where best 
+management practices 
+(BMP s) can occur.  
+=== page 21 ===
+California Statewide Local Streets and Roads Needs Assessment 13 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+(PCI>70) are ideal candidates  for pavement preservation techniques (e.g., preventive maintenance 
+treatments such as chip or slurry seals). These are typically applied at 5-to-7-year  intervals  depending 
+on the type of road and the volume of traffic.  
+ 
+Figur e 2.1 PCI Thresholds & Treatments Assigned for Asphalt Pavements  
+As pavements deteriorate, treatments that address structural adequacy are required. Hot mix asphalt 
+(HMA) overlays are usually applied at varying thicknesses  to pavements with PCIs between 25 and 69 . 
+This may be combined with milling or recycling technique s. 
+Finally, when the pavement has failed (PCI<25), reconstruction is typically required.  
+The PCI thresholds shown in Figure 2.1 are generally accepted industry standards  and  the descriptions 
+of each category  herein  are typical of most agencies , however, t hese may vary.  For example, it is not 
+unusual for local streets to have slightly lower thresholds , indicating that they are held to lower 
+standards  
+Concrete Pavements  
+Similarly, many strategies are available to manage concrete pavements. Good -to-excellent concrete 
+pavements (PCI>70) are also ideal candidates  for preventive maintenance, such as diamond grinding to 
+remove a thin surface layer of concrete . This approach  improves friction, smooths the pavement , and 
+reduces noise. Partia l a nd full -depth slab rep airs are also used as preventive maintenance to restore 
+isolated panels that have cracked or failed.  
+Concrete overlays can be used to  cover a wide range of pavement repair conditions. Bonded concrete 
+overlays of asphalt are typically applied on roadways in good  condition  (PCI>70) to add structure and/ or 
+provide a more permanent maintenance solution to the road. Unbonded concrete overlays of asphalt 
+are typically applied on roadways in fair to significantly deteriorated condition (PCI of 2 5 to 70) and will 
+restore structural capacity using  the existing roadway as a structural base layer.  
+
+=== page 22 ===
+California Statewide Local Streets and Roads Needs Assessment 14 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+When the pavement has failed (PCI<25), reconstruction with concrete pavement is an alternative , and  
+may be accompanied by recycling techniques. Concrete pavements typically last 20  to 25 years prior to 
+needing their first preventive maintenance treatment.  
+Cost Comparison  
+Unit cost data for asphalt treatments from over 148 agencies  were summarized and averaged for analysis 
+(Table 2.2).  There was a large range in cost s, but for purposes of this analysis, the average was used. 
+The costs of each treatment were separated by functional class  because  major roads had consistently 
+higher cost s than  did  local roads. Unit costs ($/square yard [sy] ) increased from 2020 for all categories . 
+On average, seals increased  in cost  by 4 – 6 percent, overlays by 3 – 8 percent , and reconstruction by 7 
+– 8 percent . 
+Table 2.2 Unit Costs Used for Different Treatments and  Road Classifications  
+Classification 
+Unit Costs ($/sy) 
+Preventive 
+Maintenance 
+Thin HMA 
+Overlays 
+Thick HMA 
+Overlays Reconstruction 
+Major Roads $6.86  $26.86  $43.61  $99.04  
+Local Roads $6.41  $26.02  $41.66  $84.39  
+It should be noted that the costs of preventive maintenance treatments (e.g., seals) have increased 
+significantly since 2016 . Costs of overlays and reconstructions  have also increased , and reconstruction 
+costs are now higher than  in 2008  for the first time , despite the increase in use of recycling technologies 
+such as full -depth reclamation. Figures 2.2 to 2.5 illustrate trends in the unit costs of different 
+maintenance strategies.  
+Finally, only asphalt  concrete roads were included in this analysis. 
+Portland cement concrete pavements comprised such a small 
+proportion  (approximately 3 percent ) of the total network that it was 
+deemed not significant for the funding analysis . 
+Technological Cost Savings  
+This report inclu des the impact of sustainable paving technologies such as cold -in-place recycling  that 
+have construction cost savings of 28 percent compared to conventional treatments  (see Section 2.3)  and 
+as much as 26 percent savings for full -depth reclamation . Since 2012, the number of agencies that 
+employ some form of recycling has more than doubled.  This is one example of how cities and counties 
+have stretched the proverbial dollar.  This trend is expected to continue therefore the associated  cost 
+savings were  included in the pavement needs analysis and funding scenarios . 
+Construction cost s 
+increased from 4 to 8 
+percent in 2022.  
+=== page 23 ===
+California Statewide Local Streets and Roads Needs Assessment 15 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.2 Unit Price Trends for Preventive Maintenance Treatments  
+ 
+ 
+Figure 2.3 Unit Price Trends for Thin HMA Overlays  
+
+=== page 24 ===
+California Statewide Local Streets and Roads Needs Assessment 16 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.4 Unit Price Trends for Thick HMA Overlays  
+ 
+ 
+Figure 2.5 Unit Price Trends for Reconstruction  
+
+=== page 25 ===
+California Statewide Local Streets and Roads Needs Assessment 17 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.4  Escalation Factors  
+As with the previous studies, no escalation factors were used in this analysis. Costs are shown as 
+constant  202 2 dollars,  and this is consistent with the SHOPP as well as many Regional Transportation 
+Plans (RTPs).  
+2.2 Average Network Condition  
+The survey revealed that  the pavement condition statewide decrease d from 65.58  in 2020 to 65.22  in 
+2022 . This is a reflection of the huge drop in funding in FY 2020/21 and FY 2021/22 due to COVID impacts 
+(see Chapter 4) . Despi te this , the PCI was essentially stable from 2020 , and the historical decline in PCI 
+appears to have been arrested.  
+The 202 2 average  PCI was  67.6  for cities and  59.9  for counties . Table 2.3 indicates that major streets or 
+roads continue d to be in better co ndition than local roads. Rural local roads had the lowest PCI of any 
+category.  
+Table  2.3 Average 202 2 PCI by Type of Road  
+Type Average 2022 PCI 
+Major Local 
+Urban Streets 68 67 
+Rural Roads 63 53 
+Table 2.4 includes the 202 2 PCI for each county (includ ing  cities within the county)  based on a scale of 
+0 (failed) to 100 (excellent). The scale is weighted by the pavement area  such that  long roads have more 
+weight  in the calculation of the average PCI  than  short roads.   
+Note  that the PCI reported is only the weighted average  for each county and includes  the cities within 
+the county. This means that, f or example, Amador County and the cities within the county may ha ve 
+pavement sections with a  PCI of 100, despite an average of 50. 
+The average PCI between 2008  to 2018 trended slightly downward  but has since stabilized . S ome 
+counties reported improvements  attributed to better data collection ( i.e., more agencies updatin g their 
+pavement data), better use of pavement preservation treatments, and/or  increase  in available funding 
+such as local sales taxes or bonds.   
+The 2022  statewide weighted average  PCI for all local streets and roads is 6 5 (Table 2.4) . Orange County 
+continues to have pavements in the  best condition , at an 
+average PCI of 79. Unfortunately, Tuolumne Count y has 
+pavement s in the worst condition , with an average PCI of 2 4. 
+Appendix C includes maps that illustrate the average PCI for 
+each city and county.  
+  
+The average pavement 
+condition index for streets 
+and roads statewide is 6 5. 
+This is similar to 2020 and  
+is still considered “at risk”.  
+=== page 26 ===
+California Statewide Local Streets and Roads Needs Assessment 18 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2.4 Summary of PCI Data by County (includes Cities) for 2008 –2022 
+County 
+(Cities Included) 
+Centerline 
+Miles 
+Lane 
+Miles 
+Area 
+(sy) 
+  Average Weighted PCI* 
+ 
+2008 2010 2012 2014 2016 2018 2020 2022 
+Alameda 3,596 8,150 73,382,886  66 67 68 66 68 68 68 67 
+Alpine 151 302 2,139,517  40 45 45 44 44 41 58 58 
+Amador 477 945 3,598,703  31 34 33 33 56 51 51 50 
+Butte 1,816 3,644 28,691,159  70 67 65 66 65 60 60 55 
+Calaveras 831 1,340 8,201,768  55 53 51 51 51 50 52 44 
+Colusa 761 1,247 13,240,593  61 60 60 62 63 60 61 61 
+Contra Costa 3,348 7,012 65,788,024  72 70 71 68 69 71 70 68 
+Del Norte 323 646 4,418,399  70 68 64 63 63 60 60 67 
+El Dorado 1,399 2,684 21,458,907  62 58 63 63 62 63 63 63 
+Fresno 6,335 12,563 112,879,098  74 70 69 69 64 61 60 59 
+Glenn 848 2,017 11,940,355  68 68 68 68 68 68 62 50 
+Humboldt 1,163 2,354 16,791,631  61 56 64 64 63 56 57 53 
+Imperial 3,024 6,103 76,823,230  74 72 57 57 58 55 58 56 
+Inyo 1,133 1,832 13,681,682  75 57 60 62 62 61 62 62 
+Kern 5,725 12,615 117,170,333  66 63 64 64 63 63 65 63 
+Kings 1,324 2,710 21,044,749  63 62 62 62 59 60 61 61 
+Lake 643 1,275 8,629,265  33 31 40 40 40 38 37 35 
+Lassen 431 879 6,282,324  55 69 66 66 63 60 61 61 
+Los Angeles 21,192 57,160 472,476,391  68 67 66 66 67 67 68 67 
+Madera 1,829 3,663 24,879,499  48 48 47 47 46 44 44 40 
+Marin 1,068 2,151 20,882,530  61 61 61 63 64 67 65 67 
+Mariposa 365 724 4,606,318  53 44 44 53 65 65 66 51 
+Mendocino 1,132 2,249 16,243,134  51 49 37 35 35 32 36 47 
+Merced 2,349 4,975 39,594,831  57 58 58 58 56 56 57 57 
+Modoc 1,018 2,036 19,339,238  42 40 56 46 59 59 63 64 
+Mono 737 1,473 9,613,552  71 68 66 67 64 65 66 64 
+Monterey 1,907 3,859 30,940,471  63 45 50 50 50 49 52 50 
+Napa 778 1,568 8,926,445  53 60 59 59 59 59 56 60 
+Nevada 806 1,625 10,348,493  72 71 72 71 70 68 67 69 
+ 
+  
+=== page 27 ===
+California Statewide Local Streets and Roads Needs Assessment 19 
+April 2023 
+www.SaveCaliforniaStreets.org 
+Pavement Needs Assessment 
+Table 2.4 Summary of PCI Data by County (includes Cities) for 2008 –2022 
+County 
+(Cities Included) 
+Centerline 
+Miles 
+Lane 
+Miles 
+Area 
+(sy) 
+Average Weighted PCI* 
+2008 2010 2012 2014 2016 2018 2020 2022 
+Orange 6,599 16,412 164,099,105 78 76 77 77 79 79 79 79 
+Placer 2,190 4,625 35,366,855 79 77 71 69 68 64 67 68 
+Plumas 706 1,412 9,070,195 71 66 66 64 72 73 71 69 
+Riverside 7,933 18,117 158,987,995 71 72 70 70 71 68 68 69 
+Sacramento 5,077 10,983 97,772,868 68 66 64 62 62 60 58 58 
+San Benito 492 758 5,140,912 68 66 66 48 46 37 37 38 
+San Bernardino 8,898 22,014 167,917,566 72 70 70 71 71 70 74 71 
+San Diego 7,761 18,852 175,610,151 74 69 67 66 65 69 70 71 
+San Francisco 943 2,142 21,249,793 62 63 65 66 68 74 74 74 
+San Joaquin 3,208 6,697 59,355,738 70 70 67 73 70 70 67 68 
+San Luis Obispo 2,123 3,549 37,101,898 64 64 63 64 63 65 59 58 
+San Mateo 1,886 3,957 33,244,304 69 70 71 70 71 72 68 70 
+Santa Barbara 1,689 3,519 30,687,410 72 70 67 66 63 61 61 60 
+Santa Clara 4,473 9,969 98,505,116 70 69 73 68 67 70 69 69 
+Santa Cruz 863 1,768 14,127,507 52 48 48 57 50 55 55 54 
+Shasta 1,682 3,100 24,430,506 64 67 57 60 57 58 49 52 
+Sierra 399 800 5,566,517 73 71 71 45 44 44 45 45 
+Siskiyou 1,488 2,985 20,233,539 57 57 57 57 58 56 62 63 
+Solano 1,781 3,840 33,604,534 66 66 67 65 68 67 65 67 
+Sonoma 2,400 5,010 49,579,092 53 50 50 52 55 54 58 58 
+Stanislaus 2,899 5,953 51,942,357 60 51 52 55 55 63 61 64 
+Sutter 1,032 2,079 16,016,764 73 56 56 65 70 69 59 57 
+Tehama 1,202 2,406 8,484,455 69 65 65 62 53 54 50 51 
+Trinity 592 1,112 7,477,638 52 50 50 60 62 59 54 48 
+Tulare 4,091 8,253 66,849,672 66 68 68 68 60 62 62 59 
+Tuolumne 661 1,276 8,504,648 62 62 62 47 41 41 28 24 
+Ventura 2,545 5,590 56,349,603 64 66 69 70 71 69 68 68 
+Yolo 1,341 2,687 23,513,907 69 67 63 60 55 58 57 56 
+Yuba 1,066 1,504 19,557,588 74 56 56 60 60 66 67 67 
+TOTALS 144,530 321,170 2,764,361,757 68 66 66 66 65 65 66 65 
+* PCI is weighted by area.
+Although it is just a few points shy of the “good/excellent” category, an average pavement condition of 65 has 
+significant implications for the future  and is cause for caution. Figure 2.6 illustrates the rapid pavement 
+deterioration that can occur at this point in the pavement life cycle. If repairs are delayed by just a few years, the 
+costs of the proper treatment may increase as much as tenfold. 
+=== page 28 ===
+California Statewide Local Streets and Roads Needs Assessment 20 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.6 Generalized Pavement Life Cycle Curve  
+The re are many  financial advantages of maintaining pavements in good condition . These includ e saving 
+taxpayers’ dollars with less disruption to the traveling public, and a variety of  environmental benefits.  
+Many factors contribute to rapid pavement deterioration, includ ing:  
+• More traffic and heavier vehicles;  
+• More transit and more frequent bus trips, including heavier buses;  
+• Heavier and more garbage collection trucks (recycling and green waste trucks are new weekly 
+additions to the traditional weekly garbage truck);  
+• More street sweeping for National Pollutant Discharge Elimination System (NPDES) 
+requirements; and  
+• More freight and delivery trucks when the economy is thriving.  
+Therefore, a PCI of 65 should be interpreted  with caution – it indicates that  local st reets and roads  are 
+positioned for rapid decline . Figure 2.7 shows  a local street with an average condition of 65. 
+
+=== page 29 ===
+California Statewide Local Streets and Roads Needs Assessment 21 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure  2.7 Local Street with PCI of 65 
+ 
+Figure 2.8 shows the distribution of pavement condition by county for 2008 and 20 22. Most  of the 
+counties in the state have pavement conditions that are either 
+“At Risk” (blue) or in “Poor” (r ed) condition. The  number of 
+counties in these categories has increased since 2008.  Of the 58 
+counties, all but  4 (Orange, San Bernardino,  San Diego , and San 
+Francisco) are  currently  in either “At Risk” or “Poor” condition.  
+ 
+Only 55 % of California’s 
+local streets and roads 
+are in good  condition.  
+=== page 30 ===
+California Statewide Local Streets and Roads Needs Assessment 22 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.8 Average PCI by County for 2008 and 20 22 
+2.3 Sustainable Pavement Practices  
+Sustainability is a growing consider ation  for many local agencies, particular ly if it saves costs. Cities and 
+counties were asked for information on any sustainable pavement practices employed and any  
+associated cost savings. The types of sustainable practices that were mentioned included:  
+• Cold central plant recycling   
+• Cold -in-place recycling (CIR)  
+• Full depth reclamation (FDR)  
+• Hot -in-place recycling (HIR)  
+• Pavement preservation strategies  
+• Permeable/pervious pavements  
+• Reclaimed asphalt pavement (RAP)  
+• Rubberized hot mix asphalt (RHMA)  
+• Warm mix asphalt (WMA)  
+Sustainable practices have generally increased in use : 339  agencies provided  information about  the 
+types of sustainable practices they used. Table 2.5 summarizes sustainable pavement strateg ies , the 
+number of agencies that listed each  strategy, the number of agencies that reported either savings or 
+Some sustainable 
+pavement strategies 
+may save up to 4 0 
+percent  over 
+conventional methods . 
+=== page 31 ===
+California Statewide Local Streets and Roads Needs Assessment 23 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+additional cost for a specific strategy, and the average percent savings or cost over conventional 
+pavement  practices.  
+Table 2.5 Summary of Sustainable Pavement Strategies  
+Sustainable Pavement Strategy 
+No. of Agencies Average 
+% Savings 
+Average % 
+Additional 
+costs 
+No. of 
+Responses Savings Add'l 
+Costs 
+Reclaimed AC Pavement (RAP) 212 45 11 11% 12% 
+Cold in Place Recycling (CIR) 118 33 6 28% 57% 
+Hot in Place Recycling (HIPR) 15 - - - - 
+Cold Central Plant Recycling 32 5 3 28% 20% 
+Warm mix AC 91 2 9 10% 21% 
+Permeable/Pervious 35 - 8 - 40% 
+Full Depth Reclamation (FDR) 216 38 18 26% 43% 
+Subgrade Stabilization 107 6 16 33% 16% 
+Rubberized AC (RAC) 255 7 73 29% 23% 
+Pavement Preservation 429 78 24 41% 31% 
+Recycling and pavement preservation strategies were reported to have the highest cost savings 
+compared to conventional treatments . O ther sustainable treatments incurred additional costs, 
+particularly rubber hot mix asphalt (RHMA), which cost  23 percent mor e than did conventional 
+treatments.  The responses for warm mix asphalt and permeable /pervious pavements were insufficient 
+to draw any conclusions , however, we note tha t the additional cost of porous/pervious pavements may 
+be offset by savings in stormwater  costs.   
+The most reasons  most commonly given for  using sustainable practices were:  
+• Cost savings or cost -effectiveness;  
+• Environmental benefits  (e.g. , produces fewer greenhouse gas 
+emissions, reduce s energy consumption, uses fewer  natural 
+resources, reduces waste sent to landfills,  reuses existing 
+pavement materials, recycles tires, etc .)7,8; 
+• Utiliz ing  recycled material s; 
+• Creating less  waste material ; 
+• Better ride quality /finished surface , including  quiet er pavement s; 
+• Reduc ed excavation depth s; 
+• Extend ed pavement life;  
+ 
+7 Bilal, J., and M.  Chappat . Sustainable Development: The Environmental Road of the Future . COLAS Group : 2003 . 
+8 Environment Protection Agency. “Transportation, Air Pollution, and Climate Change.  
+www.epa.gov/otaq/climate/420f05004.htm . 
+ 
+Every lane -mile that 
+is recycled in -place 
+is equivalent to 
+taking  11 cars off 
+the road for a year.  
+=== page 32 ===
+California Statewide Local Streets and Roads Needs Assessment 24 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+• City Council policies that support or require sustainable pavements;  
+• Bigger projects and lower unit prices from p artnering with other agencies; and  
+• Lower traffic impact (less construction traffic).  
+The most common reasons cited for not  using sustainable practices were:  
+• Higher construction costs (mostly related to RHMA) or higher up -front costs;  
+• Not enough technical i nformation available – design, specifications, etc.;  
+• Lack of performance data;  
+• Poor performance from previous projects;  
+• Lack of experienced contractors to bid on projects;  and  
+• Streets that are not  good candidates for these treatments ; e.g. , limited right o f way . 
+The fact that 60 percent  of the cities and  counties in California reported using some form of sustainable 
+pavement practices was very encouraging, particularly when one considers the potential cost savings 
+involved. The overwhelming majority also in dicated that they would  continue to use some form of 
+sustainable strategy in the future.  
+2.4 Complete Streets  
+A complete streets policy  ensures that transportation planners and engineers consistently design and 
+operate the entire roadway with all users in mind  – including bicyclists, public transportation vehicles 
+and riders, and pedestrians of all ages and abilities. California state law (adopted in 2008 and effective 
+2011) 9 requires that cities and counties “… plan for a balanced, multimodal transportation network that 
+meets the needs of all users of streets, roads, and highways, defined to include motorists, pedestrians, 
+bicyclists, children, persons with disabilities, seniors, movers of commercial goods, and users of public 
+transportation, in a manner that is suitable to the rural, suburban, or urban context of the general plan.”  
+This study focused  on bicycle and pedestrian facilities . Figure 2.9 shows  an example of a complete street 
+that accom modates  alternat ive modes of transportation  (i.e. , pedestrians, bicyclists, buses ), and drivers, 
+as well as curb ramps that comply  with the American s with  Disabilities Act (ADA).  
+The  202 2 survey garnered 341  responses . O f these, 104  agencies  indicated  that they ha ve a complete 
+streets policy  in place - double the number reported in 2012. Of the 237  agencies that  did not  have a  
+complete streets  policy, 68 indicated that they had elements in place.  Table 2.6 shows the elements 
+utilized by agencies.  
+  
+ 
+9http://leginfo.ca.gov/pub/07 -08/bill/asm/ab_1351 -1400/ab_1358_bill_20080930_chaptered.html  
+=== page 33 ===
+California Statewide Local Streets and Roads Needs Assessment 25 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.9 Elements of a Complete Street  
+ 
+Table 2.6 Elements of Complete Streets Policy  
+Element No. of Agencies 
+Bicycle facilities 257 
+Pedestrian facilities 256 
+Curb ramps 245 
+Signs 234 
+Green infrastructures 109 
+Traffic calming e.g., reducing lane widths 221 
+Medians 203 
+Lighting 195 
+Transit elements 156 
+Roundabouts 134 
+ 
+Figure 2.10 illustrates the number of agencies ( 271 ) that  have recently completed a complete street s 
+project . These projects have been constructed across small, medium,  and large agencies.  
+
+=== page 34 ===
+California Statewide Local Streets and Roads Needs Assessment 26 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur e 2.10 Number of Agencies with  and without Complete Street s Projects  
+On average, the respondents also indicated that 33 percent  of their street network s were eligible for 
+consideration as a complete street , and th at average additional costs were $ 82.30  per square yard  (sy) . 
+This is significantly lower than the  average additional costs reported in the  2020 study ($117/sy) . 
+However, only 145 agencies provided cost data  in 2022 and costs varied widely , from less than $1/ sy to 
+over $ 1,000/ sy (projects with costs less than $10/sy or greater  than $1000/sy were consid ered outliers 
+and  were  not included in the analysis) . This range was  largely due to the wide variety  of elements that 
+can be considered part of a complete street s policy . For example , restriping a road to add bicycle lanes 
+is relatively inexpensive, but purchasing right -of-way for widening projects to include 
+pedestrians/bicyclists/transit is significantly more costly . Figure 2.11 illustrate s the range and type s of 
+complete streets pro jects possible, and their incremental costs, which range from $12/sy to $ 86/sy . It 
+continues to be difficult to assume one average unit cost for a complete streets project.   
+There are  many  challenges to implementing a complete street s policy . T he most comm only cited  ones 
+(in order of frequency of responses)  were : 
+1) Insufficient funding  
+2) Insufficient right -of-way  
+3) Lack of public support  
+4) Lack of staffing to implement policy  
+5) Existing structures  and utilities  
+6) Trees or environmental features  
+ 
+
+=== page 35 ===
+California Statewide Local Streets and Roads Needs Assessment 27 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.11 Examples of Complete Street Projects  
+Finally, a complete streets  policy  may have very different applications for  a rural road than for an urban 
+street. Many rural roads are long  and/or  located  in remote areas and  may carry  as few as 50 vehicles a 
+day with few  or no pedestrians or bicyclists. Obviously, these  roads  will not be candidates for  the type 
+of complete streets approach that is app ropriate for  dense r urban areas . Typical examples of complete 
+streets  are urban roads  that  support multiple modes of transportation.  
+
+=== page 36 ===
+California Statewide Local Streets and Roads Needs Assessment 28 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5 Additional Regulatory Requirements  
+All jurisdictions must comply with a variety of pavement and safety regulations or policies . Cities and 
+counties must also comply with m any regulatory requirements, including:  
+1) The American s with  Disabilities Act of 1990 (ADA) ; 
+2) The National Pollutant Discharge Elimination System (NPDES) ; 
+3) Traffic sign retroreflectivity requirements ; 
+4) Complete streets ; and  
+5) Others (e.g. , the Endangered Species Act,  air emissions, sanitary/wastewater management 
+plans ). 
+As in previous surveys, participants  in the 2022 survey  listed the first 3 categories most often , with 51 
+respon dents citing the ADA, 48 citing the  NPDES , and  35 citing  traffic sign retroreflectivity. This reflects 
+an overall decrease  in the number of responses. However, when combined with data from previous 
+years, th e survey data were more robust; there were a total of 405 responses for ADA, 361 for NPDES 
+and 328 for re troreflectivity.  
+Respondents identified $ 10.6  billion in needs to comply with regulatory  requirements, and only $ 7.4 
+billion in available funding , resulting in a shortfall of almost $3.2 billion (see Table 2.7).  
+Table 2.7 Additional Regulatory Requirements ( 10-Year Needs and Funding)  
+Regulatory 
+Requirements Needs ($M) Funding 
+($M) 
+Shortfall 
+($M) 
+ 
+ 
+ADA  $2,704   $1,245   $(1,459)  
+NPDES  $6,968   $5,915   $(1,053)  
+Traffic Signs  $295   $156   $(139)  
+Complete Streets  $501   $16   $(485)  
+Other  $92   $40   $(52)  
+Total  $10,560   $7,372   $(3,188)  
+2.6 Unpaved  Roads  
+Unpaved roads (gravel or dirt surface) are a small  component of the local transportation network 
+statewide, and only comprise  5.3 percent of the total road area. 
+Nonetheless, they are important in many rural counties . For example, in 
+Mono County, unpaved roads comprise more than 60 percent of the 
+road system . 
+The needs assessment for unpaved roads is not complicated – 112 
+agencies reported a total unpaved road network of 9,491  centerline 
+miles. The maintenance cost is approximately $17,000 per centerline 
+mile per year, almost double the original cost from 2008. Since pavement management software like 
+Unpaved roads 
+need $1.6 1 billion 
+over the next 10 
+years.  
+=== page 37 ===
+California Statewide Local Streets and Roads Needs Assessment 29 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+StreetSaver ® only anal yzes paved roads, this average cost was applied to only the unpaved roads. This 
+result ed in a total 10 -year need of $ 1.61 billion . 
+ 
+Figure 2.12 Unpaved Roads  
+2.7 Pavement Needs  
+The methods used to identify  pavement needs and unfunded backlog are  described in detail in Appendix 
+B of the 2008 report and are  therefore not duplicated here . T o briefly summarize, the analysis included  
+4 main elements : 
+• Existing pavement condition  (i.e., PCI ); 
+• Appropriate treatment(s) to be applied (based on  decision tree 
+and unit costs ); 
+• Performance models ; and  
+• Funding available during analysis period.  
+The calculation of the pavement needs  cost  is conceptually quite simple. Once the PCI of a pavement 
+section is known, treatment and unit cost can be applied. This is performed  for all sections within the 
+ten year analysis period . A section may receive multiple treatments within this time frame ; e.g., Walnut 
+Avenue may be overlaid in Year 1, and then sealed in Year 5 and again in Year 10.  
+As before, the deferred maintenance or “unfunded backlog” is defined as work that is needed but is  not 
+funded. It is theoretically possible to fully fund all  pavement needs in the first year,  thereby reducing 
+the backlog to zero , but this is unachievable on a practical basis given resource limitations . Therefore , 
+the funding goal  is to achieve the BMP goal within 10 years. Assuming a constant annual funding level, 
+the backlog will decrease to zero by the end of the analysis period.   
+  
+Pavement needs 
+are estimated to be 
+$81 billion over the 
+next 10 years.  
+=== page 38 ===
+California Statewide Local Streets and Roads Needs Assessment 30 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+The results are summarized in Table 2. 8 and indicate that $ 81 billion (constant 202 2 dollar s) is required 
+to achieve the  BMP goal in 10 years. This  includes the  impact of sustainable technologies , which save  
+26 to 28 percent over conventional treatments  on average . In 20 20, the total 10 -year need was $7 6 
+billion . The  $4.7  billion  increase in need is  the result of  increases in paving costs described in Section 
+2.1.3.  Detailed results by county are shown  in Appendix C.  
+Table 2.8 Cumulative Pavement Needs  
+Cumulative Needs (2022 dollars) 
+Year No. Year To Reach BMP Goal in 
+10 Years ($ Billion) 
+1 2023 $8.1 
+2 2024 $16.1 
+3 2025 $24.2 
+4 2026 $32.3 
+5 2027 $40.3 
+6 2028 $48.4 
+7 2029 $56.5 
+8 2030 $64.5 
+9 2031 $72.6 
+10 2032 $81.0 
+ 
+Finally, Figure 2.13 illustrates a map of California showing  the 10-year  pavement needs by county. From 
+this, we can see that the preponderance of need s is in Southern California, the San Francisco Bay Area , 
+and portions of the Central Valley.  
+  
+=== page 39 ===
+California Statewide Local Streets and Roads Needs Assessment 31 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Pavement Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.13 10-Year Pavement Needs by County  
+ 
+
+=== page 40 ===
+California Statewide Local Streets and Roads Needs Assessment 32 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Essential Components Needs Assessment  
+The transportation system includes essential components such as  safety, traffic , and regulatory 
+elements in addition to pavements and bridges. The safety of the traveling public is the highest priority 
+for local agencies, and the transportation system is intended to serve all modes of travel (pedestrians, 
+bicyclists, buses, people with disabilities , etc.) and not just vehicles,  so components such as traffic 
+signals, street lights , and signs are critical  and must be assessed . 
+ 
+Storm drains, which are mostly invisible because they tend to be underground, are also needed to 
+remove excess water from the surface to protect  pavement structural integrity and  safety. In removing 
+water, trash and other pollutants inevitably drain into creeks, rivers, lakes, bays , and the ocean, bringing 
+environmental considerations into play. Cities and counties have the responsibility to remov e these 
+pollutants as part of tran sportation system  maintenance . 
+Underground pipes  are often overlooked when establishing priorities, yet their failure can have 
+disastrous consequences.  This was made evident by the failure of a 90 -year -old water main near the 
+University of California , Los Angeles (UCLA) in July 2014 , which caused considerable damage to the 
+roadway system and nearby facilities on the UCLA campus (see Figure 3.1).  
+ 
+
+=== page 41 ===
+California Statewide Local Streets and Roads Needs Assessment 33 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.1 Water Main Break on Sunset Blvd, Lo s Angeles – 2014  (Courtesy L A Times ) 
+3.1 Data Collection  
+As with past surveys, agencies were asked to provide specific information on the inventory and 
+replacement costs for the following 12 asset categories:  
+Asset 
+Category Essential Components 
+1 Storm drains and pipelines 
+2 Curb and gutter 
+3 Sidewalk (public) 
+4 Curb ramps 
+5 Traffic signals 
+6 Streetlights 
+7 Sound/retaining walls 
+8 Traffic signs 
+9 Other storm drain elements (e.g., utility access holes, inlets, culverts, pump stations) 
+10 NPDES 
+11 Other ADA compliance needs 
+12 Other physical assets or expenditures 
+Because  only 122 survey responses were received in 2022 , data from previous surveys were included in 
+the analysis, result ing  in data from 412  agencies.  Table  3.1 illustrates th e reliability of the data collected 
+from the 20 22 survey as determined by the city or county. For example, i n the case of Streetlights , the 
+survey responses indicate that:  
+• 33.8 percent  of agencies had accurate  and informed  replacement costs ; 
+• 4.5 percent  of agencies provided estimated  replacement costs ; 
+• 1.9 percent did not mention the accuracy of the costs provided ; and  
+• 59.7  percent  did not respond.  
+ 
+
+=== page 42 ===
+California Statewide Local Streets and Roads Needs Assessment 34 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3.1 Percentage of Agencies Responding with Data on Essential Components  
+ 
+ 
+Category
+Accurate &
+Informed
+Estimate
+Guess
+Did not 
+Mention the 
+Accuracy of 
+the Provided 
+Costs
+No Response
+ Curb and gutter 32.5% 6.5% 2.6% 58.4%
+ Curb ramps 28.6% 9.1% 1.9% 60.4%
+ Sound Walls/Retaining walls 6.5% 6.5% 3.9% 83.1%
+ Storm Drains   pipelines 24.0% 5.2% 1.9% 68.8%
+ Street Lights 33.8% 4.5% 1.9% 59.7%
+ Traffic signals 37.0% 5.2% 2.6% 55.2%
+ Traffic signs 28.6% 7.1% 1.3% 63.0%
+ Pedestrian facilities (sidewalks) 33.1% 11.0% 3.9% 51.9%
+ Pedestrian paths 2.6% 2.6% 0.0% 94.8%
+ Other pedestrian facilities, e.g. over 
+crossings 5.2% 0.6% 1.3% 92.9%
+ Multi use paths 3.9% 3.9% 0.6% 91.6%
+ Crossing Improvements e.g. high visibility 
+crossings, rapid flashing beacons, 
+roundabouts, scrambles, bulbouts, 
+pedestrian refuge islands, etc. 
+21.4% 5.2% 1.3% 72.1%
+ Transit amenities e.g. benches, shelters, 
+real time arrival signage, wayfinding 
+signage
+5.8% 5.2% 1.9% 87.0%
+ Class I bicycle path 37.7% 8.4% 5.8% 48.1%
+ Class II bicycle lane 35.7% 10.4% 1.9% 51.9%
+ Class III bicycle routes/sharrow 29.2% 7.1% 2.6% 61.0%
+ Class IV protected bike lanes 17.5% 1.3% 0.0% 81.2%
+ Other bicycle facilities, e.g. bike 
+shelters/lockers, etc. 9.1% 2.6% 0.6% 87.7%
+ Other physical assets or expenditures that 
+constitute >5% of total non pavement asset 
+costs e.g. heavy equipment, corporation 
+yards etc. Note: Do NOT include bridges 
+(handled separately)
+4.5% 3.2% 0.6% 91.6%
+ Other elements e.g. manholes, inlets, 
+culverts, pump stations etc 14.9% 5.8% 1.3% 77.9%
+ Tunnels 1.3% 0.6% 1.3% 96.8%
+=== page 43 ===
+California Statewide Local Streets and Roads Needs Assessment 35 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+Overall, a little over 30 percent of the agencies indicate d that they either ha d accurate data or were 
+able to provide  estimates of the replacement costs for these asset categories. Table 3.1  shows that  3 
+major essential components (storm drains, curb and gutters, and sidewalks) have “good” data (i.e., 
+approximately 7 6 percent of the agencies have some data on their replacement costs ), whi ch is a key 
+factor in estimating needs.  
+The 202 2 survey include d survey questions that were requested by the Los Angeles County Metropolitan 
+Transportation Authority  in 2020  (highlighted in blue  in Table 3.1 ). However, very few agencies 
+responded to these questions.  
+Data on essential components are especially challenging to obtain, mostly because very few agencies 
+have the resources to implement and maintain an asset inventory or management system. For example, 
+unincorporated Orange County, with a road net work of 320 miles, has over 18,000 signs, 6,200 drainage 
+inlets , 2,500 miles of storm drains, 2,400 traffic signals, and 10,000 miles of paint striping , and  almost 
+10,000 miles of curbs. The cost of inventorying these components can be remarkably high  and is not 
+financially possible for many agencies.  
+3.2 Needs Methodology  
+In 2016, a new approach was adopted to analyze  the essential  needs  using  a new model based on 
+geography (Geographically Weighted Regression ; GWR) . Appendix E of the 201 6 report provides a 
+detailed discussion  of this method  and  key points are provided in this section. While previous models 
+were reasonably accurate in the aggregate, large variations of needs may exist for individual agencies.  
+Many  geographical  factors  affect  the co sts  of replacin g essential components.  For instance, it is much 
+more expensive to install a curb ramp in San Francisco than it is in Ceres, and the number of signs that 
+exist in an urban city environment is significantly higher than in a rural environment . The variation in 
+cost  can also be attributed to sampling variation, to differences in traffic patterns, road network 
+attributes, or sociodemographic characteristics , or to intrinsic differen ces in  relationships  (for instance, 
+different administrative poli cies produce different responses) .  
+The 201 6 model accounts for this variability  and is reproduced here:  
+Ln C ost  = Ctm3  × tm 1⁄3  + Ctm  × tm + Cisrural  × isrural  + Ciscounty  × iscounty  + Intercept  
+where:   
+Cost = total replacement cost, dollars;  
+Total miles (tm) = total centerline miles of roads or streets;  
+isrural = indicator variable and is equal to 1 if agency is rural, 0 otherwise; and  
+iscounty = indicator variable and is equal to 1 if agency is county, 0 otherwise  
+The  model was used primarily  for those agencies that did not  provide any replacement cost  data . 
+However, some agencies reported extremely low costs that were considered anomalies; in these cases, 
+the model was used in  place of the data provided . 
+=== page 44 ===
+California Statewide Local Streets and Roads Needs Assessment 36 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3.2 indicates the percentage of needs predicted by the model for each county. For example, in El 
+Dorado County, 67 percent of the agencies provided data ; therefore, the model only estimated the costs 
+for the remaining 33 percent of agencies . Overall,  the model was used to estimate replacement costs 
+for approximately 2 4 percent of the agencies.  
+Table 3.2 Percentage of Agencies with  Survey Responses  for Essential Components  
+ 
+  
+County
+% Agencies 
+With Survey 
+Responses
+County
+% Agencies 
+With Survey 
+Responses
+Alameda 93% Orange 77%
+Alpine 100% Placer 86%
+Amador 67% Plumas 50%
+Butte 67% Riverside 86%
+Calaveras 50% Sacramento 88%
+Colusa 0% San Benito 67%
+Contra Costa 100% San Bernardino 76%
+Del Norte 50% San Diego 84%
+El Dorado 67% San Francisco 100%
+Fresno 69% San Joaquin 75%
+Glenn 100% San Luis Obispo 50%
+Humboldt 63% San Mateo 95%
+Imperial 25% Santa Barbara 78%
+Inyo 100% Santa Clara 94%
+Kern 83% Santa Cruz 60%
+Kings 60% Shasta 75%
+Lake 33% Sierra 0%
+Lassen 50% Siskiyou 50%
+Los Angeles 78% Solano 100%
+Madera 67% Sonoma 80%
+Marin 92% Stanislaus 50%
+Mariposa 100% Sutter 100%
+Mendocino 60% Tehama 100%
+Merced 71% Trinity 100%
+Modoc 100% Tulare 67%
+Mono 50% Tuolumne 50%
+Monterey 46% Ventura 82%
+Napa 100% Yolo 100%
+Nevada 50% Yuba 67%
+Total 76%
+=== page 45 ===
+California Statewide Local Streets and Roads Needs Assessment 37 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 Active Transportation  
+Senate Bill 99 and Assembly Bill 101 established the Active Transportation Program (ATP)  to support 
+increased use of active modes of transportation such as biking and walking 10. For 2022, sufficient data 
+were available to perform a more focu sed analysis of Active Transportation facilities. The survey 
+collected data on the following elements:  
+• Bicycle facilities : Four classes of bicycle lanes (see Figure 3. 2) as well as other bicycle facilities . 
+o Class I bike lanes (Bike Paths): These are also k nown as "separated bikeways" or "off -
+street bike paths." They are physically separated from motor vehicle traffic and are 
+typically located away from the roadway. They are designed for exclusive use by bicyclists 
+and are separate from pedestrian facilities . 
+o Class II bike lanes (Bike Lanes): These are also known as "on -street bike lanes." They are 
+located on the roadway and are typically marked with painted lines and signage. They are 
+designed to provide a dedicated space for bicyclists and are typically loc ated between the 
+curb and parked cars.  
+o Class III bike lane (Bike Routes): These are also known as "shared lane markings" or 
+"sharrows." They are typically used on roadways that are not wide enough  for a dedicated 
+bike lane. They may  be marked with pavement  markings and signage to indicate that the 
+roadway is shared by bicyclists and motor vehicles.  
+o Class IV bike lane (Separated Bikeways): These are also known as "protected bike lanes" 
+or "cycle tracks." They are physically separated from motor vehicle traff ic, typically with 
+a barrier such as a concrete curb, bollard,  or Jersey barrier, and/or landscaping. They are 
+designed for exclusive use by bicyclists and are separate from pedestrian facilities.  
+o Other bicycle facilities: These include  bike shelters , lock ers, etc.  
+• Pedestrian facilities : There are t hree main categories of pedestrian facilities . 
+o Pedestrian facilities (sidewalks): These i nclude all paved sidewalks adjacent to streets and 
+roads in cities and counties.  
+o Pedestrian paths: These i nclude paved or u npaved paths that are prepared only for 
+pedestrians , e.g.,  park paths.  
+o Other pedestrian facilities: These include over -crossings , etc.  
+• Multi -use paths : Paths that both pedestrians and cyclists can use.  
+ 
+ 
+10 Caltrans. “Active Transportation Program (ATP). ” https://dot.ca.gov/programs/local -assistance/fed -and -state -
+programs/acti ve -transportation -program . 
+=== page 46 ===
+California Statewide Local Streets and Roads Needs Assessment 38 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.2 Bicycle Lane Classes in California. Top -left: Class 1; top -right: Class II; bottom left: Class 
+III; bottom -right: Class IV; (California Air Resources Board 2019)  
+In 2022, 139 agencies (26%  of agencies ) responded to the  active transportation section of the  survey . 
+Data from previous surveys were included to improve the reliability of the analysis, and this  increased 
+the response rate to 83% (447 agencies).  
+Table 3.3 summarizes the data from these 447 agencies. Based on the available data, t here are over 
+149,000 miles of bicycle and pedestrian paths , and cities own more than 70 percent of these facilities.  
+Notably , only 131 agencies provided Class III mileages , but  there are believed to be significantly more  
+miles of Class III  bike lanes available  statewide.  
+Tabl e 3.3 Summary of Active Transportation Facilities  
+Agency 
+Bike Lane 
+Facilities: Class I, 
+II, III, IV 
+(miles) 
+Other Bicycle 
+Facilities 
+(#) 
+Sidewalks 
+(miles) 
+Pedestrian 
+Paths 
+(miles) 
+Other Pedestrian 
+Facilities 
+(#) 
+Multi-Use 
+Paths 
+(miles) 
+ 
+Cities 10,934 21,695 92,953 361 576 589  
+Counties 1,740 22 40,136 2 25 10  
+Total 12,674 21,717 133,089 363 601 599  
+
+=== page 47 ===
+California Statewide Local Streets and Roads Needs Assessment 39 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3.1  Active Transportation Needs  
+Of the 447 agencies, 54 percent (242) provided the replacement cost s for t heir bicycle and/or pedestrian 
+facilities  (excluding the sidewalk) . These were then averaged by agency size and type and used to 
+estimate replacement cost s for comparable  agencies that  did not provide any data (see Table 3.4).  
+Of the 242 agencies that provided replacement cost s, 59  percent  of cost s were  related to bicycle 
+facilities and 41% to pedestrian facilities  (excluding the sidewalk) . 
+Table 3.4 Summary of Active Transportation Facilities  
+Agency Type  Street Network Size 
+(miles)  
+ Average Replacement Cost 
+per/centerline mile  
+City 
+Urban 
+ 0-100   $31,866  
+ 101-400   $44,845  
+ >400   $53,773  
+Rural 
+ 0-100   $204,161  
+ 101-400   $5,167  
+ >400   No Answer  
+County 
+Urban 
+ 0-100   N/A  
+ 101-400   $64,720  
+>400   $20,847  
+Rural 
+ 0-100   N/A  
+ 101-400  $26,000 
+ >400   $64,720  
+Table 3. 5 shows the estimated 10 -Year Needs for the bicycle ($1.88 billion) and pedestrian ($9.3 billion) 
+facilities for a total of $11.2 billion. It should be noted that multi -use paths were included as pedestrian 
+facilities.  
+Table 3.5 10-Year Needs for Active Transportation Facilities  
+Agency Bicycle Needs  
+($ Million) 
+Pedestrian Needs 
+($ Million) 
+Totals 
+($ Million)  
+Cities $1,715 $8,339 $10,054  
+Counties $166 $993 $1,159  
+Total 1,881 9,332 11,213  
+3.3.2  Impact of Bicycle Facilities on Greenhouse Gas Emissions  
+Motor vehicles are a key contributor to greenhouse gas (GHG) emissions. The United States 
+Environmental Protection Agency (EPA) reported that a passenger vehicle produces approximately 4.64 
+metric to ns of Carbon Dioxide Equivalent  (CO 2e) annually 11. Bicycle lanes can decrease GHG emissions 
+ 
+11 Environmental Protection Agency . “Greenhouse Gases Equivalencies Calculation – Calculations and References.” 
+https://www.epa.gov/energy/greenhouse -gases -equivalencies -calculator -calculations -and -references . 
+=== page 48 ===
+California Statewide Local Streets and Roads Needs Assessment 40 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+by encouraging the replacement of auto trips with cycling and reducing traffic volumes by changing the 
+geometric design of the streets.  
+There are multiple research studies that have investigated the impact of bicycle lanes on GHG reduction . 
+A study from the University of California, Davis , for example,  quantified GHG  reductions associated  with  
+new bike lane facilities , and  found that adding new bike lanes re sulted in reductions of 24.4 annual 
+metric tons CO 2e ( California Air Resources Board  2019 12). Table 3. 6 shows that GHG reduction from new 
+Class II and IV bicycle lanes can range from 4 to 59 metric tons CO 2e per year depending on parameters 
+such as length of the facility, average daily traffic (ADT), etc. ( Caltrans 2020 13). 
+Table 3.6 Potential VMT and GHG Reductions from New Bicycle Lanes (Caltrans 2020)  
+Facility Category 
+Auto VMT 
+Reduction 
+(miles per 
+year) 
+GHG Reduction 
+(metric tons CO2e 
+per year) 
+Facility 1: less than 1-mile bike lane parallel to a roadway with 
+less than 12,000 ADT located in a town with less than 250,000 
+people. The new facility would be within 0.5 mile of 3 activity 
+centers. 
+8,100 4 
+Facility 2: 1- to 2-mile bike lane parallel to a roadway with 
+12,000 to 24,000 ADT located in a university town with less than 
+250,000 people. The new facility would be within 0.5 mile of 3 to 
+7 activity centers. 
+64,200 30 
+Facility 3: longer than 2-mile bike lane parallel to a roadway with 
+24,000 to 30,000 ADT located in a town with more than 250,000 
+people. The new facility would be within 0.25 mile of more than 
+7 activity centers. 
+127,980 59 
+In the 2022 survey, 118  agencies ( 22%) provided responses abou t their bicycle facilities . Data from 
+previous surveys were also included, which increased the number of agencies to a  more  robust 323 
+(60%).  A total of  12,674 miles of bicycle facilities were reported by these agencies  (Figure 3. 3). Class II  
+bike lanes comprise  approximately 59 percent of the total mileage reported.  As expected, most  bicycle 
+facilities (86%) are owned by cities  (but as noted earlier, Class III mileages, by their definition, would be 
+expected to have higher mileages). This report only sho ws the evaluation of the available data provided.  
+ 
+12 University of California, Davis,  and California Air Resources Board . 2019.  Quantifying Reductions in Vehicle Miles 
+Traveled from New Bike Paths, Lanes, and Cycle Tracks . 
+13 ICF International Inc.  and   Caltrans . 2020 . Caltrans Greenhouse Gas Emissions and Mi tigation Report .  
+=== page 49 ===
+California Statewide Local Streets and Roads Needs Assessment 41 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.3 Inventory of Different Classes of Bike Lanes (Miles)   
+Both of the aforementioned studies published by the California Air Resources Board  and C altrans found 
+that Class II and IV bicycle paths had the greatest  impact on reducing GHG. Class I bicycle paths do not 
+affect vehicle traffic volumes since they are completely  separated. Class III bicycle lanes were excluded 
+from the analysis because they are shared with pedestrians and motorists and have less impact on traffic 
+volume compared to Class II and Class IV lanes.  
+Three scenarios were used  to estimate the range s of vehicle miles traveled (VMT)  and GHG reduction 
+associated with  bike lane facilities reported by 323 agencies. Scenario s 1 (minimum reduction) , 2, and 3  
+assume that all bike lanes are defined as  in Facilit ies  1, 2, and 3, respectively, in Table 3.6.   
+Table 3. 7 summarizes  the estimat ed total GHG and VMT  reduction from the 323 agencies  under each 
+scenario . The average annual reduction in VMT  and GHG is approximately  259.8 million miles per year 
+and 121.8 thousand metric tons CO 2e, respectively.  
+Assuming that the agencies that did not respond to the survey  (40%)  have sim ilar quantities of bicycle 
+facilities, the average VMT  and GHG reduction due to bicycle facilities in California could be  as high as  
+433.8 million miles per year and 203,000 metric tons CO 2e per year, respectively.  
+  
+
+=== page 50 ===
+California Statewide Local Streets and Roads Needs Assessment 42 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3.7 VMT  and GHG Reduction Scenarios for Bicycle Facilities  
+Scenarios for Bike Lane 
+Facility 
+Assumed 
+Mileage 
+Unit For 
+Each 
+Facility 
+per Year 
+GHG 
+Reduction 
+Per Facility 
+Per Year 
+(Metric 
+Tons CO2E) 
+VMT 
+Reduction 
+per 
+Facility 
+per Year 
+Total 
+Mileage of 
+Class II 
+and Class 
+IV (from 
+Table 3.6) 
+Total GHG 
+Reduction 
+(Metric 
+Tons CO2e 
+per Year) 
+Total VMT 
+Reduction 
+(Miles per 
+Year) 
+Scenario 1 
+(<1 mile bike lane) 0.5 4 8,100 7,664 61,312 124,156,962 
+Scenario 2 
+(1-to-2-mile bike lane) 1.5 30 64,260 7,664 153,280 328,326,188 
+Scenario 3 
+(>2 miles bike lane) 3.0 59 127,980 7,664 150,726 326,946,667 
+3.4 Determination of Essential Components’ Needs  
+As with previous models, the 201 6 regression model estimates the total replacement cost  for only the 
+first 8 asset categories listed in Section 3.1 . To estimate the needs , this cost must  be converted to an 
+annual amount based on the estimated service li ves of the assets. The costs of the remaining 4 
+categories (other storm drain elements, NPDES, ADA and other physical assets) can  then  be added. This 
+procedure was described in detail in Appendix E of the 2008 repor t and has not been duplicated here.  
+The  10-year need  is estimated to be $ 39 billion  in 2022 , an 
+increase from the $ 35.5  billion reported in 20 20. Figure 3.4 
+illustrates the need for each essential component.  
+ 
+The funding need for 
+essential components is 
+$39 billion.  
+=== page 51 ===
+California Statewide Local Streets and Roads Needs Assessment 43 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure  3.4 10-Year Needs for Essential Components ($ Billion)  
+ 
+Figure 3.5 is a map illustrating the distribution of needs by county . The bulk of the needs are in the 
+urban regions of the state. Appendix D summarizes the essential components’ needs for each county.  
+
+=== page 52 ===
+California Statewide Local Streets and Roads Needs Assessment 44 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Essential Components Needs Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.5 Essential Components’ Needs by County  
+
+=== page 53 ===
+California Statewide Local Streets and Roads Needs Assessment 45 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Funding Analyses  
+4.1 Pavement Revenue Sources  
+The online survey asked agencies to provide both their revenue sources and pavement expenditures for 
+2020/21 and  2021/22, and to estimate  an annual  average f or future years. A total of 338 agencies  
+responded with financial data.  
+As before, cities and counties identified a myriad of federal, state, and  local sources of funds for their 
+pavement expenditures. More than a hundred different local funding sources were identified  alone . 
+Funding sources inc luded:   
+Federal Funding Sources  
+• Active Transportation Program (ATP), Federal Funds  
+• American Recovery and Reinvestment Act (ARRA)  
+• Community Development Block Grant (CDBG)  
+• Congestion Mitigation And Air Quality Improvement Program (CMAQ)  
+• Federal Emergency Management Agency Funds (FEMA)  
+• Forest Reserves  
+• Highway Safety Improvement Program (HSIP)  
+• Highway Bridge Program (HBP)  
+• Highway Bridge Replacement And Rehabilitation  (HBRR)  
+• High Risk Rural Roads Program (HR3)  
+• Nationally Significant Freight & Highwa y Projects (INFRA)  
+• One Bay Area Grant (OBAG)  
+• Regional Surface Transportation Program (RSTP)  
+• Safe Routes To School (Federal) (SRTS)  
+• Surface Transportation Program (STP)  
+• Transportation Enhancement Activities (TEA)  
+State Funding Sources  
+• Active Transportation Program (ATP ), State Funds  
+• CalRecycle  
+• Gas taxes (Highway User Tax Account ; HUTA)  
+• Prop 1B  
+• Safe Routes To School , State  Funds  (SR2S)  
+=== page 54 ===
+California Statewide Local Streets and Roads Needs Assessment 46 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+• State Transportation Improvement Program (STIP)  
+• Traffic Congestion Relief Fund (TCRP)  
+• Transportation Development Act (TDA)  
+• Transportation Enhancement Activities (TEA)  
+• Vehicle Registration Fees  
+Local Funding Sources  
+• Development impact fees  
+• Enterprise Funds (solid waste and water)  
+• Flood Control Districts  
+• General funds  
+• Local sales taxes  
+• Parking and various permit fees  
+• Tra ffic impact fees  
+• Traffic safety/circulation fees  
+• Transportation mitigation fees  
+• Utilities ; e.g., stormwater, water, 
+wastewater enterprise funds  
+• Various assessment districts – lighting, 
+maintenance, flood control, special 
+assessments, community facility d istrict s 
+• Capital Improvement Program (CIP) 
+Reserves/Capital Funds  
+• Indian gaming funds  
+• Indian reservation roads  
+• Investment earnings  
+• Parcel/property taxes  
+• Redevelopment   
+• Refuse/recycling  
+• Transient Occupancy Taxes (TOT)  
+• Trench cut fees  
+• Underground impact fees  
+• Vehicle registration fees  
+• Vehicle code fines  
+This is not  an exhaustive list and some funding sources have changed with the advent of the 
+Infrastructure Investment and Jobs Act (IIJA), aka Bipartisan Infrastructure Law (BIL),  which was signed 
+into law by President Biden on November 15, 2021. 14  
+The funding data were  first reviewed to ensure that the description matched the funding source (i.e. , 
+federal, state , or local). In cases where the source did not match the description, the source was re-
+categorized as appropriate. Funds were also further categorized as gas tax, sales tax, general fund , or 
+other, based on the description. Funds and expenditures were then  summed by agency and year. 
+Agencies that reported funding or expenditures for some years but not others were further reviewed , 
+and the  data for reported years was  used to estimate the data for unreported years.  
+Funds and expenditures for each agency were then divided by the number of lane mile s of roadway in 
+that agency , and any outliers were removed. F unding and expenditure data per lane mile  were then 
+averaged for urban counties, rural counties, urban cities,  and rural cities. These averages were used to  
+ 
+14 https://www.gfoa.org/the -infrastructure -investment -and -jobs -act -iija -was . 
+=== page 55 ===
+California Statewide Local Streets and Roads Needs Assessment 47 
+April 2023 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+estimate  the  total funds and expenditures for all cities and counties. The total expenditures and funds 
+were then summed within these categories to determine the statewide total values . 
+Table 4.1 and Figure 4.1 summarize the total pavement funding available as well as the percentage s of 
+funding that come from various sources. Overall, funding stabilized at $2 billion a year between 2014/15 
+and  2016/17. SB 1  had an immediate positive impact in 2017/18 and was expected to contribute  
+approximately $536  million from that  year  forward .  
+However, COVID’s impact in FY 2020/21 and  2021/22 was disastrous and resulted in funding dropping 
+to only $870 million  across both yea rs. This was partly a result of  significant drops in vehicle traffic (and 
+thereby gas taxes) due to shelter -in-place policies and  reductions in paving programs due to concerns 
+from cities and counties about the amount of  funding expected. The bright light is that  future funding 
+levels a re expected to rebound to almost $2 billion annually  and SB 1 is expected to play a more 
+significant role in pavement funding ($500 million a year, or 26 percent  of total funding).  
+ 
+=== page 56 ===
+California Statewide Local Streets and Roads Needs Assessment 48 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4.1 Funding Sources for Pavement s 
+ 
+ 
+ 
+ 
+Figure 4.1 Pavement Funding by Source  (% by Source On Left ) 
+ 
+
+=== page 57 ===
+California Statewide Local Streets and Roads Needs Assessment 49 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+Prior to SB 1 , local agencies relied more on local sources  and less on state sources, but  with the advent 
+of SB 1 , the percentage of state funding sources has returned  to 2008/09 levels.  
+Note that federal funding was a significant component of funding  2009/10 and 2010/11 . This reflects 
+the  impact  of the American Recovery and Reinvestment Act , which was implemented  during the 
+recession. Since then, the percentage of federal funds  used for pavement  has fluctuated around 10  
+percent  and is projected to decrease to 7 percent. Cities and counties, in general, do not rely heavily on 
+federal funds.  
+The Highway User Tax Account (HUTA), more commonly 
+known as the state gas tax, is still the single largest funding 
+source for cities  and counties. This  revenue source had 
+been declining  prior to 2 017/18 , partly due to declining gas 
+consumption, and partly due to the additional 
+responsibilities for cities and counties  tied to that funding 
+source ( e.g. , compliance with ADA, which reduces  the 
+amount of funding available for pavements ) (Table 4.2) .  
+This revenue decline changed with the passage of  SB 1 . By 2019/20, the gas tax was estimated at over 
+$1.7 billion annually. Unfortunately, COVID’s impact led to a huge drop  in gas tax revenue,  to a little 
+less than $400 million. With COVID’s impacts largely mitigated by  2022, funding from the gas tax is 
+projected to increase to $ 1 billion a year.  Table 4.2 shows the amount of funding provided to cities and 
+counties from the gas tax, as well as the percent of state -provided pavement funding and  the  total 
+pavement funding from gas tax proceeds.  
+Traditionally, cities and some cou nties have been able to rely on the General Fund for pavement funding. 
+However, as Table 4.3 illustrates, the number of agencies that receive General Funds has decreased in 
+the last 2 years and is expected to continue to decrease in the future.   
+Finally, p rior to SB 1 , pavement funding increasingly relied on local sales tax measures (Table 4.4) . 
+However, following the passage of  SB 1 , local sales tax es are expected to provide 18 to 20 percent of 
+the total pavement funding , except in COVID years . 
+ 
+The gas tax is the single 
+largest funding source for 
+cities and counties . 
+=== page 58 ===
+California Statewide Local Streets and Roads Needs Assessment 50 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4.2 Gas Tax Trends for Pavements  
+ 
+ 
+Table 4.3 General Funds for Pavement Funding  
+ 
+ 
+Table 4.4 Local Sales Tax Trends  
+ 
+ 
+Table 4.5 Breakdown of Pavement Expenditures ($M)  
+ 
+ 
+ 
+2008/09 2009/10 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 Future
+Gas Tax ($M) 1,115 $     911$        861$        907$      $1,096 $1,137 $891 $904 $843 $1,200 $1,652 $1,742 $376 $394 $1,080
+% of State funding 66% 69% 75% 78% 93% 91% 86% 88% 91% 92% 93% 89% 91% 91% 95%
+% of total funding 41% 34% 40% 41% 48% 46% 38% 36% 39% 43% 49% 47% 43% 45% 55%
+2008/09 2009/10 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 Future
+General Fund ($M) 201$        120$        175$        168$      $166 $232 $322 $406 $316 $303 $281 $283 $165 $153 $95
+# of agencies 132 62 77 72 88 94 104 104 128 132 70 72 38 38 50
+% of local funding 27% 16% 28% 25% 19% 24% 29% 33% 30% 25% 21% 20% 40% 39% 14%
+% of total funding 7% 4% 8% 8% 7% 9% 14% 16% 15% 11% 8% 8% 19% 18% 5%
+2008/09 2009/10 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 Future
+Sales Tax ($M) 285$        258$        256$        279$      $374 $455 $364 $475 $500 $663 $420 $550 $173 $153 $358
+% of local funding 38% 35% 41% 42% 43% 48% 32% 39% 47% 55% 31% 38% 42% 39% 52%
+% of total funding 10% 10% 12% 13% 17% 18% 16% 19% 23% 24% 12% 15% 20% 18% 18%
+2008/09 2009/10 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 Future
+Preventive Maint. 394$      375$      273$      273$      333$      367$      373$      378$      479$      551$      514$      561$       362$       326$       798$       
+Rehabilitation & Reconst. 1,224 $   1,400 $   817$      794$      1,132 $   1,208 $   1,178 $   1,194 $   1,154 $   1,429 $   1,238 $   1,456 $    1,176 $    1,190 $    2,202 $    
+Other 200$      172$      84$        82$        104$      109$      194$      167$      293$      332$      315$      339$       117$       181$       247$       
+Operations & Maint. 573$      543$      383$      381$      578$      615$      619$      631$      527$      563$      566$      574$       718$       684$       859$       
+Totals 2,391 $   2,490 $   1,557 $   1,530 $   2,147 $   2,299 $   2,364 $   2,370 $   2,453 $   2,875 $   2,633 $   2,930 $    2,373 $    2,381 $    4,106 $    
+=== page 59 ===
+California Statewide Local Streets and Roads Needs Assessment 51 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2 Pavement Expenditures  
+The survey also asked for a breakdown of pavement expenditures in 4 categories:  
+• Preventive maintenance such as slurry seals;  
+• Rehabilitation and reconstruction such as overlays;  
+• Other pavement -related activities such as curbs and gutters; and  
+• Operations and  maintenance  such as filling potholes, sealing cracks , and street sweeping.  
+Table 4.5 (on previous page)  shows the breakdown in extrapolated pavement expenditures for cities and 
+counties. The decrease in  expenditures reported in 2010/2011 reflect s the rece ssion. However, since 
+2012/13, expenditures have increased and now exceed 2008 levels.  Pavement  expenditures  decreased 
+approximately 19% from FY 2020/21 and FY 2021/22  because of COVID . With COVID’s impacts largely 
+mitigated , it  is estimated  that annual expenditures will increase to over $4.1  billion in the future . 
+Figure 4.2 illustrates trends in pavement expenditures. Rehabilitation and reconstruction  consistently  
+account for approximately  50 percent  of expenditures . Preventive maintenance expenditure  has grown 
+to 20 percent , indicat ing  that many agencies are  cognizant of the need to preserve pavements. 
+Operations and maintenance expenditures have decreased  to a little under 20 percent.  
+ 
+Figure  4.2 Trends in Pavement Expenditures  
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Percent of Total Pavement Expenditures
+Rehab & Recon Opns & Maint Prev Maint Other
+=== page 60 ===
+California Statewide Local Streets and Roads Needs Assessment 52 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+Finally, projected pavement expenditures for the next 10 years are shown in Table 4.6. As expected, 
+rural counties predict  lower expenditures than  cities  and urban counties . Similarly, rural agencies 
+predict  lower expenditures than  urban agencies.  However, pavement expenditures have increased in all 
+categories since  2020. 
+Table 4.6 Projected Pavement Expenditures Per Lane Mile  
+  
+Pavement Expenditures 
+($/lane mile) 
+Rural Urban 
+County $8,116 $21,246 
+City $12,915 $12,521 
+The total pavement expenditures for all 5 39 cities and counties were estimated to be $ 3.3 57 billion 
+annually . To put this funding in perspective, $ 3.3 57 billion/year is approximately 1.3 percen t of the  total 
+investment in the pavement network, the value of which is estimated to be  $253  billion.  
+However, our observations of the predicted versus  actual expenditures revealed an interesting trend, 
+as illustrated in Figure 4.3. Generally, local agencies were spending 10 to 2 0 percent more  (green  line) 
+than estimated  (blue  line)  prior to the passage of SB 1 . From discussions with some respondents, it  
+appear ed that the estimated  expenditures were conservative and reflect ed a reluctance to rely on 
+federal and state grants/sources in the future as well as the inability to predict how the economy will 
+perform  (as sales tax is a key funding source.)  
+In 2018 this trend changed . In  both 2018 and 2019, actual 
+expenditures were LESS than estimated. In 2018, this may 
+have been attributable to uncertain ty caused by  the 
+potential repeal of SB 1 , which may have led to more 
+conservative expenditures.  Moreover, it took several 
+months for SB 1 funding to fully phase -in (first allocation s 
+were received halfway through the 2017 /18 fiscal year ). In 
+2019, actual pavement expendit ures were $2.42 billion, still 
+less than expected.  
+During COVID, actual expenditures dropped dramatically, to approximately $1.8 billion , despite initial 
+estimate d expenditure s of $2.4 billion. With the recovery from COVID, survey respondents are 
+estimating future expenditures of $3.3 6 billion annually, a marked shift upwards. This is the funding 
+amount used for illustrative purposes in one of the pavement scenarios in Section 4.6 .  
+Cities and counties are 
+estimated to spend $3.36 
+billion on pavements  
+annually .  
+=== page 61 ===
+California Statewide Local Streets and Roads Needs Assessment 53 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.3 Diffe rences Between Predicted and Actual Expenditures  
+4.3 Impact of Electric and Hybrid Vehicles on the Gas Tax  
+The Road Repair and Accountability Act of 2017 15 (also known as SB  1) included not only an increase in 
+the per gallon excise tax (Gas Tax) with infla tion adjustments, but also a transportation improvement 
+fee to be paid as part of the vehicle licensing process and a zero -emission vehicle (ZEV) registration fee. 
+Note that ZEVs in this case include hybrid vehicles. SB  1 is expected to raise $7.4 billion in 2023 16. 
+California currently has the largest ZEV population in the nation and has experienced a steady increase 
+in ZEV sales over the last decade. In an effort to significantly reduce vehicle emissions, the California Air 
+Resources Board (CARB) formalized into policy the Advanced Clean Cars II Regulations in August 2022 17.  
+This policy expands on the already increasing popularity  of ZEVs  and requires annual increases in the 
+percentage s of new passenger cars, trucks, and SUVs sold in California that are  ZEVs, starting with 16% 
+ 
+15 https://leginfo.legislature.ca.gov/fa ces/billNavClient.xhtml?bill_id=201720180SB1  
+16https://lao.ca.gov/Transportation/FAQs#:~:text=updated%3A%20November%202022) -
+,How%20Does%20the%20State%20Spend%20Gasoline%20Tax%20Revenues%3F,for%20vehicles%20using%20
+public%20roads.  
+17 https://ww2.arb.ca.gov/ou r-work/programs/advanced -clean -cars -program/advanced -clean -cars -ii 
+
+=== page 62 ===
+California Statewide Local Streets and Roads Needs Assessment 54 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+in 2023 and culminating in 100% in 2035. California closed out 2022 ahead of schedule with nearly 19% 
+of new vehicle sales being ZEVs 18.  
+As vehicle fleets shift from conventional gas vehicles to ZEV and hybrid vehicles, eith er by choice or 
+mandate, state gas tax revenues are expected to decreas e significant ly throughout the country. For 
+example, Connecticut 19 estimates that their gas tax revenues fell by 4.2% between 2012 and 2021 due 
+primarily to vehicle electrification. Sim ilarly, West Virginia 19 estimates that their gas tax revenue will 
+fall 11 –20% by 2030 and 31 –50% by 2050  due to vehicle electrification. A 2022 stud y20 in Michigan 
+estimated that despite ZEVs representing only 6% of the new vehicle market, vehicle electrif ication 
+resulted in a funding deficit of $20.8 million in 2022. That funding deficit is expected to increase to over 
+$95 million per year by 2030. A 2020 study from the University of California , Berkeley used 2017 National 
+Household Travel Survey data from the US Department of Transportation to estimate that the 
+electrification of vehicles will result in an annual nationwide funding reduction of $250 million 21.  
+What can be done to backfill this expected decrease in funding? There are 3 main options that have 
+been discussed:  
+1) Increase the gas tax ; 
+2) Implement a special vehicle registration fee for ZEVs and hybrids ; and  
+3) Implement a vehicle mileage tax (road user charge) . 
+The first option  pres ents an unequitable solution as it places the funding burden on conventional gas 
+vehicle users and will result in a continual decline in funding as vehicle electrification increases.  
+The second option  is already being used by many states throughout the co untry. Thirty -one states have 
+a special registration fee for electric vehicles,  and  18 of  these 31  have different special registration fees 
+for hybrid vehicles 19. These fees typically range from $50 to $225 per year 22. As previously noted, a 
+special electr ic/hybrid vehicle registration fee was implemented in California as part of SB  1, and 
+currently , the ZEV registration fee is $108 per year 23. In contrast, at the current State gas tax rate of 
+$0.539 per gallon 16, a conventional gas vehicle traveling an ave rage of 12,500 miles per year with an 
+average gas economy of 24 mpg would pay $281 per year in gas taxes. Thus, ZEVs contribute 
+approximately one -third  of the amount that their gas vehicle counterparts contribute to infrastructure 
+funding.  
+Since vehicle e lectrification was expected to impact the revenue s raised by SB  1, Section 48 of SB  1 
+called for the University of California, Davis to evaluate the ZEV registration fee as a funding mechanism. 
+ 
+18 https://www.energy.ca.gov/data -reports/energy -almanac/zero -emission -vehicle -and -infrastructure -
+statistics/new -zev -sales  
+19 https://www.cpapracticeadvisor.com/2022/11/04/72837/72837/  
+20 The Impact of Electric Vehicle Adoption on Road Funding in Michigan (ande rsoneconomicgroup.com)  
+21 Should Electric Vehicle Drivers Pay a Mileage Tax?  
+https://www.journals.uchicago.edu/doi/epdf/10.1086/706793  
+22 https://www.ncsl.org/energy/special -fees -on-plug -in-hybrid -and -electric -vehicles  
+23 https://www.dmv.ca.gov/portal/vehicle -registration/registration -fees/  
+=== page 63 ===
+California Statewide Local Streets and Roads Needs Assessment 55 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+That 2018 study 24 estimated that improvements in fuel economy and the increasing adoption of ZEVs 
+would result in  approximately  $0.9 –1.3 billion decrease in funding annually by 2028.  This estimate is 
+likely low, considering the more ambitious schedule adopted by CARB in 20 22, 4 years after the UC Davis 
+study was published, and the fact that California is already 1 –2 years ahead of the CARB schedule 
+requirements. The study concluded that a special ZEV registration fee would not provide sustainable 
+infrastructure funding in t he long -term and recommended Option 3 (above)  as an alternative funding 
+mechanism .  
+NCE offers a  high -level  estimate based on the CARB 
+schedule adopted in 2022  and given the following 
+assumptions  (Table 4.7) . As previously noted, California 
+is already 1 –2 years ahead of the CARB schedule 
+requirements, indicating that annual loss in gas tax 
+revenue is greater than estimated  (Figure 4.4) . By 2035, 
+there may be a loss of as much as $1.5 billion a year in 
+gas tax revenue.  
+Table 4.7 Assumptions Used in Analyzing Impact of ZEVs  
+The Third option operates under a “user pays” principle, meaning that the more a user uses a service, the more 
+the user pays for it. If this option were adopted in lieu of the traditional gas tax, it would create greater equity in 
+taxation and generate a long-term stable funding source25. The primary drawback of this option is that program 
+administrative costs can be high24.  
+California performed a feasibility pilot study on implementing a road charge collection in respo nse to 
+2014 legislation (SB 1077). The study 26 involved maintaining over 5,000 participating vehicles over a 9-
+month period and evaluated 6 reporting and recording methods with various technology options. 
+Feasibility, security, ease, and user acceptability  were the primary variables considered. A revenue 
+neutral rate of 1.8 cents per mile was tested. The technologies tested worked to some degree and the 
+ 
+24 Assessing Alternatives to California’s Electric Vehicle Registration Fee (escholarship.org)  
+25 http://caroadcharge.com/about/faqs/  
+26 http://caroadcharge.com/about/faqs/  
+Factor Assumed 
+Value 
+Source 
+Average gas vehicle tax ($/yr) $281 See first paragraph of Option 2 discussion 
+Average ZEV registration fee ($/yr) $108 Registration Fees – California DMV 
+Number of light-duty vehicles in CA  29.1 million Light-Duty Vehicle Population in California 
+Number of ZEVs in CA 1.4 million New ZEV Sales in California 
+Average number of years between car 
+purchases 
+8 years Survey: Average length of car ownership in 
+America (thezebra.com) 
+Percent of car shoppers buying new vs. 
+used 
+26% Consumers 3 times more likely to buy used 
+cars over new (motortrader.com) 
+By 2035 there may be a 
+potential loss of as much as 
+$1.5 billion a year in gas tax 
+revenue s due to ZEVs .  
+=== page 64 ===
+California Statewide Local Streets and Roads Needs Assessment 56 
+April 2023 
+www.SaveCaliforniaStreets.org 
+Funding Analyses 
+study resulted in high participant satisfaction , but it did  not attract representative samples of  rural  
+participants , or participants of certain ethnicit ies /race s. A second pilot study was called for in 2021 27 
+(SB 3 39) to identify and evaluate issues related to the collection of revenue as part of  a road usage 
+charge program. Results from  this study are expected in 2023.  
+Figure 4.4 Estimated Loss of Gas Tax Over Time  
+The information provided for this report is informational only and is intended to alert the reader to the expected 
+future reduction in the gas tax. 
+4.4 Essential Components Revenue Sources  
+The revenue sources for essential components are shown in Table 4. 8. Again, federal funds make only a 
+small  contribution  (9 –15 percent)  to  the  cities  and  counties.  For  essential  component s,  unlike 
+pavements, local sources are expected to account for 47 percent of total funding, and state sources 
+(including SB 1) for 44 percent. Figure 4.5 identifies the different funding sources . 
+27 https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB339  
+
+=== page 65 ===
+California Statewide Local Streets and Roads Needs Assessment 57 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.5 Local Revenue Sources for Essential Components  
+4.5 Essential Components Expenditures  
+Expenditures on essential components increased to $1.8 billion/year in 2020 but are expected to be only 
+$1.6 billion /year  for the next 10 years  (see Table 4.9) . Combined, the funding for both pavements and 
+essential components is $1.16 billion MORE than it was prior to SB 1. So, although agencies are receiving 
+significantly more funding from SB 1, not all of it is available for pavements , and  some is spent on 
+essential components.  
+Table 4.9 details the expenditures by category. Storm drains and traffic sig nals continue to be the most 
+expensive components.  
+Average anticipated expenditures for essential components over the next 10 years are shown in Table 
+4.10. As before, rural counties and cities are expected to have lower expenditures than their urban 
+coun terparts. Total  expenditures  for all 539 cities and counties were estimated to be over $1.3 billion 
+annually.  
+ 
+ 
+
+=== page 66 ===
+California Statewide Local Streets and Roads Needs Assessment 58 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4.8 Funding Sources for Essential Components ($M)  
+ 
+Table 4.9 Breakdown of Expenditures for Essential Components  
+Essential Components Annual Expenditures ($M) % of 
+total 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 Future 
+Storm Drains $215 $233 $154 $158 $148 $107 $160 10% 
+*Manholes, Inlets, Culverts, Pump Stations $43 $50 $56 $61 $44 $35 $89 5% 
+Curb and Gutter $38 $50 $57 $62 $71 $97 $112 7% 
+Sidewalk (public) $101 $158 $102 $182 $99 $102 $145 9% 
+Other Pedestrian Facilities $18 $27 $26 $26 $7 $18 $13 1% 
+Class 1 Bicycle Path $29 $56 $29 $31 $96 $67 $93 6% 
+Other Bicycle Facilities $17 $29 $6 $55 $6 $5 $33 2% 
+Curb Ramps $50 $67 $54 $58 $87 $79 $93 6% 
+Traffic Signals $223 $247 $209 $276 $277 $248 $320 20% 
+Streetlights $188 $224 $69 $105 $77 $76 $79 5% 
+Sound/Retaining Walls $10 $8 $10 $17 $70 $63 $22 1% 
+Traffic Signs $54 $55 $51 $51 $68 $62 $71 4% 
+Tunnels $4 $4 $8 $0 $0 $1 $2 0% 
+Other physical assets or expenditures $88 $90 $172 $232 $176 $189 $208 13% 
+*Bicycle facilities: Class II bicycle lane     $20 $20 $31 $29 $48 3% 
+*Bicycle facilities: Class III bicycle 
+routes/sharrow     $3 $7 $9 $15 $26 2% 
+*Bicycle facilities: Class IV protected bike lanes     $3 $5 $24 $17 $22 1% 
+*Pedestrian paths     $3 $3 $3 $24 $3 0% 
+*Multi-use paths     $8 $20 $9 $17 $39 2% 
+Funding type 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 Future
+Funding Available ($M) $885 $903 $1,204 $1,332 $1,111 $1,184 $1,459 $1,603 $1,597 $1,888 $1,549 $1,712 $1,636
+Federal 16% 16% 12% 12% 12% 17% 9% 12% 11% 15% 9% 13% 9%
+State 31% 31% 28% 23% 18% 17% 17% 18% 26% 27% 26% 27% 30%
+Local 53% 53% 60% 65% 70% 66% 74% 70% 55% 51% 55% 47% 47%
+SB1/RMRA 0% 0% 8% 7% 10% 13% 14%
+=== page 67 ===
+California Statewide Local Streets and Roads Needs Assessment 59 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+Essential Components Annual Expenditures ($M) % of 
+total 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 Future 
+*Crossing Improvements e.g. high-visibility 
+crossings, rapid flashing beacons, roundabouts, 
+scrambles, bulb-outs, pedestrian refuge islands, 
+etc. 
+    $19 $23 $30 $56 $46 3% 
+*Transit amenities e.g. benches, shelters, real-
+time arrival signage, wayfinding signage     $4 $13 $6 $8 $11 1% 
+Totals $1,078 $1,300 $1,108 $1,437 $1,339 $1,317 $1,635 100% 
+*New items added from 2020 survey         
+ 
+Table 4.10 Breakdown of Expenditures  on Essential Components  by Agency ($/Lane Mile)  
+Agency Category Expenditures  
+Rural  Urban  
+County   $2,958   $10,454  
+City  $3,692   $6,145  
+ 
+=== page 68 ===
+California Statewide Local Streets and Roads Needs Assessment 60 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+4.6 Funding Shortfalls  
+One of the primary objectives of this study was to determine whether a funding shortfall exists for the 
+next 10 years, and if so, the amount of that shortfall. Chapters 2 and 3 described the analysis used to 
+determine the funding needs for both the pavemen t and essential components, respectively , and  the  
+preceding sections analyzed the revenues and expenditures as well.   
+Table 4.11 summarizes the results of all the preceding analyses and the associated  $70 billion funding 
+shortfall for pavements and essenti al components. An additional shortfall of $3 .2 billion was estimated 
+for additional regulatory requirements (e.g., NPDES, ADA , and sign retroreflectivity; see Table 2.7). 
+However, those numbers were not included in Table 4.11 because only half of the agenc ies provided  
+data, and half of those that provided data  indicated that they were “informed estimates” or “guesses” 
+at best.  
+Table 4.11 Summary of 10 -Year Needs & Shortfall ( 2022 $ Billion)  
+ 
+The funding shortfall identified in the 2020 study  was $ 59.7  billion, so the shortfall has increase d by  
+$10.3 billion . The increase in needs is due to the increases in paving costs described in Section 2.1.3 and  
+may also be partly an unanticipated consequence of SB 1 . In essence, SB 1  added $5 billion to 
+construction funding , but  this was not necessarily matched w ith increases in contractor capacity . The 
+potential repeal in  of SB 1 in  2018 may have discouraged contractors from adding capacity. However, as 
+the market ad justs, we anticipate a more stable cost structure in the future.  
+4.7 Pavement Funding Scenarios  
+California, together with the rest of the nation, faced severe economic challenges during the recession 
+that began in 2008, with reductions in revenues, multi -billion -dollar deficits , and high unemployment. 
+While economic growth and tax increases have helped stabilize state and local revenues for many 
+programs, transportation funding lagged  for many years .  
+After 10 years of working with policymakers, and providing the results 
+of the statewide needs studies , the Governor signed SB 1  into law  in 
+2017 , making m ore than $5 billion per  year available for transportation. 
+Of that, cities and counties rece ive approximately $1.5 billion annually  
+for streets and roads . The funding scenarios analyzed below  illustrate 
+the benefi ts of this additional funding.   
+In addition, cities and counties have continued to stretch every existing dollar. One factor in the 20 18 
+analysis was the inclusion of  sustainable technologies such as cold -in-place recycling and full -depth 
+reclamation. These saved more than  25 percent rel ative to  conventional treatments and have been 
+included in all the scenario s for 202 2.  
+The shortfall for 
+local streets and 
+roads  is $70 billion . 
+=== page 69 ===
+California Statewide Local Streets and Roads Needs Assessment 61 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+The funding scenarios analyzed were:  
+1) Existing funding  with SB 1 , estimated at $ 3.36 billion/year;  
+2) Funding  sufficient  to maintain current pavement condition at PCI=6 5; and 
+3) Funding to achieve best management practices (BMP).  
+Note that an estimated $510  million of SB 1  fund s will be spent of  paving, and  the remain der  will be  
+allocated to essential components  and  operations and maintenance.   
+As noted in Chapter 1, an analysis period of 10 years was selected, not just for consistency with the 
+SHOPP, but also because this is a reasonable time frame  to accomplish the BMP goal. Even if local 
+agencies received $37.6  billion  to erase the 10 -year pave ment shortfall today, it would not be possible 
+to build or construct this substantial number  of projects in 1, 2, or even 5 year s. Few, if any, agencies 
+have the resources to deliver  this amount  of work in such a short time, and the contracting community 
+is also unlikely to have enough  resources available . In discussions with the Oversight Committee, a 10 -
+year timeframe was deemed to be reasonable and practical.  
+Scenario 1: Existing Funding with SB 1 ($3.36 billion/year)  
+In this scenario, the most cost -effective treatments , typically preventive maintenance,  or preservation  
+strategies,  would be funded first . This type of approach optimizes the use of limited funds by treating a 
+larger percentage of  the pavement network . With  the existing $ 3.36 billion/year  in fu nding , this w ould  
+result in a slow decrease in pavement condition to 63 in year 10,  and an increase in the unfunded backlog  
+to $ 53 billion . Figure 4. 6 illustrates these trends.  
+Note that this scenario does not consider the impact of ZEVs, which are  estimated to reduce gas taxes 
+by up to  $1.5 billion annually by 2035  (see Section 4.3) .  
+Scenario 2: Funding Sufficient to Maintain PCI at 65  ($3.76 billion /year ) 
+In this scenario, app roximately $3.76 bi llion/year  would be used  to maintain the PCI at its current level 
+of 65 . This would increase the  unfunded backlog  to $49.1 billion . Figure 4. 7 illustrates these trends.  
+Scenario 3: Funding to Achieve Best Management Practices 
+(BMP)  ($8.54  billion/year)  
+In this scenario, $ 8.54  billion/year would be  required  to reach 
+a pavement condition where BMPs  can be  applied , (87 in this 
+case  see Figure 4. 8). In addition, the unfunded backlog would 
+be eliminated by 203 2. Once the backlog is eliminated, the 
+cost of ongoing maintenance would decrease  significantly, 
+requiring only $3.28  billion a year.  This is essentially the 
+same as the existing level of funding.  
+Once the backlog has been 
+eliminated, $3 .28 
+billion/year will be  
+required to maintain the 
+network at BMP levels.  
+=== page 70 ===
+California Statewide Local Streets and Roads Needs Assessment 62 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure  4.6 Results of Scenario 1: Existing Budget  ($3. 36 Billion/ year)  
+ 
+Figure  4.7 Results of Scenario 2 : Maintain PCI at 6 5 ($3.76 Billion/year)  
+
+=== page 71 ===
+California Statewide Local Streets and Roads Needs Assessment 63 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.8 Results of Scenario 3 : BMP ($8.54 Billion/year ) 
+4.8 Other Performance Measures  
+Although both PCI and t he unfunded backlog are common performance measure s for cities and counties,  
+others may be used. One such measure is the percentage of pavement area in different condition 
+categories . Table 4.12 illustrates the breakdown  of pavement area  in each condition category  for each 
+funding scenario.  
+The most obvious outcome  based on these measures is that  with the existing budget, the percentage of 
+pavements in good condition will increase to 60.6  percent, and the percentage of pavements in poor 
+condition will  decrease to 21 percent. Figure 4. 9 show s examples o f local streets  in poor condition . 
+Table 4.12 Breakdown of Pavements by Condition Category for Each Scenario  (20 32) 
+Condition Category 
+Current 
+Breakdown 
+(2022) 
+Scenario 1 
+Existing 
+Budget  
+($3.36 
+B/yr) 
+Scenario 2 
+Maintain 
+PCI 
+($3.76 
+B/yr) 
+Scenario 3 
+ BMP in 10 
+Years 
+($8.54 
+B/yr)  
+PCI 70-100 (Good to Excellent) 55.1% 60.6% 66.0% 100.0% 
+PCI 50-69 (Fair/At Risk) 21.9% 18.4% 13.9% 0.0% 
+PCI 0-49 (Poor) 23.0% 21.0% 20.1% 0.0% 
+ 
+
+=== page 72 ===
+California Statewide Local Streets and Roads Needs Assessment 64 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.9 Examples of Streets  in Poor Condition  
+4.9 How Did We Get Here?  
+For those who do not work with transportation issues every day, it can be difficult to understand how 
+California’s cities and counties have reached this situation. The factors that have led us here can be 
+summarized  as: 
+• The population of California was app roximately 30 million in 1990; it is now a lmost 40 million, 
+an increase of 3 3 percent. Attendant with that increase in population are increases in traffic, 
+housing,  and new roads.  
+• There are many new regulations that have increased the responsibilities of c ities and counties, 
+including  ADA, NPDES , and new traffic sign retroreflectivity standards.  
+• California has statewide goals to reduce reliance on driving and increase opportunities for active 
+transportation. Communities value complete streets and active transportation policies, but these 
+improvements can significantly increase construction cost s. 
+• Cities and counties need to consider, build , and maintain a transportation system that includes 
+multiple transportation modes ; e.g. , bicycles, pedestrians , trucks , and buses.  
+• The cost of road repairs and construction has increased at rates that are significantly higher than 
+that of inflation. In the last 15 years, paving costs have increased much more than revenues.  
+These increases can be attributed to risi ng costs of petroleum products  (directly correlated to 
+asphalt costs ), labor , and equipment.  
+• The State Gas Tax  did not increase for more than  20 years despite that it is the single most 
+important funding source for transportation. Cities and counties have relied on a diminishing 
+revenue source for a transportation system that is aging and deteriorating rapidly . SB 1  provides 
+the first  significant infusion of new funding in man y years . 
+• The increased fuel economy of vehicles and  the popularity of hybrid and electric vehicles has led  
+to decreasing gas consumption, and, in turn, a reduction in gas tax  revenue .  
+
+=== page 73 ===
+California Statewide Local Streets and Roads Needs Assessment 65 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Funding Analyses 
+ 
+ 
+ 
+ 
+ 
+ 
+4.10 Summary  
+Based on the survey results and the projections from the f unding scenarios : 
+• Total expenditures  for pavements are  projected to be $3.36  billion annually over the next 10 
+years. Of this, 58 percent is expected to come from state sources  (almost entirely gas tax  and SB 
+1), 7 percent from federal sources, and the remainder from local sources (mostly sales tax).  This 
+does not account for any potential reduction in gas tax  revenue  from ZEVs.  
+• Total expenditures for essential components are  projected to grow to $1. 6 billion annual ly.  Forty -
+eight percent  of the  funding is expected to come from local sources , and 44 percent is expected 
+to come from state sources.   
+• With SB 1 , the total funding shortfall for pavements and essential components is expected to be 
+$69.7 billion over the ne xt 10 years .  
+• If funding remains at its existing level ($3.36  billion/year)  (Scenario 1) , the PCI will decrease from 
+65 to 63 and the unfunded backlog will increase to $5 3 billion.  In addition,  21 percent  of the 
+pavement network will be in “ failed”  condition by 20 32.  
+• To maintain the existing pavement condition (Scenario 2),  $3. 76 billion/year  would be required . 
+This would dramatically increase the amount  of pavement in the “good to excellent” category 
+from 55  percent  to 66 percent .  
+• The BMP  scenari o woul d require approximately $ 8.54  billion annually to eliminate the backlog 
+of work and raise the statewide average PCI to the mid -80s . Once the BMP goal has been reached, 
+it would require $ 3.28  billion/year to maintain  the condition of the pavement network.  
+ 
+=== page 74 ===
+California Statewide Local Streets and Roads Needs Assessment 66 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Bridge Needs & Funding Analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+5 Bridge Needs & Funding Analysis 28 
+Bridges are an integral part of the transportation system, and therefore this study would be incomplete 
+without a discussion of their needs. The catastrophic nature of a bridge failure is exemplified by the 
+collapse of th e I-35W bridge in Minneapolis during rush hour in August 2007. Thirteen people were killed 
+and 145 injured. Failures in local bridges can also have significant consequences. Many rural bridges 
+provide the only access to homes and communities, and , if a bri dge collapses, access to help is limited 
+or not available. In other cases, detours of more than 4 hours may be necessary.  
+Addressing bridge investment needs is both a local and 
+national challenge. In its report Bridging the Gap , the 
+American Association of  State Highway and Transportation 
+Officials (AASHTO) describes age and deterioration as the 
+first of 5 top problems facing the nation’s bridge 
+population 29. Other problems include congestion, increased 
+construction costs, maintaining safety, and addressing new 
+bridge needs. The Federal Highway Administration (FHWA) 
+estimate d that the national backlog of need ed bridge 
+investment was  $121 billion in 201 2, and that a national 
+investment level of $1 1.9  billion was needed to keep the 
+backlog from risin g. This figure  does not include addressing 
+congestion or other new bridge needs 30. California’s bridge 
+population is one of the largest in the country, and California bridge conditions have a significant bearing 
+on any national -level analyses.  
+Although a c ompelling case can be made for investing  in California’s local bridges, local budgets are 
+tightly constrained, there is significant uncertainty about future funding, and there are many competing 
+needs for available funds. Thus, bridge owners, taxpayers, an d legislators need the most accurate 
+information available to make the best decisions about how to allocate scarce resources.  
+For the 20 20 update, Quincy Engineering and Spy Pond Partners prepared a companion report  to analyz e 
+both bridge needs and funding  scenarios. This chapter summarizes  their findings  and has not been 
+updated for 2022 and  does not reflect funding changes from IIJA.  
+As with previous updates , 2 bridge inventory data sets were used for this study. First is the 2019 National 
+Bridge Inventory (NBI)  database . Caltrans  collects data on behalf of local agencies on a biennial basis 
+and provides this data to the FHW A to be included in the NBI database. Second  is local agency bridge 
+inventory data that are gathered from the Statewide survey on short (less than 20 feet in length) and 
+non -vehicular bridges  (these  are excluded from the NBI database ). 
+ 
+28 Results presented are from the 2020 update.  
+29 AASHTO. 2008 . Bridging the Gap: Restoring and Rebuilding the Nation’s Bridges.  
+30 FHWA . 201 3 Status of the Nation’s Highways, Bridges, and Transit: Conditions & Performance . Report to the United States 
+Congress.  http://www.fhwa.dot.gov/policy/2013cpr/pdfs.cfm . 
+
+=== page 75 ===
+California Statewide Local Streets and Roads Needs Assessment 67 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Bridge Needs & Funding Analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+A total of 12, 339 bridges are owned, maintained, and operated by cities, counties, and other 
+municipalities , and  they comprise approximately 48 percent of the 25, 499 vehicular  bridges  in California. 
+Bridges owned by o ther s (e.g.,  State, Bay Area Rapid Transit, private, railroad , and federal bridges ) are  
+not considered local agency bridges and were not included in this study.  
+Figure 5.1 illustrates  local bridge count by county. Most 
+counties (including city bridges within th e county) contain 
+several  hundred bridges  (approximately 200 per county ). In 
+general, the counties with larger populations have a 
+significantly higher number of bridges than those with  lower 
+populations . Los Angeles County has the most locally owned 
+bridge s (over 1,400 ). 
+Figure 5.2 illustrates the age distribution of all local bridges  
+statewide . Even with routine investment, every bridge eventually reaches the end of its useful structural 
+lifespan.  Modern bridges are designed with a 75 -year service life in mind , and 75 to 100 years is a 
+reasonable  service life  for a typical local -agency bridge.   
+California’s local bridges hav e an average age of 53.4  
+years , while the national average is only 44 years.  There 
+are 2,332 local bridges (18.8 percent) that are at least 
+80 years old.  Nearly half of  the state’s local bridges (46  
+percent ) were constructed between  the mid -1950s and 
+the m id-1970s and  are currently between 40 and 70 
+years old.  During this building boom, an average of 230 
+local bridges were being constructed every year.  
+Through the past decade, the number of major local 
+bridge projects completed in any given year has been le ss than 50.   
+To prevent the local bridge inventory from further advancing in age would require a replacement rate 
+greater than 6 times the current rate, i.e. approximately 250 bridges per year.  At the current 
+replacement rate, California’s local bridges wi ll need to be in service more than  200 years  each , or nearly 
+3 times the current intended lifespan . 
+As bridges age, the need for rehabilitation or replacement 
+becomes greater. As with streets and roads, it is more cost -
+effective to maintain bridges in good condition than it is to 
+allow them  to deteriorate rapidly  and  thus  require 
+replacement sooner.  
+ 
+12,339  local bridges  
+represent 48  percent  of 
+the bridges  in California . 
+At current funding levels, local 
+bridges will need to be in 
+service for more than 200 
+years, or 3 times their 
+intended lifespan.  
+The average age is more 
+than 53 years old, and 
+more than half are in fair 
+to poor condition.  
+=== page 76 ===
+California Statewide Local Streets and Roads Needs Assessment 68 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Bridge Needs & Funding Analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figure 5.1 Number of Local Bridges by County (includes Cities within County)  
+ 
+ 
+Figure 5.2 Local Bridge Age Distribution  
+ 
+The total needs for work activities such as bridge replacement, major rehabilitation, scour mitigation, 
+seismic retrofit, and structure widening were estimated based on bridge conditions, calculated load 
+ratings, traffic volumes and width capacities, scour  vulnerabilities, and seismic retrofit status  for the 
+entire local bridge inventory.  The 2020  bridge need s are  estimated to be $7.2 billion (Figure 5.3) , not 
+including the cost of future maintenance and replacement of structures that are currently in suffi cient 
+condition.  Completing this amount of work at the current level of investment would take more than 25 
+years, even with no additional projects.  
+
+=== page 77 ===
+California Statewide Local Streets and Roads Needs Assessment 69 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Bridge Needs & Funding Analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5.3 Local Bridge Needs Summary (2020)  
+Federal fundi ng, administered by Caltrans  through the Highway Bridge Program , has traditionally been 
+the primary funding source for local bridges . This funding has been stagnant at approximately $290 
+million annually for the past 10 years. At this investment, more than 50 percent of bridges will be in 
+poor condition within the next 20 years. Between $700 to $800 million in funding annually over the  next 
+10 years will  be required to simply prevent the number of bridges in poor condition from increasing 
+(Figure 5.4).  
+In summary, the needs of California’s local bridge population are significant and are increasing as the 
+inventory ages. The cost s of bridge projects ha ve increased over time, beyond inflation, due to an 
+increase in project complex ity based on design features, 
+traffic widths, modern traffic loads, environmental 
+regulations and permitting, and other project 
+requirements.  The result is that bridge construction 
+projects cost considerably more today than they did at the 
+time of their original construction . In addition , bridge 
+replacement and major rehabilitation projects are not 
+keeping pace with bridges reaching the end of their 
+expected service lives. Maintenance needs within the 
+aging bridge population are also increasing. At a minimu m, 
+it is estimated that the current level of investment in local 
+bridges must  double to maintain California’s local bridges in their current  condition . Significantly more 
+Local bridge needs are $7.2 
+billion but funding is only 
+$2.9 billion.  
+An annual funding level of 
+$800 million is needed just to 
+maintain current conditions.  
+=== page 78 ===
+California Statewide Local Streets and Roads Needs Assessment 70 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Bridge Needs & Funding Analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+investment is required to improve the general condition of the population and address the  aging bridges 
+originally constructed during the highway building boom period.   
+ 
+ 
+  
+Figure 5.4 Percent of Bridges in Poo r Condition by Annual Budget  
+=== page 79 ===
+California Statewide Local Streets and Roads Needs Assessment 71 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Summary and Conclusions 
+ 
+ 
+ 
+ 
+ 
+ 
+6 Summary and Conclusions  
+SB 1  funding made a difference in the condition of California pavements and slowed the decline of the 
+local street and road network . However, it is too soon to conclude that the deterioration of the last 1 4 
+years has  been arrested permanently.  
+As this report shows, while pavement conditions did stabilize , other factors have come into play:  
+1. The 2018 study assumed that $ 3.083  billion /year would be spent on pavements. However, the 
+data indicated that this was not the case ; instead, average annual expenditures were $2.2 billion. 
+In 2018/19, the potential repeal of SB 1  may have led to  agencies hesitating to commit all of their 
+SB 1  funding to paving. However, the funding for essential  components increased by an average 
+of $390 million in the same 2 years .  
+In addition,  COVID played a significant role in reducing pavement expenditures  for both 2020/21 
+and 2021/22 to just over $1.67 billion a year (a decrease of over $700 million ). 
+We can conclude that more SB 1  funding was spent on essential components than was originally 
+estimated. Both uncertainty from the measure to repeal SB 1 and  COVID  resulted in l ower  
+pavement expenditure than  was  estimated in 2018.  
+2. The pavement expenditures for the next 10 years are predicted to recover to $3.36 billion . It 
+would appear that as cities and counties are expecting to “catch up” with paving as we e merge 
+from the pandemic, f unding for essential components is estimated to remain essentially stable 
+at $1.6 billion a year.  
+3. Finally, c onstruction costs for paving continue to increase, between  4 and 7 percent  annually . 
+With the higher inflation experienced in 2022, this may continue for the foreseeable future .  
+Table 6.1 summarizes the 10-year needs and shortfalls  for pavements,  essential components , and 
+bridges . The total funding needs over the next 10 years are  $127.2  billion, and the resulting  shortfall s 
+are  $47.4 billion for pavements, $2 2.6 billion for essential components , and $ 4.3 billion for bridges. 
+The total shortfall is $ 74.3 billion over the next 10 years.  
+Table 6.1 Summary of 10 -Year Needs and Shortfall Calculations (20 22 $ Billion)  
+ 
+  
+2008 2010 2012 2014 2016 2018 2020 Needs Funding Shortfall
+Pavement 67.6 $    70.5 $    72.4 $    72.7 $    70.0 $    61.7 $    76.0 $    81.0 $    33.6 $    (47.4) $   
+Essential Components 32.1 $    29.0 $    30.5 $    31.0 $    32.1 $    34.1 $    35.5 $    27.8 $    
+Active Transportation 11.2 $    
+Bridges 3.3 $      4.3 $      4.3 $      4.6 $      5.5 $      7.2 $      7.2 $      2.9 $      (4.3) $     
+Totals 99.7 $    102.8$  107.2 $  108.0 $  106.7 $  101.3 $  118.7 $  127.2 $  52.9 $    (74.3) $   
+Transportation Asset 2022 ($B)Needs ($B)
+16.4 $    (22.6) $   
+=== page 80 ===
+California Statewide Local Streets and Roads Needs Assessment 72 
+April 2023 
+ 
+ www.SaveCaliforniaStreets.org 
+ 
+Summary and Conclusions 
+ 
+ 
+ 
+ 
+ 
+ 
+For pavements, the annual funding of $ 3.36  billion a year, will result in a slight decrease in  the PCI from 
+65 to 63 and a n unfunded backlog of $ 53 billion by 203 2. In addition, almo st 61 percent of the network 
+will be in good condition, and the percentage of streets in poor/failed condition will drop slightly to 21 
+percent  (Table 6.2).  
+Table 6.2 Summary of Funding Analysis  
+ 
+To bring the transportation network to a level where BMPs  can occur would  require more than twice 
+the existing level of funding. For pavements, that would  require $8.54  billion per  year  for 10 years . 
+However, once this has been achieved, it would  require  only  $3.28  billion  annually  to maintain the 
+pavement network.  
+Essential components will require $2 2.6 billion to address the 10-year  needs, and bridges will require 
+$4.3 billion , for a total of $ 74.3 billion.  
+ 
+
+=== page 81 ===
+California Statewide Local Streets and Roads Needs Assessment  
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Appendix A 
+List of Fiscal Sponsors 
+=== page 82 ===
+California Statewide Local Streets and Roads Needs Assessment A-1 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+FISCAL SPONSORS 
+COUNTIES 
+Alameda Placer  
+Alpine  Plumas  
+Amador  Riverside  
+Butte  Sacramento  
+Calaveras  San Benito  
+Colusa  San Bernardino  
+Contra Costa  San Diego  
+Del Norte  San Francisco 
+El Dorado  San Joaquin  
+Fresno  San Luis Obispo  
+Glenn  San Mateo  
+Humboldt  Santa Barbara  
+Imperial  Santa Clara  
+Inyo  Santa Cruz  
+Kern  Shasta  
+Kings  Sierra  
+Lake  Siskiyou  
+Los Angeles  Solano  
+Madera  Sonoma  
+Marin  Stanislaus  
+Mariposa  Sutter  
+Mendocino  Tehama  
+Merced  Trinity  
+Modoc  Tulare  
+Mono  Tuolumne  
+Monterey  Ventura  
+Napa  Yolo  
+Nevada  Yuba  
+Orange    
+ 
+  
+=== page 83 ===
+California Statewide Local Streets and Roads Needs Assessment A-2 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+FISCAL SPONSORS 
+CITIES 
+Agoura Hills Calabasas Davis 
+Alameda Calexico Del Mar 
+Albany Calipatria Del Rey Oaks 
+Alhambra Calistoga Delano 
+Aliso Viejo Canyon Lake Dinuba 
+Anderson Capitola Dorris 
+Antioch Carlsbad Downey 
+Arcadia Carmel-by-the-Sea Dublin 
+Arroyo Grande Carson Dunsmuir 
+Atascadero Chico El Centro 
+Atwater Chino El Cerrito 
+Auburn Chino Hills El Segundo 
+Avenal Chowchilla Elk Grove 
+Azusa Citrus Heights Escalon 
+Bakersfield Clearlake Eureka 
+Baldwin Park Clovis Fairfax 
+Banning Coachella Fairfield 
+Beaumont Coalinga Farmersville 
+Bell Colfax Fillmore 
+Bell Gardens Colma Folsom 
+Bellflower Colton Fontana 
+Belmont Colusa Fort Bragg 
+Belvedere Commerce Fountain Valley 
+Benicia Compton Fremont 
+Berkeley Concord Fresno 
+Beverly Hills Corcoran Galt 
+Big Bear Lake Corning Garden Grove 
+Bishop Corona Gardena 
+Blue Lake Coronado Gilroy 
+Blythe Corte Madera Glendale 
+Brea Costa Mesa Glendora 
+Brentwood Cotati Goleta 
+Brisbane Covina Gonzales 
+Buena Park Culver City Greenfield 
+Burbank Dana Point Gustine 
+Burlingame Danville Hanford 
+ 
+=== page 84 ===
+California Statewide Local Streets and Roads Needs Assessment A-3 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+FISCAL SPONSORS 
+CITIES 
+Hayward Larkspur Morgan Hill 
+Healdsburg Lathrop Morro Bay 
+Hercules Lemon Grove Mountain View 
+Hermosa Beach Lincoln Mt. Shasta 
+Hesperia Lindsay Napa 
+Hidden Hills Live Oak National City 
+Highland Livingston Needles 
+Hillsborough Lodi Newark 
+Hollister Lompoc Newport Beach 
+Huntington Beach Long Beach Norwalk 
+Huntington Park Loomis Oakdale 
+Huron Los Altos Oakley 
+Imperial Los Altos Hills Ojai 
+Indian Wells Los Banos Ontario 
+Indio Los Gatos Orange Cove 
+Industry Madera Orinda 
+Inglewood Manhattan Beach Orland 
+Ione Manteca Oxnard 
+Irvine Maricopa Pacific Grove 
+Jackson Marina Pacifica 
+Kerman Martinez Palm Desert 
+King City Maywood Palm Springs 
+La Canada Flintridge McFarland Palmdale 
+La Mirada Mendota Palo Alto 
+La Palma Menifee Palos Verdes Estates 
+La Puente Menlo Park Patterson 
+La Quinta Mill Valley Perris 
+La Verne Mission Viejo Petaluma 
+Lafayette Modesto Piedmont 
+Laguna Beach Montclair Pinole 
+Laguna Hills Monte Sereno Pismo Beach 
+Lake Elsinore Montebello Pittsburg 
+Lake Forest Monterey Placerville 
+Lakeport Moorpark Pleasant Hill 
+Lakewood Moraga Plymouth 
+Lancaster Moreno Valley Pomona 
+ 
+=== page 85 ===
+California Statewide Local Streets and Roads Needs Assessment A-4 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+FISCAL SPONSORS 
+CITIES 
+Port Hueneme Sanger Trinidad 
+Portola Santa Ana Truckee 
+Portola Valley Santa Barbara Tulare 
+Rancho Cordova Santa Clarita Tustin 
+Rancho Cucamonga Santa Cruz Twentynine Palms 
+Rancho Mirage Santa Monica Ukiah 
+Redding Santa Rosa Upland 
+Redondo Beach Saratoga Vacaville 
+Redwood City Sausalito Ventura 
+Richmond Seal Beach Victorville 
+Rio Dell Seaside Villa Park 
+Rio Vista Selma Visalia 
+Ripon Shafter Walnut 
+Riverside Signal Hill Walnut Creek 
+Rocklin Simi Valley Wasco 
+Rohnert Park Solana Beach Waterford 
+Rosemead Soledad Watsonville 
+Ross Solvang Weed 
+Sacramento Sonoma West Covina 
+Salinas South Lake Tahoe West Hollywood 
+San Anselmo South Pasadena West Sacramento 
+San Bruno South San Francisco Westlake Village 
+San Carlos St. Helena Westminster 
+San Dimas Stockton Wheatland 
+San Gabriel Suisun City Whittier 
+San Jacinto Sunnyvale Wildomar 
+San Juan Bautista Susanville Williams 
+San Juan Capistrano Taft Willows 
+San Leandro Tehachapi Winters 
+San Marcos Temecula Woodland 
+San Mateo Temple City Yountville 
+San Pablo Thousand Oaks Yuba City 
+San Rafael Tiburon Yucaipa 
+San Ramon Torrance Yucca Valley 
+Sand City Tracy    
+=== page 86 ===
+California Statewide Local Streets and Roads Needs Assessment A-5 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+FISCAL SPONSORS 
+REGIONAL TRANSPORTATION PLANNING AGENCIES (RTPA) 
+Calaveras Council of Governments Nevada Co. Transportation Commission 
+Council of San Benito Co. Governments Placer Co. Transportation Planning Agency 
+Del Norte Local Transportation Commission Plumas Co. Transportation Commission 
+El Dorado Co. Transportation Commission Riverside Co. Transportation Commission 
+Fresno Council of Governments Sacramento Area Council of Governments 
+Glenn Co. Transportation Commission San Bernardino Associated Governments 
+Humboldt Co. Association of Governments San Diego Association of Governments 
+Imperial Co. Transportation Commission San Joaquin Council of Governments 
+Inyo Co. Local Transportation Commission Santa Barbara Co. Association of Governments 
+Kern Council of Governments Santa Cruz Co. Regional Transportation Commission 
+Kings Co. Association of Governments Shasta Regional Transportation Agency 
+Lake Co./City Area Planning Council Sierra Co. Transportation Commission 
+Los Angeles Co. Metropolitan Transportation 
+Authority Stanislaus Council of Governments 
+Madera Co. Transportation Commission Tahoe Regional Planning Agency 
+Mendocino Council of Governments Transportation Agency for Monterey Co. 
+Merced Co. Association of Governments Trinity Co. Transportation Commission 
+Metropolitan Transportation Commission Tulare Co. Association of Governments 
+Modoc Co. Transportation Commission Tuolumne Co. Transportation Council 
+ Ventura Co. Transportation Commission 
+ 
+=== page 87 ===
+California Statewide Local Streets and Roads Needs Assessment  
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Appendix B 
+Data Collection 
+=== page 88 ===
+California Statewide Local Streets and Roads Needs Assessment B-1 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+This appendix describes the data collection efforts for this update. The goal was to ensure participation 
+by all 58 Counties and 481 Cities.  
+B.1 Outreach Efforts 
+As with the previous studies, significant efforts were made to reach all 539 agencies i n March  – June  
+2022 . This included letters sent out by NCE on behalf of the League and CEAC/CSAC. The contact 
+database had over  2,000 contacts for all the cities and counties. This was compiled from a variety of 
+sources including contacts from the previous surveys in 20 20, the memberships of both CSAC and the 
+League, the email listserv for the Regional Transportation Agencies (RTPA) and NCE’s client contacts.  
+The contacts included Public Works staff (Directors of Public Works, City Engineers or engineers 
+responsible for pavement/asset management), Directors of Finance, City Managers, County 
+Administrative Officers, RTPAs (Regional Transportation Planning Agencies), and MP Os (Metropolitan 
+Planning Agencies).  
+Over  2,000 contact letters were mailed out in mid -March  2022 (see Exhibit B -1) with instructions on how 
+to access the online survey and a fact sheet explaining the project.  The deadline for responding to the 
+survey was May  13
+th , 202 2. 
+B.2 Project Website 
+The website at www.SaveCaliforniaStreets.org  (see Figure B.1) was originally designed and developed 
+for the 20 20 study. This was subsequently modified to accommodate the 20 22 survey. The intent of this 
+website was to act as both an information resource and as a rep ository of related reports that might be 
+of interest to cities and counties. More importantly, it was a portal to the online survey described in 
+Section B.3. CSAC currently hosts the website.  
+B.3 Online Survey Questionnaire  
+A survey questionnaire was prepared and finalized in early March  2022, and a blank e xample is included 
+in Exhibit B -1. Briefly, it included a request for the following information:  
+1) Contact name and information for both pavements and financial data  
+2) Streets and pavements data (including s ustainable pavements and complete streets)  
+3) Essential components (safety, traffic, and regulatory) data  
+4) Regulatory requirements  
+5) Funding and expenditure data  
+ 
+=== page 89 ===
+California Statewide Local Streets and Roads Needs Assessment B-2 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+Figure B.1 Home Page of www.SaveCaliforniaStreets.org  Website  
+  
+
+=== page 90 ===
+California Statewide Local Streets and Roads Needs Assessment B-3 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Like the previous studies, no hardcopy surveys were available to the 
+cities and counties, thus requiring all data entry to be made online. 
+The online survey made data aggregation much simpler and faster. 
+The custom database was updated for 20 22. 
+B.4 Results of Data Collection  
+A total o f 379  agencies ( 70 percent) responded to the survey, which 
+was a decr ease from 426  agencies in 2020 . This is still a respectable response considering that more 
+than two third s of agencies  responded. Combined with agencies who responded in previous years , the  
+responses  represented 99. 9 percent of the total centerline miles of local streets and roads in the state 
+(see Figure B.2).  
+ 
+Figure B.2 Responses to Survey (% centerline miles)  
+ 
+Only four 1 agencies have not responded to this or any previous survey; all have less than 100 centerline 
+miles, and all have populations less than 50,000 . 
+ 
+1 Cities of Orange Cove, Calipatria,  and Sonora. The City of Rolling Hills is not included since they do have any publicly 
+owned streets.  
+Data from 99.9% of 
+the state’s local 
+streets and roads are 
+included in this study.  
+=== page 91 ===
+California Statewide Local Streets and Roads Needs Assessment B-4 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Table B.1 illustrates the survey responses by type of data. The pavement data continues to have the 
+most responses ( 353 ), and overall, there is a decrease from 2020. Note tha t the cells with blanks 
+indicated that those data elements were not requested during the applicable survey years.  
+ 
+Table B.1 Number of Agencies Responding by Data Type  
+Data Type 2008 2010 2012 2014 2016 2018 2020 2022 
+Pavement data 314 344 273 371 454 484 426 353 
+Unit costs 50 260 211 177 187 225 173 148 
+Sustainable practices - - 280 269 428 472 412 339 
+Complete streets - - 269 250 421 469 405 341 
+Safety, Traffic & Regulatory 188 296 159 152 197 239 121 122 
+Bridges - - 177 - 400 - 352 - 
+Additional Regulatory Requirements - - 220 199 382 427 355 72 
+Financial 137 300 238 276 340 415 338 270 
+ 
+B.4.1  Are Data Representative?  
+Throughout the data collection phase, it was important to ensure that the data received were 
+representative in nature. This was critical for the analyses – as with the previous studies, the criterion 
+used was network size.  
+The distribution of responses with respect to network size is shown in Figure B.3. Small agencies are 
+those that have less than 100 centerline miles; medium between 101 to 300 miles, and large agencies 
+have more than 300 miles. Figure B.3 shows all the age ncies who responded in 2022 (blue ), those who 
+responded in previous surveys ( green ) and the ones who have never responded in red. Clearly, the bulk 
+of the agencies who did not respond had less than 100 miles of pavement network (small cities), but we 
+still had 257 responses in this category, so our confidence in the responses were validated.  
+An important point to note is that small agencies account for a very small percentage of the state’s 
+pavement network. There are 26 1 cities with less than 100 centerline miles of streets, and 162  cities 
+with less than 50 centerline miles of streets. However, they comprise only 8. 1 percent and 3.0  percent 
+of the total miles in the state, respectively. Their impact on the statewide needs is consequently 
+minimal.  
+ 
+=== page 92 ===
+California Statewide Local Streets and Roads Needs Assessment B-5 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+Figure B.3 Distribution of Agency Responses by Network Size (centerline miles)  
+B.4.2  PMS Software  
+The survey responses also indicated that 8 8 percent of the 
+responding agencies had a pavement management system (PMS) 
+in place (see Figure B.4). The StreetSaver ® (58 percent) and PAVER 
+(17 percent) software were the two main ones in the state. 
+StreetSaver ® was developed and supported by the Metropolitan 
+Transportation Commission (MTC) and PAVER is su pported by 
+Colorado State University  (CSU ). 
+ 
+  
+Due to the widespread 
+use of a PMS, the 
+quality of the 
+pavement data 
+received contributed 
+immensely to the 
+validity of this study’s 
+results.  
+=== page 93 ===
+California Statewide Local Streets and Roads Needs Assessment B-6 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+Figure B.4 PMS Software Used By Cities And Counties  
+What is more important is that approximately 9 8 percent of the total miles owned by cities and counties 
+are included in a pavement management system, which lead to a high confidence in the data submitted.  
+B.5 Summary  
+Overall, the number and quality of the survey responses received met the needs of this study. To o btain 
+data on more than 98 percent of the state’s local streets and roads network was a remarkable 
+achievement. That most agencies had a pavement  management system in place removed many obstacles 
+in the technical analyses. In particular, the consistency in the pavement conditions reported contributed 
+enormously to the validity of the study.  
+  
+
+=== page 94 ===
+California Statewide Local Streets and Roads Needs Assessment B-7 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Exhibit B -1 
+Contact Letter, Instructions for Online Survey, Fact Sheet & Survey Questionnaire  
+ 
+ 
+  
+=== page 95 ===
+California Statewide Local Streets and Roads Needs Assessment B-8 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 96 ===
+California Statewide Local Streets and Roads Needs Assessment B-9 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 97 ===
+California Statewide Local Streets and Roads Needs Assessment B-10 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 98 ===
+California Statewide Local Streets and Roads Needs Assessment B-11 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 99 ===
+California Statewide Local Streets and Roads Needs Assessment B-12 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+
+=== page 100 ===
+California Statewide Local Streets and Roads Needs Assessment B-13 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 101 ===
+California Statewide Local Streets and Roads Needs Assessment B-14 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+
+=== page 102 ===
+California Statewide Local Streets and Roads Needs Assessment B-15 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 103 ===
+California Statewide Local Streets and Roads Needs Assessment  B-16 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+
+=== page 104 ===
+California Statewide Local Streets and Roads Needs Assessment  B-17 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+
+=== page 105 ===
+California Statewide Local Streets and Roads Needs Assessment  B-18 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+
+=== page 106 ===
+California Statewide Local Streets and Roads Needs Assessment  B-19 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 107 ===
+California Statewide Local Streets and Roads Needs Assessment  B-20 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+
+=== page 108 ===
+California Statewide Local Streets and Roads Needs Assessment  B-21 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 109 ===
+California Statewide Local Streets and Roads Needs Assessment  B-22 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 110 ===
+California Statewide Local Streets and Roads Needs Assessment  B-23 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 111 ===
+California Statewide Local Streets and Roads Needs Assessment  B-24 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 112 ===
+California Statewide Local Streets and Roads Needs Assessment  B-25 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+
+=== page 113 ===
+California Statewide Local Streets and Roads Needs Assessment  B-26 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 114 ===
+California Statewide Local Streets and Roads Needs Assessment  B-27 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 115 ===
+California Statewide Local Streets and Roads Needs Assessment  B-28 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+
+=== page 116 ===
+California Statewide Local Streets and Roads Needs Assessment  B-29 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+ 
+ 
+
+=== page 117 ===
+California Statewide Local Streets and Roads Needs Assessment  
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Pavement Condition* & Needs by County 
+*Pavement condition data for the MTC region provided by MTC in 2022 
+=== page 118 ===
+California Statewide Local Streets and Roads Needs Assessment C-1 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Table C.1 Pavement Needs by County* ( 2022 ) 
+County 
+(Cities Included) 
+Center 
+Line 
+Miles 
+Lane 
+Miles 
+Area 
+(sq. yd.) 
+2022 
+PCI 
+10 Year 
+Needs 
+(2022 $M) 
+Alameda 3,596 8,150 73,382,886 67 $2,092 
+Alpine 151 302 2,139,517 58 $37 
+Amador 477 945 3,598,703 50 $154 
+Butte 1,816 3,644 28,691,159 55 $1,057 
+Calaveras 831 1,340 8,201,768 44 $370 
+Colusa 761 1,247 13,240,593 61 $362 
+Contra Costa 3,348 7,012 65,788,024 68 $1,821 
+Del Norte 323 646 4,418,399 67 $83 
+El Dorado 1,399 2,684 21,458,907 63 $671 
+Fresno 6,335 12,563 112,879,098 59 $4,103 
+Glenn 848 2,017 11,940,355 50 $512 
+Humboldt 1,163 2,354 16,791,631 53 $707 
+Imperial 3,024 6,103 76,823,230 56 $1,093 
+Inyo 1,133 1,832 13,681,682 62 $270 
+Kern 5,725 12,615 117,170,333 63 $3,653 
+Kings 1,324 2,710 21,044,749 61 $722 
+Lake 643 1,275 8,629,265 35 $503 
+Lassen 431 879 6,282,324 61 $228 
+Los Angeles 21,192 57,160 472,476,391 67 $13,394 
+Madera 1,829 3,663 24,879,499 40 $1,457 
+Marin 1,068 2,151 20,882,530 67 $601 
+Mariposa 365 724 4,606,318 51 $218 
+Mendocino 1,132 2,249 16,243,134 47 $574 
+Merced 2,349 4,975 39,594,831 57 $1,479 
+Modoc 1,018 2,036 19,339,238 64 $224 
+Mono 737 1,473 9,613,552 64 $104 
+Monterey 1,907 3,859 30,940,471 50 $1,457 
+Napa 778 1,568 8,926,445 60 $338 
+Nevada 806 1,625 10,348,493 69 $253 
+Orange 6,599 16,412 164,099,105 79 $2,966 
+Placer 2,190 4,625 35,366,855 68 $929 
+Plumas 706 1,412 9,070,195 69 $183 
+Riverside 7,933 18,117 158,987,995 69 $4,125 
+Sacramento 5,077 10,983 97,772,868 58 $3,724 
+San Benito 492 758 5,140,912 38 $343 
+San Bernardino 8,898 22,014 167,917,566 71 $3,890 
+San Diego 7,761 18,852 175,610,151 71 $4,569 
+=== page 119 ===
+California Statewide Local Streets and Roads Needs Assessment C-2 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+ 
+  
+County 
+(Cities Included) 
+Center 
+Line 
+Miles 
+Lane 
+Miles 
+Area 
+(sq. yd.) 
+2022 
+PCI 
+10 Year 
+Needs 
+(2022 $M) 
+San Francisco 943 2,142 21,249,793 74 $464 
+San Joaquin 3,208 6,697 59,355,738 68 $1,589 
+San Luis Obispo 2,123 3,549 37,101,898 58 $1,401 
+San Mateo 1,886 3,957 33,244,304 70 $870 
+Santa Barbara 1,689 3,519 30,687,410 60 $1,078 
+Santa Clara 4,473 9,969 98,505,116 69 $2,554 
+Santa Cruz 863 1,768 14,127,507 54 $603 
+Shasta 1,682 3,100 24,430,506 52 $992 
+Sierra 399 800 5,566,517 45 $178 
+Siskiyou 1,488 2,985 20,233,539 63 $513 
+Solano 1,781 3,840 33,604,534 67 $1,012 
+Sonoma 2,400 5,010 49,579,092 58 $1,876 
+Stanislaus 2,899 5,953 51,942,357 64 $1,630 
+Sutter 1,032 2,079 16,016,764 57 $479 
+Tehama 1,202 2,406 8,484,455 51 $310 
+Trinity 592 1,112 7,477,638 48 $254 
+Tulare 4,091 8,253 66,849,672 59 $2,399 
+Tuolumne 661 1,276 8,504,648 24 $595 
+Ventura 2,545 5,590 56,349,603 68 $1,541 
+Yolo 1,341 2,687 23,513,907 56 $882 
+Yuba 1,066 1,504 19,557,588 67 $515 
+California 144,530 321,170 2,764,361,757 65 $81,001 
+* Includes Cities within County 
+=== page 120 ===
+California Statewide Local Streets and Roads Needs Assessment C-3 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+  
+
+=== page 121 ===
+California Statewide Local Streets and Roads Needs Assessment C-4 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+  
+
+=== page 122 ===
+California Statewide Local Streets and Roads Needs Assessment C-5 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+  
+
+=== page 123 ===
+California Statewide Local Streets and Roads Needs Assessment C-6 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 124 ===
+California Statewide Local Streets and Roads Needs Assessment C-7 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+  
+
+=== page 125 ===
+California Statewide Local Streets and Roads Needs Assessment C-8 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 126 ===
+California Statewide Local Streets and Roads Needs Assessment C-9 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 127 ===
+California Statewide Local Streets and Roads Needs Assessment C-10 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 128 ===
+California Statewide Local Streets and Roads Needs Assessment C-11 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 129 ===
+California Statewide Local Streets and Roads Needs Assessment C-12 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 130 ===
+California Statewide Local Streets and Roads Needs Assessment C-13 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 131 ===
+California Statewide Local Streets and Roads Needs Assessment C-14 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 132 ===
+California Statewide Local Streets and Roads Needs Assessment C-15 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 133 ===
+California Statewide Local Streets and Roads Needs Assessment C-16 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 134 ===
+California Statewide Local Streets and Roads Needs Assessment C-17 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 135 ===
+California Statewide Local Streets and Roads Needs Assessment C-18 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 136 ===
+California Statewide Local Streets and Roads Needs Assessment C-19 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 137 ===
+California Statewide Local Streets and Roads Needs Assessment C-20 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 138 ===
+California Statewide Local Streets and Roads Needs Assessment C-21 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 139 ===
+California Statewide Local Streets and Roads Needs Assessment C-22 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 140 ===
+California Statewide Local Streets and Roads Needs Assessment C-23 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 141 ===
+California Statewide Local Streets and Roads Needs Assessment C-24 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 142 ===
+California Statewide Local Streets and Roads Needs Assessment C-25 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 143 ===
+California Statewide Local Streets and Roads Needs Assessment C-26 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 144 ===
+California Statewide Local Streets and Roads Needs Assessment C-27 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 145 ===
+California Statewide Local Streets and Roads Needs Assessment C-28 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 146 ===
+California Statewide Local Streets and Roads Needs Assessment C-29 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 147 ===
+California Statewide Local Streets and Roads Needs Assessment C-30 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 148 ===
+California Statewide Local Streets and Roads Needs Assessment C-31 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 149 ===
+California Statewide Local Streets and Roads Needs Assessment C-32 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 150 ===
+California Statewide Local Streets and Roads Needs Assessment C-33 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 151 ===
+California Statewide Local Streets and Roads Needs Assessment C-34 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 152 ===
+California Statewide Local Streets and Roads Needs Assessment C-35 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 153 ===
+California Statewide Local Streets and Roads Needs Assessment C-36 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 154 ===
+California Statewide Local Streets and Roads Needs Assessment C-37 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 155 ===
+California Statewide Local Streets and Roads Needs Assessment C-38 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 156 ===
+California Statewide Local Streets and Roads Needs Assessment C-39 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 157 ===
+California Statewide Local Streets and Roads Needs Assessment C-40 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 158 ===
+California Statewide Local Streets and Roads Needs Assessment C-41 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 159 ===
+California Statewide Local Streets and Roads Needs Assessment C-42 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 160 ===
+California Statewide Local Streets and Roads Needs Assessment C-43 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 161 ===
+California Statewide Local Streets and Roads Needs Assessment C-44 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 162 ===
+California Statewide Local Streets and Roads Needs Assessment C-45 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 163 ===
+California Statewide Local Streets and Roads Needs Assessment C-46 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 164 ===
+California Statewide Local Streets and Roads Needs Assessment C-47 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 165 ===
+California Statewide Local Streets and Roads Needs Assessment C-48 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 166 ===
+California Statewide Local Streets and Roads Needs Assessment C-49 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 167 ===
+California Statewide Local Streets and Roads Needs Assessment C-50 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 168 ===
+California Statewide Local Streets and Roads Needs Assessment C-51 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 169 ===
+California Statewide Local Streets and Roads Needs Assessment C-52 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 170 ===
+California Statewide Local Streets and Roads Needs Assessment C-53 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 171 ===
+California Statewide Local Streets and Roads Needs Assessment C-54 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 172 ===
+California Statewide Local Streets and Roads Needs Assessment C-55 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 173 ===
+California Statewide Local Streets and Roads Needs Assessment C-56 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 174 ===
+California Statewide Local Streets and Roads Needs Assessment C-57 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 175 ===
+California Statewide Local Streets and Roads Needs Assessment C-58 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 176 ===
+California Statewide Local Streets and Roads Needs Assessment C-59 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 177 ===
+California Statewide Local Streets and Roads Needs Assessment C-60 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+
+=== page 178 ===
+California Statewide Local Streets and Roads Needs Assessment C-61 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 179 ===
+California Statewide Local Streets and Roads Needs Assessment C-62 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 180 ===
+California Statewide Local Streets and Roads Needs Assessment  
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Appendix D 
+Essential Component Needs by County 
+=== page 181 ===
+California Statewide Local Streets and Roads Needs Assessment D-1 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+Table D.1 Summary of Essential Components Needs by County*  
+County 10 year Needs 
+($M)  
+County 10 year Needs 
+($M) 
+Alameda $2,657  Orange  $2,576  
+Alpine $0.03  Placer  $500 
+Amador  $12  Plumas  $32 
+Butte  $216  Riverside  $1,971 
+Calaveras  $12  Sacramento  $2,672 
+Colusa  $24  San Benito  $10 
+Contra Costa  $1,673  San Bernardino  $1,301 
+Del Norte  $23  San Diego  $2,676 
+El Dorado  $82  San Francisco  $3,044 
+Fresno  $396  San Joaquin  $1,344 
+Glenn  $16  San Luis Obispo  $351 
+Humboldt  $217  San Mateo  $916 
+Imperial  $155  Santa Barbara  $374 
+Inyo  $13  Santa Clara  $2,039 
+Kern  $534  Santa Cruz  $325 
+Kings  $109  Shasta  $136 
+Lake  $29  Sierra  $2 
+Lassen  $14  Siskiyou  $35 
+Los Angeles  $7,393  Solano  $538 
+Madera  $104  Sonoma  $836 
+Marin  $357  Stanislaus  $766 
+Mariposa  $1  Sutter  $119 
+Mendocino  $125  Tehama  $15 
+Merced  $141  Trinity  $7 
+Modoc  $8  Tulare  $383 
+Mono  $17  Tuolumne  $35 
+Monterey  $267  Ventura  $897 
+Napa  $170  Yolo  $211 
+Nevada  $25  Yuba  $69 
+     Totals $38,970 
+* Includes Cities within County     
+ 
+  
+=== page 182 ===
+California Statewide Local Streets and Roads Needs Assessment D-2 
+April 2023 
+ 
+  www.SaveCaliforniaStreets.org 
+ 
+
+=== page 183 ===
+501 Canal Boulevard, Suite I
+Point Richmond, CA 94804
+Phone: 510.215.3620
+Prepared by
+Rural Counties Task Force
+Regional Transportation Planning Agencies
+Sponsored by
+RTPA
+RCTF

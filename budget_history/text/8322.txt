@@ -1,0 +1,1018 @@
+ 
+OCEANSIDE COMMUNITY DEVELOPMENT 
+COMMISSION 
+FOR THE YEAR ENDED JUNE 30, 2020 
+COMPONENT UNIT 
+FINANCIAL STATEMENTS 
+
+
+
+
+
+2&($16,'(&20081,7<
+'(9(/230(17&200,66,21
+
+&20321(1781,7
+),1$1&,$/67$7(0(176
+
+)257+(<($5(1'('-81(
+
+
+ 
+ 
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION 
+ 
+COMPONENT UNIT  
+FINANCIAL STATEMENTS 
+ 
+JUNE 30, 2020 
+ 
+TABLE OF CONTENTS 
+Page 
+Number 
+ 
+INDEPENDENT AUDITORS’ REPORT .................................................................................................. 1 
+ 
+BASIC FINANCIAL STATEMENTS 
+ 
+Government-wide Financial Statements: 
+Statement of Net Position ........................................................................................................ 6 
+ 
+Statement of Activities ............................................................................................................. 7 
+ 
+Fund Financial Statements: 
+ 
+Balance Sheet ......................................................................................................................... 9 
+ 
+Reconciliation of the Balance Sheet of the Housing Assistance 
+Program to the Statement of Net Position ................................................................................... 10 
+ 
+Statement of Revenues, Expenditures, and Changes in Fund Balances ............................... 11 
+ 
+Reconciliation of the Statement of Revenues. Expenditures, 
+and Changes in Fund Balances of the Housing Assistance 
+Program to the Statement of Activities ........................................................................................ 12 
+ 
+Notes to Basic Financial Statements .............................................................................................. 14 
+ 
+REQUIRED SUPPLEMENTARY INFORMATION 
+ 
+Budgetary Comparison Schedule ................................................................................................... 20 
+ 
+Note to Required Supplementary Information ................................................................................. 21 
+ 
+
+
+ 
+INDEPENDENT AUDITORS’ REPORT 
+ 
+To the Chair and Members of the Board of Commissioners 
+Oceanside Community Development Commission 
+Oceanside, California 
+ 
+Report on the Financial Statements 
+ 
+We have audited the accompanying financial statements of the governmental activities and the major 
+fund of the Oceanside Community Development Commission (the Commission), a component unit of the 
+City of Oceanside, California (the City), as of and for the year ended June 30, 2020, and the related notes 
+to the financial statements, which collectively comprise the Commission’s basic financial statements as 
+listed in the table of contents. 
+ 
+Management’s Responsibility for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this includes 
+the design, implementation, and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+ 
+Auditor’s Responsibility 
+ 
+Our responsibility is to express opinions on these financial statements based on our audit. We conducted 
+our audit in accordance with auditing standards generally accepted in the United States of America and 
+the standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free from material misstatement. 
+ 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements. The procedures selected depend on the auditor’s judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or 
+error. In making those risk assessments, the auditor considers internal control relevant to the entity’s 
+preparation and fair presentation of the financial statements in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of 
+the entity’s internal control. Accordingly, we express no such opinion. An audit also includes evaluating 
+the appropriateness of accounting policies used and the reasonableness of significant accounting 
+estimates made by management, as well as evaluating the overall presentation of the financial 
+statements. 
+ 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+203N.BreaBlvd.,Suite203
+Brea,CA92821
+Lance, Soll & Lunghard, LLP 
+Phone: 714.672.0022 
+
+
+ 
+To the Chair and Members of the Board of Commissioners 
+Oceanside Community Development Commission 
+Oceanside, California 
+ 
+Opinions 
+ 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+respective financial position of the governmental activities and the major fund of the Oceanside 
+Community Development Commission as of June 30, 2020, and the respective changes in financial 
+position for the year then ended in accordance with accounting principles generally accepted in the 
+United States of America. 
+ 
+Emphasis of Matter 
+ 
+As discussed in Note 1 to the basic financial statements, the financial statements present only the 
+financial position of the Commission, and do not present, or purport to present fairly, the financial position 
+of the City as of June 30, 2020, and its changes in financial position and cash flows thereof for the year 
+then ended, in accordance with accounting principles generally accepted in the United States of America. 
+Our opinion is not modified with respect to this matter. 
+ 
+Other Matters 
+ 
+Required Supplementary Information 
+ 
+Accounting principles generally accepted in the United States of America require that the budgetary 
+comparison schedule be presented to supplement the basic financial statements. Such information, 
+although not a part of the basic financial statements, is required by the Governmental Accounting 
+Standards Board, who considers it to be an essential part of financial reporting for placing the basic 
+financial statements in an appropriate operational, economic, or historical context. We have applied 
+certain limited procedures to the required supplementary information in accordance with auditing 
+standards generally accepted in the United States of America, which consisted of inquiries of 
+management about the methods of preparing the information and comparing the information for 
+consistency with management’s responses to our inquiries, the basic financial statements, and other 
+knowledge we obtained during our audit of the basic financial statements. We do not express an opinion 
+or provide any assurance on the information because the limited procedures do not provide us with 
+sufficient evidence to express an opinion or provide any assurance. 
+ 
+Management has omitted the management’s discussion and analysis that accounting principles generally 
+accepted in the United States of America require to be presented to supplement the basic financial 
+statements. Such missing information, although not a part of the basic financial statements, is required by 
+the Governmental Accounting Standards Board, who considers it to be an essential part of financial 
+reporting for placing the basic financial statements in an appropriate operational, economic, or historical 
+context. Our opinion on the basic financial statements is not affected by this missing information. 
+ 
+ 
+2
+
+
+ 
+To the Chair and Members of the Board of Commissioners 
+Oceanside Community Development Commission 
+Oceanside, California 
+ 
+Other Reporting Required by Government Auditing Standards 
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated  
+December 3, 2020 on our consideration of the Commission’s internal control over financial reporting and 
+on our tests of its compliance with certain provisions of laws, regulations, contracts, and grant 
+agreements and other matters. The purpose of that report is solely to describe the scope of our testing of 
+internal control over financial reporting and compliance and the results of that testing, and not to provide 
+an opinion on the effectiveness of the Commission’s internal control over financial reporting or on 
+compliance. That report is an integral part of an audit performed in accordance with  
+Government Auditing Standards in considering the Commission’s internal control over financial 
+reporting and compliance. 
+ 
+Brea, California 
+December 3, 2020 
+ 
+3
+
+
+%$6,&),1$1&,$/67$7(0(176
+4
+
+
+*29(510(17:,'(),1$1&,$/67$7(0(176
+5
+
+
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA
+STATEMENT OF NET POSITION
+JUNE 30, 2020
+Governmental
+Activities
+Assets:
+Cash and investments
+2,032,989
+$        
+Restricted cash and investments
+220,823
+             
+Accounts receivable
+25,581
+               
+Due from other governments
+137,180
+             
+Notes and loans receivable
+4,628,633
+          
+Prepaid costs
+6,936
+                 
+Total Assets
+7,052,142
+          
+Liabilities:
+Accounts payable
+146,603
+             
+Accrued liabilities
+45,546
+               
+Due to other governments
+202,710
+             
+Unearned revenues
+236,879
+             
+Deposits payable
+112,323
+             
+Total Liabilities
+744,061
+             
+Net Position:
+Restricted for low and moderate income housing
+6,308,081
+          
+Total Net Position
+6,308,081
+$        
+The notes to financial statements are an integral part of this statement.
+6
+
+
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA
+STATEMENT OF ACTIVITIES
+FOR THE YEAR ENDED JUNE 30, 2020
+Governmental
+Activities
+Expenses:
+Community development
+22,141,742
+$     
+Total Program Expenses
+22,141,742
+       
+Program Revenues:
+Community development:
+Charges for services
+74,871
+              
+Operating grants and contributions
+21,105,135
+       
+Total Program Revenues
+21,180,006
+       
+Net Program (Expenses) Revenues
+(961,736)
+           
+General Revenues:
+Use of money and property
+511,752
+            
+Miscellaneous
+297,550
+            
+Total General Revenues
+809,302
+            
+Change in Net Position
+(152,434)
+           
+Net Position - Beginning
+6,460,515
+         
+Net Position - Ending
+6,308,081
+$       
+The notes to financial statements are an integral part of this statement.
+7
+
+
+)81'),1$1&,$/67$7(0(176
+*RYHUQPHQWDO)XQG)LQDQFLDO6WDWHPHQWV
+8
+
+
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA
+BALANCE SHEET
+HOUSING ASSISTANCE PROGRAM
+JUNE 30, 2020
+Assets:
+Cash and investments
+2,032,989
+$        
+Restricted cash and investments
+220,823
+             
+Accounts receivable
+25,581
+               
+Due from other governments
+137,180
+             
+Notes and loans receivable
+4,628,633
+          
+Prepaid costs
+6,936
+                 
+Total Assets
+7,052,142
+$        
+Liabilities, Deferred Inflows of Resources,
+and Fund Balances:
+Liabilities:
+Accounts payable
+146,603
+$           
+Accrued liabilities
+45,546
+               
+Due to other governments
+202,710
+             
+Unearned revenues
+236,879
+             
+Deposits payable
+112,323
+             
+Total Liabilities
+744,061
+             
+Deferred Inflows of Resources:
+Unavailable Revenue
+4,654,213
+          
+Total Deferred Inflows of Resources
+4,654,213
+          
+Fund Balances:
+Nonspendable - prepaid costs
+6,936
+                 
+Restricted - low and moderate income housing
+1,646,932
+          
+Total Fund Balances
+1,653,868
+          
+Total Liabilities, Deferred Inflows
+of Resources, and Fund Balances
+7,052,142
+$        
+The notes to financial statements are an integral part of this statement.
+9
+
+
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA
+RECONCILIATION OF THE BALANCE SHEET OF THE HOUSING ASSISTANCE PROGRAM
+TO THE STATEMENT OF NET POSITION
+JUNE 30, 2020
+Fund balances of Housing Assistance Program
+1,653,868
+$        
+Amounts reported for governmental activities in the Statement of Net Position are 
+different because:
+Unavailable revenue is present in governmental fund financial statements to
+indicate that receivables are not available currently; however, in the
+Statement of Net Position, these deferrals are eliminated.
+4,654,213
+          
+Net Position of Governmental Activities
+6,308,081
+$        
+The notes to financial statements are an integral part of this statement.
+10
+
+
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA
+STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES IN FUND BALANCES
+HOUSING ASSISTANCE PROGRAM
+FOR THE YEAR ENDED JUNE 30, 2020
+Revenues:
+Intergovernmental
+21,292,691
+$      
+Licenses and permits
+8,750
+                 
+Charges for services
+66,121
+               
+Use of money and property
+511,752
+             
+Miscellaneous
+297,550
+             
+Total Revenues
+22,176,864
+        
+Expenditures:
+Current:
+Community development
+22,141,742
+        
+Total Expenditures
+22,141,742
+        
+Net Change in Fund Balances
+35,122
+               
+Fund Balance - Beginning
+1,618,746
+          
+Fund Balance - Ending
+1,653,868
+$        
+The notes to financial statements are an integral part of this statement.
+11
+
+
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA
+RECONCILIATION OF THE STATEMENT OF REVENUES, EXPENDITURES,
+AND CHANGES IN FUND BALANCES OF THE HOUSING ASSISTANCE PROGRAM
+TO THE STATEMENT OF ACTIVITIES
+FOR THE YEAR ENDED JUNE 30, 2020
+Net change in fund balances - Housing Assistance Program
+35,122
+$        
+Amounts reported for governmental activities in the Statement of Activities are
+different because:
+Revenues reported as unavailable revenue in the governmental funds and
+recognized in the statement of activities.  These are included in the intergovernmental
+revenues in the governmental fund activity.
+(187,556)
+       
+Change in Net Position of Governmental Activities
+(152,434)
+$     
+The notes to financial statements are an integral part of this statement.
+12
+
+
+127(672),1$1&,$/67$7(0(176
+13
+
+
+2&($16,'(&20081,7<'(9(/230(17&200,66,21
+$&20321(1781,72)7+(&,7<2)2&($16,'(&$/,)251,$
+
+127(672),1$1&,$/67$7(0(176
+)257+(<($5(1'('-81(
+
+
+1RWH
+6XPPDU\RI6LJQLILFDQW$FFRXQWLQJ3ROLFLHV
+
+7KH EDVLF ILQDQFLDO VWDWHPHQWV RI WKH 2FHDQVLGH &RPPXQLW\ 'HYHORSPHQW &RPPLVVLRQ
+WKH &RPPLVVLRQ KDYH EHHQ SUHSDUHG LQ FRQIRUPLW\ ZLWK DFFRXQWLQJ SULQFLSOHV JHQHUDOO\
+DFFHSWHGLQWKH8QLWHG6WDWHVRI$PHULFD*$$3DVDSSOLHGWRJRYHUQPHQWDODJHQFLHV7KH
+*RYHUQPHQWDO$FFRXQWLQJ6WDQGDUGV%RDUG*$6%LVWKHDFFHSWHGVWDQGDUGVHWWLQJERG\IRU
+HVWDEOLVKLQJJRYHUQPHQWDODFFRXQWLQJDQGILQDQFLDOUHSRUWLQJSULQFLSOHV7KHPRUHVLJQLILFDQW
+RIWKH&RPPLVVLRQ¶VDFFRXQWLQJSROLFLHVDUHGHVFULEHGEHORZ
+
+D )LQDQFLDO5HSRUWLQJ(QWLW\
+
+7KH&RPPLVVLRQZDVHVWDEOLVKHGRQ-XO\DQGLQFOXGHVDOODFWLYLWLHVSUHYLRXVO\
+SHUIRUPHGE\WKH)RUPHU2FHDQVLGH5HGHYHORSPHQW$JHQF\DQGWKH2FHDQVLGH+RXVLQJ
+$XWKRULW\7KH)RUPHU2FHDQVLGH5HGHYHORSPHQW$JHQF\ZDVRULJLQDOO\HVWDEOLVKHGRQ
+1RYHPEHUSXUVXDQWWRWKH6WDWHRI&DOLIRUQLD+HDOWKDQG6DIHW\&RGHHQWLWOHG
+&RPPXQLW\ 5HGHYHORSPHQW /DZ ,WV SXUSRVH ZDV WR HOLPLQDWH EOLJKWHG DUHDV E\
+HQFRXUDJLQJ WKH GHYHORSPHQW RI UHVLGHQWLDO FRPPHUFLDO LQGXVWULDO UHFUHDWLRQDO DQG
+SXEOLFIDFLOLWLHV7KH2FHDQVLGH+RXVLQJ$XWKRULW\ZDVRULJLQDOO\HVWDEOLVKHGRQ)HEUXDU\
+DQGGLVVROYHG$SULOGXHWRLQDFWLYLW\,WZDVUHDFWLYDWHGRQ$SULO
+SXUVXDQWWRWKH6WDWHRI&DOLIRUQLD+HDOWKDQG6DIHW\&RGH7KLVGHSDUWPHQWLVUHVSRQVLEOH
+IRU DOO DVVLVWHG KRXVLQJ SURMHFWV ZLWKLQ WKH &LW\ RI 2FHDQVLGH WKH &LW\ 7KH )RUPHU
+5HGHYHORSPHQW $JHQF\ ZDV GLVVROYHG RQ -DQXDU\   WKURXJK 6XSUHPH &RXUW
+GHFLVLRQRQ$VVHPEO\%LOO;
+
+E %DVLVRI$FFRXQWLQJDQG0HDVXUHPHQW)RFXV
+
+7KHDFFRXQWVRIWKH&RPPLVVLRQDUHRUJDQL]HGRQWKHEDVLVRIIXQGVHDFKRIZKLFKLV
+FRQVLGHUHGDVHSDUDWHDFFRXQWLQJHQWLW\7KHRSHUDWLRQVRIHDFKIXQGDUHDFFRXQWHGIRU
+ZLWKDVHSDUDWHVHWRIVHOIEDODQFLQJDFFRXQWVWKDWFRPSULVHLWVDVVHWVOLDELOLWLHVIXQG
+HTXLW\UHYHQXHVDQGH[SHQGLWXUHV*RYHUQPHQWUHVRXUFHVDUHDOORFDWHGWRDQGDFFRXQWHG
+IRULQLQGLYLGXDOIXQGVEDVHGXSRQWKHSXUSRVHIRUZKLFKWKH\DUHWREHVSHQWDQGWKH
+PHDQVE\ZKLFKVSHQGLQJDFWLYLWLHVDUHFRQWUROOHG
+
+*RYHUQPHQW:LGH)LQDQFLDO6WDWHPHQWV
+
+7KH &RPPLVVLRQ
+V JRYHUQPHQWZLGH ILQDQFLDO VWDWHPHQWV LQFOXGH D 6WDWHPHQW RI 1HW
+3RVLWLRQ DQG D 6WDWHPHQW RI $FWLYLWLHV 7KHVH VWDWHPHQWV SUHVHQW VXPPDULHV RI
+JRYHUQPHQWDOW\SHDFWLYLWLHVIRUWKH&RPPLVVLRQ
+
+7KHVHEDVLFILQDQFLDOVWDWHPHQWVDUHSUHVHQWHGRQDQHFRQRPLFUHVRXUFHVPHDVXUHPHQW
+IRFXVDQGWKHDFFUXDOEDVLVRIDFFRXQWLQJ$FFRUGLQJO\DOORIWKH&RPPLVVLRQ
+VDVVHWVDQG
+OLDELOLWLHV LQFOXGLQJ FDSLWDO DVVHWV DQG ORQJWHUP OLDELOLWLHV DUH LQFOXGHG LQ WKH
+DFFRPSDQ\LQJ6WDWHPHQWRI1HW3RVLWLRQ7KH6WDWHPHQWRI$FWLYLWLHVSUHVHQWVFKDQJHVLQ
+QHWSRVLWLRQ8QGHUWKHDFFUXDOEDVLVRIDFFRXQWLQJUHYHQXHVDUHUHFRJQL]HGLQWKHSHULRG
+LQZKLFKWKH\DUHHDUQHGZKLOHH[SHQVHVDUHUHFRJQL]HGLQWKHSHULRGLQZKLFKWKHOLDELOLW\
+LVLQFXUUHG
+
+&HUWDLQW\SHVRIWUDQVDFWLRQVDUHUHSRUWHGDVSURJUDPUHYHQXHVIRUWKH&RPPLVVLRQLQ
+WKUHHFDWHJRULHV
+
+x
+&KDUJHVIRUVHUYLFHV
+
+x
+2SHUDWLQJJUDQWVDQGFRQWULEXWLRQV
+
+x
+&DSLWDOJUDQWVDQGFRQWULEXWLRQV
+14
+
+
+2&($16,'(&20081,7<'(9(/230(17&200,66,21
+$&20321(1781,72)7+(&,7<2)2&($16,'(&$/,)251,$
+
+127(672),1$1&,$/67$7(0(176&217,18('
+)257+(<($5(1'('-81(
+
+
+1RWH
+6XPPDU\RI6LJQLILFDQW$FFRXQWLQJ3ROLFLHV&RQWLQXHG
+
+*RYHUQPHQWDO)XQG)LQDQFLDO6WDWHPHQWV
+
+*RYHUQPHQWDO IXQG ILQDQFLDO VWDWHPHQWV LQFOXGH D %DODQFH 6KHHW DQG D 6WDWHPHQW RI
+5HYHQXHV([SHQGLWXUHVDQG&KDQJHVLQ)XQG%DODQFHVIRUDOOPDMRUJRYHUQPHQWDOIXQGV
+$QDFFRPSDQ\LQJVFKHGXOHLVSUHVHQWHGWRUHFRQFLOHDQGH[SODLQWKHGLIIHUHQFHVLQQHW
+SRVLWLRQDVSUHVHQWHGLQWKHVHVWDWHPHQWVWRWKHQHWSRVLWLRQSUHVHQWHGLQWKHJRYHUQPHQW
+ZLGHILQDQFLDOVWDWHPHQWV7KH&RPPLVVLRQKDVRQHIXQGZKLFKLVSUHVHQWHGDVDPDMRU
+IXQG
+
+$OOJRYHUQPHQWDOIXQGVDUHDFFRXQWHGIRURQDVSHQGLQJRUFXUUHQWILQDQFLDOUHVRXUFHV
+PHDVXUHPHQWIRFXVDQGWKHPRGLILHGDFFUXDOEDVLVRIDFFRXQWLQJ$FFRUGLQJO\RQO\FXUUHQW
+DVVHWV DQG FXUUHQW OLDELOLWLHV DUH LQFOXGHG RQ WKH %DODQFH 6KHHW 7KH 6WDWHPHQW RI
+5HYHQXHV([SHQGLWXUHVDQG&KDQJHVLQ)XQG%DODQFHVSUHVHQWLQFUHDVHVUHYHQXHVDQG
+RWKHUILQDQFLQJVRXUFHVDQGGHFUHDVHVH[SHQGLWXUHVDQGRWKHUILQDQFLQJXVHVLQQHW
+FXUUHQWDVVHWV8QGHUWKHPRGLILHGDFFUXDOEDVLVRIDFFRXQWLQJUHYHQXHVDUHUHFRJQL]HG
+LQWKHDFFRXQWLQJSHULRGLQZKLFKWKH\EHFRPHERWKPHDVXUDEOHDQGDYDLODEOHWRILQDQFH
+H[SHQGLWXUHVRIWKHFXUUHQWSHULRG
+
+5HYHQXHVDUHUHFRUGHGZKHQUHFHLYHGLQFDVKH[FHSWWKRVHUHYHQXHVVXEMHFWWRDFFUXDO
+JHQHUDOO\GD\VDIWHU\HDUHQGDUHUHFRJQL]HGZKHQGXH([SHQGLWXUHVDUHJHQHUDOO\
+UHFRUGHGLQWKHDFFRXQWLQJSHULRGLQZKLFKWKHUHODWHGIXQGOLDELOLW\LVLQFXUUHGH[FHSWIRU
+SULQFLSDODQGLQWHUHVWRQORQJWHUPOLDELOLWLHVZKLFKDUHUHFRJQL]HGDVH[SHQGLWXUHVRQO\
+ZKHQSD\PHQWLVGXH
+
+8QDYDLODEOHUHYHQXHVDULVHZKHQSRWHQWLDOUHYHQXHVGRQRWPHHWERWKWKHPHDVXUDEOH
+DQGDYDLODEOHFULWHULDIRUUHFRJQLWLRQLQWKHFXUUHQWSHULRG8QDYDLODEOHUHYHQXHVDOVRDULVH
+ZKHQWKHJRYHUQPHQWUHFHLYHVUHVRXUFHVEHIRUHLWKDVDOHJDOFODLPWRWKHPDVZKHQJUDQW
+PRQLHVDUHUHFHLYHGSULRUWRLQFXUULQJTXDOLI\LQJH[SHQGLWXUHV,QVXEVHTXHQWSHULRGVZKHQ
+ERWKUHYHQXHUHFRJQLWLRQFULWHULDDUHPHWRUZKHQWKHJRYHUQPHQWKDVDOHJDOFODLPWRWKH
+UHVRXUFHVWKHXQDYDLODEOHUHYHQXHLVUHPRYHGIURPWKHEDODQFHVKHHWDQGUHYHQXHLV
+UHFRJQL]HG
+
+7KH5HFRQFLOLDWLRQRIWKH)XQG)LQDQFLDO6WDWHPHQWVWRWKH*RYHUQPHQW:LGH)LQDQFLDO
+6WDWHPHQWVLVSURYLGHGWRH[SODLQWKHGLIIHUHQFHVFUHDWHGE\WKHLQWHJUDWHGDSSURDFKRI
+*$6%6WDWHPHQW1R
+
+7KH IXQGV GHVLJQDWHG DV PDMRU IXQGV DUH GHWHUPLQHG E\ D PDWKHPDWLFDO FDOFXODWLRQ
+FRQVLVWHQW ZLWK *$6% 6WDWHPHQW 1R  7KH &RPPLVVLRQ UHSRUWV WKH IROORZLQJ PDMRU
+JRYHUQPHQWDOIXQG
+
+7KH +RXVLQJ $VVLVWDQFH 3URJUDP 6SHFLDO 5HYHQXH )XQG LV XVHG WR DFFRXQW IRU WKH
+RSHUDWLRQRIWKH&LW\
+VORZDQGPRGHUDWHLQFRPHKRXVLQJSURJUDP)LQDQFLQJLVSURYLGHG
+E\+8'6HFWLRQ&RPPXQLW\'HYHORSPHQW%ORFN*UDQWVDQGVHUYLFHIHHVRQPRUWJDJH
+UHYHQXHERQGV
+
+F &DVK&DVK(TXLYDOHQWVDQG,QYHVWPHQWV
+
+7KH &RPPLVVLRQ SRROV LWV DYDLODEOH FDVK IRU LQYHVWPHQW SXUSRVHV ZLWK WKH &LW\ 7KH
+&RPPLVVLRQFRQVLGHUVSRROHGFDVKDQGLQYHVWPHQWDPRXQWVZLWKRULJLQDOPDWXULWLHVRI
+WKUHHPRQWKVRUOHVVWREHFDVKHTXLYDOHQWV
+15
+
+
+2&($16,'(&20081,7<'(9(/230(17&200,66,21
+$&20321(1781,72)7+(&,7<2)2&($16,'(&$/,)251,$
+
+127(672),1$1&,$/67$7(0(176&217,18('
+)257+(<($5(1'('-81(
+
+
+1RWH
+6XPPDU\RI6LJQLILFDQW$FFRXQWLQJ3ROLFLHV&RQWLQXHG
+
++LJKO\OLTXLGLQYHVWPHQWVZLWKPDWXULWLHVRIRQH\HDURUOHVVDWWLPHRISXUFKDVHDUHVWDWHG
+DWDPRUWL]HGFRVW$OORWKHULQYHVWPHQWVDUHVWDWHGDWIDLUYDOXH0DUNHWYDOXHLVXVHGDV
+IDLUYDOXHIRUWKRVHVHFXULWLHVIRUZKLFKPDUNHWTXRWDWLRQVDUHUHDGLO\DYDLODEOH
+
+G 'HIHUUHG2XWIORZV,QIORZVRI5HVRXUFHV
+
+,QDGGLWLRQWRDVVHWVWKHVWDWHPHQWRIILQDQFLDOSRVLWLRQZLOOVRPHWLPHVUHSRUWDVHSDUDWH
+VHFWLRQ IRU GHIHUUHG RXWIORZV RI UHVRXUFHV 7KLV VHSDUDWH ILQDQFLDO VWDWHPHQW HOHPHQW
+GHIHUUHGRXWIORZVRIUHVRXUFHVUHSUHVHQWVDFRQVXPSWLRQRIQHWSRVLWLRQWKDWDSSOLHVWR
+D IXWXUH SHULRGV DQG VR ZLOO QRW EH UHFRJQL]HG DV DQ RXWIORZ RI UHVRXUFHV
+H[SHQVHH[SHQGLWXUHXQWLOWKHQ
+
+,QDGGLWLRQWROLDELOLWLHVWKHVWDWHPHQWRIILQDQFLDOSRVLWLRQZLOOVRPHWLPHVUHSRUWDVHSDUDWH
+VHFWLRQ IRU GHIHUUHG LQIORZV RI UHVRXUFHV 7KLV VHSDUDWH ILQDQFLDO VWDWHPHQW HOHPHQW
+GHIHUUHGLQIORZVRIUHVRXUFHVUHSUHVHQWVDQDFTXLVLWLRQRIQHWSRVLWLRQWKDWDSSOLHVWRD
+IXWXUHSHULRGVDQGVRZLOOQRWEHUHFRJQL]HGDVDQLQIORZRIUHVRXUFHVUHYHQXHXQWLOWKDW
+WLPH7KH&RPPLVVLRQKDVRQHW\SHRILWHPZKLFKDULVHVRQO\XQGHUDPRGLILHGDFFUXDO
+EDVLV RI DFFRXQWLQJ WKDW TXDOLILHV IRU UHSRUWLQJ LQ WKLV FDWHJRU\ 7KH LWHP XQDYDLODEOH
+UHYHQXHLVUHSRUWHGRQO\LQWKHJRYHUQPHQWDOIXQGVEDODQFHVKHHW7KHVHDPRXQWVDUH
+GHIHUUHGDQGUHFRJQL]HGDVDQLQIORZRIUHVRXUFHVLQWKHSHULRGWKDWWKHDPRXQWVEHFRPH
+DYDLODEOH
+
+H )XQG%DODQFHVDQG1HW3RVLWLRQ
+
+)XQG)LQDQFLDO6WDWHPHQWV
+
+7KH IXQG EDODQFHV UHSRUWHG RQ WKH IXQG ILQDQFLDO VWDWHPHQWV FRQVLVW RI WKH IROORZLQJ
+FDWHJRULHV
+
+1RQVSHQGDEOH)XQG%DODQFH7KLVLQFOXGHVDPRXQWVWKDWFDQQRWEHVSHQWEHFDXVH
+WKH\DUHHLWKHUDQRWLQVSHQGDEOHIRUPRUEOHJDOO\RUFRQWUDFWXDOO\UHTXLUHGWREH
+PDLQWDLQHGLQWDFW
+
+5HVWULFWHG )XQG %DODQFH  7KLV LQFOXGHV DPRXQWV WKDW FDQ EH VSHQW RQO\ IRU WKH
+VSHFLILFSXUSRVHVVWLSXODWHGE\FRQVWLWXWLRQH[WHUQDOUHVRXUFHSURYLGHUVRUWKURXJK
+HQDEOLQJOHJLVODWLRQ
+
+&RPPLWWHG)XQG%DODQFH7KLVLQFOXGHVDPRXQWVWKDWFDQEHXVHGRQO\IRUWKHVSHFLILF
+SXUSRVHVGHWHUPLQHGE\DIRUPDODFWLRQRIWKHFRPPLVVLRQ
+
+$VVLJQHG )XQG %DODQFH  7KLV LQFOXGHV DPRXQWV WKDW DUH GHVLJQDWHG E\ WKH
+FRPPLVVLRQIRUVSHFLILFSXUSRVHV
+
+8QDVVLJQHG )XQG %DODQFH  7KLV LV WKH UHVLGXDO FODVVLILFDWLRQ WKDW LQFOXGHV DOO
+VSHQGDEOHDPRXQWVQRWFRQWDLQHGLQWKHRWKHUFODVVLILFDWLRQV
+
+:KHQDQH[SHQGLWXUHLVLQFXUUHGIRUSXUSRVHVIRUZKLFKERWKUHVWULFWHGDQGXQUHVWULFWHG
+IXQGEDODQFHVDUHDYDLODEOHWKH&RPPLVVLRQ
+VSROLF\LVWRDSSO\UHVWULFWHGIXQGEDODQFH
+ILUVW
+16
+
+
+2&($16,'(&20081,7<'(9(/230(17&200,66,21
+$&20321(1781,72)7+(&,7<2)2&($16,'(&$/,)251,$
+
+127(672),1$1&,$/67$7(0(176&217,18('
+)257+(<($5(1'('-81(
+
+
+1RWH
+6XPPDU\RI6LJQLILFDQW$FFRXQWLQJ3ROLFLHV&RQWLQXHG
+
+:KHQ DQ H[SHQGLWXUH LV LQFXUUHG IRU SXUSRVHV IRU ZKLFK FRPPLWWHG DVVLJQHG RU
+XQDVVLJQHGIXQGEDODQFHVDUHDYDLODEOHWKH&RPPLVVLRQ
+VSROLF\LVWRDSSO\FRPPLWWHG
+IXQGEDODQFHILUVWWKHQDVVLJQHGIXQGEDODQFHDQGILQDOO\XQDVVLJQHGIXQGEDODQFH
+
+*RYHUQPHQW:LGH)LQDQFLDO6WDWHPHQWV
+
+7KH QHW SRVLWLRQ UHSRUWHG RQ WKH 6WDWHPHQW RI 1HW 3RVLWLRQ FRQVLVW RI WKH IROORZLQJ
+WKUHHFDWHJRULHV
+
+1HW ,QYHVWPHQW LQ &DSLWDO $VVHWV  7KLV DPRXQW FRQVLVWV RI FDSLWDO DVVHWV QHW RI
+DFFXPXODWHG GHSUHFLDWLRQ DQG UHGXFHG E\ RXWVWDQGLQJ GHEW WKDW DWWULEXWHG WR WKH
+DFTXLVLWLRQFRQVWUXFWLRQRULPSURYHPHQWRIWKHDVVHWV
+
+5HVWULFWHG 1HW 3RVLWLRQ  7KLV DPRXQW LV UHVWULFWHG E\ H[WHUQDO FUHGLWRUV JUDQWRUV
+FRQWULEXWRUVRUODZVRUUHJXODWLRQVRIRWKHUJRYHUQPHQWV
+
+8QUHVWULFWHG1HW3RVLWLRQ7KLVDPRXQWLVDOOQHWSRVLWLRQWKDWGRQRWPHHWWKHGHILQLWLRQ
+RIQHWLQYHVWPHQWLQFDSLWDODVVHWVRUUHVWULFWHGQHWSRVLWLRQ
+
+:KHQDQH[SHQVHLVLQFXUUHGIRUSXUSRVHVIRUZKLFKERWKUHVWULFWHGDQGXQUHVWULFWHGQHW
+SRVLWLRQDUHDYDLODEOHWKH&RPPLVVLRQ
+VSROLF\LVWRDSSO\UHVWULFWHGQHWSRVLWLRQILUVW
+
+I
+1HW3RVLWLRQ)ORZ$VVXPSWLRQ
+
+6RPHWLPHVWKH&RPPLVVLRQZLOOIXQGRXWOD\VIRUDSDUWLFXODUSXUSRVHIURPERWKUHVWULFWHG
+HJUHVWULFWHGERQGRUJUDQWSURFHHGVDQGXQUHVWULFWHGUHVRXUFHV,QRUGHUWRFDOFXODWH
+WKHDPRXQWVWRUHSRUWDVUHVWULFWHG±QHWSRVLWLRQDQGXQUHVWULFWHG±QHWSRVLWLRQLQWKH
+JRYHUQPHQWZLGH DQG IXQG ILQDQFLDO VWDWHPHQWV D IORZ DVVXPSWLRQ PXVW EH PDGH
+DERXWWKHRUGHULQZKLFKWKHUHVRXUFHVDUHFRQVLGHUHGWREHDSSOLHG,WLVWKH&RPPLVVLRQ¶V
+SROLF\WRFRQVLGHUUHVWULFWHG±QHWSRVLWLRQWRKDYHEHHQGHSOHWHGEHIRUHXQUHVWULFWHG±QHW
+SRVLWLRQLVDSSOLHG
+
+J )XQG%DODQFH)ORZ$VVXPSWLRQ
+
+6RPHWLPHVWKH&RPPLVVLRQZLOOIXQGRXWOD\VIRUDSDUWLFXODUSXUSRVHIURPERWKUHVWULFWHG
+DQG XQUHVWULFWHG UHVRXUFHV WKH WRWDO RI FRPPLWWHG DVVLJQHG DQG XQDVVLJQHG IXQG
+EDODQFH,QRUGHUWRFDOFXODWHWKHDPRXQWVWRUHSRUWDVUHVWULFWHGFRPPLWWHGDVVLJQHG
+DQG XQDVVLJQHG IXQG EDODQFH LQ WKH JRYHUQPHQWDO IXQG ILQDQFLDO VWDWHPHQWV D IORZ
+DVVXPSWLRQPXVWEHPDGHDERXWWKHRUGHULQZKLFKWKHUHVRXUFHVDUHFRQVLGHUHGWREH
+DSSOLHG,WLVWKHJRYHUQPHQW¶VSROLF\WRFRQVLGHUUHVWULFWHGIXQGEDODQFHWRKDYHEHHQ
+GHSOHWHGEHIRUHXVLQJDQ\RIWKHFRPSRQHQWVRIXQUHVWULFWHGIXQGEDODQFH)XUWKHUZKHQ
+WKHFRPSRQHQWVRIXQUHVWULFWHGIXQGEDODQFHFDQEHXVHGIRUWKHVDPHSXUSRVHFRPPLWWHG
+IXQGEDODQFHLVGHSOHWHGILUVWIROORZHGE\DVVLJQHGIXQGEDODQFH8QDVVLJQHGIXQGEDODQFH
+LVDSSOLHGODVW
+
+K 8VHRI(VWLPDWHV
+
+7KHSUHSDUDWLRQRIILQDQFLDOVWDWHPHQWVLQFRQIRUPLW\ZLWKDFFRXQWLQJSULQFLSOHVJHQHUDOO\
+DFFHSWHGLQWKH8QLWHG6WDWHVRI$PHULFDUHTXLUHVPDQDJHPHQWWRPDNHHVWLPDWHVDQG
+DVVXPSWLRQVWKDWDIIHFWWKHUHSRUWHGDPRXQWVRIDVVHWVDQGOLDELOLWLHVDQGGLVFORVXUHRI
+FRQWLQJHQWDVVHWVDQGOLDELOLWLHVDWWKHGDWHRIWKHILQDQFLDOVWDWHPHQWVDQGWKHUHSRUWHG
+DPRXQWVRIUHYHQXHVDQGH[SHQGLWXUHVGXULQJWKHUHSRUWLQJSHULRG$FWXDOUHVXOWVFRXOG
+GLIIHUIURPWKRVHHVWLPDWHVDQGDVVXPSWLRQV
+17
+
+
+2&($16,'(&20081,7<'(9(/230(17&200,66,21
+$&20321(1781,72)7+(&,7<2)2&($16,'(&$/,)251,$
+
+127(672),1$1&,$/67$7(0(176&217,18('
+)257+(<($5(1'('-81(
+
+
+1RWH
+&DVKDQG,QYHVWPHQWV
+
+&DVK DQG LQYHVWPHQWV DW -XQH   DUH FODVVLILHG LQ WKH DFFRPSDQ\LQJ ILQDQFLDO
+VWDWHPHQWVDVIROORZV
+
+8QUHVWULFWHG
+&DVKDQGLQYHVWPHQWVSRROHGZLWKWKH&LW\
+
+
+5HVWULFWHGFDVKDQGLQYHVWPHQWV
+
+
+7RWDO
+
+
+
+7KH&RPPLVVLRQ¶VIXQGVDUHSRROHGZLWKWKH&LW\¶VFDVKDQGLQYHVWPHQWVLQRUGHUWRJHQHUDWH
+RSWLPXP LQWHUHVW LQFRPH (DFK IXQG
+V VKDUH RI WKH SRROHG FDVK DFFRXQW LV VHSDUDWHO\
+DFFRXQWHG IRU DQG LQYHVWPHQW LQFRPH LV DOORFDWHG WR DOO SDUWLFLSDWLQJ IXQGV EDVHG RQ WKH
+UHODWLRQVKLS RI WKHLU DYHUDJH GDLO\ FDVK EDODQFHV WR WKH WRWDO RI WKH SRROHG FDVK DQG
+LQYHVWPHQWV,QIRUPDWLRQUHJDUGLQJWKHDXWKRUL]HGW\SHVRIGHSRVLWVDQGLQYHVWPHQWVWKHW\SH
+RIULVNVLHFUHGLWLQWHUHVWUDWHFXVWRGLDOHWFDQGRWKHUGLVFORVXUHVDVVRFLDWHGZLWKWKH&LW\
+V
+SRROHGFDVKDQGLQYHVWPHQWVLVLQFOXGHGLQWKH&LW\
+VFRPSUHKHQVLYHDQQXDOILQDQFLDOUHSRUW
+ZKLFKDUHDYDLODEOHDW&LW\+DOO
+
+1RWH
+1RWH5HFHLYDEOH
+
+$VRI-XQHWKH&RPPLVVLRQ
+V+RXVLQJ$VVLVWDQFH3URJUDP6SHFLDO5HYHQXH)XQG
+KDGLQQRWHVUHFHLYDEOHIURPYDULRXVORZRUQRQLQWHUHVWEHDULQJORDQVWRSURSHUW\
+RZQHUVIRUWKHUHKDELOLWDWLRQRISURSHUW\DQGILUVWWLPHKRPHEX\HUSURJUDPZLWKLQWKH&LW\7KH
+QRWHVDUHSD\DEOHXSRQWKHVDOHRIWKHSURSHUW\RUXSRQWKHGHDWKRIWKHFXUUHQWSURSHUW\RZQHU
+
+1RWH
+5LVN0DQDJHPHQW
+
+7KH&RPPLVVLRQWKURXJKWKH&LW\LVDPHPEHURIWKH3XEOLF5LVN,QQRYDWLRQ6ROXWLRQVDQG
+0DQDJHPHQW35,60IRUPHUO\NQRZQDV&6$&([FHVV,QVXUDQFH$XWKRULW\ZKLFKSURYLGHV
+JHQHUDO OLDELOLW\ LQVXUDQFH )XUWKHU LQIRUPDWLRQ RQ ULVN PDQDJHPHQW LV DYDLODEOH LQ WKH
+FRPSUHKHQVLYHDQQXDOILQDQFLDOUHSRUWRIWKH&LW\
+
+1RWH
+&RPPLWPHQWVDQG&RQWLQJHQFLHV
+
+7KH&RPPLVVLRQLVLQYROYHGLQFHUWDLQPDWWHUVRIOLWLJDWLRQWKDWKDYHDULVHQLQWKHQRUPDOFRXUVH
+RIFRQGXFWLQJEXVLQHVV&RPPLVVLRQPDQDJHPHQWEHOLHYHVEDVHGXSRQFRQVXOWDWLRQZLWKWKH
+&LW\ $WWRUQH\ WKDW WKHVH FDVHV LQ WKH DJJUHJDWH DUH QRW H[SHFWHG WR UHVXOW LQ D PDWHULDO
+DGYHUVHILQDQFLDOLPSDFWRQWKH&RPPLVVLRQ$GGLWLRQDOO\&RPPLVVLRQPDQDJHPHQWEHOLHYHV
+WKDW WKH FXUUHQW LQVXUDQFH SURJUDPV DUH VXIILFLHQW WR FRYHU DQ\ SRWHQWLDO ORVVHV VKRXOG DQ
+XQIDYRUDEOHRXWFRPHEHUHDOL]HG
+18
+
+
+REQUIRED SUPPLEMENTAY INFORMATION
+19
+
+
+OCEANSIDE COMMUNITY DEVELOPMENT COMMISSION
+A COMPONENT UNIT OF THE CITY OF OCEANSIDE, CALIFORNIA
+BUDGETARY COMPARISON SCHEDULE
+HOUSING ASSISTANCE PROGRAM
+FOR THE YEAR ENDED JUNE 30, 2020
+Variance with
+ 
+Final Budget
+Budget Amounts
+Actual
+Positive
+Original
+Final
+Amounts
+(Negative)
+Budgetary Fund Balance, July 1
+1,618,746
+$        
+1,618,746
+$        
+1,618,746
+$        
+-
+$                      
+Resources (Inflows):
+Intergovernmental
+20,129,714
+        
+21,313,617
+        
+21,292,691
+        
+(20,926)
+              
+Licenses and permits
+8,750
+                 
+8,750
+                 
+8,750
+                 
+-
+                        
+Charges for services
+66,634
+               
+66,634
+               
+66,121
+               
+(513)
+                  
+Use of money and property
+70,883
+               
+865,221
+             
+511,752
+             
+(353,469)
+            
+Miscellaneous
+510,622
+             
+518,559
+             
+297,550
+             
+(221,009)
+            
+Amounts Available for Appropriations
+22,405,349
+        
+24,391,527
+        
+23,795,610
+        
+(595,917)
+            
+Charges to Appropriations (Outflows):
+Community development
+21,318,922
+        
+23,885,266
+        
+22,141,742
+        
+1,743,524
+          
+Total Charges to Appropriations
+21,318,922
+        
+23,885,266
+        
+22,141,742
+        
+1,743,524
+          
+Budgetary Fund Balance, June 30
+1,086,427
+$        
+506,261
+$           
+1,653,868
+$        
+1,147,607
+$        
+The notes to required supplementary information are an integral part of this schedule.
+20
+
+
+2&($16,'(&20081,7<'(9(/230(17&200,66,21
+$&20321(1781,72)7+(&,7<2)2&($16,'(&$/,)251,$
+
+127(725(48,5('6833/(0(17$5<,1)250$7,21
+-81(
+
+
+%8'*(7$5<,1)250$7,21
+
+7KH&RPPLVVLRQIROORZVWKHVHSURFHGXUHVLQHVWDEOLVKLQJWKHEXGJHWDU\GDWDUHIOHFWHGLQWKHILQDQFLDO
+VWDWHPHQWV
+
+x
+'XULQJ0D\RIHDFK\HDUWKH([HFXWLYH'LUHFWRUVXEPLWVWRWKH&RPPLVVLRQHUVDSURSRVHGDQQXDO
+RSHUDWLQJEXGJHWIRUWKHILVFDO\HDUFRPPHQFLQJWKHIROORZLQJ-XO\7KHRSHUDWLQJEXGJHWLQFOXGHV
+SURSRVHGH[SHQGLWXUHVDQGWKHUHYHQXHVRXUFHVWRILQDQFHWKHH[SHQGLWXUHV
+
+x
+3XEOLFKHDULQJVDUHFRQGXFWHGDW&RPPLVVLRQHUV
+PHHWLQJVWRREWDLQWD[SD\HUFRPPHQWVSULRUWRDQG
+DIWHU0D\
+
+x
+3ULRUWR-XO\WKHEXGJHWLVOHJDOO\DGRSWHGWKURXJKSDVVDJHRIDQDSSURSULDWLRQUHVROXWLRQ
+
+7KH([HFXWLYH'LUHFWRULVDXWKRUL]HGWRWUDQVIHUIXQGVDSSURSULDWHGZLWKLQWKHVDPHIXQG5HYLVLRQVWKDW
+DOWHUWKHWRWDODSSURSULDWLRQVRIDQ\GHSDUWPHQWRUIXQGPXVWEHDSSURYHGE\WKH&RPPLVVLRQHUV
+
+%XGJHWV DUH DGRSWHG RQ D EDVLV FRQVLVWHQW ZLWK DFFRXQWLQJ SULQFLSOHV JHQHUDOO\ DFFHSWHG LQ WKH
+8QLWHG6WDWHVRI$PHULFD%XGJHWHGDPRXQWVDUHDVRULJLQDOO\DGRSWHGDQGDVIXUWKHUDPHQGHGE\WKH
+&RPPLVVLRQHUV$OODQQXDODSSURSULDWLRQVODSVHDW\HDUHQG
+
+)RUPDOEXGJHWDU\LQWHJUDWLRQLVHPSOR\HGDVDPDQDJHPHQWFRQWUROGHYLFHGXULQJWKH\HDU([SHQGLWXUHV
+PD\QRWOHJDOO\H[FHHGDSSURSULDWLRQVDWWKHDFWLYLW\OHYHO
+21

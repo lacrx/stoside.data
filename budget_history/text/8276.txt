@@ -1,0 +1,561 @@
+
+
+CITY OF OCEANSIDE, CALIFORNIA
+COMPREHENSIVE ANNUAL FINANCIAL REPORT
+WITH REPORT ON AUDIT
+BY INDEPENDENT
+CERTIFIED PUBLIC ACCOUNTANTS
+For the Year Ended Jnne 30, 2008
+Prepared by the Accounting Division, Financial Services Department
+Teri Ferro, Director of Financial Services
+Melissa Slagle, Accounting Manager
+David Crowe, Senior Management Analyst
+
+
+
+
+City of Oceanside
+Comprehensive Annnal Financial Report
+For the year ended Jnne 30, 2008
+Table of Contents
+INTRODUCTORY SECTION (UNAUDITED):
+Table ofContents
+Letter ofTransmittal
+Principal Officials
+Organization Chart
+GFOA Certificate ofAchievement for Excellence in Financial Reporting
+FINANCIAL SECTION:
+Independent Auditors' Report
+Management's Discussion and Analysis (Required Supplementary Information)
+Basic Financial Statements:
+Government-wide Financial Statements:
+Statement ofNet Assets
+Statement ofActivities
+Fund Financial Statements:
+Governmental Funds:
+Balance Sheet
+Reconciliation ofthe Governmental Funds Balance Sheet
+to the Statement ofNet Assets
+Statement ofRevenues, Expenditures and Changes in Fund Balances
+Reconciliation ofthe Statement of Revenues, Expenditures
+and Changes in Fund Balances of Governmental Funds to
+the Statement ofActivities
+Proprietary Funds:
+Statement ofNet Assets
+Statement ofRevenues, Expenses and Changes in Net Assets
+Statement ofCash Flows
+Fiduciary Fund:
+Statement ofFiduciary Assets and Liabilities
+Notes to Basic Financial Statements
+- I -
+Page
+Number
+I
+V
+X
+XI
+Xli
+I
+3
+19
+20
+26
+29
+30
+32
+34
+36
+38
+44
+45
+
+
+City of Oceanside
+Comprehensive Annnal Financial Report
+For the year cnded Jnne 30, 2008
+Table of Contents, Continued
+FINANCIAL SECTION (CONTINUED):
+Reqnired Supplementary Information:
+Note to Required Supplementary Information
+Budgetary Comparison Schedules:
+General Fund
+Assistance Program Special Revenue Fund
+Public Employees Retirement System - Schedule of Funding Progress
+Supplementary Information:
+Other Governmental Funds:
+Combining Balance Sheet
+Combining Statement of Revenues, Expenditures and
+Changes in Fund Balances
+Other Special Revenue Funds:
+Combining Balance Sheet
+Combining Statement ofRevenues, Expenditures and
+Changes in Fund Balances
+Schedules ofRevenues, Expenditures and Changes in
+Fund Balance - Budget and Actual:
+Asset Seizure
+Library
+Gas Tax
+Community Development
+Recreation
+Maintenance Districts
+STOP
+Storm Damage
+Grants
+Other Debt Service Funds:
+Combining Balance Sheet
+Combining Statement ofRevenues, Expenditures and
+Changes in Fund Balances
+Major Capital Projects Funds:
+Schedules ofRevenues, Expenditures and Changes in
+Fund Balance - Budget and Actual:
+Redevelopment Agency
+General Improvement
+- 11 -
+Page
+Number
+104
+105
+106
+107
+112
+113
+114
+116
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+
+
+City of Oceanside
+Comprehensive Annual Financial Report
+For the year ended June 30, 2008
+Table of Contents, Continued
+FINANCIAL SECTION (CONTINUED):
+Supplementary Information (Continued):
+Internal Service Funds:
+Combining Statement of Net Assets
+Combining Statement of Revenues, Expenses and Changes in Net Assets
+Combining Statement of Cash Flows
+Fiduciary Funds:
+Combining Statement ofAssets and Liabilities
+Combining Statement of Changes in Net Assets
+Capital Assets Used in the Operating of Governmental Funds:
+Schedule by Source
+Schedule ofChanges in Capital Assets - By Function and Activity
+STATISTICAL SECTION:
+Description of Statistical Section
+Financial Trends:
+Net Assets by Component
+Changes in Net Assets
+Fund Balances, Governmental Funds
+Changes in Fund Balances, Governmental Funds
+Tax Revenues by Sources, Governmental Funds
+Revenue Capacity:
+Schedule ofAssessed Valuation
+Direct and Overlapping Property Tax Rates
+Principal Property Taxpayers
+Property Tax Levies and Collections
+Debt Capacity:
+Ratios of Outstanding Debt by Type
+Ratios of General Bonded Debt Outstanding
+Direct and Overlapping Governmental Activities Debt
+Legal Debt Margin Information
+Pledged-Revenue Coverage
+- 111 -
+Page
+Number
+132
+133
+134
+136
+137
+140
+141
+143
+144
+146
+150
+152
+154
+156
+158
+159
+160
+162
+164
+165
+166
+168
+
+
+City of Oceanside
+Comprehensive Annual Financial Report
+For the year ended June 30, 2008
+Table of Contents, Continued
+STATISTICAL SECTION (CONTINUED):
+Demographic and Economic Information:
+Demographic and Economic
+Principal Employers
+Operating Information:
+Full-Time Equivalent City Employees by Function/Program
+Operating Indicators by Function/Program
+Capital Assct Statistics by Function
+-IV -
+Page
+Number
+169
+170
+171
+172
+173
+
+
+INTRODUCTORY SECTION
+(UNAUDITED)
+
+
+
+
+December 9, 2008
+IIonorable Mayor, Members ofthe City Council, and Citizens of the City of Oceanside:
+I am pleased to submit the Comprehensive Annual Financial Report (CAFR) of the City
+of Oceanside (the City) for the fiscal year ended June 30, 2008.
+This report consists of management's representations concerning the finances of the City.
+Consequently, management assumes full
+responsibility for the completeness and
+reliability of all of the information presented in this report. To provide a reasonable basis
+for making these representations, management has established a comprehensive internal
+control framework that is designed both to protect the City's assets from loss, theft, or
+misuse and to compile sufficient reliable information for the preparation of the City's
+financial
+statements in conformity with generally accepted accounting principles
+(GAAP). Because the cost of internal controls should not outweigh their benefits, internal
+controls have been designed to provide reasonable rather than absolute assurance that the
+financial statements will be free trom material misstatements.
+The City's financial statements have been audited by Diehl, Evans & Company, LLP, a
+firm of certitied public accountants. The independent auditor concluded, based on the
+audit, that there was a reasonable basis for rendering an unqualified opinion on the City's
+financial statements for the fiscal year ended June 30, 2008. The independent auditor's
+report is presented as the first component of the financial section ofthis report.
+The Financial Section includes the Management's Discussion & Analysis (MD&A).
+GAAP requires that management provide a narrative, introduction, overview, and
+analysis to accompany the basic financial statements in the form of Management's
+Discussion and Analysis (MD&A). This letter of transmittal is designed to complement
+the MD&A and should be read in conjunction with it. The City of Oceanside's MD&A
+can be found immediately following the report of the independent auditors.
+City of Oceanside Profile
+The City of Oceanside (City) is a general law city that was incorporated on January 3,
+1888. It is located 35 miles north of San Diego and 83 miles south of Los Angeles. The
+City is located on the Pacific Ocean, offering a moderate climate that ranks as one of the
+most desirable in the nation. Oceanside boasts 3.5 miles of coastline, a harbor with over
+900 boat slips, and one of the longest wooden piers on the West Coast, measuring 1,942
+feet in length. The City occupies a land area of 42 square miles and provides a full range
+of services, including police, fire, library, water, sewer, street and other infrastructure
+-v-
+
+
+construction and maintenance, parks and recreation services. The City also maintains an
+airport and a small craft harbor.
+The population of Oceanside is estimated at 178,806, making it the third largest city in
+San Diego County. The median household income for the City is $65,785, just slightly
+behind the San Diego County median of $68,388.
+The City operates under the council-manager form of government. The City Council is
+responsible, among other things, for passing ordinances, adopting the budget, appointing
+committees, and hiring the City Manager and City Attorney. The City Manager is
+responsible for can'ying out the policies and ordinances of the Council, for overseeing the
+day-to-day operations of the City, and for appointing the heads of the various
+departments.
+The annual budget serves as the foundation for the City's financial planning and control.
+The City Manager presents the proposed two-year budget to the City Council for review
+prior to the beginning of the fiscal year. The City Council is required to hold public
+hearings on the proposed budget and to adopt a final budget no later than June 30, the
+close of the City's fiscal year. The budget is prepared according to fund and department
+(e.g., police). City Manager approval is required when transferring appropriations within
+a department, between departments, and from an operating account to a capital account.
+City Council approval is required on transfer ofappropriations between funds.
+The financial activities of the four legally separate entities for which the City serves as
+the governing body are also included in this report; the Oceanside Community
+Development Commission, which includes the Redevelopment Agency of the City of
+Oceanside, the Oceanside Small Craft Harbor District, the Oceanside Building Authority
+and the Oceanside Public Financing Authority. Additional information on these entities is
+contained in Note I to the Financial Statements.
+Economic Outlook
+San Diego County enjoys close proximity to the major economic centers of Los Angeles
+and Mexico, and a prominent shipping industry assures ready access to Pacific Rim
+markets.
+Since the decline of the defense industry in the early nineties, the county has
+been able to diversify into high-technology commercial endeavors, with growth in areas
+such
+as
+telecommunications,
+electronics,
+computers
+and
+biotechnology.
+Traffic
+congestion, water supply, sewage treatment capacity and solid waste disposal are
+challenges that are being studied by both the public and private sectors.
+Along with every city and government agency across the country, the City of Oceanside
+has been impacted by the national, state and local economic downturn. Coupled with the
+rising cost of personnel, fuel, utilities, materials and supplies, the City also anticipates a
+decline in the real estate tax revenue increases it has enjoyed over the past several years.
+In order to adjust to the changing financial climate, the City has initiated the development
+- VI -
+
+
+of a five-year foreeast for both revenue and expenditures to assist in long-range finaneial
+planning.
+As a well-established coastal community, Oeeanside continues to be a destination for
+retail, offiee and industrial development and these projects will help sustain the economic
+viability of the City in future years.
+Major Initiatives
+Enhance and Improve Downtown Oeeanside
+The Paeific Street Bridge, a City public infrastructure project, finished construction in
+2008. New developments that opened in 2008 include the Wyndham Vacation Resorts
+which has timeshares, and hotel rooms, a new restaurant called 333 Pacific, and
+commercial
+space.
+Oceanside
+Terraees,
+a
+mixed
+use
+development
+completed
+construction in 2008.
+Several retail shops opened in Oceanside Terraces including
+Harney Sushi, Red Cup Yogurt, Maui Coffee, and a clothing store.
+Ocean Village, a
+mixed use project completed in 2008 with a retail clothing store on the ground floor.
+City
+funded
+projects
+that
+will
+begin
+in
+2009
+include:
+Walkable
+Communities
+infrastructure design including bump outs, new street lights, and street furniture on
+Mission Avenue; downtown drainage improvements; designing new beach restrooms to
+increase capacity and renovating the beach amphitheatre; a new surface parking lot to
+provide beach parking; a request for qualifications to develop a 450 space vertical mixed
+use public parking garage in downtown near the train station.
+Promote Tourism
+The Marriott Residenee Inn opened in 2008 in Oeean Ranch Plaza with 125 rooms. A
+100 room hotel located on Carmclo Drive is under construction and should open in the
+fall 01'2009. The City approved a new resort hotel that will contain 289 hotel rooms, 47
+boutique hotel rooms, 48 timeshares and over 18,000 square feet of commercial space.
+The project should break ground by the end 01'2011.
+The City funded the expansion of the Oceanside Museum of Art that was completed in
+2008. The City is also funding the renovation of a City owned building which will house
+the expanded California Surf Museum.
+Both of these projects expand and enhance
+important cultural resources in the Downtown area for residents and visitors to the City.
+Job Retention, Expansion and Development
+The City is working to retain and expand existing businesses in the City through a variety
+of programs including a Business Visitation Program.
+Staff is available to businesses,
+property owners, brokers and developers to answer questions and assist them with
+development processing.
+A new Glass Enhancement Program is being designed and a
+Fayade Enhancement Program is in plaee for targeted areas to revitalize commereial
+buildings.
+- Vll -
+
+
+Retail Recruitmcnt
+Programs available for retail recruitment include a commercial property database,
+demographics, maps of new developments and customized research for retail property
+owners, developers, brokers and users.
+The City has an email based newsletter that is
+sent monthly to the development eommunity and attends and participates in many
+professional and community meetings, speaking engagements and trade shows to
+promote Occanside to brokers, developers and end users.
+Enhance the community
+The City of Oceanside is halfway through the Environmental Impact Review process to
+redevelop El Corazon, a 465-acre City-owned property.
+The proposed EI Corazon
+project would contain a mixture of land uses including: a 6 acre Senior Citizen Center,
+which began construction in 2008; natural open space at 150 acres; 160 acres of active
+park land; 6 acres for community public use; a 6 acre recreation center; a 16 acre green
+waste facility, 9 acres oftrails and pathways, and 55 acres for retail and hotel commercial
+uses.
+EI Corazon is immediately adjacent to a Sprinter Light Rail station and will
+enhance the Oceanside community with its mix ofuses.
+Oceanside was chosen by the Veterans Administration (VA) as the home for a new
+65,465 square foot clinic that will provide medical care for approximately 88,000 visits
+per year and 180 employees. The ground breaking was held in December 2008 with the
+project to be completed in early 20IO. City Fire Station #7 opened in 2008 at the corner
+of Highway 76 and Foussat. The City funded facility received the Bronze Carecr design
+award in the November 2008 issue of Fire Chiefmagazine.
+The City began a Master Planning effort for Coast Highway and the west end of
+Oceanside Boulevard by 1-5 areas.
+The goal is to develop plans that would revitalize
+these older, highway visible areas of Oceanside to help bring in new businesses and other
+amenities for residents and visitors.
+Other Information
+Spending Limitation: Proposition 4, known as the Gann Initiative, was passed in 1979 to
+limit government spending by capping the total proceeds of taxes that may be
+appropriated in a fiscal year. When a city excceds the limit, excess tax revenue must be
+returned to the citizens through refunds, rebates, or other means. The City is well below
+the established Gann limit of $276,142,621.
+Risk Management: The City has initiated self-insurance programs to provide for general
+liability and workers' compensation claims. The City belongs to a joint powers authority
+insurance pool to provide insurance coverage for payment of claims beyond its self-
+insured retention. The fund revenues are primarily premium charges to other funds based
+on past loss histories, as well as refunds from insurance premiums based on the City's
+annual loss history.
+- Vlll -
+
+
+GASH 45: Effective July 1,2007, the City of Oceanside was required to comply with the
+Government Accounting Standards Board Statement 45 (GASB 45) regarding the
+reporting of annual "other post employment benefits" (known as OPEB) cost and their
+unfunded actuarial accrued liabilities for past service costs.
+This will foster improved
+accountability and a better foundation for informed policy decisions about, for example,
+the level and types of benefits provided and potential methods of financing those benefits.
+Information on GASB 45 can be found under Note 13.
+Awards and Acknowledgements
+The Government Finance Officers Association (GFOA) awarded a Certificate of
+Achievement for Excellence in Financial Reporting to the City of Oceanside for its
+Comprehensive Annual Financial Report (CAFR) for the fiscal year ended June 30, 2007.
+The City received this award for publishing an easily readable and efficiently organized
+CAFR that satisfied both GAAP and applicable legal requirements.
+The preparation and publication of this report would not have been possible without the
+dedication, professionalism, and teamwork of the entire staff of the Financial Services
+Department. I would like to express my appreciation to all members of the department
+who assisted in its preparation. The City Council has continued to extend its support to
+the Financial Services Department in the planning of responsible and progressive
+financial operations. I would like to thank the Mayor, City Council and City Manager for
+their continued support for maintaining the highest standards of professionalism in the
+management ofthe City's finances.
+Re~~~
+Teri Ferro
+Director of Financial Services
+- ix -
+
+
+PRINCIPAL OFFICIALS
+AT
+JUNE 30, 2008
+CITY COUNCIL
+Jim Wood, Mayor
+Rocky Chavez, Deputy Mayor
+Jerome Kern, Council Member
+Jack Feller, Council Member
+Esther Sanchez, Council Member
+ADMINISTRATION AND DEPARTMENT HEADS
+City Manager
+City Attorney
+City Clerk
+City Treasurer
+Deputy City Manager
+Deputy City Manager
+Deputy City Manager
+Economic and Community Development Director
+Financial Services Director
+Fire Chief
+Harbor and Beaches Manager
+Housing & Neighborhood Services Director
+Library Director
+Human Resources Director
+Police Chief
+Deputy Public Works Director
+Water Utilities Director
+Interim Development Services Director
+ChiefInformation Technologies Officer
+- x -
+Peter A. Weiss
+John P. Mullen
+Barbara Riegel Wayne
+Rosemary R. Jones
+Michael J. Blessing
+Michelle Skaggs Lawrence
+Donald L. Hadley
+Jane D. McVey
+Teri Ferro
+Terry Garrison
+Ray Duncan
+Margery Pierce
+Deborah Polich
+Brian Kammerer
+Frank McCoy
+Joseph Arranaga
+Lonnie Thibodeaux
+Lauren Wasserman
+Michael Sherwood
+
+
+2::.
+CITY OF OCEANSIDE ORGANIZATIONAL CHART
+Citizens of Oceanside
+City Treasurer
+City Clerk
+Boards, Commissions
+City Council
+and Advisory Bodies
+City Attorney
+City Manager
+Deputy City Manager
+Deputy City Manager
+Deputy City Manager
+Information
+Public Works
+Technologies
+I
+I
+Library
+Fire
+Police
+Financial Services
+Water Utilities
+I
+I
+Neighborhood
+Economic and
+Harbor and
+Services
+Human Resources
+Community
+Development Services
+Beaches
+Development
+
+
+Certificate of
+Achievement
+for Excellence
+in Financial
+Reporting
+Presented to
+City of Oceanside
+California
+For its Comprehensive Annual
+Financial Report
+for the Fiscal Year Ended
+June 30, 2007
+A Certificate ofAchievement for Excellence in Financial
+Reporting is presented by the Government Finance Officers
+Association of the United States and Canada to
+government units and public employee retirement
+systems whose comprehensive anllualfinancial
+reports (CAFRs) achieve the highest
+standards in government accounting
+and financial reporting,
+President
+Executive Director
+- xu -
