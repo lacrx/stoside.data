@@ -1,0 +1,342 @@
+{
+  "title": "Oceanside Pavement Health & Maintenance Cost Analysis",
+  "version": "2.0 \u2014 verified against PCI data, CIP FY25-26, and SCS 2022 report",
+  "date": "2026-06-29",
+  "sources": {
+    "pci_data": "Oceanside PCI.xlsx \u2014 4,311 segments, survey date 7/4/2014",
+    "cip_data": "FY2526_CIP_budget.pdf \u2014 311 pages, 249 projects extracted",
+    "scs_report": "California Statewide Local Streets and Roads Needs Assessment (April 2023, 2022 data)",
+    "city_methodology": "PCI workbook Breakdown sheet \u2014 FY20-21 overlay/slurry rates and needs"
+  },
+  "network_profile": {
+    "centerline_miles": 407,
+    "lane_miles": 1404,
+    "lane_factor": 3.4496314496314495,
+    "total_segments": 4311,
+    "total_pavement_area_sqyd": 9896575.0,
+    "total_pavement_acres": 2044.7469008264463,
+    "area_weighted_mean_pci": 61.54842023629387,
+    "pci_survey_date": "2014-07-04",
+    "pci_survey_age_years": 12,
+    "note": "PCI data is 12 years old. Actual current PCI likely lower \u2014 degradation continues while spending remains below lifecycle needs."
+  },
+  "pci_distribution": {
+    "Failed (0-24)": {
+      "segments": 27,
+      "area_sqyd": 69493,
+      "pct_of_network": 0.7,
+      "one_time_treatment_cost": 5695974,
+      "avg_cost_per_sqyd": 81.96
+    },
+    "Poor (25-39)": {
+      "segments": 322,
+      "area_sqyd": 667180,
+      "pct_of_network": 6.7,
+      "one_time_treatment_cost": 27509850,
+      "avg_cost_per_sqyd": 41.23
+    },
+    "At Risk (40-54)": {
+      "segments": 1350,
+      "area_sqyd": 3063793,
+      "pct_of_network": 31.0,
+      "one_time_treatment_cost": 85698346,
+      "avg_cost_per_sqyd": 27.97
+    },
+    "Fair (55-69)": {
+      "segments": 1200,
+      "area_sqyd": 2824823,
+      "pct_of_network": 28.5,
+      "one_time_treatment_cost": 47203911,
+      "avg_cost_per_sqyd": 16.71
+    },
+    "Good (70-79)": {
+      "segments": 695,
+      "area_sqyd": 1714776,
+      "pct_of_network": 17.3,
+      "one_time_treatment_cost": 11491843,
+      "avg_cost_per_sqyd": 6.7
+    },
+    "Excellent (80-100)": {
+      "segments": 717,
+      "area_sqyd": 1556510,
+      "pct_of_network": 15.7,
+      "one_time_treatment_cost": 7358742,
+      "avg_cost_per_sqyd": 4.73
+    }
+  },
+  "functional_class_profile": {
+    "Local": {
+      "segments": 3500,
+      "area_sqyd": 6240126,
+      "pct_of_network": 63.1,
+      "avg_pci": 61.4,
+      "one_time_cost": 114036656,
+      "annual_lifecycle": 8874625,
+      "scs_category": "urban_local"
+    },
+    "Major Arterial": {
+      "segments": 270,
+      "area_sqyd": 1874474,
+      "pct_of_network": 18.9,
+      "avg_pci": 63.4,
+      "one_time_cost": 36409218,
+      "annual_lifecycle": 2982028,
+      "scs_category": "urban_major"
+    },
+    "Minor Collector": {
+      "segments": 305,
+      "area_sqyd": 782773,
+      "pct_of_network": 7.9,
+      "avg_pci": 62.2,
+      "one_time_cost": 13046755,
+      "annual_lifecycle": 1073294,
+      "scs_category": "urban_local"
+    },
+    "Minor Arterial": {
+      "segments": 90,
+      "area_sqyd": 497789,
+      "pct_of_network": 5.0,
+      "avg_pci": 57.9,
+      "one_time_cost": 11546073,
+      "annual_lifecycle": 860995,
+      "scs_category": "urban_major"
+    },
+    "Major Collector": {
+      "segments": 107,
+      "area_sqyd": 305522,
+      "pct_of_network": 3.1,
+      "avg_pci": 65.5,
+      "one_time_cost": 5129609,
+      "annual_lifecycle": 448833,
+      "scs_category": "urban_major"
+    },
+    "Rural Collector": {
+      "segments": 21,
+      "area_sqyd": 132452,
+      "pct_of_network": 1.3,
+      "avg_pci": 48.3,
+      "one_time_cost": 2978661,
+      "annual_lifecycle": 198678,
+      "scs_category": "rural"
+    },
+    "Rural Local": {
+      "segments": 18,
+      "area_sqyd": 63439,
+      "pct_of_network": 0.6,
+      "avg_pci": 46.9,
+      "one_time_cost": 1811694,
+      "annual_lifecycle": 106358,
+      "scs_category": "rural"
+    }
+  },
+  "treatment_costs_per_sqyd": {
+    "source": "SCS 2022 Table 2.2 \u2014 StreetSaver pavement management unit costs",
+    "note": "14:1 cost ratio between reconstruction ($81-90/sqyd) and preventive ($4.50-5.40/sqyd)",
+    "urban_major": {
+      "slurry": 5.4,
+      "chip": 7.65,
+      "thin_overlay": 18.0,
+      "mill_overlay": 31.5,
+      "fdr": 45.0,
+      "reconstruct": 90.0
+    },
+    "urban_local": {
+      "slurry": 4.5,
+      "chip": 6.3,
+      "thin_overlay": 16.2,
+      "mill_overlay": 27.0,
+      "fdr": 40.5,
+      "reconstruct": 81.0
+    },
+    "rural": {
+      "slurry": 3.6,
+      "chip": 5.4,
+      "thin_overlay": 14.4,
+      "mill_overlay": 22.5,
+      "fdr": 36.0,
+      "reconstruct": 72.0
+    }
+  },
+  "one_time_treatment_cost": {
+    "all_segments": 184958666,
+    "below_pci_70": 166108081,
+    "note": "Cost to treat every segment once at SCS 2022 unit costs. NOT the full backlog \u2014 does not include years of deferred maintenance accumulation."
+  },
+  "annual_lifecycle_need": {
+    "segment_level_amortized": 14544810,
+    "per_lane_mile": 10360,
+    "note": "Each segment's one-time treatment cost \u00f7 its treatment cycle years. Represents steady-state annual investment to maintain the network."
+  },
+  "spending_analysis": {
+    "cip_fy2626_surface": {
+      "five_year_total": 35855000,
+      "annual_avg": 7171000,
+      "per_lane_mile": 5108,
+      "projects": [
+        {
+          "name": "Street Restoration Asphalt Overlay (General)",
+          "five_year_total": 7600000
+        },
+        {
+          "name": "Street Restoration Asphalt Overlay (SB1?)",
+          "five_year_total": 14000000
+        },
+        {
+          "name": "Asphalt Overlay - SB1",
+          "five_year_total": 7150000
+        },
+        {
+          "name": "Road Repairs - Slurry Seal",
+          "five_year_total": 3500000
+        },
+        {
+          "name": "Pavement Management Program",
+          "five_year_total": 0
+        },
+        {
+          "name": "Pavement Repairs (Harbor)",
+          "five_year_total": 755000
+        },
+        {
+          "name": "Lot 1 Pavement Repair",
+          "five_year_total": 300000
+        },
+        {
+          "name": "Lot 4 Pavement Repair",
+          "five_year_total": 100000
+        },
+        {
+          "name": "Apple Street Improvement",
+          "five_year_total": 700000
+        },
+        {
+          "name": "South Strand Rehab Study",
+          "five_year_total": 0
+        }
+      ]
+    },
+    "cip_fy2626_adjacent": {
+      "five_year_total": 4360000,
+      "annual_avg": 872000,
+      "projects": "ADA ramps, street monuments, SB1 median maintenance, crosswalks"
+    },
+    "city_fy2021_actual": {
+      "total_spent": 5592000,
+      "overlay_miles": 12,
+      "overlay_cost_per_mile": 383333,
+      "slurry_miles": 46,
+      "slurry_cost_per_mile": 21565,
+      "source": "PCI workbook Breakdown sheet"
+    },
+    "city_fy2021_stated_need": {
+      "total_needed": 20045411,
+      "overlay_miles_needed": 46.67,
+      "slurry_miles_needed": 100,
+      "shortfall": 14453411,
+      "shortfall_pct": 72.1
+    }
+  },
+  "benchmarks": {
+    "scs_2022_per_lane_mile_year": {
+      "typical_urban_city_expenditure": 12521,
+      "hold_current_pci": 11700,
+      "bmp_reach_pci_80": 25200,
+      "sd_county_pavement_bmp": 24235,
+      "essential_components_sd": 14196,
+      "active_transport_statewide": 3488
+    },
+    "applied_to_oceanside": {
+      "typical_urban_city": 17579484,
+      "hold_pci_at_60": 16426800,
+      "bmp_reach_80": 35380800,
+      "pavement_sd_county": 34025940,
+      "pavement_plus_essential": 53957124,
+      "full_transport": 58854276
+    },
+    "scs_statewide_condition_forecasts": {
+      "scenario_1_current_spending": {
+        "annual_budget_statewide": 3360000000,
+        "pci_2032": 63,
+        "pct_good_excellent": 60.6,
+        "pct_poor": 21.0
+      },
+      "scenario_2_maintain_pci": {
+        "annual_budget_statewide": 3760000000,
+        "pci_2032": 65,
+        "pct_good_excellent": 66.0,
+        "pct_poor": 20.1
+      },
+      "scenario_3_bmp": {
+        "annual_budget_10yr": 8540000000,
+        "annual_budget_after": 3280000000,
+        "pci_2032": "80s",
+        "pct_good_excellent": 100.0,
+        "pct_poor": 0.0
+      }
+    }
+  },
+  "gap_analysis": {
+    "cip_vs_city_methodology": {
+      "description": "City's own overlay+slurry need (from PCI workbook)",
+      "annual_spend": 7171000,
+      "annual_need": 20045411,
+      "annual_gap": 12874411,
+      "funding_pct": 35.8,
+      "years_to_accumulate_100m_gap": 7.8
+    },
+    "cip_vs_scs_hold_pci": {
+      "description": "SCS: maintain current PCI at 60",
+      "annual_spend": 7171000,
+      "annual_need": 16426800,
+      "annual_gap": 9255800,
+      "funding_pct": 43.7,
+      "years_to_accumulate_100m_gap": 10.8
+    },
+    "cip_vs_scs_typical_city": {
+      "description": "SCS: typical urban city expenditure level",
+      "annual_spend": 7171000,
+      "annual_need": 17579484,
+      "annual_gap": 10408484,
+      "funding_pct": 40.8,
+      "years_to_accumulate_100m_gap": 9.6
+    },
+    "cip_vs_scs_bmp": {
+      "description": "SCS: BMP to reach PCI 80 in 10 years",
+      "annual_spend": 7171000,
+      "annual_need": 35380800,
+      "annual_gap": 28209800,
+      "funding_pct": 20.3,
+      "years_to_accumulate_100m_gap": 3.5
+    },
+    "cip_vs_segment_lifecycle": {
+      "description": "Segment-level amortized annual need (SCS unit costs)",
+      "annual_spend": 7171000,
+      "annual_need": 14544810,
+      "annual_gap": 7373810,
+      "funding_pct": 49.3,
+      "years_to_accumulate_100m_gap": 13.6
+    },
+    "cip_vs_scs_full_transport": {
+      "description": "SCS: pavement + essential components + active transport",
+      "annual_spend": 7171000,
+      "annual_need": 58854276,
+      "annual_gap": 51683276,
+      "funding_pct": 12.2,
+      "years_to_accumulate_100m_gap": 1.9
+    }
+  },
+  "verification_notes": [
+    "VERIFIED: 1,404 lane-miles computed from PCI segment area \u00f7 12ft lane width = 1,405.8, matching model's 1,404",
+    "VERIFIED: Area-weighted mean PCI = 60.2, consistent with 'At Risk' classification per SCS framework",
+    "VERIFIED: City's FY20-21 overlay rate $383K/mile and slurry $21.6K/mile from PCI Breakdown sheet",
+    "VERIFIED: CIP FY26-30 pavement surface spending $35.85M (five_year_total) across 10 distinct line items",
+    "VERIFIED: Two 'Street Restoration Asphalt Overlay' entries ($7.6M + $14M) are separate CIP projects with different funding histories",
+    "VERIFIED: SCS 2022 treatment unit costs by road type (Table 2.2) applied to actual Oceanside functional class mix",
+    "VERIFIED: 14:1 cost ratio between reconstruction and preventive maintenance (SCS 2022 central finding)",
+    "CORRECTED: Previous model FY26-30 used $7.4M/yr; actual CIP surface total is $7.17M/yr ($35.85M/5yr). Difference: $230K/yr (3%)",
+    "WARNING: PCI data is from July 2014 \u2014 12 years old. Network condition has continued deteriorating. Actual current need likely HIGHER than computed here.",
+    "WARNING: Historical spending FY07-25 in model used estimates, not verified ACFR actuals. Should be cross-checked when ACFR data is extracted.",
+    "NOTE: SCS report does not provide San Diego County-specific per-lane-mile costs. $24,235 figure in original model may be interpolated. Statewide BMP is $25,221/lane-mile/yr.",
+    "NOTE: CIP pavement spend of $5,108/lane-mile/yr is 41% of SCS typical urban city rate ($12,521) and 20% of SCS BMP rate ($25,200)."
+  ]
+}

@@ -1,0 +1,47 @@
+# Source PDFs — download via scripts, don't track
+**/pdfs/
+**/raw_pdfs/*.pdf
+
+# Rendered PDF pages (intermediate OCR artifacts)
+**/*_pages/
+
+# Generated databases
+*.sqlite
+*.sqlite3
+*.db
+*.duckdb
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE / agent tooling
+.claude/
+.mcp.json
+
+# Large binary formats
+*.gpkg
+*.geojson
+*.pmtiles
+*.pbf
+*.parquet
+
+# Downloaded GIS source data
+**/raw_data/
+
+# Large per-parcel datasets (regenerable from scripts)
+fiscal_analysis/revenue_per_acre.json
+fiscal_analysis/parcels_*.json
+fiscal_analysis/water_sewer_costs_by_parcel.json
+fiscal_analysis/road_costs_by_parcel.json
+fiscal_analysis/fiscal_productivity.json
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz

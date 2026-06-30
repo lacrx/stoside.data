@@ -1,0 +1,167 @@
+{
+  "methodology": {
+    "capital_attribution": "buffer pipe segments 150ft, attribute by parcel boundary intersection length",
+    "capital_cost_basis": "RSMeans 2023 replacement cost per LF by diameter, annualized over useful life by material",
+    "operating_attribution": "EDU (equivalent dwelling unit) by land use type",
+    "water_om_per_edu": 500,
+    "sewer_om_per_edu": 400,
+    "buffer_ft": 150,
+    "note": "Does not include stormwater. O&M rates are estimates pending actual utility budget data."
+  },
+  "totals": {
+    "water_capital_annual": 4877693,
+    "water_om_annual": 42086841,
+    "water_total_annual": 46964534,
+    "sewer_capital_annual": 7931731,
+    "sewer_om_annual": 33669473,
+    "sewer_total_annual": 41601204,
+    "combined_annual": 88565738,
+    "parcels_with_water_cost": 61555,
+    "parcels_with_sewer_cost": 61508
+  },
+  "pipe_inventory": {
+    "water_segments": 31275,
+    "water_miles": 669.1,
+    "water_replacement_value": 433542686,
+    "sewer_segments": 13351,
+    "sewer_miles": 500.1,
+    "sewer_replacement_value": 637363512
+  },
+  "by_land_use": [
+    {
+      "category": "Industrial",
+      "count": 4584,
+      "total_acres": 326.5,
+      "water_annual": 5105096,
+      "sewer_annual": 4066139,
+      "combined_annual": 9171235,
+      "cost_per_acre": 28087
+    },
+    {
+      "category": "MFR",
+      "count": 9212,
+      "total_acres": 1344.1,
+      "water_annual": 8198737,
+      "sewer_annual": 10990220,
+      "combined_annual": 19188956,
+      "cost_per_acre": 14276
+    },
+    {
+      "category": "Commercial",
+      "count": 2144,
+      "total_acres": 1131.1,
+      "water_annual": 7501846,
+      "sewer_annual": 5947653,
+      "combined_annual": 13449500,
+      "cost_per_acre": 11890
+    },
+    {
+      "category": "SFR",
+      "count": 41416,
+      "total_acres": 8304.0,
+      "water_annual": 23787781,
+      "sewer_annual": 18585408,
+      "combined_annual": 42373188,
+      "cost_per_acre": 5103
+    },
+    {
+      "category": "Mixed Use",
+      "count": 288,
+      "total_acres": 253.6,
+      "water_annual": 214441,
+      "sewer_annual": 328221,
+      "combined_annual": 542661,
+      "cost_per_acre": 2140
+    },
+    {
+      "category": "Government",
+      "count": 97,
+      "total_acres": 464.4,
+      "water_annual": 426961,
+      "sewer_annual": 327128,
+      "combined_annual": 754089,
+      "cost_per_acre": 1624
+    },
+    {
+      "category": "Agricultural",
+      "count": 647,
+      "total_acres": 1061.5,
+      "water_annual": 849834,
+      "sewer_annual": 623627,
+      "combined_annual": 1473461,
+      "cost_per_acre": 1388
+    },
+    {
+      "category": "Unknown",
+      "count": 2,
+      "total_acres": 1.1,
+      "water_annual": 766,
+      "sewer_annual": 625,
+      "combined_annual": 1392,
+      "cost_per_acre": 1245
+    },
+    {
+      "category": "Other",
+      "count": 1,
+      "total_acres": 2.7,
+      "water_annual": 2547,
+      "sewer_annual": 542,
+      "combined_annual": 3089,
+      "cost_per_acre": 1124
+    },
+    {
+      "category": "Recreation",
+      "count": 2,
+      "total_acres": 1.1,
+      "water_annual": 498,
+      "sewer_annual": 324,
+      "combined_annual": 822,
+      "cost_per_acre": 755
+    },
+    {
+      "category": "Common Area",
+      "count": 859,
+      "total_acres": 1819.9,
+      "water_annual": 306479,
+      "sewer_annual": 272016,
+      "combined_annual": 578495,
+      "cost_per_acre": 318
+    },
+    {
+      "category": "Exempt",
+      "count": 96,
+      "total_acres": 287.0,
+      "water_annual": 27302,
+      "sewer_annual": 13724,
+      "combined_annual": 41026,
+      "cost_per_acre": 143
+    },
+    {
+      "category": "Institutional",
+      "count": 74,
+      "total_acres": 1564.2,
+      "water_annual": 116290,
+      "sewer_annual": 70829,
+      "combined_annual": 187119,
+      "cost_per_acre": 120
+    },
+    {
+      "category": "Open Space",
+      "count": 76,
+      "total_acres": 387.2,
+      "water_annual": 23689,
+      "sewer_annual": 19462,
+      "combined_annual": 43152,
+      "cost_per_acre": 111
+    },
+    {
+      "category": "Vacant",
+      "count": 2297,
+      "total_acres": 29322.8,
+      "water_annual": 402275,
+      "sewer_annual": 355286,
+      "combined_annual": 757561,
+      "cost_per_acre": 26
+    }
+  ]
+}

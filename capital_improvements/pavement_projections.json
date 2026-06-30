@@ -1,0 +1,59 @@
+{
+  "title": "Oceanside Pavement Condition Projections \u2014 Calibrated Model",
+  "methodology": "Bin-based PCI degradation model with 1-point resolution. Calibrated against city's FY20-21 actual treatment data: 12 mi overlay ($4.6M, +35 PCI pts) + 46 mi slurry ($992K, +8 PCI pts). Historical spending 2014-2025 from existing model estimates, then scenario spending 2026-2035. Overlay applied worst-first, slurry applied preventively to fair/good roads.",
+  "key_assumptions": {
+    "degradation_rates_pci_per_year": {
+      "excellent_80_100": 1.3,
+      "good_70_79": 1.8,
+      "fair_55_69": 2.2,
+      "at_risk_40_54": 3.0,
+      "poor_25_39": 3.5,
+      "failed_0_24": 1.0
+    },
+    "treatment_effectiveness": {
+      "overlay_pci_boost": 35,
+      "slurry_pci_boost": 8,
+      "overlay_sqyd_per_5_59M": 291648,
+      "slurry_sqyd_per_5_59M": 998880
+    },
+    "caveats": [
+      "PCI data from July 2014 \u2014 12 years old. Model starts there and simulates forward.",
+      "Historical spending estimates (FY14-25) are approximations, not verified from ACFRs.",
+      "Model assumes worst-first overlay strategy, which cities don't always follow.",
+      "No inflation adjustment \u2014 all costs in constant 2022 dollars.",
+      "Degradation rates are estimates \u2014 actual rates vary by base material, traffic, climate.",
+      "Model shows bimodal distribution (patchwork effect) which is realistic for underfunded programs."
+    ]
+  },
+  "spending_gap_summary": {
+    "current_cip_annual": 7171000,
+    "minimum_to_hold_condition": 14500000,
+    "city_engineer_stated_need": 20045411,
+    "scs_bmp_to_fix_in_10yr": 35380800,
+    "annual_underspending_range": "7.3M - 12.9M below maintenance level",
+    "annual_underspending_vs_bmp": "28.2M below repair level",
+    "pct_of_need_funded": "36-49% of maintenance need, 20% of repair need"
+  },
+  "2035_comparison": {
+    "current_7_2M": {
+      "pci": 64.4,
+      "failed_poor_pct": 27.2,
+      "good_excellent_pct": 55.1
+    },
+    "double_14_3M": {
+      "pci": 73.0,
+      "failed_poor_pct": 7.2,
+      "good_excellent_pct": 61.6
+    },
+    "city_need_20M": {
+      "pci": 82.8,
+      "failed_poor_pct": 0.0,
+      "good_excellent_pct": 84.5
+    },
+    "scs_bmp_35_4M": {
+      "pci": 88.5,
+      "failed_poor_pct": 0.0,
+      "good_excellent_pct": 100.0
+    }
+  }
+}

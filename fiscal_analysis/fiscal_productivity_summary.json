@@ -1,0 +1,524 @@
+{
+  "methodology": {
+    "revenue": "property_tax_only (assessed_value \u00d7 1% \u00d7 16% city share)",
+    "costs_included": [
+      "road_maintenance (PCI lifecycle)",
+      "water_infrastructure",
+      "sewer_infrastructure"
+    ],
+    "costs_not_included": [
+      "stormwater",
+      "fire",
+      "police",
+      "parks",
+      "general_government",
+      "sales_tax_revenue",
+      "TOT",
+      "franchise_fees"
+    ],
+    "note": "Partial model \u2014 includes ~40-50% of city costs and ~50-60% of city revenue. Net values will shift as more cost/revenue categories are added."
+  },
+  "totals": {
+    "total_parcels": 61795,
+    "taxable_parcels": 54410,
+    "total_revenue": 50365334,
+    "total_cost": 96556925,
+    "total_net": -46191591,
+    "cost_breakdown": {
+      "roads": 17514678,
+      "water": 41777146,
+      "sewer": 37265101
+    },
+    "net_contributors": 9505,
+    "net_drains": 44905,
+    "pct_contributors": 17.5
+  },
+  "distribution": {
+    "net_per_acre": {
+      "p5": -16270,
+      "p10": -11641,
+      "p25": -6854,
+      "p50": -3429,
+      "p75": -797,
+      "p90": 1230,
+      "p95": 3433
+    },
+    "fiscal_ratio": {
+      "p5": 0.12,
+      "p10": 0.19,
+      "p25": 0.33,
+      "p50": 0.56,
+      "p75": 0.87,
+      "p90": 1.22,
+      "p95": 1.58
+    }
+  },
+  "by_land_use": [
+    {
+      "category": "Recreation",
+      "count": 2,
+      "total_acres": 1.3,
+      "total_revenue": 1113,
+      "total_cost": 845,
+      "total_net": 269,
+      "avg_net_per_acre": 1129,
+      "median_net_per_acre": 1129,
+      "median_fiscal_ratio": 1.03,
+      "pct_contributors": 50.0,
+      "revenue_per_acre": 836,
+      "cost_per_acre": 634
+    },
+    {
+      "category": "Exempt",
+      "count": 48,
+      "total_acres": 253.6,
+      "total_revenue": 23828,
+      "total_cost": 82735,
+      "total_net": -58907,
+      "avg_net_per_acre": 2546,
+      "median_net_per_acre": 862,
+      "median_fiscal_ratio": 8.89,
+      "pct_contributors": 60.4,
+      "revenue_per_acre": 94,
+      "cost_per_acre": 326
+    },
+    {
+      "category": "Agricultural",
+      "count": 638,
+      "total_acres": 1063.4,
+      "total_revenue": 2924508,
+      "total_cost": 1982013,
+      "total_net": 942494,
+      "avg_net_per_acre": 229,
+      "median_net_per_acre": 584,
+      "median_fiscal_ratio": 1.23,
+      "pct_contributors": 61.6,
+      "revenue_per_acre": 2750,
+      "cost_per_acre": 1864
+    },
+    {
+      "category": "Vacant",
+      "count": 1678,
+      "total_acres": 208.5,
+      "total_revenue": 338188,
+      "total_cost": 178151,
+      "total_net": 160037,
+      "avg_net_per_acre": 963,
+      "median_net_per_acre": 556,
+      "median_fiscal_ratio": 1.66,
+      "pct_contributors": 71.2,
+      "revenue_per_acre": 1622,
+      "cost_per_acre": 855
+    },
+    {
+      "category": "Common Area",
+      "count": 22,
+      "total_acres": 404.2,
+      "total_revenue": 25718,
+      "total_cost": 59015,
+      "total_net": -33297,
+      "avg_net_per_acre": -4780,
+      "median_net_per_acre": -75,
+      "median_fiscal_ratio": 0.45,
+      "pct_contributors": 36.4,
+      "revenue_per_acre": 64,
+      "cost_per_acre": 146
+    },
+    {
+      "category": "Unknown",
+      "count": 2,
+      "total_acres": 1.1,
+      "total_revenue": 3747,
+      "total_cost": 3276,
+      "total_net": 471,
+      "avg_net_per_acre": -119,
+      "median_net_per_acre": -119,
+      "median_fiscal_ratio": 2.02,
+      "pct_contributors": 50.0,
+      "revenue_per_acre": 3329,
+      "cost_per_acre": 2911
+    },
+    {
+      "category": "Institutional",
+      "count": 74,
+      "total_acres": 1564.3,
+      "total_revenue": 106142,
+      "total_cost": 359836,
+      "total_net": -253693,
+      "avg_net_per_acre": -381,
+      "median_net_per_acre": -216,
+      "median_fiscal_ratio": 0.24,
+      "pct_contributors": 9.5,
+      "revenue_per_acre": 68,
+      "cost_per_acre": 230
+    },
+    {
+      "category": "Open Space",
+      "count": 64,
+      "total_acres": 391.7,
+      "total_revenue": 143783,
+      "total_cost": 59243,
+      "total_net": 84540,
+      "avg_net_per_acre": 156,
+      "median_net_per_acre": -511,
+      "median_fiscal_ratio": 0.12,
+      "pct_contributors": 23.4,
+      "revenue_per_acre": 367,
+      "cost_per_acre": 151
+    },
+    {
+      "category": "Other",
+      "count": 1,
+      "total_acres": 2.8,
+      "total_revenue": 119,
+      "total_cost": 4669,
+      "total_net": -4551,
+      "avg_net_per_acre": -1655,
+      "median_net_per_acre": -1655,
+      "median_fiscal_ratio": 0.03,
+      "pct_contributors": 0.0,
+      "revenue_per_acre": 43,
+      "cost_per_acre": 1698
+    },
+    {
+      "category": "Government",
+      "count": 95,
+      "total_acres": 456.5,
+      "total_revenue": 311683,
+      "total_cost": 861084,
+      "total_net": -549401,
+      "avg_net_per_acre": -6502,
+      "median_net_per_acre": -2525,
+      "median_fiscal_ratio": 0.29,
+      "pct_contributors": 10.5,
+      "revenue_per_acre": 683,
+      "cost_per_acre": 1886
+    },
+    {
+      "category": "SFR",
+      "count": 41332,
+      "total_acres": 8355.8,
+      "total_revenue": 31699078,
+      "total_cost": 54410077,
+      "total_net": -22710998,
+      "avg_net_per_acre": -4270,
+      "median_net_per_acre": -3535,
+      "median_fiscal_ratio": 0.54,
+      "pct_contributors": 13.6,
+      "revenue_per_acre": 3794,
+      "cost_per_acre": 6512
+    },
+    {
+      "category": "MFR",
+      "count": 9198,
+      "total_acres": 1344.5,
+      "total_revenue": 9886260,
+      "total_cost": 21203159,
+      "total_net": -11316899,
+      "avg_net_per_acre": -6810,
+      "median_net_per_acre": -3907,
+      "median_fiscal_ratio": 0.67,
+      "pct_contributors": 23.6,
+      "revenue_per_acre": 7353,
+      "cost_per_acre": 15770
+    },
+    {
+      "category": "Mixed Use",
+      "count": 64,
+      "total_acres": 126.5,
+      "total_revenue": 10979,
+      "total_cost": 151508,
+      "total_net": -140529,
+      "avg_net_per_acre": -21483,
+      "median_net_per_acre": -6151,
+      "median_fiscal_ratio": 0.03,
+      "pct_contributors": 3.1,
+      "revenue_per_acre": 87,
+      "cost_per_acre": 1197
+    },
+    {
+      "category": "Industrial",
+      "count": 444,
+      "total_acres": 575.0,
+      "total_revenue": 1329262,
+      "total_cost": 3632379,
+      "total_net": -2303117,
+      "avg_net_per_acre": -22388,
+      "median_net_per_acre": -15930,
+      "median_fiscal_ratio": 0.24,
+      "pct_contributors": 6.3,
+      "revenue_per_acre": 2312,
+      "cost_per_acre": 6317
+    },
+    {
+      "category": "Commercial",
+      "count": 748,
+      "total_acres": 905.5,
+      "total_revenue": 3560926,
+      "total_cost": 13568935,
+      "total_net": -10008010,
+      "avg_net_per_acre": -24255,
+      "median_net_per_acre": -16222,
+      "median_fiscal_ratio": 0.23,
+      "pct_contributors": 5.1,
+      "revenue_per_acre": 3933,
+      "cost_per_acre": 14985
+    }
+  ],
+  "cross_subsidy": [
+    {
+      "category": "Agricultural",
+      "net_fiscal_impact": 942494,
+      "role": "net contributor",
+      "magnitude": 942494
+    },
+    {
+      "category": "Vacant",
+      "net_fiscal_impact": 160037,
+      "role": "net contributor",
+      "magnitude": 160037
+    },
+    {
+      "category": "Open Space",
+      "net_fiscal_impact": 84540,
+      "role": "net contributor",
+      "magnitude": 84540
+    },
+    {
+      "category": "Unknown",
+      "net_fiscal_impact": 471,
+      "role": "net contributor",
+      "magnitude": 471
+    },
+    {
+      "category": "Recreation",
+      "net_fiscal_impact": 269,
+      "role": "net contributor",
+      "magnitude": 269
+    },
+    {
+      "category": "Other",
+      "net_fiscal_impact": -4551,
+      "role": "net recipient",
+      "magnitude": 4551
+    },
+    {
+      "category": "Common Area",
+      "net_fiscal_impact": -33297,
+      "role": "net recipient",
+      "magnitude": 33297
+    },
+    {
+      "category": "Exempt",
+      "net_fiscal_impact": -58907,
+      "role": "net recipient",
+      "magnitude": 58907
+    },
+    {
+      "category": "Mixed Use",
+      "net_fiscal_impact": -140529,
+      "role": "net recipient",
+      "magnitude": 140529
+    },
+    {
+      "category": "Institutional",
+      "net_fiscal_impact": -253693,
+      "role": "net recipient",
+      "magnitude": 253693
+    },
+    {
+      "category": "Government",
+      "net_fiscal_impact": -549401,
+      "role": "net recipient",
+      "magnitude": 549401
+    },
+    {
+      "category": "Industrial",
+      "net_fiscal_impact": -2303117,
+      "role": "net recipient",
+      "magnitude": 2303117
+    },
+    {
+      "category": "Commercial",
+      "net_fiscal_impact": -10008010,
+      "role": "net recipient",
+      "magnitude": 10008010
+    },
+    {
+      "category": "MFR",
+      "net_fiscal_impact": -11316899,
+      "role": "net recipient",
+      "magnitude": 11316899
+    },
+    {
+      "category": "SFR",
+      "net_fiscal_impact": -22710998,
+      "role": "net recipient",
+      "magnitude": 22710998
+    }
+  ],
+  "top_parcels": [
+    {
+      "apn": "1500720507",
+      "address": "213 PACIFIC",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0192,
+      "net_per_acre": 121032.81,
+      "fiscal_ratio": 3.638
+    },
+    {
+      "apn": "1472711557",
+      "address": "301 MISSION",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0151,
+      "net_per_acre": 104664.24,
+      "fiscal_ratio": 3.136
+    },
+    {
+      "apn": "1431705810",
+      "address": "999 PACIFIC",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0159,
+      "net_per_acre": 103291.82,
+      "fiscal_ratio": 3.387
+    },
+    {
+      "apn": "1432600542",
+      "address": "1021 COSTA PACIFICA",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0161,
+      "net_per_acre": 98878.88,
+      "fiscal_ratio": 3.325
+    },
+    {
+      "apn": "1530124802",
+      "address": "0 PACIFIC",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0314,
+      "net_per_acre": 98662.74,
+      "fiscal_ratio": 5.361
+    },
+    {
+      "apn": "1432600112",
+      "address": "1019 COSTA PACIFICA",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0181,
+      "net_per_acre": 98508.84,
+      "fiscal_ratio": 3.558
+    },
+    {
+      "apn": "1430103267",
+      "address": "1200 HARBOR",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0183,
+      "net_per_acre": 97385.25,
+      "fiscal_ratio": 3.343
+    },
+    {
+      "apn": "1532502100",
+      "address": "1819 PACIFIC",
+      "land_use": "SFR - Standard",
+      "acres": 0.103,
+      "net_per_acre": 96823.11,
+      "fiscal_ratio": 11.001
+    },
+    {
+      "apn": "1472711558",
+      "address": "301 MISSION",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0151,
+      "net_per_acre": 95857.62,
+      "fiscal_ratio": 2.956
+    },
+    {
+      "apn": "1472711555",
+      "address": "301 MISSION",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0151,
+      "net_per_acre": 94317.22,
+      "fiscal_ratio": 2.925
+    }
+  ],
+  "bottom_parcels": [
+    {
+      "apn": "1470821734",
+      "address": "401 COAST",
+      "land_use": "Commercial - Retail",
+      "acres": 0.0199,
+      "net_per_acre": -684583.42,
+      "fiscal_ratio": 0.303
+    },
+    {
+      "apn": "1606901412",
+      "address": "4321 STAR PATH",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -433530.32,
+      "fiscal_ratio": 0.016
+    },
+    {
+      "apn": "1606901433",
+      "address": "4347 HARBOR",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -428191.1,
+      "fiscal_ratio": 0.028
+    },
+    {
+      "apn": "1606901418",
+      "address": "4326 STAR PATH",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -428098.34,
+      "fiscal_ratio": 0.028
+    },
+    {
+      "apn": "1606901426",
+      "address": "4346 NAUTILUS",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -427847.36,
+      "fiscal_ratio": 0.029
+    },
+    {
+      "apn": "1606901423",
+      "address": "4331 HARBOR",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -427794.42,
+      "fiscal_ratio": 0.029
+    },
+    {
+      "apn": "1606901434",
+      "address": "4347 HARBOR",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -427741.48,
+      "fiscal_ratio": 0.029
+    },
+    {
+      "apn": "1606901415",
+      "address": "4326 STAR PATH",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -427658.37,
+      "fiscal_ratio": 0.029
+    },
+    {
+      "apn": "1606901406",
+      "address": "4314 STAR PATH",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -427557.01,
+      "fiscal_ratio": 0.03
+    },
+    {
+      "apn": "1606901422",
+      "address": "4331 HARBOR",
+      "land_use": "Condo / Townhome",
+      "acres": 0.0663,
+      "net_per_acre": -427557.01,
+      "fiscal_ratio": 0.03
+    }
+  ]
+}

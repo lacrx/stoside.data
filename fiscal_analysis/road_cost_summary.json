@@ -1,0 +1,169 @@
+{
+  "methodology": {
+    "local_streets": "frontage-based attribution (100ft buffer, proportional to boundary intersection length)",
+    "arterials": "ITE trip generation rates by land use type",
+    "cost_source": "SCS 2022 treatment costs by PCI bracket",
+    "note": "Costs represent lifecycle maintenance need, not current spending"
+  },
+  "totals": {
+    "total_annual_road_cost": 19952308,
+    "attributed_local": 13385987,
+    "attributed_arterial": 5553056,
+    "total_attributed": 18939043,
+    "parcels_with_road_cost": 61795,
+    "pci_segments_matched_local": 3658,
+    "pci_segments_matched_arterial": 429
+  },
+  "by_land_use": [
+    {
+      "category": "Commercial",
+      "count": 2144,
+      "total_acres": 1133.5,
+      "total_road_cost": 2621168,
+      "total_tax_revenue": 3560926,
+      "net_fiscal": 939758,
+      "avg_road_cost_per_acre": 4733,
+      "median_road_cost_per_acre": 2375
+    },
+    {
+      "category": "Unknown",
+      "count": 2,
+      "total_acres": 1.1,
+      "total_road_cost": 1884,
+      "total_tax_revenue": 3747,
+      "net_fiscal": 1863,
+      "avg_road_cost_per_acre": 2112,
+      "median_road_cost_per_acre": 2112
+    },
+    {
+      "category": "MFR",
+      "count": 9212,
+      "total_acres": 1347.9,
+      "total_road_cost": 2033033,
+      "total_tax_revenue": 9886260,
+      "net_fiscal": 7853227,
+      "avg_road_cost_per_acre": 2416,
+      "median_road_cost_per_acre": 1348
+    },
+    {
+      "category": "SFR",
+      "count": 41416,
+      "total_acres": 8380.1,
+      "total_road_cost": 12141950,
+      "total_tax_revenue": 31700279,
+      "net_fiscal": 19558329,
+      "avg_road_cost_per_acre": 1903,
+      "median_road_cost_per_acre": 1339
+    },
+    {
+      "category": "Other",
+      "count": 1,
+      "total_acres": 2.8,
+      "total_road_cost": 1580,
+      "total_tax_revenue": 119,
+      "net_fiscal": -1462,
+      "avg_road_cost_per_acre": 575,
+      "median_road_cost_per_acre": 575
+    },
+    {
+      "category": "Government",
+      "count": 97,
+      "total_acres": 457.6,
+      "total_road_cost": 113188,
+      "total_tax_revenue": 311683,
+      "net_fiscal": 198496,
+      "avg_road_cost_per_acre": 2141,
+      "median_road_cost_per_acre": 495
+    },
+    {
+      "category": "Agricultural",
+      "count": 647,
+      "total_acres": 1081.3,
+      "total_road_cost": 535871,
+      "total_tax_revenue": 2925016,
+      "net_fiscal": 2389145,
+      "avg_road_cost_per_acre": 1053,
+      "median_road_cost_per_acre": 435
+    },
+    {
+      "category": "Mixed Use",
+      "count": 288,
+      "total_acres": 255.2,
+      "total_road_cost": 101704,
+      "total_tax_revenue": 10979,
+      "net_fiscal": -90725,
+      "avg_road_cost_per_acre": 2774,
+      "median_road_cost_per_acre": 430
+    },
+    {
+      "category": "Open Space",
+      "count": 76,
+      "total_acres": 423.8,
+      "total_road_cost": 25027,
+      "total_tax_revenue": 143793,
+      "net_fiscal": 118766,
+      "avg_road_cost_per_acre": 263,
+      "median_road_cost_per_acre": 254
+    },
+    {
+      "category": "Vacant",
+      "count": 2297,
+      "total_acres": 30465.0,
+      "total_road_cost": 435689,
+      "total_tax_revenue": 338188,
+      "net_fiscal": -97501,
+      "avg_road_cost_per_acre": 389,
+      "median_road_cost_per_acre": 71
+    },
+    {
+      "category": "Institutional",
+      "count": 74,
+      "total_acres": 1564.3,
+      "total_road_cost": 172717,
+      "total_tax_revenue": 106142,
+      "net_fiscal": -66574,
+      "avg_road_cost_per_acre": 148,
+      "median_road_cost_per_acre": 50
+    },
+    {
+      "category": "Recreation",
+      "count": 2,
+      "total_acres": 1.3,
+      "total_road_cost": 23,
+      "total_tax_revenue": 1113,
+      "net_fiscal": 1091,
+      "avg_road_cost_per_acre": 32,
+      "median_road_cost_per_acre": 32
+    },
+    {
+      "category": "Industrial",
+      "count": 4584,
+      "total_acres": 625.7,
+      "total_road_cost": 272357,
+      "total_tax_revenue": 1355653,
+      "net_fiscal": 1083297,
+      "avg_road_cost_per_acre": 188,
+      "median_road_cost_per_acre": 0
+    },
+    {
+      "category": "Common Area",
+      "count": 859,
+      "total_acres": 1849.7,
+      "total_road_cost": 422976,
+      "total_tax_revenue": 25718,
+      "net_fiscal": -397258,
+      "avg_road_cost_per_acre": 1736,
+      "median_road_cost_per_acre": 0
+    },
+    {
+      "category": "Exempt",
+      "count": 96,
+      "total_acres": 294.7,
+      "total_road_cost": 59900,
+      "total_tax_revenue": 23828,
+      "net_fiscal": -36073,
+      "avg_road_cost_per_acre": 200,
+      "median_road_cost_per_acre": 0
+    }
+  ]
+}

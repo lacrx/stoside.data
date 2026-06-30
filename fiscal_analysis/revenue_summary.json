@@ -1,0 +1,208 @@
+{
+  "methodology": {
+    "revenue_type": "property_tax_only",
+    "city_share_of_1pct": 0.16,
+    "note": "Does not include sales tax, TOT, franchise fees, or special assessments",
+    "acreage_source": "computed from polygon geometry (EPSG:2230 CA State Plane 6)"
+  },
+  "totals": {
+    "total_parcels": 61795,
+    "taxable_parcels": 54410,
+    "total_assessed_value": 31478330336.0,
+    "total_acres": 15654.622715326104,
+    "total_city_property_tax": 50365328.5376,
+    "avg_revenue_per_acre": 7193.994566500856,
+    "median_revenue_per_acre": 4835.022892303663
+  },
+  "revenue_per_acre_distribution": {
+    "p10": 1373,
+    "p25": 2627,
+    "p50": 4835,
+    "p75": 8159,
+    "p90": 13038,
+    "p95": 18792,
+    "p99": 56671
+  },
+  "by_land_use": [
+    {
+      "category": "MFR",
+      "count": 9198,
+      "total_acres": 1344.5,
+      "total_assessed": 6178910917,
+      "total_tax_revenue": 9886257,
+      "avg_assessed_per_acre": 9645691,
+      "median_assessed_per_acre": 5487375,
+      "avg_revenue_per_acre": 15433,
+      "median_revenue_per_acre": 8780,
+      "avg_lot_size_acres": 0.146
+    },
+    {
+      "category": "Commercial",
+      "count": 748,
+      "total_acres": 905.5,
+      "total_assessed": 2225578486,
+      "total_tax_revenue": 3560926,
+      "avg_assessed_per_acre": 4812622,
+      "median_assessed_per_acre": 2975232,
+      "avg_revenue_per_acre": 7700,
+      "median_revenue_per_acre": 4760,
+      "avg_lot_size_acres": 1.211
+    },
+    {
+      "category": "SFR",
+      "count": 41332,
+      "total_acres": 8355.8,
+      "total_assessed": 19811922242,
+      "total_tax_revenue": 31699076,
+      "avg_assessed_per_acre": 3530909,
+      "median_assessed_per_acre": 2839040,
+      "avg_revenue_per_acre": 5649,
+      "median_revenue_per_acre": 4542,
+      "avg_lot_size_acres": 0.202
+    },
+    {
+      "category": "Industrial",
+      "count": 444,
+      "total_acres": 575.0,
+      "total_assessed": 830788655,
+      "total_tax_revenue": 1329262,
+      "avg_assessed_per_acre": 6075776,
+      "median_assessed_per_acre": 2689818,
+      "avg_revenue_per_acre": 9721,
+      "median_revenue_per_acre": 4304,
+      "avg_lot_size_acres": 1.295
+    },
+    {
+      "category": "Unknown",
+      "count": 2,
+      "total_acres": 1.1,
+      "total_assessed": 2341842,
+      "total_tax_revenue": 3747,
+      "avg_assessed_per_acre": 2061962,
+      "median_assessed_per_acre": 2061962,
+      "avg_revenue_per_acre": 3299,
+      "median_revenue_per_acre": 3299,
+      "avg_lot_size_acres": 0.563
+    },
+    {
+      "category": "Agricultural",
+      "count": 638,
+      "total_acres": 1063.4,
+      "total_assessed": 1827817519,
+      "total_tax_revenue": 2924508,
+      "avg_assessed_per_acre": 2307204,
+      "median_assessed_per_acre": 1983494,
+      "avg_revenue_per_acre": 3692,
+      "median_revenue_per_acre": 3174,
+      "avg_lot_size_acres": 1.667
+    },
+    {
+      "category": "Recreation",
+      "count": 2,
+      "total_acres": 1.3,
+      "total_assessed": 695863,
+      "total_tax_revenue": 1113,
+      "avg_assessed_per_acre": 1602791,
+      "median_assessed_per_acre": 1602791,
+      "avg_revenue_per_acre": 2564,
+      "median_revenue_per_acre": 2564,
+      "avg_lot_size_acres": 0.666
+    },
+    {
+      "category": "Exempt",
+      "count": 48,
+      "total_acres": 253.6,
+      "total_assessed": 14892323,
+      "total_tax_revenue": 23828,
+      "avg_assessed_per_acre": 1965133,
+      "median_assessed_per_acre": 1525948,
+      "avg_revenue_per_acre": 3144,
+      "median_revenue_per_acre": 2442,
+      "avg_lot_size_acres": 5.283
+    },
+    {
+      "category": "Vacant",
+      "count": 1678,
+      "total_acres": 208.4,
+      "total_assessed": 211367300,
+      "total_tax_revenue": 338188,
+      "avg_assessed_per_acre": 1120352,
+      "median_assessed_per_acre": 807194,
+      "avg_revenue_per_acre": 1793,
+      "median_revenue_per_acre": 1292,
+      "avg_lot_size_acres": 0.124
+    },
+    {
+      "category": "Government",
+      "count": 95,
+      "total_acres": 456.5,
+      "total_assessed": 194802089,
+      "total_tax_revenue": 311683,
+      "avg_assessed_per_acre": 1801338,
+      "median_assessed_per_acre": 730003,
+      "avg_revenue_per_acre": 2882,
+      "median_revenue_per_acre": 1168,
+      "avg_lot_size_acres": 4.805
+    },
+    {
+      "category": "Common Area",
+      "count": 22,
+      "total_acres": 404.2,
+      "total_assessed": 16073863,
+      "total_tax_revenue": 25718,
+      "avg_assessed_per_acre": 62499,
+      "median_assessed_per_acre": 53668,
+      "avg_revenue_per_acre": 100,
+      "median_revenue_per_acre": 86,
+      "avg_lot_size_acres": 18.374
+    },
+    {
+      "category": "Open Space",
+      "count": 64,
+      "total_acres": 391.7,
+      "total_assessed": 89864374,
+      "total_tax_revenue": 143783,
+      "avg_assessed_per_acre": 566574,
+      "median_assessed_per_acre": 41717,
+      "avg_revenue_per_acre": 907,
+      "median_revenue_per_acre": 67,
+      "avg_lot_size_acres": 6.12
+    },
+    {
+      "category": "Institutional",
+      "count": 74,
+      "total_acres": 1564.3,
+      "total_assessed": 66338954,
+      "total_tax_revenue": 106142,
+      "avg_assessed_per_acre": 48757,
+      "median_assessed_per_acre": 35608,
+      "avg_revenue_per_acre": 78,
+      "median_revenue_per_acre": 57,
+      "avg_lot_size_acres": 21.139
+    },
+    {
+      "category": "Other",
+      "count": 1,
+      "total_acres": 2.8,
+      "total_assessed": 74267,
+      "total_tax_revenue": 119,
+      "avg_assessed_per_acre": 27006,
+      "median_assessed_per_acre": 27006,
+      "avg_revenue_per_acre": 43,
+      "median_revenue_per_acre": 43,
+      "avg_lot_size_acres": 2.75
+    },
+    {
+      "category": "Mixed Use",
+      "count": 64,
+      "total_acres": 126.5,
+      "total_assessed": 6861642,
+      "total_tax_revenue": 10979,
+      "avg_assessed_per_acre": 260670,
+      "median_assessed_per_acre": 22285,
+      "avg_revenue_per_acre": 417,
+      "median_revenue_per_acre": 36,
+      "avg_lot_size_acres": 1.977
+    }
+  ]
+}
