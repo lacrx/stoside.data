@@ -463,6 +463,36 @@ def lambda_handler(event, context):
             """)
             return respond(200, {"count": len(rows), "licenses": rows})
 
+        # GET /query/planning?year=2022&type=DENSITY+BONUS+APPLICATION&downtown=true
+        if path.startswith("/query/planning"):
+            ppf = get_parquet("planning_projects.parquet")
+
+            where = "1=1"
+            if "year" in qs:
+                where += f" AND year = {int(qs['year'])}"
+            if "type" in qs:
+                ptype = qs["type"].upper().replace("'", "")
+                where += f" AND UPPER(type) = '{ptype}'"
+            if "downtown" in qs:
+                where += " AND zone_code LIKE 'D-%'"
+            if "apn" in qs:
+                apn = qs["apn"].replace("'", "")
+                where += f" AND apn = '{apn}'"
+
+            limit = min(int(qs.get("limit", "500")), 1000)
+
+            rows = query_rows(db, f"""
+                SELECT project_no, year, agency, type, status,
+                       name, description, applied, approved,
+                       address, apn, planner,
+                       zone_code, max_density, max_height
+                FROM '{ppf}'
+                WHERE {where}
+                ORDER BY year DESC, project_no
+                LIMIT {limit}
+            """)
+            return respond(200, {"count": len(rows), "planning_projects": rows})
+
         return respond(404, {"error": "unknown endpoint", "path": path})
 
     except Exception as e:
