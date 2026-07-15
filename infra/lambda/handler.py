@@ -11,6 +11,8 @@ Endpoints:
   GET /query/permits/downtown?year=... — downtown density cap zone permits
   GET /query/permits/trend        — yearly permit aggregation
   GET /query/projects?name=...    — permit projects
+  GET /query/housing?name=...     — unified housing projects (cross-referenced)
+  GET /query/housing/trend        — housing project aggregation by status
   GET /query/filings?year=...     — HCD APR housing unit filings
   GET /query/filings/trend        — yearly filing aggregation
   GET /query/filings/downtown?year=... — downtown filings
@@ -255,6 +257,69 @@ def lambda_handler(event, context):
                 LIMIT {limit}
             """)
             return respond(200, {"count": len(rows), "permits": rows})
+
+        # GET /query/housing/trend?downtown=true
+        if path.startswith("/query/housing/trend"):
+            hf = get_parquet("housing_projects.parquet")
+
+            where = "1=1"
+            if "downtown" in qs:
+                where += " AND is_downtown = true"
+            if "status" in qs:
+                status = qs["status"].replace("'", "")
+                where += f" AND status = '{status}'"
+
+            rows = query_rows(db, f"""
+                SELECT status, is_downtown, density_bonus,
+                       COUNT(*) as project_count,
+                       SUM(units_best) as total_units,
+                       SUM(income_very_low + income_low) as affordable_units,
+                       SUM(income_above_moderate) as market_rate_units
+                FROM '{hf}'
+                WHERE {where}
+                GROUP BY status, is_downtown, density_bonus
+                ORDER BY status, is_downtown
+            """)
+            return respond(200, {"count": len(rows), "trend": rows})
+
+        # GET /query/housing?name=melrose&status=permitted&downtown=true&min_units=50
+        if path.startswith("/query/housing"):
+            hf = get_parquet("housing_projects.parquet")
+
+            where = "1=1"
+            if "name" in qs:
+                name = qs["name"].upper().replace("'", "")
+                where += f" AND UPPER(project_name) LIKE '%{name}%'"
+            if "status" in qs:
+                status = qs["status"].replace("'", "")
+                where += f" AND status = '{status}'"
+            if "downtown" in qs:
+                where += " AND is_downtown = true"
+            if "min_units" in qs:
+                where += f" AND units_best >= {int(qs['min_units'])}"
+            if "apn" in qs:
+                apn = qs["apn"].replace("'", "")
+                where += f" AND apn = '{apn}'"
+
+            limit = min(int(qs.get("limit", "500")), 1000)
+
+            rows = query_rows(db, f"""
+                SELECT project_id, project_name, agency, address, apn,
+                       latitude, longitude, is_downtown,
+                       units_best, units_source, units_apr_proposed,
+                       units_apr_approved, units_permit_estimated,
+                       income_very_low, income_low, income_moderate,
+                       income_above_moderate,
+                       status, density_bonus, sb35,
+                       first_activity, last_activity,
+                       permit_count, planning_refs,
+                       apr_tracking_ids, meeting_mention_count
+                FROM '{hf}'
+                WHERE {where}
+                ORDER BY units_best DESC
+                LIMIT {limit}
+            """)
+            return respond(200, {"count": len(rows), "projects": rows})
 
         # GET /query/projects?name=monarch
         if path.startswith("/query/projects"):
