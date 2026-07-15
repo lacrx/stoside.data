@@ -194,6 +194,7 @@ def lambda_handler(event, context):
             rows = query_rows(db, f"""
                 SELECT pm.permit_no, pm.year, pm.type, pm.description,
                        pm.status, pm.applied, pm.zone_code, pm.zone_category,
+                       pm.max_density, pm.max_height,
                        pm.owner, pm.project_id, pm.apn, pm.address,
                        p.land_use_broad, p.acres, p.near_transit
                 FROM '{pmf}' pm
@@ -250,7 +251,7 @@ def lambda_handler(event, context):
             rows = query_rows(db, f"""
                 SELECT pm.permit_no, pm.year, pm.type, pm.description,
                        pm.status, pm.applied, pm.zone_code, pm.zone_category,
-                       pm.is_downtown,
+                       pm.max_density, pm.max_height, pm.is_downtown,
                        pm.owner, pm.project_id, pm.apn, pm.address,
                        p.land_use_broad, p.acres
                 FROM '{pmf}' pm
@@ -309,7 +310,7 @@ def lambda_handler(event, context):
             rows = query_rows(db, f"""
                 SELECT project_id, project_name, agency, address, apn,
                        latitude, longitude, is_downtown,
-                       zone_code, zone_category,
+                       zone_code, zone_category, max_density, max_height,
                        units_best, units_source, units_apr_proposed,
                        units_apr_approved, units_permit_estimated,
                        income_very_low, income_low, income_moderate,
