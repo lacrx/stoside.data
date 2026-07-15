@@ -18,7 +18,7 @@ HERE = Path(__file__).parent.parent
 ROOT = HERE.parent
 EXPORTS = HERE / "exports"
 BUCKET = "s3://stoside-data"
-AWS_PROFILE = os.environ.get("AWS_PROFILE", "stoside")
+AWS_PROFILE = os.environ.get("AWS_PROFILE", "civic")
 
 SYNC_TARGETS = [
     # (local_dir_or_file, s3_prefix, description)

@@ -12,18 +12,18 @@ terraform {
     bucket  = "stoside-terraform-state"
     key     = "data/terraform.tfstate"
     region  = "us-east-1"
-    profile = "stoside"
+    profile = "civic"
   }
 }
 
 provider "aws" {
   region  = var.region
-  profile = "stoside"
+  profile = "civic"
 }
 
 # For CloudFront ACM cert (must be us-east-1)
 provider "aws" {
   alias   = "us_east_1"
   region  = "us-east-1"
-  profile = "stoside"
+  profile = "civic"
 }
