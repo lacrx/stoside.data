@@ -192,8 +192,8 @@ def lambda_handler(event, context):
             rows = query_rows(db, f"""
                 SELECT pm.permit_no, pm.year, pm.type, pm.description,
                        pm.status, pm.applied, pm.zone_code, pm.owner,
-                       pm.project_id, pm.apn,
-                       p.address, p.land_use_broad, p.acres, p.near_transit
+                       pm.project_id, pm.apn, pm.address,
+                       p.land_use_broad, p.acres, p.near_transit
                 FROM '{pmf}' pm
                 LEFT JOIN '{pf}' p ON pm.apn = p.apn
                 WHERE {where}
@@ -248,8 +248,8 @@ def lambda_handler(event, context):
             rows = query_rows(db, f"""
                 SELECT pm.permit_no, pm.year, pm.type, pm.description,
                        pm.status, pm.applied, pm.zone_code, pm.is_downtown,
-                       pm.owner, pm.project_id, pm.apn,
-                       p.address, p.land_use_broad, p.acres
+                       pm.owner, pm.project_id, pm.apn, pm.address,
+                       p.land_use_broad, p.acres
                 FROM '{pmf}' pm
                 LEFT JOIN '{pf}' p ON pm.apn = p.apn
                 WHERE {where}
