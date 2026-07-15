@@ -16,6 +16,8 @@ Endpoints:
   GET /query/filings?year=...     — HCD APR housing unit filings
   GET /query/filings/trend        — yearly filing aggregation
   GET /query/filings/downtown?year=... — downtown filings
+  GET /query/str?status=Active    — short-term rental licenses
+  GET /query/str/trend            — STR aggregation by area/type
 """
 
 import json
@@ -418,6 +420,47 @@ def lambda_handler(event, context):
                 LIMIT {limit}
             """)
             return respond(200, {"count": len(rows), "filings": rows})
+
+        # GET /query/str/trend
+        if path.startswith("/query/str/trend"):
+            sf = get_parquet("str_licenses.parquet")
+
+            rows = query_rows(db, f"""
+                SELECT business_area, rental_type, license_status,
+                       COUNT(*) as license_count
+                FROM '{sf}'
+                GROUP BY business_area, rental_type, license_status
+                ORDER BY business_area, license_count DESC
+            """)
+            return respond(200, {"count": len(rows), "trend": rows})
+
+        # GET /query/str?status=Active&area=Coastal+Zone
+        if path.startswith("/query/str"):
+            sf = get_parquet("str_licenses.parquet")
+
+            where = "1=1"
+            if "status" in qs:
+                status = qs["status"].replace("'", "")
+                where += f" AND license_status = '{status}'"
+            if "area" in qs:
+                area = qs["area"].replace("'", "")
+                where += f" AND business_area = '{area}'"
+            if "apn" in qs:
+                apn = qs["apn"].replace("'", "")
+                where += f" AND apn = '{apn}'"
+
+            limit = min(int(qs.get("limit", "1000")), 5000)
+
+            rows = query_rows(db, f"""
+                SELECT account, business, license_status, business_area,
+                       rental_type, address, apn, property_manager,
+                       latitude, longitude
+                FROM '{sf}'
+                WHERE {where}
+                ORDER BY address
+                LIMIT {limit}
+            """)
+            return respond(200, {"count": len(rows), "licenses": rows})
 
         return respond(404, {"error": "unknown endpoint", "path": path})
 
