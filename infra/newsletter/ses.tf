@@ -1,5 +1,5 @@
 resource "aws_ses_domain_identity" "main" {
-  domain = "strongtownsoside.org"
+  domain = "stoside.org"
 }
 
 resource "aws_ses_domain_dkim" "main" {

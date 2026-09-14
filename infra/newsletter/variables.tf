@@ -13,10 +13,10 @@ variable "allowed_lists" {
 
 variable "from_email" {
   description = "Verified SES sender address"
-  default     = "newsletter@strongtownsoside.org"
+  default     = "newsletter@stoside.org"
 }
 
 variable "allowed_origins" {
   description = "CORS allowed origins"
-  default     = "https://strongtownsoside.org,https://ncyimby.org,http://localhost:8000,http://localhost:9000"
+  default     = "https://stoside.org,https://ncyimby.org,http://localhost:8000,http://localhost:9000"
 }

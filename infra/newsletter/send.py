@@ -18,7 +18,7 @@ import markdown
 
 TABLE_NAME = "newsletter-subscribers"
 API_BASE_URL = "https://uz6kxsrese.execute-api.us-east-1.amazonaws.com"
-FROM_EMAIL = "newsletter@strongtownsoside.org"
+FROM_EMAIL = "newsletter@stoside.org"
 REGION = "us-east-1"
 RATE_LIMIT = 10  # emails per second (SES sandbox: 1/sec, production: 14/sec)
 
