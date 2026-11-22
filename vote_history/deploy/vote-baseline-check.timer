@@ -1,0 +1,19 @@
+[Unit]
+Description=Weekly vote-parser baseline check
+
+[Timer]
+# Weekly, and that is a deliberate ceiling rather than a starting point. The check costs a
+# full core for two and a half minutes, and what it watches for changes rarely: a parser
+# edit, or a dependency upgrade moving PDF text extraction underneath an unchanged parser.
+# Running it nightly would spend 15 minutes a week to learn the same thing.
+#
+# Saturday morning, away from the civic-pipeline cron (18:00 Tue-Fri and 01:00 daily) so
+# the two are never competing for the machine.
+OnCalendar=Sat 07:20
+# The laptop is always on AC, but a reboot or a suspend must not skip a week silently: a
+# check that quietly stopped running is the state this whole thing exists to end.
+Persistent=true
+RandomizedDelaySec=900
+
+[Install]
+WantedBy=timers.target

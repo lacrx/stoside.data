@@ -1,0 +1,143 @@
+#!/usr/bin/env bash
+# Run the vote-parser baseline check on a schedule and say so when it breaks.
+#
+# Why
+# ---
+# `check_baseline.py` was written to catch a parser edit that silently changes the 2023 vote
+# counts. It works, and until 2026-11-22 **nothing ran it**: no cron entry, no systemd
+# timer, no workflow. Nor could GitHub Actions, because `vote_history/pdfs/` is gitignored,
+# so the 90 source PDFs exist only on workhorse. A check nobody runs is a comment.
+#
+# Two failures it is actually watching for, and only one of them is a code change:
+#
+#   * somebody edits `parse_votes.py` and the committed `votes.csv` no longer reproduces
+#   * nobody edits anything and a dependency or interpreter upgrade changes PDF text
+#     extraction underneath it
+#
+# The second is the reason this runs on a clock rather than on a git hook. It is also the
+# one nobody would ever think to check by hand.
+#
+# Exit codes come straight from `check_baseline.py`: 0 reproduces the baseline, 1 does not,
+# 2 could not run. 1 and 2 are different alerts because they need different actions: a drift
+# is a decision about the parser, and a 2 means the check itself is broken and is telling
+# you nothing either way, which is the worse state to sit in silently.
+#
+# Delivery is `job-alert`, so the alert lands in `~/.claude/state/vote-baseline-alert.md`
+# and appears at the start of the next Claude Code session on this machine. Nothing pushes.
+#
+#   vote_history/scripts/baseline-watch           # run it, raise or clear
+#   vote_history/scripts/baseline-watch --quiet    # same, only print on a problem
+#
+# Installed by `vote_history/deploy/install-timer.sh`.
+
+set -uo pipefail
+
+REPO="$(cd "$(dirname "$0")/../.." && pwd)"
+CHECK="$REPO/vote_history/scripts/check_baseline.py"
+ALERT_NAME="vote-baseline"
+
+# `parse_votes.py` needs `pdfplumber`, and that is the whole of its third-party surface.
+# On workhorse it was only ever installed in miniconda, which is first on an interactive
+# PATH and is NOT on a systemd user unit's, so the first scheduled run of this script
+# raised a real alert reading `ModuleNotFoundError: No module named 'pdfplumber'`. That is
+# the right failure and the wrong reason to have it every week, so the repo carries its own
+# venv (`.venv/`, gitignored, built from `vote_history/deploy/requirements.txt`) and this
+# prefers it. The fallback to the system interpreter is kept so a machine without the venv
+# fails loudly with the exit-2 alert rather than silently not running.
+if [ -n "${BASELINE_PYTHON:-}" ]; then
+    PYTHON="$BASELINE_PYTHON"
+elif [ -x "$REPO/.venv/bin/python3" ]; then
+    PYTHON="$REPO/.venv/bin/python3"
+else
+    PYTHON="/usr/bin/python3"
+fi
+
+# Resolve job-alert by absolute path. A systemd user unit does not source a profile, so
+# ~/.local/bin is not necessarily on PATH and a bare name would silently not be found.
+find_job_alert() {
+    for candidate in \
+        "$HOME/.local/bin/job-alert" \
+        "$HOME/vault/claude-brain/tools/job-alert"
+    do
+        [ -x "$candidate" ] && { printf '%s' "$candidate"; return 0; }
+    done
+    command -v job-alert 2>/dev/null
+}
+
+QUIET=0
+[ "${1:-}" = "--quiet" ] && QUIET=1
+
+say() { [ "$QUIET" -eq 1 ] || printf '%s\n' "$1"; }
+
+JOB_ALERT="$(find_job_alert)"
+if [ -z "$JOB_ALERT" ]; then
+    # Say it loudly rather than carry on: without delivery this script is the thing it was
+    # written to replace.
+    printf 'baseline-watch: job-alert not found; nothing would be delivered. Not running.\n' >&2
+    exit 2
+fi
+
+if [ ! -f "$CHECK" ]; then
+    printf 'baseline-watch: %s is missing\n' "$CHECK" >&2
+    exit 2
+fi
+
+out="$(cd "$REPO" && "$PYTHON" "$CHECK" 2>&1)"
+rc=$?
+
+if [ "$rc" -eq 0 ]; then
+    say "baseline-watch: OK"
+    say "$out"
+    "$JOB_ALERT" ok "$ALERT_NAME" >/dev/null
+    exit 0
+fi
+
+# Keep the tail. The interesting lines (COUNT/GONE/NEW/CHANGED and the FAIL summary) are at
+# the end, and job-alert caps the body anyway.
+body="$(printf '%s\n' "$out" | tail -25)"
+
+if [ "$rc" -eq 1 ]; then
+    title="vote parser no longer reproduces the committed votes.csv"
+    note="The parse differs from \`vote_history/votes.csv\`. Nothing was overwritten: the check
+parses into a temp directory, so the baseline it is checking is intact.
+
+If this is a deliberate parser improvement, re-record it and put the row counts in the
+commit message:
+
+\`\`\`
+cd ~/repos/stoside.data
+.venv/bin/python3 vote_history/scripts/check_baseline.py --update
+\`\`\`
+
+If it is not, nothing in the repo changed and the extraction moved underneath it. Check the
+interpreter and any PDF library before trusting the new numbers."
+else
+    title="vote baseline check could not run (exit $rc)"
+    note="The check did not reach a verdict, so the parser is neither proven nor disproven.
+Read the tail below: it is one of two things.
+
+A \`ModuleNotFoundError\` means the venv is missing or incomplete. It is gitignored, so a
+fresh clone has none:
+
+\`\`\`
+cd ~/repos/stoside.data
+/usr/bin/python3 -m venv .venv
+.venv/bin/pip install -r vote_history/deploy/requirements.txt
+\`\`\`
+
+\`no PDFs in ...\` means the 90 source PDFs are absent, also normal on a fresh clone
+because \`vote_history/pdfs/\` is gitignored:
+
+\`\`\`
+cd ~/repos/stoside.data
+.venv/bin/python3 vote_history/scripts/download_pdfs.py
+\`\`\`"
+fi
+
+printf '%s\n\n%s\n' "$note" "\`\`\`
+$body
+\`\`\`" | "$JOB_ALERT" fail "$ALERT_NAME" --title "$title" --body - >/dev/null
+
+printf 'baseline-watch: FAIL (exit %s), alert raised\n' "$rc" >&2
+printf '%s\n' "$body" >&2
+exit "$rc"

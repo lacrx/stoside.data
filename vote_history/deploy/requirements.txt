@@ -1,0 +1,20 @@
+# The environment vote_history/scripts/check_baseline.py runs in.
+#
+# `pdfplumber` is the only direct dependency; the rest is its transitive closure, pinned
+# because this is a reproducibility check. If the parse ever stops reproducing the committed
+# votes.csv with nothing in the repo changed, the first suspect is a version in here moving,
+# and a floating range would hide exactly that. Upgrade deliberately: change a pin, run
+# `vote_history/scripts/baseline-watch`, and if the output moves decide whether the new
+# numbers are better before re-recording the baseline.
+#
+# Recorded 2026-11-22 from a venv built with /usr/bin/python3 3.12.3:
+#   /usr/bin/python3 -m venv .venv
+#   .venv/bin/pip install -r vote_history/deploy/requirements.txt
+cffi==2.1.1
+charset-normalizer==3.5.2
+cryptography==50.0.2
+pdfminer.six==20260107
+pdfplumber==0.11.11
+pillow==13.0.0
+pycparser==3.12
+pypdfium2==5.15.2

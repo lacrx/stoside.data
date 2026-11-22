@@ -1,0 +1,23 @@
+[Unit]
+# The one thing that runs vote_history/scripts/check_baseline.py. Before 2026-11-22 nothing
+# did: no cron, no timer, no workflow, and GitHub Actions cannot because the 90 source PDFs
+# live in a gitignored directory on workhorse only.
+Description=Weekly check that parse_votes.py still reproduces the committed votes.csv
+Documentation=file:///home/thomas/repos/stoside.data/vote_history/scripts/baseline-watch
+
+[Service]
+Type=oneshot
+# --quiet so a clean week says nothing to the journal. A failure is printed to stderr and
+# raised as ~/.claude/state/vote-baseline-alert.md, which is the part a person reads.
+ExecStart=/home/thomas/repos/stoside.data/vote_history/scripts/baseline-watch --quiet
+# Measured through this unit on 2026-11-22: 2m55s wall, 2min 55s CPU, 516.8M peak memory
+# over 90 PDFs. Five minutes was the first value here and it clears that by 25 seconds,
+# which is not margin: the run is single-threaded and niced, so anything else busy on the
+# machine eats the difference and a timeout would be reported as a failed check rather than
+# a slow one. Ten minutes is the headroom, and the check is weekly so an idle ceiling costs
+# nothing.
+TimeoutStartSec=600
+# Parsing 90 PDFs is a full core for two and a half minutes, and nothing waits on the
+# result. Stay out of the way of anything interactive.
+Nice=10
+IOSchedulingClass=idle
