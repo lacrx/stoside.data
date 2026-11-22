@@ -1257,7 +1257,13 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--debug", type=str, help="filename or path of one PDF to debug-print")
     ap.add_argument("--limit", type=int, default=0, help="cap number of PDFs (for iteration)")
+    # check_baseline.py parses into a temp directory and compares against the
+    # committed votes.csv. Without these it would have to overwrite the very
+    # file it is checking, which makes a failed check destroy its own baseline.
+    ap.add_argument("--out", type=Path, default=OUT_CSV, help="write the CSV here")
+    ap.add_argument("--log", type=Path, default=LOG_PATH, help="write the parse log here")
     args = ap.parse_args()
+    out_csv, log_path = args.out, args.log
 
     pdf_files = sorted(PDF_DIR.glob("*.pdf"))
     if not pdf_files:
@@ -1329,12 +1335,13 @@ def main() -> int:
         "mover", "seconder",
     ] + roster + ["notes"]
 
-    with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
+    out_csv.parent.mkdir(parents=True, exist_ok=True)
+    with open(out_csv, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()
         for v in all_votes:
             w.writerow(v)
-    print(f"Wrote {len(all_votes)} votes to {OUT_CSV}")
+    print(f"Wrote {len(all_votes)} votes to {out_csv}")
 
     # Summary stats
     fully_resolved = 0
@@ -1346,7 +1353,7 @@ def main() -> int:
         else:
             any_unknown += 1
 
-    with open(LOG_PATH, "w", encoding="utf-8") as f:
+    with open(log_path, "w", encoding="utf-8") as f:
         f.write("OCEANSIDE CITY COUNCIL VOTE PARSE LOG\n")
         f.write("=" * 60 + "\n\n")
         f.write(f"Total PDFs:         {len(pdf_files)}\n")
@@ -1371,7 +1378,7 @@ def main() -> int:
         else:
             for line in all_logs:
                 f.write(f"  {line}\n")
-    print(f"Wrote log to {LOG_PATH}")
+    print(f"Wrote log to {log_path}")
     return 0
 
 
