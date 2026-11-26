@@ -22,6 +22,14 @@ venv/
 .claude/
 .mcp.json
 
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+infra/*.zip
+infra/lambda/layer/
+
 # Large binary formats
 *.gpkg
 *.geojson
@@ -32,12 +40,21 @@ venv/
 # Downloaded GIS source data
 **/raw_data/
 
+# Export outputs (regenerable via scripts)
+**/exports/
+
 # Large per-parcel datasets (regenerable from scripts)
 fiscal_analysis/revenue_per_acre.json
 fiscal_analysis/parcels_*.json
 fiscal_analysis/water_sewer_costs_by_parcel.json
 fiscal_analysis/road_costs_by_parcel.json
 fiscal_analysis/fiscal_productivity.json
+fiscal_analysis/fiscal_productivity_v2.json
+fiscal_analysis/fiscal_productivity_v2_summary.json
+fiscal_analysis/hcd_permits.json
+fiscal_analysis/hcd_parcel_enrichment.json
+fiscal_analysis/market_values.json
+fiscal_analysis/prop13_fiscal_impact.json
 
 # Archives
 *.zip
