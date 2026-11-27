@@ -1,0 +1,633 @@
+4
+OPPORTUNITY SITES
+
+
+4-2
+EXISTING CONDITIONS REPORT
+4.1	Methodology and 
+Purpose
+As the City of Oceanside considers how and 
+where future housing and employment growth 
+can be accommodated over the next 15 to 20 
+years, there is a need to identify properties that 
+present an opportunity for new development 
+or redevelopment.  “Opportunity sites” are 
+those that have the greatest potential for 
+change in land use types or intensities over the 
+planning period. Given that most property is 
+privately owned, and development of private 
+property is contingent upon the initiative of 
+property owners, it is not possible to precisely 
+determine which sites will undergo changes in 
+land use type or intensity. However, analysis 
+of site conditions, land use and development 
+standards, market forces, lease agreements, 
+and other considerations can provide a strong 
+indication of where such changes are likely to 
+occur. 
+The purpose of identifying and mapping 
+opportunity sites is to understand where the 
+most likely possibilities for land use change 
+exist, so that public policy can be adjusted 
+and leveraged to effect desired change. 
+Understanding where land use change is 
+possible will help to determine appropriate land 
+use policies, regulations, and guidelines. 
+A multi-step process has been undertaken to 
+map potential opportunity sites in the Planning 
+Area. As an initial step, sites were initially 
+identified by mapping vacant and underutilized 
+land using San Diego County Assessor’s 
+data. The analysis also identified sites with 
+development potential but with significant 
+environmental constraint considerations, such 
+as floodplains or presence of sensitive habitat.
+The County Assessor’s data was used to 
+preliminarily identify “underutilized” land by 
+revealing parcels with a low assessed value ratio, 
+or AV ratio. AV ratio is defined as the ratio of 
+the value of existing permanent improvements 
+(i.e., buildings) to the value of the land. Where 
+this ratio is less than one, a parcel may be 
+
+
+TABLE 4-1: DEVELOPMENT TIER CATEGORIES
+CATEGORY
+DESCRIPTION
+CRITERIA
+Tier 1
+Vacant
+Vacant land (no development)
+Tier 2
+Both Low FAR and Low AV ratio
+FAR less than 0.2 and AV ratio 
+less than 0.5
+Tier 3
+Both Moderate FAR and 
+Moderate AV ratio
+FAR between 0.2 and 0.35 and 
+AV ratio between 0.5 and 0.7
+Tier 4
+Only one of: Low FAR, Low 
+AV ratio, Moderate FAR, or 
+Moderate AV ratio
+FAR up to 0.35 or AV ratio up 
+to 0.7, but not included in any 
+other tiers
+Notes:
+1. Excludes sites with planned development.
+Source: Dyett & Bhatia, 2021
+OPPORTUNITY SITES
+4-3
+considered underutilized, as a higher land 
+value suggests market demand for higher and 
+better use of the parcel. Accordingly, a ratio of 
+less than 0.5 indicates even greater potential 
+for redevelopment. In other words, the lower 
+the value of permanent structures on a site 
+relative to land value, the greater the propensity 
+to change, especially if market conditions and 
+zoning regulations allow higher development 
+values to be realized.  
+Also identified in the assessment are sites with 
+low intensity uses, which is another indication of 
+potential for intensification in the future, were 
+identified. Development intensity is measured 
+as floor area ratio (FAR), which is the ratio of 
+building floor area to overall site area (as defined 
+in Section 2.3). A low intensity means that 
+buildings are small in floor area compared to the 
+overall site. Sites with FAR values of 0.2 or less 
+were identified as having significant potential 
+for redevelopment or expansion. Some sites 
+with FAR values below 0.2, as seen in Figure 4-1, 
+also have low AV ratios. Sites with FAR values of 
+below 0.2 and AV ratios below 0.7 have higher 
+potential for redevelopment than sites with low 
+FARs alone.
+As shown in Table 4-1, opportunity sites 
+were assigned a tier to indicate likelihood of 
+redevelopment within the planning period. 
+Vacant land, or parcels with no development, 
+were categorized as Tier 1, indicating the highest 
+development potential. Tiers 2, 3, and 4 were 
+assigned based on FAR and AV ratio thresholds; 
+a low FAR was defined as less than 0.2, and a 
+moderate FAR was defined as between 0.2 and 
+0.35; a low AV ratio was defined as less than 0.5, 
+and a moderate AV ratio was defined as between 
+0.5 and 0.7. 
+Next, potential opportunity sites were analyzed 
+for constraints, including steep slopes, 
+floodplains, and wetlands. Parcels with steep 
+slopes (greater than 25 percent), which make 
+up 18 percent of sites meeting the FAR and AV 
+ratio thresholds, or that intersect with a flood 
+zone or wetland, are considered environmentally 
+constrained and subtracted from the total 
+acreage. Should the City seek to explore 
+development potential on these sites, a finer-
+grained analysis could help to determine site 
+viability.
+
+
+4-4
+EXISTING CONDITIONS REPORT
+It is important to note that sites identified in this 
+analysis as potential opportunity sites are just 
+that—potential opportunities. These sites are 
+likely to have a greater propensity for change 
+if the right set of land use designations and/or 
+development incentives are provided. However, 
+because development decisions will ultimately 
+be made by the individual property owners, 
+it is possible that some of these potential sites 
+may not experience change over the next 20 
+years. Conversely, some sites not identified in 
+this analysis may undergo redevelopment. This 
+analysis is merely a tool to identify and quantify 
+areas in Oceanside where future development 
+is most likely to occur in the next 20 years, 
+providing an order-of-magnitude perspective 
+on the potential for infill and redevelopment. 
+Possibilities for the future would be examined in 
+further detail as part of the alternatives process.
+It is also noted that in 2019 the City prepared 
+an Employment Land Inventory as part of 
+the Economic Development Element of the 
+current General Plan. The study compared 
+the availability of vacant and underutilized 
+land—defined as properties with an assessed 
+property value under 15 dollars per square foot 
+and FAR under 0.2—with projected demand for 
+commercial and industrial uses over the 2018 
+to 2035 planning period. While there are similar 
+implications, the methodology and findings 
+of the opportunity sites analysis described in 
+this chapter differ slightly from the previous 
+study, including additional considerations such 
+as environmental constraints that limit the 
+availability of realistically developable land.   
+
+
+OPPORTUNITY SITES
+4-5
+4.2	Vacant Land and 
+Reuse Opportunities
+Figure 4-1 maps these opportunity sites, and 
+Table 4-2 provides a summary of their attributes. 
+Overall, the Planning Area has 357 acres of vacant 
+land with development potential and 549 acres of 
+developable underutilized land. In total, vacant 
+and underutilized land covers about 853 acres, or 
+about three percent of the Planning Area.
+As seen in Figure 4-2, highly constrained land 
+that is part of a tiered site but not considered as 
+developable makes up a substantial portion of 
+Tier 1 and Tier 2, totaling approximately 150 acres 
+of environmentally constrained land. These sites 
+are generally scattered throughout the Planning 
+TABLE 4-2: VACANT LAND AND OPPORTUNITY SITES
+OPPORTUNITY 
+CATEGORY
+ACRES, 
+TOTAL
+ACRES, 
+CONSTRAINED
+ACRES, 
+NET
+PERCENT OF 
+PLANNING AREA
+Tier 1
+356.9
+52.1
+304.9
+1.1%
+Tier 2
+78.3
+21.1
+57.2
+0.2%
+Tier 3
+22.9
+0.0
+22.9
+0.1%
+Tier 4
+545.3
+76.9
+468.4
+1.7%
+Total
+1,003.4
+150.1
+853.3
+3.2%
+Notes:
+1. Totals may not add up due to rounding. 
+Source: Dyett & Bhatia, 2020
+Area where there are flood hazards, wetlands, 
+or steep slopes, but notable areas include the 
+Highway 76 and El Camino Real intersections of 
+Mission Avenue, along Loma Alta Creek between 
+the Crouch Street and El Camino Real light rail 
+stations, and the eastern edge of the City north 
+of Highway 76.
+Tiered vacant and underutilized sites with 
+development potential are also generally 
+distributed throughout the City, though many of 
+them are located along corridors, including Coast 
+Highway, Mission Avenue and Highway 78 (see 
+Figure 4-1). These sites along major commercial 
+corridors in Oceanside typically have a FAR 
+between 0.2 and 0.4.  
+Figure 4-2: Opportunity Sites by Area
+
+
+4-6
+EXISTING CONDITIONS REPORT
+As seen in Table 4-3, opportunity sites are 
+predominantly designated as Commercial or 
+Residential in the current General Plan. Table 
+4-3 also highlights that a majority of vacant 
+land is designated for residential use. While 
+Tier 1 represents the greatest potential for 
+development, most of the large vacant parcels 
+are currently designated as lower density 
+residential uses and are not well-connected 
+to transit, indicating a lower potential yield of 
+housing units on these sites. As the second 
+most common designation, commercial uses 
+represent potential for mixed use development 
+and greater intensity development along 
+commercial corridors, though it is noted that 
+most of these sites are categorized as Tier 4.
+Additionally, as seen in Table 4-4, many 
+opportunity sites are also included in the 
+Housing Element sites inventory. Similar to the 
+opportunity sites analysis described above, the 
+Housing Element sites inventory identifies both 
+vacant and non-vacant (underutilized) land with 
+the potential for additional housing development 
+during the 6th Housing Element cycle. However, 
+the analysis of non-vacant properties in the 
+Housing Element includes additional criteria to 
+identify properties with realistic potential for 
+additional development in light of: 1) existing 
+uses on the site; 2) prevailing market conditions; 
+3) recent development trends; 4) expressed 
+interests in housing development from property 
+owners or developers; and 5) regulatory and/
+or other incentives to encourage recycling or 
+intensification of existing development. As a 
+result, 48 percent of the areas identified in the 
+Housing Element sites inventory are included 
+in the tiered opportunity sites analysis, and 
+52 percent are additional sites found using a 
+separate methodology. 
+TABLE 4-3: OPPORTUNITY SITES BY CURRENT GENERAL PLAN DESIGNATION
+TOTAL AREA (ACRES)
+OPPORTUNITY CATEGORY
+RESIDENTIAL
+COMMERCIAL
+INDUSTRIAL
+OTHER1
+Tier 1
+302.1
+36.8
+8.6
+9.3
+Tier 2
+2.6
+31.9
+40.7
+3.1
+Tier 3
+1.6
+16.6
+2.9
+1.8
+Tier 4
+19.9
+408.8
+101.9
+14.7
+TOTAL
+326.2
+494.2
+154.1
+29.0
+Notes:
+1. Includes Agriculture, Civic, Downtown, and Open Space. 
+Source: Dyett & Bhatia, 2021
+TABLE 4-4: HOUSING ELEMENT (HE) SITES BY OPPORTUNITY TIER
+OPPORTUNITY 
+CATEGORY
+NUMBER OF PARCELS
+ACRES
+PERCENT OF HE SITES
+Tier 1
+49
+79.1
+28.8%
+Tier 2
+36
+6.0
+2.2%
+Tier 3
+4
+1.3
+0.5%
+Tier 4
+23
+45.1
+16.4%
+Non-Tiered HE site
+78
+143.7
+52.2%
+Total
+190
+275.1
+100.0%
+Notes:
+1. Totals may not add up due to rounding. 
+Source: Dyett & Bhatia, 2021
+
+
+Document Path: C:\Users\gisdb\Desktop\OpportunitySites.mxd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+Oceanside
+Municipal
+Airport
+A³
+!"^$
+!"^$
+P a c i f i c
+O c e a n
+Source: VTA, 2021; SanGIS, 2020; City of Oceanside, 2020; Dyett & Bhatia, 2020
+Housing Element Site
+Development Projects
+Approved
+Under Construction
+Opportunity Site
+Tier 1
+Tier 2
+Tier 3
+Tier 4
+Environmentally
+Constrained
+Floodway and 
+100-year Floodplain
+25% or Greater Slope
+!(
+T
+Transit Stop
+Rail
+Water
+River/Creek
+City of Oceanside
+South Morro Hills
+Community Plan Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 5/26/2021
+A¸
+A³
+Figure 4-1: Vacant Land and Opportunity Sites
+
+
+4-8
+EXISTING CONDITIONS REPORT
+4.3	Key Planning Issues 
+and Implications
+•	 Approximately 850 acres of developable 
+land available in Oceanside. Overall, there 
+are 853 acres of developable land within 
+the Planning Area. An additional 150 acres 
+are also either vacant or underutilized, but 
+significant environmental constraints would 
+limit development on these parcels. It is noted, 
+however, that this is a preliminary overview of 
+opportunity sites, and further analysis may 
+be required to determine actual development 
+potential of individual sites, including 
+consideration of development regulations 
+pertaining to environmental constraints or 
+opportunities allowed by implementation of 
+mitigation strategies.
+•	 Most underutilized land designated as 
+Commercial and located along major 
+corridors. While many of these opportunity 
+sites are located along Oceanside’s corridors, 
+they are mostly in Tiers 3 and 4 because of 
+their AV ratio and FAR ranges. However, many 
+are developed and utilized well below the 
+thresholds allowed under current zoning. Thus, 
+these sites can accommodate considerably 
+more development and land use intensity. 
+Furthermore, the introduction of residential 
+use on these sites could be a catalyst for the 
+expansion of commercial use, as additional 
+“rooftops” provide more market demand for 
+commercial goods and services.
+•	 Prime land for redevelopment designated 
+as residential under the current General 
+Plan. Tier 1, vacant land, represents parcels 
+with the greatest potential for development. 
+Most of the Tier 1 land is designated as 
+residential under the current General Plan, 
+indicating the opportunity for significant 
+residential growth. Most of the largest parcels, 
+however, are designated as lower density 
+residential uses. To meet the City’s regional 
+housing needs allocation at all income levels, 
+the General Plan Update will need to locate 
+appropriate sites for higher density housing 
+development that is well-connected to transit.
+•	 Lack of industrial land. The City’s remaining 
+inventor y of vacant industrial land is 
+expected to be fully saturated within the 
+next few years.  The General Plan Update 
+provides an opportunity to explore creative 
+ways to accommodate additional industrial 
+development.  The City can contemplate “flex” 
+zoning in commercial areas that provides for 
+low-intensity/low-impact industrial uses.  The 
+City can also look for ways to incentivize more 
+efficient use of developed industrial land. 
+Oceanside has become an attractive locale for 
+warehousing and distribution facilities, which 
+typically occupy large tracts of land but provide 
+relatively few jobs per acre.  The City could 
+consider limitations on such uses, in order to 
+provide more opportunities for industrial uses 
+with higher employment densities.
+•	 Preservation of existing residential areas. 
+The City seeks to preserve the integrity 
+of existing residential areas, particularly 
+single-family neighborhoods.  Single-family 
+development occupies much of the City’s 
+developable land area, while Opportunity sites 
+generally lie in non-residential and multifamily 
+residential districts. 

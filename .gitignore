@@ -56,6 +56,15 @@ fiscal_analysis/hcd_parcel_enrichment.json
 fiscal_analysis/market_values.json
 fiscal_analysis/prop13_fiscal_impact.json
 
+# Downloaded source documents. The extracted text beside them is tracked instead.
+land_use/general_plan/**/*.pdf
+
+# Rendered maps and dashboards (fiscal_analysis/scripts/build_*.py regenerate them)
+fiscal_analysis/visuals/
+
+# A saved terraform plan, which can hold resource values
+infra/tfplan
+
 # Archives
 *.zip
 *.tar

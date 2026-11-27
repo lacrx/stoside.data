@@ -1,0 +1,1693 @@
+GENERAL PLAN
+CITY OF OCEANSIDE
+HEARING DRAFT
+DECEMBER 2025
+
+
+OCEANSIDE  GENERAL PLAN
+GENERAL PLAN
+CITY OF OCEANSIDE
+HEARING DRAFT
+DECEMBER 2025
+Prepared by
+3-6-2026
+Figures 6-8 and 6-9 updated with correct figures.
+
+
+Police Department
+Taurino Valdovinos, Chief
+John McKean, Assistant Chief
+Public Works Department
+Hamid Bahadori, Director
+Nathan Mertz, Division Manager
+Mark Garlock, Maintenance Supervisor
+Traffic Engineering Division
+Teala Cotter, City Traffic Engineer
+Economic Development Division
+Michelle Geller, Economic Development Manager
+Water Utilities Department
+Mabel Uyeda, Water Engineering Manager
+Rosemarie Chora, Water Utilities Division Manager
+Engineering Division
+Brian Thomas, City Engineer
+Ben Grenis, Associate Engineer
+Housing and Neighborhood Services 
+Department
+Leilani Hines, Director
+Maria Yanez, Housing Administrator
+Library
+CJ DiMento, Director
+Brad Penner, Division Manager
+Parks and Recreation
+Manuel Gonzalez, Director
+CONSULTANT TEAM
+CR Associates
+Dudek
+Keyser Marston Associates
+RECON Environmental 
+Spurlock Landscape Architects
+CITY COUNCIL
+Esther C. Sanchez, Mayor
+Eric Joyce, Deputy Mayor
+Jimmy Figueroa
+Rick Robinson
+Peter Weiss
+PLANNING COMMISSION
+Thomas Morrissey, Chair 
+Dennis A. Anthony, Vice Chair 
+Emily Gonzales
+Graciela Redgate
+Louise Balma 
+Kevin Dodds 
+Tom Rosales
+CITY STAFF
+Development Services, Planning 
+Division
+Darlene Nicandro, Director
+Sergio Madera, City Planner (former staff)
+Justin Gamble, Sustainability Program Administrator
+Russ Cunningham, Principal Planner (former staff) 
+Rob Dmohowski, Principal Planner (former staff)
+Shannon Vitale, Principal Planner
+Stefanie Cervantes, Associate Planner (former staff)
+City Manager’s Office
+Jonathan Borrego, City Manager
+Michael Gossman, Assistant City Manager
+Rob O’Brien, Deputy City Manager
+Jayme Timberlake, Coastal Zone Administrator
+Fire Department
+David Parsons, Chief
+Jessamyn Specht, Deputy Fire Chief
+Acknowledgements
+
+
+iv
+OCEANSIDE DRAFT GENERAL PLAN
+TABLE OF CONTENTS
+1 INTRODUCTION................................................................................. 1-1
+1.1 Oceanside Setting and Regional Context......................................................1-6
+1.2 Planning Area....................................................................................................1-8
+1.3 Purpose and Scope of the General Plan....................................................... 1-10
+1.4 Community Engagement and the Planning Process................................... 1-14
+1.5 Community Vision and Guiding Principles................................................... 1-16
+1.6 Related Documents........................................................................................ 1-20
+1.7 General Plan Administration ......................................................................... 1-22
+2 REMARKABLE COMMUNITY ............................................................. 2-1
+2.1  Background......................................................................................................2-4
+2.2  Community Character and Design................................................................2-8
+2.3  Cultural and Historic Resources.................................................................... 2-25
+2.4  Oceanside as a Visitor Destination .............................................................2-37
+2.5  Neighborhood Planning Areas.....................................................................2-42
+2.6  Actions............................................................................................................2-87
+3 EFFICIENT AND COMPATIBLE LAND USE .......................................... 3-1
+3.1 Background.......................................................................................................3-4
+3.2 Related Plans and Programs............................................................................3-8
+3.3 Existing Land Uses........................................................................................... 3-14
+3.4 Land Use Framework...................................................................................... 3-18
+3.5 Efficient Land Use............................................................................................3-32
+3.6 Compatible Land Use.....................................................................................3-35
+3.7 Mixed-Use Districts.........................................................................................3-41
+3.8 Residential Uses .............................................................................................3-43
+3.9 Commercial Uses ...........................................................................................3-46
+3.10  Industrial Uses ..............................................................................................3-49
+3.11  Development Review Process.....................................................................3-51
+3.12  Actions..........................................................................................................3-54
+
+
+v
+4 INTEGRATED MOBILITY ..................................................................... 4-1
+4.1 Background.......................................................................................................4-4
+4.2 Active Transportation..................................................................................... 4-14
+4.3 Vehicular Movement...................................................................................... 4-24
+4.4 Transit...............................................................................................................4-38
+4.5 Transportation Demand Management (TDM)..............................................4-42
+4.6 Goods Movement...........................................................................................4-44
+4.7 Actions.............................................................................................................4-45
+5 VITAL AND SUSTAINABLE RESOURCES.............................................. 5-1
+5.1 Background.......................................................................................................5-4
+5.2 Open Space, Vegetation, and Wildlife........................................................... 5-9
+5.3 Water Quality.................................................................................................. 5-32
+5.4 Air Quality........................................................................................................5-38
+5.5 Agricultural Resources....................................................................................5-45
+5.6 Mineral Resources........................................................................................... 5-52
+5.7 Coastal Resources.......................................................................................... 5-53
+5.8 Actions............................................................................................................. 5-59
+6 SAFE AND RESILIENT ENVIRONMENT ............................................... 6-1
+6.1 Background.......................................................................................................6-4
+6.2 Hydrological Hazards.......................................................................................6-8
+6.3 Fire Hazards..................................................................................................... 6-21
+6.4 Geologic and Seismic Hazards.....................................................................6-30
+6.5 Climate Change, Adaptation, and Resiliency ............................................ 6-37
+6.6 Hazardous Materials.......................................................................................6-42
+6.7 Airport Hazards............................................................................................... 6-49
+6.8 Evacuation and Emergency Response......................................................... 6-54
+6.9 Public Safety Services..................................................................................... 6-67
+6.10  Actions ......................................................................................................... 6-71
+
+
+vi
+OCEANSIDE DRAFT GENERAL PLAN
+7 HEALTHY AND LIVABLE COMMUNITY............................................... 7-1
+7.1 Background........................................................................................................ 7-4
+7.2 Community Health............................................................................................ 7-6
+7.3 Civic Engagement...........................................................................................7-15
+7.4 Parks and Community Facilities.....................................................................7-18
+7.5 Library and Educational Services.................................................................. 7-36
+7.6 Water, Wastewater, and Stormwater Utilities and Infrastructure................. 7-42
+7.7 Energy and Waste........................................................................................... 7-49
+7.8 Noise................................................................................................................. 7-54
+7.9 Smart City Technologies................................................................................. 7-62
+7.10  Actions........................................................................................................... 7-65
+APPENDIX A......................................................................................... A-1
+APPENDIX B......................................................................................... B-1
+APPENDIX C......................................................................................... C-1
+
+
+vii
+LIST OF FIGURES
+Figure 1-1: Regional Setting....................................................................................1-7
+Figure 1-2: Planning Area.......................................................................................1-9
+Figure 2-1: Urban Structure and Pedestrian Priority Zones................................2-10
+Figure 2-2: Community Points of Interest............................................................2-13
+Figure 2-3: Citywide Tree Canopy....................................................................... 2-16
+Figure 2-4: Historic and Cultural Resources........................................................2-28
+Figure 2-5: Neighborhood Planning Areas........................................................ 2-43
+Figure 2-6: Eastside, Capistrano, Airport and Townsite.................................... 2-45
+Figure 2-7: South Morro Hills and Guajome........................................................2-55
+Figure 2-8: North Valley and San Luis Rey..........................................................2-60
+Figure 2-9: Oceana, Ivey Ranch/Rancho del Oro, and Mira Costa.................2-65
+Figure 2-10: Loma Alta, Fire Mountain, and South Oceanside.........................2-72
+Figure 2-11: Peacock, Tri-City, Lake, and Ocean Hills.......................................2-79
+Figure 3-1: City Existing Land Use Breakdown....................................................3-16
+Figure 3-2: Existing Land Use................................................................................3-17
+Figure 3-3: General Plan Land Use......................................................................3-19
+Figure 3-4: Existing and Predicted Jobs and Employed Residents..................3-31
+Figure 3-5: Camp Pendleton Airport Compatibility.......................................... 3-38
+Figure 4-1: Pedestrian Infrastructure Improvements..........................................4-15
+Figure 4-2 Pedestrian Route Types.......................................................................4-16
+Figure 4-3: Pedestrian Route Type Recommendations.....................................4-17
+Figure 4-4: Bicycle Lane Typologies....................................................................4-18
+Figure 4-5: Bicycle Network Recommendations.............................................. 4-20
+Figure 4-6: Existing Functional Roadway Classifications (2021).......................4-27
+Figure 4-7: Planned Roadway Classifications....................................................4-28
+Figure 4-8: Planned Intersection Geometrics (Intersections 1 – 19)................4-29
+Figure 4-8: Planned Intersection Geometrics (Intersections 20 – 38)............. 4-30
+Figure 4-8: Planned Intersection Geometrics (Intersections 39 – 51)..............4-31
+Figure 4-9: Planned Roadway Segment and Intersection Level of Service
+                   Results................................................................................................ 4-32
+Figure 4-10: Planned Transit Infrastructure and Service 
+                     Recommendations......................................................................... 4-40
+Figure 5-1: Open Spaces...................................................................................... 5-11
+
+
+viii
+OCEANSIDE DRAFT GENERAL PLAN
+Figure 5-2: Conservation Framework.................................................................. 5-14
+Figure 5-3: Vegetation Communities.................................................................. 5-16
+Figure 5-4: Potential Areas of Occurrence of Special Status Plant Species....5-23
+Figure 5-5: Potential Areas of Occurrence of Special Status Wildlife 
+	                  Species................................................................................................5-24
+Figure 5-6: Water Resources.................................................................................5-33
+Figure 5-7: Air Pollution Sources..........................................................................5-41
+Figure 5-8: Agricultural Resources......................................................................5-46
+Figure 5-9: South Morro Hills Farmland...............................................................5-47
+Figure 5-10: Coastal Resources............................................................................5-54
+Figure 6-1: Flood Hazards  .....................................................................................6-9
+Figure 6-2: Dam Breach Inundation Area  ......................................................... 6-13
+Figure 6-3: 100-Year Coastal Flood and 5ft Sea Level Rise............................... 6-15
+Figure 6-4: Fire Hazards........................................................................................6-22
+Figure 6-5: Seismic Hazards.................................................................................6-33
+Figure 6-6: Landslide Hazards .............................................................................6-34
+Figure 6-7: Hazardous Materials and Sites with Known Contamination..........6-44
+Figure 6-8: Oceanside Municipal Airport Land Use Compatibility Plan Safety 
+                   Zones...................................................................................................6-50
+Figure 6-9: Emergency Service Network ...........................................................6-56
+Figure 6-10: Residential Neighborhoods with Less Than Two Access Routes to
+                     Evacuation........................................................................................6-62
+Figure 7-1: Access to Healthcare...........................................................................7-8
+Figure 7-2: Access to Healthy Food....................................................................... 7-9
+Figure 7-3: Linguistic Isolation...............................................................................7-16
+Figure 7-4: Parks and Recreational Facilities..................................................... 7-20
+Figure 7-5: Park Accessibility............................................................................... 7-24
+Figure 7-6: Libraries, School Districts, and Educational Facilities..................... 7-37
+Figure 7-7: Historic OUSD Enrollment and Oceanside Population.................... 7-39
+Figure 7-8: Noise Measurement ..........................................................................7-54
+Figure 7-9: Existing Noise Contours..................................................................... 7-56
+Figure 7-10: Projected Noise Contours................................................................ 7-57
+
+
+ix
+LIST OF TABLES
+Table 1-1: General Plan Elements and Topics Addressed..................................1-13
+Table 2-1: Tree Canopy Coverage by Neighborhood Planning Area...............2-15
+Table 2-2: Designated Historic Resources.......................................................... 2-27
+Table 3-1: City Existing Land Uses   ..................................................................... 3-15
+Table 3-2: Allowable Density and Intensity Ranges.......................................... 3-29
+Table 3-3: Projected Buildout (2050)...................................................................3-30
+Table 3-4: Projected Jobs under Buildout (2050)............................................... 3-31
+Table 4-1: Planned Roadway Modifications....................................................... 4-26
+Table 5-1: Priority Habitat Restoration Sites........................................................ 5-13
+Table 5-2: Required Mitigation Ratios................................................................. 5-18
+Table 5-3: Potential Occurrence of Special Status Plant Species.....................5-19
+Table 5-4: Potential Occurence of Special Status Wildlife Species................. 5-20
+Table 5-5: Attainment Status Designations Applicable to the Planning Area
+                 (2012).....................................................................................................5-38
+Table 6-1: Non-Residential Safety Compatibility Criteria    ............................. 6-51
+Table 6-2: Public Air-Conditioned Facilities   .................................................... 6-58
+Table 6-3: Roadway Management...................................................................... 6-63
+Table 7-1: Parks and Recreational Facilities....................................................... 7-22
+Table 7-2: Current and Projected Parkland Need.............................................. 7-23
+Table 7-3: Potential Park Amenity Provision and Need..................................... 7-26
+Table 7-4: Oceanside Unified School District, Enrollment History by Grade 
+                  Level..................................................................................................... 7-40
+Table 7-5: Water Supply........................................................................................ 7-44
+Table 7-6: Water Demand..................................................................................... 7-44
+Table 7-7: Wastewater Average Dry Weather Flows (ADWF)............................. 7-45
+Table 7-8: Land Use Compatibility for Community Noise Environments......... 7-59
+Table 7-9: Allowable Noise Exposure.................................................................. 7-60
+Table 7-10: Performance Standards for Non-Transportation Sources 
+                   (As Measured at Property Line of Source/Sensitive Use) ............... 7-60
+
+
+1 
+INTRODUCTION
+
+
+This page left intentionally blank
+OCEANSIDE GENERAL PLAN
+1-2
+
+
+TABLE OF CONTENTS
+1.1 OCEANSIDE SETTING AND REGIONAL CONTEXT.......................... 1-6
+1.2 PLANNING AREA........................................................................... 1-8
+1.3 PURPOSE AND SCOPE OF THE GENERAL PLAN............................1-10
+1.4 COMMUNITY ENGAGEMENT AND THE PLANNING PROCESS	
+1-14
+1.5 COMMUNITY VISION AND GUIDING PRINCIPLES........................1-16
+1.6 RELATED DOCUMENTS................................................................. 1-20
+1.7 GENERAL PLAN ADMINISTRATION ............................................. 1-22
+1-3
+INTRODUCTION 1
+
+
+OCEANSIDE GENERAL PLAN
+1-4
+Situated at the northwest corner of San Diego 
+County, along the Pacific Ocean, the City of 
+Oceanside is a unique coastal community 
+endowed with a rich history, a beautiful natural 
+setting, a diverse population, a host of waterfront 
+amenities, an array of distinct neighborhoods, and 
+a growing and increasingly diverse local economy. 
+Bounded by Marine Corps Base Camp Pendleton, 
+the cities of Vista and Carlsbad, and the unincor-
+porated communities of Fallbrook and Bonsall, 
+the City’s 42 square miles of land area include 
+character-defining built environments, farmland, 
+natural landforms, watercourses, riparian areas, 
+and upland habitats. 
+With a population of more than 175,000 residents, 
+Oceanside is the third most populous city in the 
+San Diego region. Housing growth has significant-
+ly outpaced employment growth in Oceanside, 
+resulting in a comparatively low jobs-to-housing 
+ratio. However, over the past two decades, a 
+large employment hub comprised of several light 
+industrial parks has emerged in central portions 
+of the City, providing high-quality jobs in a range 
+of economic sectors. At the same time, the City 
+has significantly expanded its hospitality sector, 
+becoming a popular visitor destination.
+After decades of suburban expansion into inland 
+areas – i.e., the San Luis Rey Valley, the Oceanside 
+Boulevard corridor, and the Highway 78 corridor – 
+Oceanside must now provide for growth through 
+more efficient use of land within the City’s already 
+urbanized areas. In so doing, the City can revital-
+ize its major commercial corridors, expand mobil-
+ity options, and reduce greenhouse gas (GHG) 
+emissions while preserving natural resources, 
+farmland, and the City’s exceptional vistas of sur-
+rounding open spaces.
+For the first time in its 135-year history, the City of 
+Oceanside has prepared a comprehensive update 
+of its General Plan, addressing all state-mandat-
+ed topic areas as well as other matters of interest 
+to community members. The General Plan (Plan) 
+outlines the City’s vision for its future – one that 
+reflects the values and priorities of community 
+members and provides a blueprint for positive 
+change. In keeping with this vision, the Plan pro-
+motes responsible growth that supports quality of 
+life, environmental quality, economic prosperity, 
+and social equity. The Plan identifies what makes 
+Oceanside a unique community – in terms of its 
+assets, opportunities, and challenges – and out-
+lines goals, policies, and actions that seek to pre-
+serve and enhance the City’s positive attributes 
+while attenuating conditions that work against 
+fulfillment of the City’s vision. 
+This introductory chapter outlines the Vision and 
+Guiding Principles that have helped to shape the 
+Plan. It also introduces the Plan’s purpose, use, 
+and structure, and how it can be amended and 
+updated to adapt to changing circumstances. The 
+Photo credit: Terry Brown
+
+
+1-5
+INTRODUCTION 1
+chapters that follow are organized around themes 
+that provide a framework for accommodating 
+growth and change, conserving essential resourc-
+es, and enhancing community character in ways 
+that align with the Vision and Guiding Principles. 
+The General Plan was developed through exten-
+sive community engagement utilizing an array of 
+tools and activities, including in-person and virtu-
+al workshops, meetings with individual stakehold-
+ers and small groups, open house events, forums 
+with subject matter experts, surveys, videos, and 
+email and social media communications deployed 
+at various stages of the planning process. 
+Together, these tools and activities engaged over 
+two thousand community members and generat-
+ed thousands of responses. These responses have 
+informed the planning process and contributed 
+to the development of the Vision and Guiding 
+Principles. 
+Throughout the community engagement pro-
+cess, the City Council, the Planning Commission, 
+and several advisory groups received updates on 
+this process and, in turn, provided input on the 
+evolving Plan. By adopting the General Plan, the 
+City Council affirmed the Vision and Guiding 
+Principles and committed the City to pursuing 
+their implementation. 
+The General Plan is comprehensive and long-range 
+and will be used on an ongoing basis to direct the 
+City’s decision making, reflecting the City’s com-
+mitment to the ideals set forth herein. All future 
+actions related to land use, urban design, mobility, 
+conservation, community facilities and services, 
+mitigation of natural and human-induced hazards, 
+and other topics addressed in the General Plan 
+should be consistent with all components of this 
+document. 
+The General Plan has been prepared in consulta-
+tion with staff from all City disciplines – i.e., the 
+City Manager’s Office, Development Services, 
+Public Works, Neighborhood Services, Parks 
+and 
+Recreation, 
+Water 
+Utilities, 
+Economic 
+Development, the Fire Department, and the Police 
+Department. It is anticipated that the General Plan 
+will serve to guide investment and actions for all of 
+these disciplines, while supporting interdisciplinary 
+coordination and providing for a whole-of-govern-
+ment approach to key issues and challenges.
+
+
+OCEANSIDE GENERAL PLAN
+1-6
+1.1	 Oceanside Setting 
+and Regional 
+Context
+An important gateway into the San Diego met-
+ropolitan area, the City of Oceanside links the 
+North County Coastal subregion with the inland 
+cities of Vista, San Marcos, and Escondido, as well 
+as portions of unincorporated San Diego County. 
+While Oceanside’s physical characteristics bear 
+many similarities to the neighboring coastal 
+cities of Carlsbad, Encinitas, Solana Beach, and 
+Del Mar, the City’s socioeconomic profile more 
+closely resembles those of its inland neighbors. 
+Consequently, Oceanside is viewed by many as 
+the region’s most accessible, welcoming, and 
+down-to-earth coastal community.
+As shown in Figure 6-1, Interstate 5 connects 
+Oceanside with other California coastal cities to 
+the north and south.  Highways 76 and 78 tra-
+verse the City in a generally east-west direction, 
+linking the coast to the Interstate 15 corridor. The 
+historic Coast Highway parallels Interstate 5 and 
+links the City to the neighboring City of Carlsbad 
+to the south. 
+Oceanside offers more than three miles of beach-
+es, the only pier and harbor in the North County 
+coastal area, major recreational amenities such 
+as Guajome Regional Park, Mission San Luis Rey 
+(the largest mission in California), the California 
+Surf Museum, the Oceanside Museum of Art, El 
+Corazon Park, events such as surfing competitions 
+and youth soccer tournaments, and markets and 
+festivals. Oceanside is somewhat unique among 
+southern California coastal cities in maintaining 
+nearly 3,500 acres of farmland, located in the 
+City’s northeast corner in the South Morro Hills 
+neighborhood. 
+Bounded by the Pacific Ocean to the west, Marine 
+Corps Base Camp Pendleton to the north, and 
+unincorporated rural areas to the east, Oceanside’s 
+peripheral location within the San Diego region 
+has historically presented challenges to economic 
+development. However, in recent years the City 
+has seen employment gains in hospitality, sports 
+equipment and apparel, bio-technology, and other 
+sectors. 
+Oceanside is an important gateway to the San 
+Diego region, as well as a major transit hub. The 
+Oceanside Transit Center accommodates four rail 
+services that connect the City to Orange County, 
+Downtown San Diego, and other cities within the 
+Highway 78 Corridor. Rail service is supplement-
+ed by bus service operated by the North County 
+Transit District (NCTD).
+The City’s coastal assets, cultural venues, restau-
+rant and micro-brewing scene, and linkages to 
+other parts of southern California make it an 
+increasingly popular visitor destination. 
+Photo credit: Terry Brown
+
+
+Figure 1-1: Regional Setting
+1-7
+INTRODUCTION 1
+
+
+OCEANSIDE GENERAL PLAN
+1-8
+1.2	Planning Area
+The General Plan Planning Area (Planning Area), 
+as shown in Figure 1-2, encompasses the area 
+addressed by the General Plan Update. The 
+Planning Area includes Oceanside and its Sphere 
+of Influence (SOI) – an area outside of the City 
+limits designated by the San Diego Local Agency 
+Formation Commission (LAFCO) as the City’s 
+probable future boundary and service area. The 
+Planning Area encompasses 27,012 acres (or 
+approximately 42 square miles). The City’s SOI 
+is relatively small—about 20 acres—and presents 
+few opportunities for additional development. 
+The City’s population as July 1, 2022 was estimat-
+ed at 172,199 by the US Census, a slight decline 
+from 174,068 in 2020, paralleling trends across 
+the state. 
+The Planning Area is bordered by the Marine 
+Corps Base, Camp Pendleton to the north, the 
+unincorporated rural communities of Fallbrook 
+and Bonsall to the northeast, the City of Vista 
+to the southeast, and the City of Carlsbad to the 
+south. The Planning Area’s southwestern border 
+includes three miles of Pacific Ocean coastline. 
+The lower San Luis Rey River, Loma Alta Creek, 
+and Buena Vista Creek flow in a westerly direc-
+tion through the Planning Area and drain into the 
+Pacific Ocean. These waterbodies flow through 
+alluvial areas bounded by hillsides and mesas, 
+essentially dividing Oceanside into three distinct 
+east-west corridors.
+A portion of the Planning Area is within the state’s 
+Coastal Zone. Land uses in this area are governed 
+by the Local Coastal Program (LCP) and Land Use 
+Plan, which is certified by the California Coastal 
+Commission. The LCP effectively supplants the 
+General Plan as the governing land use policy 
+document for the City’s Coastal Zone. As shown 
+in Figure 1-2, the City’s coastal zone lies primar-
+ily between the coastline and the inland side of 
+Coast Highway, with inland extensions along the 
+City’s east-west waterways. 
+Photo credit: Terry Brown
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\GP\Figure 1-2 Planning Area.mxd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+a
+l
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+P a c i f i c
+O c e a n
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+City of Oceanside
+Planning Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+!(
+T
+Transit Stop
+Rail
+Park
+Hardline or Softline Preserve
+Agriculture
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/18/2025
+A³
+!"^$
+!"^$
+A¸
+A³
+Figure 1-2: Planning Area
+
+
+OCEANSIDE GENERAL PLAN
+1-10
+(e.g., Efficient and Compatible Land Use Element, 
+Integrated Mobility Element). The CAP has also 
+been updated in parallel with the General Plan, to 
+address both the state’s new mandates relating to 
+greenhouse gases (GHG) reduction and communi-
+ty priorities regarding economic growth, employ-
+ment opportunities, workforce training, social 
+equity, etc. 
+The General Plan identifies and addresses current 
+and future opportunities and challenges, state 
+law, regional priorities, and best practices and 
+approaches in urban planning, economic devel-
+opment, climate action, and other key topics that 
+have emerged in recent years.
+The General Plan serves several purposes:
+•	 Establishing a long-range vision that reflects the 
+aspirations of the community and outlines steps 
+to achieve this vision
+•	 Outlining long-range development policies 
+that will guide City departments, Planning 
+Commission, and City Council decision-making;
+•	 Providing a basis for judging whether specific 
+development proposals and public projects are 
+in harmony with plan policies;
+•	 Planning in a manner that meets future land 
+needs based on the projected population and job 
+growth;
+•	 Allowing City departments, other public 
+agencies, and private developers to design 
+projects that will enhance the character of the 
+community, preserve environmental resources, 
+and minimize hazards; and
+•	 Providing the basis for establishing and setting 
+priorities for detailed plans and implementing 
+programs, such as the Zoning Ordinance, 
+subdivision regulations, specific and master 
+plans, and the Capital Improvement Program. 
+Due to the general and long-range nature of the 
+General Plan, there will be instances where more 
+detailed studies will be necessary in order to 
+implement the Plan’s policies.
+1.3	Purpose and Scope 
+of the General Plan
+California Government Code Section 65300 
+requires each city and county in California to 
+adopt a General Plan “for the physical develop-
+ment of the county or city, and any land outside its 
+boundaries which…bears relation to its planning.” 
+The Oceanside General Plan establishes the City’s 
+overall approach to growth and change within its 
+boundaries to the year 2050, containing both a 
+statement of the community’s vision of its long-
+term development as well as the goals, policies, 
+and actions to support that vision and guide the 
+physical growth of the City. The Plan contains pol-
+icies to inform decision-making related to devel-
+opment, housing, transportation, environmental 
+quality, natural and human induced hazards, com-
+munity facilities and services, parks, and open 
+spaces.
+The City of Oceanside has chosen to take a 
+phased approach to the comprehensive General 
+Plan Update process. In 2019, the City Council 
+adopted the Economic Development Element 
+(EDE), Energy and Climate Action Element (ECAE), 
+and Climate Action Plan (CAP) as part of Phase 1 
+of the General Plan update. These new compo-
+nents of the City’s General Plan provide import-
+ant policy direction for Phase is project, which 
+includes the updating of all of the City’s remaining 
+General Plan elements. These elements address 
+the topics of land use, circulation, housing, con-
+servation and open space, community facilities, 
+safety, and noise. The titles of the updated ele-
+ments not only identify these topics but also 
+reflect the City’s fundamental approach to them 
+Photo credit: Terry Brown
+
+
+1-11
+INTRODUCTION 1
+GENERAL PLAN REQUIREMENTS
+California grants local authorities power over land 
+use decisions. As a result, cities have considerable 
+flexibility in preparing their general plans as long 
+as state requirements are met. The California 
+Government Code establishes both the content 
+of general plans and rules for their adoption and 
+subsequent amendment. Together, state law and 
+judicial decisions establish three overall guide-
+lines for general plans:
+•	 Comprehensive. This requirement has two 
+aspects. First, the general plan must be 
+geographically comprehensive. That is, it must 
+apply throughout the entire incorporated area 
+as well as other areas the City deems relevant 
+to its planning. Second, the general plan must 
+address the full range of issues that affect the 
+City’s physical development.
+•	 Internally Consistent. This requirement states 
+that the general plan must fully integrate its 
+separate parts and relate them to each other 
+without conflict. “Horizontal” consistency 
+applies as much to figures and diagrams as to 
+the general plan text. It also applies to data and 
+analysis as well as policies. All adopted portions 
+of the general plan, whether required by state 
+law or not, have equal legal weight. None may 
+supersede another, so the general plan must 
+avoid conflicts among the provisions of each 
+element.
+•	 Long-Range. Because anticipated development 
+will affect the City and the people who live 
+or work there for years to come, State law 
+requires every general plan to take a long-term 
+perspective. This General Plan uses the year 
+2050 as its planning horizon.
+The state mandates that all general plans address 
+at least seven topics: land use, circulation, hous-
+ing, conservation, open space, noise, and safety. 
+Recently, the state has established a requirement 
+that, for cities and counties with state-defined 
+“disadvantaged 
+communities,” 
+environmental 
+justice should be addressed in the general plan, 
+either in a standalone element or integrated with 
+other elements. The Environmental Protection 
+Agency (EPA) defines environmental justice as 
+“the fair treatment and meaningful involvement 
+of all people regardless of race, color, nation-
+al origin, or income, with respect to the devel-
+opment, implementation, and enforcement of 
+environmental laws, regulations, and policies.” 
+While there are no state-defined disadvantaged 
+communities in Oceanside, the City recognizes 
+environmental justice as an important concern 
+and has thus chosen to address it throughout the 
+General Plan. The City understands that even 
+though there are no local communities that meet 
+the state definition of “disadvantaged,” there are 
+historically under-resourced areas in Oceanside 
+where residents continue to face economic inse-
+curity, linguistic isolation, exposure to pollution, 
+and other challenges.
+Beyond the state-mandated general plan topics, 
+local governments may address optional topics 
+in their general plans. Examples of topics local 
+governments choose to address include air quality, 
+public health, sustainability, community design, 
+community facilities, economic development, 
+energy, and agriculture, and recreational facilities. 
+All general plan topics, regardless of whether they 
+are mandatory or optional, must be consistent with 
+one another. No element is legally subordinate to 
+another.1
+1	  State of California Government Code Sections 65302 and 
+Photo credit: Terry Brown
+
+
+OCEANSIDE GENERAL PLAN
+1-12
+The Oceanside General Plan is presented in seven 
+elements, organized around both state-mandated 
+and optional topics or themes, plus the separate-
+ly-bound Housing Element.
+Housing elements are required by state law to 
+be updated more frequently than the rest of the 
+General Plan and are typically published as sep-
+arate documents to facilitate easier updating 
+according to the state-defined housing cycles. 
+Unlike the other mandatory general plan ele-
+ments, the housing element is subject to detailed 
+statutory requirements and mandatory review by 
+the state of California Department of Housing 
+and Community Development (HCD). The City’s 
+2023-2041 Housing Element has been certified 
+by the state HCD.
+65300.5
+In accordance with detailed state requirements, 
+the City’s Housing Element addresses Oceanside’s 
+housing needs by identifying land resources avail-
+able for housing development, acknowledging 
+constraints to the provision of new and affordable 
+housing, and establishing a variety of housing-re-
+lated programs. 
+The General Plan is thematically organized and 
+includes all of the topics required under state 
+law, as well as additional topics of local impor-
+tance – climate change and sustainability, historic 
+and cultural resources, community design, and 
+public health and equity. Table 1-1 shows corre-
+spondence between state-required elements and 
+where these are included in the General Plan’s 
+thematic elements.
+Photo credit: Terry Brown
+
+
+1-13
+INTRODUCTION 1
+Table 1-1: General Plan Elements and Topics Addressed
+General Plan Element/State Mandated Topic(s)*
+Key Topics
+Remarkable Community (RC)
+•	
+Character-Defining Assets
+•	
+Neighborhood Identity/Character
+•	
+Urban Design
+•	
+Scenic Views 
+•	
+Tribal Resources
+•	
+Historic Preservation
+Efficient & Compatible Land Use (ECLU)
+Land Use
+•	
+Land Use Designations
+•	
+Building Scale and Form
+•	
+Accommodation of Industrial Uses
+•	
+Parking
+•	
+Edge Conditions/Buffers
+•	
+Home Occupations
+Integrated Mobility (IM)
+Transportation
+•	
+Roadway Classifications
+•	
+Complete Streets Improvements
+•	
+Transit/Micro-Transit
+•	
+Active Transportation Facilities
+•	
+Evacuation Routes
+Vital & Sustainable Resources (VSR)
+Conservation
+Open Space
+•	
+Sensitive Habitat
+•	
+Farmland
+•	
+Water Resources
+•	
+Community Facilities
+•	
+Climate Action
+Safe & Resilient Environment (SRE)
+Safety
+•	
+Natural Hazards
+•	
+Human Induced Hazards
+•	
+Climate Adaptation
+•	
+Terrorism and Cyber-Threats
+•	
+CPTED
+Healthy & Livable Community (HLC)
+Noise
+•	
+Community Health
+•	
+Noise
+•	
+Civic Engagement
+•	
+Recreational Opportunities
+•	
+Community Facilities and Services
+•	
+Utilities/Infrastructure
+Housing 
+Housing 
+(Adopted August 2023)
+•	
+Housing Sites Inventory
+•	
+Regulatory Constraints
+•	
+Special Needs Housing
+•	
+Housing Programs
+Economic Development (EDE)  
+(Adopted May 2019)
+•	
+Key Economic Sectors
+•	
+Industrial Land Inventory
+•	
+Livability (Housing, Visual Quality, Etc.)
+•	
+Green Business Practices
+Energy & Climate Action (ECAE) 
+(Adopted May 2019)  
+•	
+VMT Reduction
+•	
+Green Building
+•	
+Urban Forestry
+•	
+Sustainable Consumption
+*Environmental justice is addressed in the ECLU, IM, VSR, SRE, HLC, and RE.
+
+
+OCEANSIDE GENERAL PLAN
+1-14
+1.4	Community 
+Engagement and 
+the Planning Process
+Oceanside’s General Plan represents a culmina-
+tion of extensive efforts to understand existing 
+conditions, identify constraints and opportuni-
+ties, and chart Oceanside’s future through com-
+munity engagement, fieldwork, technical study, 
+analysis of state and regional priorities, and col-
+laboration across City disciplines. These efforts 
+have revealed key community assets, opportuni-
+ties for positive change, challenges that must be 
+overcome, and a wide range of community values, 
+priorities, and concerns. 
+Community input was gathered through a variety 
+of methods to achieve a broad understanding of 
+the community’s vision for its future. Community 
+input was systematically documented and made 
+available through a project website developed for 
+the General Plan process. 
+In addition to community engagement, four 
+in-depth background reports and technical analy-
+ses provided a foundation for under¬standing both 
+the challenges and opportunities that Oceanside 
+faces. Additionally, the documents adopted in 
+the first phase of the City’s General Plan Update 
+(EDE, ECAE, and CAP) provide important direc-
+tion for this second phase, including policies that 
+call for economic diversity, sub-regional collabo-
+ration, smart growth, sustainable building design, 
+and renewable energy procurement. 
+State legislation and guidelines on housing, farm-
+land preservation, GHG reduction, climate adap-
+tation, and environmental justice are reflected 
+in the updated General Plan and companion 
+planning documents. The General Plan furthers 
+the state’s efforts to promote sustainable devel-
+opment, expand housing opportunities, pro-
+tect natural resources, and reduce vehicle miles 
+traveled (VMT). Additional information on state 
+priorities can be found on the webpages for 
+the California Office of Planning and Research 
+and the California Department of Housing and 
+Community Development. 
+Regional planning priorities such as smart growth, 
+expanded mobility options, shoreline manage-
+ment, military base access, and electric vehicle 
+charging infrastructure also provide valuable 
+direction to the local planning process. The City 
+has an important role in implementing these 
+regional priorities. At the same time, the City 
+must advocate for its own interests as part of 
+its participation in the regional planning process, 
+particularly with respect to investments in trans-
+portation infrastructure.
+The following pages elaborate on the outreach, 
+research, and relevant planning efforts that have 
+contributed to the development of Oceanside’s 
+Vision Statement. 
+COMMUNITY INPUT 
+The project team conducted extensive communi-
+ty engagement in support of the planning effort. 
+Engagement activities included:
+•	 A dedicated project website (onwardoceanside.
+com); 
+•	 Email blasts to interested parties;
+•	 Social media posts (Facebook, Instagram, Twitter, 
+Next Door);
+•	 Surveys soliciting input on the Community 
+Vision, the South Morro Hills agricultural area, 
+the Smart and Sustainable Corridors Plan, and 
+the City’s 17 neighborhood planning areas;
+•	 Community workshops on the Community 
+Vision (3);
+•	 In-person and virtual open house events on the 
+Smart & Sustainable Corridors Plan;
+
+
+1-15
+INTRODUCTION 1
+•	 Panel discussions (9) with subject matter 
+experts, property owners, community group 
+representatives, and members of the youth 
+community; 
+•	 Small-group discussions on each of the City’s 17 
+neighborhood planning areas groups;
+•	 Ad hoc discussions with community groups and 
+individual community members;
+•	 Presentations to community groups, including 
+the Chamber of Commerce, the Oceanside 
+Coastal Neighborhood Association and the 
+South Oceanside Community and Merchants 
+Association; and
+•	 Public meetings with the City Council, Planning 
+Commission, Housing Commission, Economic 
+Development Commission, and Historic 
+Preservation Advisory Commission.
+These outreach activities generated a wide range 
+of comment from residents, business and proper-
+ty owners, subject matter experts, outside public 
+agency staff, and other stakeholders. Some of the 
+most frequently expressed community priorities 
+included the following: 
+•	 Ensuring safety and security in public spaces;
+•	 Preserving and restoring natural habitat;
+•	 Conserving farmland and promoting the viability 
+of agricultural operations;
+•	 Enhancing visual quality in both the built and 
+natural environments;
+•	 Maintaining the integrity of existing single-family 
+residential neighborhoods;
+•	 Mitigating and adapting to natural hazards, 
+including those exacerbated by climate change;
+•	 Providing housing opportunities for all income 
+levels;
+•	 Creating environments and providing services 
+that allow residents to age in place;
+•	 Enhancing traffic safety (particularly in 
+residential areas);
+•	 Expanding and enhancing active transportation 
+facilities;
+•	 Enhancing recreational facilities and improving 
+access to these facilities; and
+•	 Encouraging civic engagement and participation 
+in the decision-making process.
+
+
+OCEANSIDE GENERAL PLAN
+1-16
+1.5	Community Vision 
+and Guiding 
+Principles
+The Community Vision and Guiding Principles 
+provide the basis for the goals, policies, and 
+actions outlined in the General Plan and associat-
+ed planning documents. Informed by community 
+values, the Vision presents an aspirational view 
+of the City’s evolution through the planning hori-
+zon of 2050. The Guiding Principles contribute to 
+the structure of the General Plan, identifying the 
+topics that the plan will address in the greatest 
+detail. For more detail on the Vision and Guiding 
+Principles, see the project website.
+COMMUNITY VISION
+The Community Vision reads as follows: 
+Oceanside will leverage its many assets – including 
+its human capital – to promote quality of life, eco-
+nomic prosperity, environmental quality, and social 
+equity. The City will grow and diversify the local 
+economy, foster safe and vibrant public spaces, pro-
+tect the natural environment, conserve farmland, 
+and provide high-quality community facilities and 
+services. The City will balance economic, environ-
+mental, and social priorities in a manner that pro-
+motes Oceanside’s long-term sustainability and resil-
+ience. The benefits of this conscientious approach to 
+the City’s future will be shared by all members of the 
+Oceanside community.
+Housing and employment growth will be concen-
+trated within already urbanized areas, with a par-
+ticular focus on creating vibrant, walkable, visually 
+appealing, and engaging mixed-use districts centered 
+along Coast Highway, within the major east-west 
+commercial corridors, around Sprinter stations, and 
+in the Downtown District. This focus on infill and 
+redevelopment will allow for the preservation and 
+enhancement of recreational open space, sensitive 
+habitat, and existing single-family neighborhoods. 
+Concurrently, strategic planning emphasizing agri-
+tourism, clustered housing, rural design standards, 
+view 
+preservation, 
+and 
+limited 
+infrastructure 
+improvements will help preserve the agricultural 
+heritage and character of South Morro Hills, one of 
+San Diego County’s last remaining active agricultural 
+areas west of Interstate 15.
+An inviting and well-maintained public realm will 
+enhance Oceanside’s visual quality and provide 
+safe and comfortable spaces for residents to shop, 
+gather, enjoy the outdoors, and build communi-
+ty. Neighborhoods will transition seamlessly from 
+low-density residential areas to higher-intensity 
+mixed-use corridors, improving multimodal con-
+nectivity while preserving each neighborhood’s 
+unique character and significant historic and cultural 
+resources. An enhanced network of bike and pedes-
+trian trails, centered along the coastline, the San Luis 
+River, and other waterways, will connect destinations, 
+provide recreational opportunities, and improve traf-
+fic safety throughout the City. This “smart growth” 
+approach will promote walkability, transit use, neigh-
+borhood access to everyday services and amenities, 
+Photo credit: Terry Brown
+
+
+1-17
+INTRODUCTION 1
+and urban design elements that promote a sense of 
+place, social interaction, and natural surveillance of 
+the public realm.
+Oceanside will preserve and enhance the ecologi-
+cal, scenic, and recreational values of its coastline, 
+riparian areas, hillsides, and open spaces, ensuring 
+that these resources are available to all Oceansiders 
+for generations to come. Consistent with the City’s 
+adopted Energy and Climate Action Element and 
+Climate Action Plan, the City will work diligently to 
+reduce its carbon footprint, while building resilience 
+to climate change. Climate mitigation and adaptation 
+strategies include renewable energy procurement, 
+reduced vehicles miles traveled (VMT), expanded 
+tree canopy, “green infrastructure,” and community 
+preparedness and responsiveness to climate-exacer-
+bated threats and hazards such wildfires, flooding, 
+and drought.
+The Oceanside community will foster social and eco-
+nomic diversity and provide all residents with ready 
+access to City resources. New and rehabilitated hous-
+ing developments will serve all income levels, includ-
+ing low and very low-income households, ensuring 
+that all Oceansiders have a safe and affordable place 
+to call home. Oceanside will continue to embrace 
+and celebrate its diversity through programs and 
+community events, support of educational and cul-
+tural institutions, inclusive community outreach, and 
+a commitment to environmental justice and social 
+equity. This includes efforts to ensure that historical-
+ly disadvantaged communities are not disproportion-
+ately impacted by pollution, noise, traffic, or other 
+threats to public health, economic opportunity, and 
+quality of life. 
+The City will continue to honor its Native American 
+heritage, highlighting Oceanside’s rich history 
+of Native American settlement, protecting tribal 
+resources, and maintaining constructive dialogue 
+with the San Luis Rey Band of Mission Indians and 
+other tribal groups in the region.
+In partnership with local groups and institutions, the 
+City will assert its role in charting the future of the 
+San Diego region, working closely with neighboring 
+jurisdictions to address shared concerns and seek 
+mutual benefits, participating actively in regional 
+planning efforts, and implementing complementary 
+state priorities and regional policies at the local level.
+Photo credit: Terry Brown
+
+
+OCEANSIDE GENERAL PLAN
+1-18
+ORGANIZING THEMES AND 
+GUIDING PRINCIPLES
+Developed in the visioning phase of the plan, the 
+organizing themes became the topics for the the-
+matic elements—or chapters—of the General Plan. 
+The following pages outline the guiding principles 
+that shaped the contents of each element. The 
+coverage of state mandated topics is outlined in 
+Table 1-1.
+Remarkable Community (RC)
+The Remarkable Community element incorpo-
+rates urban design, urban forestry, scenic public 
+view preservation, activation of public spaces, 
+neighborhood design standards, and maintenance 
+of historic resources. 
+Guiding Principles:
+1.	 Strengthen Oceanside’s Sense of Place
+2.	 Preserve and Enhance Neighborhood 
+Character
+3.	 Promote Pedestrian and Bicycle-Friendly 
+Development
+Efficient and Compatible Land Use 
+(ECLU)
+The ECLU leverages land use patterns and clas-
+sifications, density and intensity standards, and 
+policies on edge conditions (i.e., where different 
+environments converge) and land use transitions 
+to foster orderly, vibrant, and pleasant surround-
+ings for all Oceansiders. 
+Guiding Principles:
+4.	 Promote Efficient Use of Limited Land 
+Resources
+5.	 Facilitate a Range of Housing 
+Opportunities
+6.	 Ensure Adequate Land Resources for 
+Employment-Oriented Uses
+Integrated Mobility (IM)
+This element focuses on improvements to the 
+City’s physical infrastructure, such as creating 
+connections to safe, efficient, cost-effective, and 
+environmentally-friendly modes of transporta-
+tion including pedestrian and bicycle facilities, 
+ensuring access to adequate means of emergency 
+ingress and egress in the event of natural disaster 
+and/or other incidences posing a threat to public 
+safety, and creating a visitor destination accessi-
+ble by multiple rail services. 
+Guiding Principles: 
+7.	 Expand Mobility Options
+Vital and Sustainable Resources 
+(VSR)
+This element addresses habitat and wildlife con-
+servation, agricultural preservation and viability, 
+air quality, water quality and conservation, and 
+other topics addressed in the Energy and Climate 
+Action Element and Climate Action Plan.
+Guiding Principles:
+8.	 Preserve Natural Resources
+9.	 Protect Air and Water Quality
+10.	 Reduce Greenhouse Gas Emissions
+Photo credit: Terry Brown
+
+
+1-19
+INTRODUCTION 1
+Safe and Resilient Environment (SRE)
+This element seeks to prepare the City when 
+facing a range of hazards including fire, geologic 
+and seismic hazards, coastal and inland flooding, 
+extreme heat events, airport hazards, and com-
+munity safety. While the Vital and Sustainable 
+Resources Element primarily focuses on cli-
+mate mitigation efforts, the Safe and Resilient 
+Environment Element will largely consider how to 
+effectively adapt to climate change and will reflect 
+the City’s commitment to climate adaptation and 
+resiliency. 
+Guiding Principles:
+11.	 Minimize Risks Associated with Natural 
+and Human-Induced Hazards
+12.	Create Safe and Secure Public Spaces
+Healthy and Livable Community 
+(HLC)
+The Healthy and Livable Community element 
+focuses on improvements to the City’s public 
+facilities including parks and recreation facilities, 
+educational and community facilities and cultural 
+venues, as well as the public services (e.g., public 
+safety and emergency services, public works 
+operations). This element will also cover food 
+systems, public health, and community-building 
+programs and events. 
+Guiding Principles
+13.	 Create a Physical Environment Conducive     
+  to Healthy Living
+14.	 Minimize Noise Impacts
+15.	 Protect and Build Upon the City’s  
+  Investments in Community Resources and  
+  Services
+16.	 Promote Personal Growth, Social  
+  Interaction, and Inclusiveness 
+17.	  Create Spaces, Resources, and Activities  
+  that Support Community-Building
+18.	 Leverage New Technology
+Photo credit: Terry Brown
+
+
+OCEANSIDE GENERAL PLAN
+1-20
+1.6	Related Documents
+GENERAL PLAN UPDATE, PHASE 1
+Economic Development Element 
+(EDE)
+The EDE was adopted in 2019 and informs future 
+actions affecting the City’s fiscal resources and the 
+local economy. The overarching goal of the EDE is 
+to grow and diversify the City’s economy in ways 
+that lift the fortunes and enhance the wellbeing of 
+all Oceanside residents. Goals and policies in the 
+EDE will enhance quality of life; promote econom-
+ic prosperity; make Oceanside more economically 
+resilient; and strengthen collaborative partner-
+ships between the City, educational institutions, 
+business groups, and neighboring cities.
+Energy and Climate Action Element 
+(ECAE)
+Prepared in conjunction with the EDE and also 
+adopted in 2019, the ECAE focuses on the City’s 
+responsibility to reduce its carbon footprint in a 
+manner consistent with the state’s greenhouse 
+gas (GHG) emissions reduction targets. The ECAE 
+also addresses environmental sustainability more 
+broadly, promulgating goals and policies that 
+encourage cleaner, healthier, and less resource-in-
+tensive consumer choices and business practices. 
+The ECAE encourages smart growth, alternative 
+transportation, solid waste diversion, water con-
+servation and local water harvesting, urban for-
+estry, and the preservation of local agriculture. 
+The fundamental goal of the ECAE is to reduce 
+reliance on fossil fuels and move the City toward 
+a carbon-neutral future.
+SMART AND SUSTAINABLE 
+CORRIDORS SPECIFIC PLAN
+Concurrent with the General Plan Update, 
+the City prepared the Smart and Sustainable 
+Corridors Specific Plan (SSCSP), a focused reg-
+ulatory plan covering the three main east-west 
+corridors—Mission Avenue, Oceanside Boulevard, 
+and Vista Way. The SSCSP establishes the zoning 
+for these corridors, with form-based design stan-
+dards that promote high-quality development. 
+The SSCSP envisions the three corridors as 
+walkable, visually cohesive, tree-lined boulevards 
+that foster a strong sense of place and community 
+identity. Mixed-use development in these corri-
+dors will accommodate much of the City’s housing 
+and employment growth over the planning hori-
+zon, while creating synergies between residential 
+and non-residential uses and providing for more 
+natural surveillance. The SSCSP is covered by the 
+same EIR as the General Plan and was adopted 
+concurrently.
+CLIMATE ACTION PLAN (CAP)
+The CAP has been updated concurrently with 
+the General Plan to ensure consistency with the 
+updated growth scenarios presented in the Plan. 
+The CAP forecasts future GHG emissions from 
+a range of sources, establishes emissions reduc-
+tion targets consistent with California’s goal of 
+achieving carbon neutrality by 2045, and outlines 
+a broad range of strategies designed to reduce the 
+City’s carbon footprint.
+ENVIRONMENTAL IMPACT 
+REPORT
+The General Plan is accompanied by an EIR, 
+prepared in accordance with the California 
+Environmental Quality Act (CEQA). The EIR also 
+serves as the EIR on the SSCSP and the CAP. The 
+EIR is a detailed analysis of the potential environ-
+mental effects of the General Plan/SSCSP/CAP, 
+evaluating alternatives and presenting ways to 
+reduce or avoid environmental damage. The EIR 
+process has also informed policies that mitigate 
+potentially adverse environmental effects of the 
+Plan, thus resulting in a largely “self-mitigating” 
+Plan.
+EXISTING CONDITIONS REPORTS
+As a part of the General Plan Update process, four 
+existing conditions reports were produced to pro-
+vide technical analysis and planning context on a 
+range of topics relevant to the General Plan:
+•	 Background Report 1: Market Analysis
+•	 Background Report 2: Land Use and Community 
+Resources
+•	 Background Report 3: Mobility
+•	 Background Report 4: Environmental Resources
+
+
+1-21
+INTRODUCTION 1
+OTHER RELEVANT PLANNING 
+DOCUMENTS
+Local Coastal Program
+Oceanside’s Local Coastal Program (LCP) is a plan-
+ning document that regulates development in the 
+City’s Coastal Zone and establishes a long-range 
+vision for the community. The California Coastal 
+Act, passed in 1976, provides for coastal jurisdic-
+tions to adopt a Local Coastal Program to ensure 
+local implementation of Coastal Act priorities. 
+The City is currently updating its Local Coastal 
+Program, originally adopted in 1986, to address 
+the changing issues that the City is facing in its 
+Coastal Zone, including the threat of sea level rise, 
+increasing visitor traffic, more stringent water 
+quality and habitat management requirements, 
+and aging infrastructure.
+Coast Highway Vision and Strategic 
+Plan
+In 2009, the City of Oceanside adopted the 
+Coast Highway Vision and Strategic Plan. This 
+plan serves as a blueprint for the revitalization 
+and enhancement of the Coast Highway corridor 
+between Harbor Drive in the north and Buena 
+Vista Lagoon in the south. The Vision and Strategic 
+Plan includes several recommendations to trans-
+form Coast Highway from an auto-oriented thor-
+oughfare into a “complete street” that serves all 
+modes of transportation from automobiles to 
+pedestrians to bicyclists and transit vehicles.
+Downtown – Article 12 Amendment
+In 2020 the City Council adopted an amend-
+ment to Article 12 in the City’s Zoning Ordinance 
+that regulates development in the Downtown. 
+The updated Downtown Zoning Ordinance not 
+only allows for more commercial uses, which 
+are currently allowed in other parts of the City, 
+within the downtown area, but also implements 
+a streamlined review of some commercial uses 
+in the downtown area through an administrative 
+conditional use permit (ACUP) process or by per-
+mitting the use by right. This update to Article 12 
+is the latest move in the City’s effort to revitalize 
+the Downtown and encourage new development 
+in the area.
+Parks and Recreation Master Plan
+In 2019, the City adopted a new Parks and 
+Recreation Master Plan (Master Plan). The Master 
+Plan provides a guide for the orderly development 
+of future park, recreation, and open space facili-
+ties and programs in order to meet the communi-
+ty’s current and future needs. The Master Plan is 
+intended to provide a realistic view of the City’s 
+parks and recreation system and to develop a 
+vision for the parks and recreation system through 
+2030. The General Plan builds on the work done 
+in the Parks Master Plan to present a comprehen-
+sive view of City’s parks and recreation resources 
+through the 2050 planning horizon. The General 
+Plan growth projections and locations for new 
+residential development would need to be reflect-
+ed in the next update of the Master Plan. 
+Photo credit: Russ Cunningham
+
+
+OCEANSIDE GENERAL PLAN
+1-22
+1.7	General Plan 
+Administration 
+IMPLEMENTATION
+General Plan policies are action-oriented and 
+serve as the implementation plan for the General 
+Plan. The General Plan is implemented through 
+the Zoning and the Subdivision ordinances, 
+review of development applications, decisions of 
+the Planning Commission and the City Council, 
+specific plans, and the City’s Capital Improvement 
+Program (CIP). The Zoning Ordinance includes 
+detailed use classifications and standards. The 
+zoning map must be consistent with the General 
+Plan map, but it will not be identical to it. Specific 
+plans and the CIP also must be consistent with the 
+General Plan. 
+AMENDMENTS TO THE GENERAL 
+PLAN 
+The General Plan is a living document. As such, 
+it should be updated periodically as specific cir-
+cumstances change from the time of writing, to 
+respond to new state or federal laws, or to modify 
+policies that may become obsolete or unrealistic 
+over time. 
+Changes in policy as well as the development of 
+unforeseen opportunities or needs will require 
+amendment of the General Plan. Per California 
+Government Code Section 65358, no mandato-
+ry element of this General Plan may be amended 
+more frequently than four times during any cal-
+endar year. Within this limitation, amendments 
+may be made at any time as determined by the 
+Oceanside City Council, and each amendment 
+may include more than one change to the Plan.
+Photo credit: Russ Cunningham
+
+

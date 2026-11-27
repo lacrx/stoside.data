@@ -1,0 +1,194 @@
+Summary Form for Electronic Document Submittal 
+ 
+Lead agencies may include 15 hardcopies of this document when submitting electronic copies of Environmental Impact Reports, 
+Negative Declarations, Mitigated Negative Declarations, or Notices of Preparation to the State Clearinghouse (SCH). The SCH 
+also accepts other summaries, such as EIR Executive Summaries prepared pursuant to CEQA Guidelines Section 15123. Please 
+include one copy of the Notice of Completion Form (NOC) with your submission and attach the summary to each electronic 
+copy of the document. 
+ 
+SCH #2021050529 
+Project Title: City of Oceanside General Plan Update, Smart and Sustainable Corridors Specific Plan, and Climate Action Plan Update 
+Lead Agency: City of Oceanside 
+ 
+ 
+Contact Name: Darlene Nicandro 
+ 
+ 
+Email: dnicandro@oceansideca.org 
+Phone Number:  760-435-3595  
+ 
+Project  Location:                  City of Oceanside 
+                     San Diego 
+ 
+ 
+City 
+County 
+ 
+Project Description (Proposed actions, location, and/or consequences). 
+The project includes a comprehensive General Plan Update (GPU), creation of a Smart and Sustainable Corridors Specific Plan (SSCSP), 
+and an update to the City’s Climate Action Plan (CAP Update).  
+ 
+The GPU includes updating all elements, except for the Economic Development and Energy and Climate Action Elements which were 
+prepared in 2019. The GPU has been revised to be organized around themes and guiding principles that reflect community input, the 
+findings of technical studies, and state and regional priorities. The updated elements contain all state-mandated requirements, providing 
+newly drafted goals, objectives, policies, and specific actions for future land use decision making. The GPU will include the following 
+elements: Efficient and Compatible Land Use (ECLU), Integrated Mobility (IM), Remarkable Communities (RC), Vital and Sustainable 
+Resources (VSR), Safe and Resilient Environment (SRE), and Healthy and Livable Community (HLC). Implementation of the GPU will result 
+in the establishment of the City’s approach to growth and change addressing many aspects of development including, but not limited to, 
+land use changes, citywide mobility, streetscape improvements, parks and recreational opportunities, and preservation of resources.  
+ 
+The SSCSP is a regulatory document, consistent with the ECLU that outlines strategies, standards, and processes meant to foster the 
+revitalization of the Mission Avenue, Oceanside Boulevard, and Vista Way commercial corridors in the City. The proposed land use 
+framework for the SSCSP Planning Area offers an array of housing options for people at all income levels and stages of life. The non-
+residential land uses are framed to support an inclusive commercial environment that provides retail and services catering to residents’ 
+daily needs while simultaneously inviting visitors from across the region. 
+ 
+The project includes an update to the 2019 CAP to account for the increased housing and employment growth resulting from the GPU 
+and SSCSP. The CAP Update will provide a comprehensive plan for addressing Greenhouse Gas (GHG) emissions throughout the City.   
+ 
+The simultaneous processing of the GPU, SSCSP, and CAP Update is intended to ensure that growth occurs in an environmentally 
+sustainable manner. The City's revised elements are intended to provide key planning principles to guide future development 
+throughout the City, including the SSCSP Planning Area. 
+ 
+ 
+ 
+
+
+continued 
+ 
+Revised September 2011 
+Identify the project's significant or potentially significant effects and briefly describe any proposed mitigation measures that 
+would reduce or avoid that effect. 
+Air Quality:  
+Buildout of the GPU and SSCSP would result in an increase in development and an associated increase in emissions when compared to 
+buildout of the City’s adopted zoning and land use designations. Therefore, buildout of the GPU and SSCSP would exceed the 
+assumptions used to develop the RAQS. Even with implementation of applicable GPU and SSCSP goals and policies, this impact would 
+be significant. Future discretionary development would be reviewed for conformance with the GPU VSR Element goals and policies to 
+reduce operational emissions within the City. Incorporation of GPU goals and policies as well as mitigation measure AQ-1 would 
+contribute to reduced criteria air pollutant emissions associated with buildout of the project. Goals and policies included in the GPU 
+would facilitate continued City cooperation with the SDAPCD and SANDAG to achieve regional air quality improvement goals, promotion 
+of energy conservation design and development techniques, encouragement of alternative transportation modes, and implementation of 
+TDM strategies. However, no additional feasible mitigation measures are available that would reduce impacts associated with 
+inconsistency with the RAQS. Therefore, impacts related to conflicts with an air quality plan would remain significant and unavoidable. 
+In general, the project would reduce air quality impacts through implementation of GPU policies and actions as well as the proposed 
+CAP reduction measures. However, it is possible that for certain projects, adherence to the regulations may not adequately protect air 
+quality, and such projects would require additional measures to avoid or reduce significant air quality impacts. For individual projects that 
+may exceed the daily operational emissions thresholds established by the City and the SDAPCD, mitigation measure AQ-1 would require 
+a project level analysis of operational air quality impacts using the latest available CalEEMod mode, or other analytical method 
+determined in conjunction with the City, and propose additional project-level mitigation and/or project design features to reduce 
+operational impacts to less than significant. Implementation of mitigation measure AQ-1 would reduce potentially significant impacts 
+related to operational air quality emissions to a less than significant level. 
+Biological Resources: 
+Buildout under the GPU and SSCSP would result in increased development throughout the City. Future development has the potential to 
+impact sensitive plants and wildlife species, sensitive habitats, and/or jurisdictional wetlands. Increased intensity of land uses could also 
+result in impacts to migratory wildlife including the use of wildlife movement areas. Additionally, future construction activities may 
+require vegetation removal and/or construction activity noise levels that could disturb nesting birds. While adherence to federal and 
+state regulations, City planning strategies, GPU policy compliance, and implementation of Standard Conditions of Approval would reduce 
+significant impacts, absent project specific development plans, future projects on land that may support special-status species or 
+sensitive vegetation communities, including wetlands, support wildlife corridors and/or nesting birds would implement mitigation 
+measures BIO-1 and BIO-2. These mitigation measures require preparation and approval of a project level biological assessment. The 
+biological assessment shall evaluate how the project has been designated to minimize and avoid impacts to the extent feasible and 
+demonstrate consistency with the GPU and SSCSP policy framework, as applicable. Any unavoidable impacts to sensitive habitats shall be 
+mitigated following the ratios identified in the City’s VSR Element Table 5-1. Mitigation measure BIO-1 requires a biological monitor to be 
+present during grading activities, and BIO-2 includes conservation requirements for the preservation of habitat. Implementation of 
+mitigation measures BIO-1 and BIO-2 would reduce potentially significant impacts related to biological resources to less than significant 
+levels. 
+Cultural and Tribal Cultural Resources: 
+Absent project specific development plans, significant impacts to historic resources could occur if future construction activity is within 
+proximity to significant historic buildings, structures, objects, landscapes, or sites. Additionally, future development could result in 
+alteration or removal of structures that are greater than 45 years old and could qualify for historic significance. Future development 
+projects that could directly or indirectly affect a building/structure greater than 45 years of age would implement mitigation measure 
+CUL-1 requiring preparation of a historic evaluation to verify the historic significance of a structure. If a structure is found to be 
+historically significant, avoidance or mitigation measures as detailed in CUL-1 shall be implemented. Implementation of mitigation 
+measure CUL-1 would reduce potentially significant impacts related to historic structures to less than significant levels. 
+Absent project specific development plans, significant impacts to prehistoric and historic archaeological resources, and/or tribal cultural 
+resources could occur if future projects unearthed unknown and unrecorded archaeological resources. Development sites with the 
+potential to support buried archaeological resources would implement mitigation measure CUL-2 requiring preparation of an 
+archaeological survey report. Additional measures could include record search at the SCIS at San Diego State University, and a review of 
+the Sacred Lands File. Archeological land Native American monitors would be required on-site during grading activities and any artifact 
+discovered would be evaluated for significance. Should significant artifacts be discovered, additional steps to mitigate as detailed in CUL-
+2 would be required. Implementation of mitigation measure CUL-2 would reduce potentially significant impacts related to archeological 
+and tribal cultural resources to less than significant levels. 
+
+
+continued 
+ 
+Revised September 2011 
+Paleontological Resources: 
+Absent project specific development plans, future new development or redevelopment that increases excavation depths could result in 
+the disturbance of previously unknown paleontological resources. Similarly, unique geologic features could be adversely affected, if 
+destroyed due to site development. Therefore, future projects could result in significant impacts to paleontological resources and/or 
+unique geology. Future projects that are within high paleontological sensitivity areas would implement mitigation measures GEO-1 
+requiring retention of a qualified paleontologist to monitor grading activities and report on any discoveries that could be significant.  
+Should significant resources be discovered, additional steps to mitigate as detailed in GEO-1 would be required. Implementation of 
+mitigation measure GEO-1 would reduce potentially significant impacts related to archeological and tribal cultural resources to less than 
+significant levels. 
+GHG Emissions:  
+The quantification analysis demonstrated that the total estimated reductions from all GHG reduction measures would be sufficient to 
+meet the 2030 GHG reduction targets consistent with state goals. While the CAP Update would make substantial progress towards 2045 
+and 2050 targets, the analysis shows that the quantified measures would not be sufficient to meet the 2045 and 2050 targets. The 
+monitoring program and implementation strategy would allow the City to track progress towards these targets and make adjustments as 
+needed. However, long-term targets will likely require development of technology or other changes that are not currently known or 
+available. Therefore, additional reduction measures in addition to the policies presented within the CAP Update would not be feasible at 
+this time. Because at this time 2045 and 2050 goals would not be met, impacts would be significant. There is no feasible mitigation 
+available at this time to address the emissions gap associated with 2045 and 2050 targets. Impacts associated with GHG emissions, 
+including the project’s consistency with applicable plans, policies, or regulations adopted for the purpose of reducing the emission of 
+GHGs, would remain significant and unavoidable.     
+Noise: 
+GPU buildout would result in a significant noise increase over existing ambient noise levels at several roadway segments which support 
+noise sensitive residential uses.  Therefore, existing land uses would be exposed to an increase in ambient noise which could be a 
+significant impact. Because the significant noise impacts would be to existing homes and other noise-sensitive uses in an already 
+urbanized area, there is no feasible mitigation at the program level. Therefore, impacts would remain significant and unavoidable. 
+Public Services (Fire and Police):  
+Buildout under the GPU and SSCSP would increase the demand on fire protection services in comparison to existing conditions 
+Construction of new fire stations in the future could result in environmental impacts, including disturbances or conversion of habitat, 
+water pollution during construction, increased noise levels, and an increase in impermeable surfaces. While existing regulations and 
+proposed GPU policies would reduce future development’s need to expand or construct new fire facilities to serve the project, absent 
+specific development plans the need for expanded or new future fire stations cannot be determined. Therefore, it cannot be ensured that 
+all impacts associated with the construction and operation of potential future fire facilities associated with new development would be 
+mitigated to a less than significant level. Impacts at this program level would be potentially significant. No feasible mitigation measures 
+are available at this program level of analysis. Therefore, impacts would remain significant and unavoidable. 
+Utilities:   
+Future development under the GPU and SSCSP would increase demand for utilities system facilities associated with water, sewer, storm 
+drains, electrical power, natural gas, and telecommunications. Future development would implement policies focused on the assurance 
+of adequate services facilities. Specifically, future projects would be subject to project specific review to determine the need for upsizing 
+of existing and/or need for relocation of existing utilities. Individual development projects would be required to demonstrate adequate 
+facilities are available to support the proposed project. At the time future development projects are proposed, they would require project 
+specific environmental review and compliance with applicable regulations and policies to ensure adequate facilities are provided. 
+Although physical impacts associated with the construction and operation of new facility improvements would be addressed at the time 
+they are proposed, at this program level of review, absent project specific development plans, impacts would be potentially significant. 
+No feasible mitigation measures are available at this program level of analysis. Therefore, impacts would remain significant and 
+unavoidable. 
+ 
+ 
+ 
+
+
+continued 
+ 
+Revised September 2011 
+If applicable, describe any of the project’s areas of controversy known to the Lead Agency, including issues raised by agencies 
+and the public. 
+Areas of controversy include the following: 
+• 
+Whether this Recirculated PEIR adequately describes the environmental impacts of the project.  
+• 
+Whether the benefits of the project override the environmental impacts that cannot be feasibly avoided or mitigated to a 
+level of insignificance.  
+• 
+Whether there are any alternatives to the project that would substantially lessen any of the significant impacts of the 
+project and achieve most of the basic project objectives.  
+ 
+Provide a list of the responsible or trustee agencies for the project. 
+California Department of Transportation 
+California Department of Fish and Wildlife 
+U.S. Army Corps of Engineers 
+U.S. Fish and Wildlife Service 
+California Department of Housing and Community Development 
+California Regional Water Quality Control Board – San Diego Region 
+Oceanside Airport Land Use Commission 
+Native American Heritage Commission 
+San Diego County Air Pollution Control District 
+San Diego Regional Water Quality Control Board 
+California Coastal Commission 
+ 

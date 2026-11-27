@@ -1,0 +1,1337 @@
+PARKS AND RECREATIONAL OPEN SPACE
+8WATER 
+INFRASTRUCTURE
+
+
+8-2
+EXISTING CONDITIONS REPORT
+8.1	Water Infrastructure
+EXISTING SYSTEM
+Water supply to the City is primarily pro­
+vided through purchasing of both treated and 
+untreated imported water from the San Diego 
+County Water Authority (SDCWA) through five 
+(5) aqueduct connections. In Fiscal Year 2019, 
+88% percent of the water supply was provided 
+by the SDCWA. The remaining 11 percent of 
+water supply was provided by the Mission Basin 
+Groundwater Purification Facility and 1% from 
+recycled water supplies. Annual water supplied 
+in Fiscal Year 2019 was approximately 22,645 
+acre feet (AF). The distribution system consists of 
+28 pressure zones, 597 miles of pipelines varying 
+in size from 4 inches to 42 inches, 8 groundwa­
+ter wells, 12 storage reservoirs, 9 booster pump 
+stations, 5 imported water connections, and 69 
+pressure regulating stations. As shown in Table 
+1-1, recycled water is growing in supply both 
+through advanced treatment of wastewater with 
+the primary use of groundwater basin replenish­
+ment as well as recycled water irrigation use on 
+golf courses, the City’s sports park as well as the 
+Whelan Lake Bird Sanctuary.
+The City completed the last water Master Plan 
+in 2015. At that time, the estimated build-
+out growth potential was based on the 2002 
+General Plan land use, including distribution 
+of land use types and both near-term and 
+long-range development plans. San Diego 
+Association of Governments (SANDAG) 2050 
+regional growth forecasting was used for pro­
+jecting the City’s future water demand. Some 
+of the South Morro Hills area was projected to 
+be comprised of new low-density residences; 
+however, this was considered uncertain and 
+the impacts of this conversion of land from 
+agricultural use to low-density residential use 
+on the water distribution system were thus not 
+reflected in future water demand. Significant 
+amounts of redevelopment were planned for 
+the Downtown area around City Hall and to the 
+beachfront.
+Since 2005, water usage in Oceanside has been 
+reducing on a per capita basis (see Figure 8-1).
+
+
+TABLE 8-1: HISTORICAL ANNUAL WATER SUPPLY BY SOURCE
+YEAR
+MISSION BASIN 
+GPF (AFY)
+IMPORTED WATER 
+(AFY)
+POTABLE SYSTEM 
+TOTAL (AFY)
+RECYCLED WATER 
+(AFY)
+2005
+2,304
+31,307
+33,611
+80
+2006
+2,126
+32,185
+34,311
+209
+2007
+2,219
+33,366
+35,858
+109
+2008
+1,677
+31,373
+33,050
+66
+2009
+2,813
+27,979
+30,792
+74
+2010
+4,455
+21,765
+26,221
+130
+2011
+4,028
+22,735
+26,763
+104
+2012
+3,704
+24,148
+27,852
+135
+2013
+4,575
+24,139
+28,714
+128
+2014
+4,735
+24,540
+29,275
+140
+2015
+3,213
+20,400
+23,613
+104
+2016
+2,313
+21,316
+23,629
+120
+2017
+1,491
+22,224
+23,715
+242
+2018
+2,749
+21,293
+24,042
+268
+2019
+2,450
+19,305
+21,755
+239
+2020
+2,302
+21,662
+23,964
+249
+Source: City of Oceanside, 2013; Dudek, 2020
+WATER INFRASTRUCTURE
+8-3
+
+
+Figure 8-1: Trends in Population and Water Supply by Source, 2005-2020
+
+
+WATER INFRASTRUCTURE
+8-5
+Actual water usage was 122 gallons per capita 
+per day (gpcd) in 2020 compared to a 2020 
+target usage of 137 GPCD. Annual water demand 
+is expected to be relatively flat through 2045, 
+with an ultimate annual water demand of 
+24,377 acre-feet per year, (Source 2020 UWMP - 
+Woodard & Curran).
+As a result of the very low projected increase in 
+water demand, there were no recommended 
+capacity projects within the 2015 Water Master 
+Plan specifically to address population growth. 
+The only projects that addressed a capacity 
+deficiency were related to addressing changes 
+in regional standard fire flow requirements.  No 
+change in regional fire flow requirements (based 
+on land use) are expected for the 2020 master 
+plan update.  
+Existing water storage reservoirs were installed 
+between 1956 and 1995. Ongoing reservoir 
+upgrades and new water quality monitoring 
+projects were identified in 2015 to support the 
+long-term reliability of the aging infrastructure. 
+Between 2015 and 2020, reservoir projects 
+focused on structural rehabilitation needs.
+As a primary gravity fed water distribution 
+system, the City has nine (9) pressure booster 
+stations, with these stations only utilized under 
+emergency conditions. Projects were identified 
+in 2015 to add backup generators to these sta­
+tions for increased reliability.
+FUTURE NEEDS
+The City will be preparing the 2020 Water Master 
+Plan to update and reprioritize recommend 
+improvement projects. A distribution system 
+water model will be used for evaluating perfor­
+mance of the system. Performance criteria is 
+expected to be identical to past water master 
+plans.
+Two areas of the distribution system have been 
+recognized by the City as underperforming, 
+including the Peacock Hills pressure zone served 
+by the Crestview and Old Grove pressure reduc­
+ing stations (PRSs) and Fire Mountain pressure 
+zone, as shown in Figure 8-2. Achieving adequate 
+fire flow in this area has historically been accept­
+able, but near the allowable limit. While small 
+changes in domestic water demand is not typi­
+cally a trigger for needing to increase capacity, 
+for this pressure zone, the current water pres­
+sure performance and small increase in average 
+annual water demand due to development may 
+trigger the need for adding a new supply pipe­
+line to the City water transmission pipeline.   This 
+new connection would allow the pressure zone 
+to be served at a higher pressure and improve 
+customer satisfaction. Similar to Peacock Hills, 
+in the Fire Mountain pressure zone, there is a 
+potential trend to increase residential density 
+by consolidating parcels.  The following figure 
+shows the location of the Peacock Hills pressure 
+zone and Fire Mountain pressure zone.  
+For consideration of recommended changes 
+in the City land use as part of the General Plan 
+Update, any resultant changes in parcel land 
+use will need to be assessed as part of the 
+water system hydraulic modeling effort during 
+the 2020 Water Master Plan update. The water 
+model consolidates individual parcels into larger 
+polygons for the assessment fire flows. No 
+changes in land use-based fire flow criteria are 
+projected as part of the 2020 Water Master Plan.
+Related to Citywide future water demand, 
+the City has invested in the construction of an 
+advanced water treatment system at the San 
+Luis Rey Water Reclamation Facility (SLRWRF) 
+and is expanding the recycled water distribution 
+network.  In 2018, the City expanded the tertiary 
+treatment capacity of the SLRWRF to 3.0 MGD 
+and allowed for future expansion of up to 10.5 
+MGD. This system provides a direct supply of 
+recycled water to large irrigation and commercial 
+demands, supplementing current potable water 
+demand. At the end of 2021, the system will 
+also include the injection of advanced treated 
+water into the groundwater network to further 
+support the long-term sustainability of the 
+groundwater basin as a source of potable water. 
+The combined effort will both reduce overall 
+demand of potable water and reduce reliance 
+on imported potable water from the SDCWA by 
+approximately 30 percent.
+
+
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+P a c i f i c
+O c e a n
+Source: Dudek, 2020; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Water Main
+City of Oceanside
+South Morro Hills
+Community Plan Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Transit Stop
+Rail
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 2/2/2021
+ Peacock Hills Pressure Zone 
+ Fire Mountain Pressure Zone 
+ Agua Hedionda Creek
+Figure 8-2: Approximate Location of Peacock Hills and Fire Mountain 
+Pressure Zones
+
+
+WATER INFRASTRUCTURE
+8-7
+8.2	Sewer System
+EXISTING SYSTEM
+The existing sewer collection system consists of 
+486 miles of gravity pipeline, 50 miles of force 
+mains, 36 lift stations and two wastewater 
+treatment plants. There are also 201 miles of 
+private sewer laterals that connect customers to 
+the sewer system. Wastewater is treated either 
+at the La Salina Wastewater Treatment Plant 
+(WWTP) or the San Luis Rey WWTP. Both treat­
+ment plants discharge treated wastewater to the 
+Pacific Ocean through ocean outfalls. The system 
+collects and treats an average of 12.5 million gal­
+lons per day (MGD) during dry weather, and up 
+to 30.7 MGD during wet weather. Wet weather 
+peaking factors are commonly around 2 to 2.5 
+times average dry weather flows.
+The 2015 Sewer Master Plan (SMP) identifies 
+near term (2015-2020) and long term (2021-
+2050) capital improvements program (CIP) 
+projects designed to increase capacity, replace 
+or rehabilitate deteriorating assets in order to 
+provide reliable services, prevent environmen­
+tal contamination, and expand the wastewater 
+collection system to adequately meet current 
+demands and future demands based on the 
+SANDAG 2050 Regional Growth Forecast. While 
+there are no overall treatment capacity issues 
+currently, CIP prioritization is based on urgency 
+to mitigate existing deficiencies and condition 
+issues and provide capacity for future growth 
+including near term development projects (e.g. El 
+Corazon, Terraza RDO Village XII, Ocean Pointe, 
+and The Villages of Morro Hills). Pipeline rehabil­
+itation accounts for nearly 62% of the total CIP 
+costs through 2050. The largest capital project 
+consists of the combined new La Salina Pump 
+Station, associated forcemain and improve­
+ments to San Luis Rey WRF. Rehabilitation proj­
+ects were identified through an age-based asset 
+management model that projects useful life for 
+various materials, systems and technologies. 
+Since 2015, the City has made extensive efforts 
+to inspect the condition of the collection system 
+as well as implement a significant amount of 
+projects to reduce I&I, to ensure spills do not 
+enter waterways and to repair/rehabilitate sev­
+eral of the larger sewer force mains.
+FUTURE NEEDS
+During the capacity analysis portion of the 
+master planning effort, only large sewer inter­
+ceptor pipelines were included in the mod­
+eling process. These pipelines accounted for 
+approximately 30 percent of the entire collec­
+tion system. For wet weather capacity analy­
+sis, pipelines were allowed to flow up to 100 
+percent of capacity before being triggered as 
+undersized. The evaluation criteria for the 2020 
+Sewer Master Plan will stipulate the maximum 
+allowable wet weather flow capacity to a depth 
+to diameter ratio of 0.85. Modeled flows that 
+exceed this criterion will be considered under­
+sized and candidates for upsizing.
+The study area for the SMP closely coincides 
+with the City boundaries with the exception 
+of the South Morro Hills area in the northeast 
+section of the City, as shown in Figure 8-3. 
+The South Morro Hills area does not have any 
+sewer infrastructure installed at the time of 
+the SMP evaluation and all sewage in the area 
+is disposed of via septic systems. The South 
+Morro Hills Community Plan being prepared by 
+the City is looking at potential for agritourism 
+and increased residential development in the 
+area. Changes in the South Morro Hills area to 
+residential land use will require extension of the 
+collection system to service new development, 
+and as a result the existing downstream collec­
+tion system will have increased flows and may 
+require upsizing to operate below the maximum 
+allowable wet weather flow capacity depth to 
+diameter ratio of 0.85.
+
+
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+P a c i f i c
+O c e a n
+Source: Dudek, 2020; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Sewer Main
+City of Oceanside
+South Morro Hills
+Community Plan Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Transit Stop
+Rail
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 2/2/2021
+ South Morro Hills Area 
+Figure 8-3: Existing City Sewer Collection System and South Morro Hills Area
+
+
+TABLE 8-2: INADEQUATE FACILITIES BY WATERSHED
+WATERSHED NAME
+TOTAL LENGTH 
+ANALYZED (FT)
+INADEQUATE FACILITIES
+LENGTH (FT)
+PERCENT
+Pilgrim Creek
+34,550
+1,470
+4.3
+San Luis Rey River
+183,450
+10,930
+6.0
+Garrison Creek
+44,150
+2,140
+4.8
+Loma Alta Creek
+112,830
+8,600
+7.6
+Buena Vista Creek
+61,670
+12,530
+20.3
+Aqua Hedionda Head Waters
+30,360
+590
+1.9
+Pacific Ocean/Beach Area
+10,440
+4,680
+44.8
+Source: City of Oceanside, 2013; Dudek, 2020
+WATER INFRASTRUCTURE
+8.3	Stormwater System 
+EXISTING SYSTEM
+The existing stormwater system consists of 
+2,790 gravity flow drainage facilities defined 
+as individual portions of the drainage system 
+separated by cleanouts, manholes, or changes 
+in size, slope, or material for a combined total 
+length of 477,450 linear feet. In addition, each 
+facility is classified by the watershed in which 
+the facility collects and discharges stormwater 
+runoff. The seven distinct watersheds within the 
+City used for classifying stormwater system facil­
+ities include Pilgrim Creek, San Luis Rey River, 
+Garrison Creek, Loma Alta Creek, Buena Vista 
+Creek, Aqua Hedionda Head Waters, and Pacific 
+Ocean/Beach Area, as shown in Figure 8-3. 
+The City first completed a Master Plan of 
+Drainage (MPD) in 2005, and then performed 
+its most recent update in 2013. The 2013 update 
+was designed to identify changes in the storm­
+water system as a result of various develop­
+ments since 2005, create a new computerized 
+model that is up-to-date with the current system 
+configuration and available technology, and per­
+form hydraulic analyses to determine which, if 
+any, of the drainage facilities are inadequate to 
+convey flows for the 10-, 25- and 100-year storm 
+events. Inadequate facilities were defined where 
+the hydraulic analysis indicated that the hydrau­
+lic grade line for a particular sized storm event 
+would exceed the surface elevation (ground, 
+street, manhole rim) at a given point. Table 8-1 
+summarized the results of inadequate facilities 
+by watershed:
+
+
+TABLE 8-3: INADEQUATE FACILITIES BY MAJOR STORM EVENT
+2013 MDP CIP 
+PROJECT FACILITIES
+MINIMUM STORM FOR ADEQUATE FACILITIES
+TOTAL
+10-YEAR
+25-YEAR
+100-YEAR
+Number of Facilities
+17
+21
+163
+201
+Length of Facilities
+3,849
+3,917
+32,736
+40,5021
+Notes:
+1. The 2013 MPD presents two conflicting total lengths for inadequate facilities, however, the difference in length is 
+considered negligible for General Plan purposes.
+Source: City of Oceanside, 2013; Dudek, 2020
+EXISTING CONDITIONS REPORT
+Prioritization of CIP projects presented in the 
+2013 MPD should first consider inadequate facili­
+ties under the highest storm event reoccurrence 
+interval analyzed (i.e. 10-year storm event), and 
+then work towards addressing the facilities that 
+are inadequate for the 100-year storm event. 
+201 individual projects throughout the seven 
+watersheds were identified as being inadequate; 
+the following table summarizes inadequate facil­
+ities by the minimum storm event that the facil­
+ity was calculated to be inadequate:
+
+
+Figure 8-4: Major Watersheds within the City of Oceanside
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+P a c i f i c
+O c e a n
+Source: Dudek, 2020; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Drainage
+City of Oceanside
+South Morro Hills
+Community Plan Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Transit Stop
+Rail
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 2/2/2021
+Pilgrim Creek 
+San Luis Rey River 
+ Garrison Creek
+ Buena Vista Creek
+ Loma Alta Creek
+ Agua Hedionda Creek
+ Pacific Ocean 
+ Beach Area 
+
+
+8-12
+EXISTING CONDITIONS REPORT
+FUTURE SYSTEM
+The current National Pollution Discharge 
+Elimination Systems (NPDES) Regional Municipal 
+Separate Storm Sewer System (MS4) Permit (MS4 
+Permit), under which the City is a co-permittee, 
+requires new projects to install and manage 
+best management practices (BMPs) onsite that 
+mitigate project effects to the City’s existing 
+MS4. New projects must determine the poten­
+tial changes in onsite runoff due to increases in 
+impervious surfaces and/or drainage area alter­
+ations, then install and manage BMPs that regu­
+late offsite discharges to mimic pre-project con­
+ditions. This regulation is intended to maintain 
+(or reduce) pre-project stormwater peak flows 
+in order to reduce potential for erosion, provide 
+an opportunity to enhance water quality, and to 
+prevent an overflow of the stormwater system.
+The current MS4 permit effectively requires any 
+future development upon a parcel to ensure that 
+the extent of new development does not result 
+in an increase in peak stormwater runoff.  This is 
+particularly relevant for new development that 
+results in the construction of new impervious 
+surfaces.  As a result, if the existing stormwa­
+ter collection system has adequate capacity 
+to convey current peak stormwater flows, the 
+MS4 permit protects the stormwater collection 
+system from future growth and development 
+within the drainage basin.  
+As stated above, and within the 2013 Master Plan 
+of Drainage, there are improvements needed 
+within the existing stormwater infrastructure to 
+meet current peak drainage flows.  Due to the 
+application of the MS4 Permit, recommended 
+changes in future development patterns of the 
+City identified within the 2020 General Plan 
+should not result in changes to the peak storm­
+water flows conveyed within the stormwater 
+collection system.
+
+
+PARKS AND RECREATIONAL OPEN SPACE
+8-13
+8.4	Key Planning Issues 
+and Implications
+•	 Water infrastructure planning and po- 
+tential residential development in South 
+Morro Hills. When the 2015 Water Master Plan 
+was developed, the Morro Hills Development 
+was projected to be comprised of new low-
+density residences. While discussed in the 
+2015 Master Plan, the Morro Hills Development 
+was considered uncertain and therefore the 
+impacts of this conversion upon the water 
+distribution system were not considered as 
+part of the master planning effort. Water 
+conveyance updates and capacity assessments 
+in the 2020 Water Master Plan will need to 
+account for land use decisions made as part of 
+the South Morro Hills Community Plan Update. 
+•	 Water supply pipeline needs. The Peacock 
+Hills pressure zone served by the Crestview 
+and Old Grove pressure reducing stations 
+(PRSs) and Fire Mountain pressure zone 
+have been recognized by the Cit y as 
+underperforming. Two areas of the distribution 
+system have been recognized by the City as 
+underperforming, including the (sentence just 
+ends here - please complete sentence). This 
+new connection would allow the pressure zone 
+to be served at a higher pressure and improve 
+customer satisfaction. 
+•	 City water treatment upgrades and over-
+all water demand. The advanced water 
+treatment system at the San Luis Rey Water 
+Reclamation Facility and completion of the 
+expansion of the recycled water distribution 
+network will provide a direct supply of recycled 
+water to large irrigation and commercial 
+demands, supplementing current potable 
+water demand. The system will also include the 
+injection of advanced treated water into the 
+groundwater network to further support the 
+long-term sustainability of the groundwater 
+basin. The combined effort will reduce overall 
+demand and reduce reliance on imported 
+potable water.
+•	 Sewer infrastructure extension in South 
+Morro Hills. All sewage in South Morro Hills 
+area is disposed of via septic systems and thus 
+was not included in 2015 Sewer Master Plan 
+analysis. Changes in the Morro Hills area to 
+residential land use, which could include the 
+addition of 600 to 1,000 homes, will require 
+extension of the collection system to service 
+new development, and as a result the existing 
+downstream collection system will have 
+increased flows and may require upsizing.
+•	 Stormwater CIP projects and minimum 
+storm event conveyance. Stormwater facility 
+inadequacies are not based on population 
+growth; rather, they are based on conditions 
+prior to establishment of BMP requirements 
+and/or advancements in hydrologic modeling. 
+Because population growth should not be a 
+factor on stormwater system capacity, the 
+prioritization of stormwater CIP projects 
+should address facilities based on the 
+minimum storm event conveyance criteria 
+and consider the location of these projects 
+in proximity to other, non-stormwater CIP 
+projects. Any major public infrastructure 
+upgrades that may require excavation within 
+or along roadways and/or changes in drainage 
+patterns should also evaluate whether or not a 
+stormwater project identified in the 2013 MPD 
+is within the proposed construction footprint, 
+and if so, how or if the stormwater project can 
+be addressed in a comprehensive design to 
+create efficiencies. 

@@ -1,0 +1,5364 @@
+4	 
+INTEGRATED 
+MOBILITY 
+In partnership with local, regional, and state transportation 
+agencies, the City will expand mobility options and provide for 
+safe, convenient, and efficient transitions between different modes 
+of travel. Dependence on the private automobile will be reduced 
+through an increasingly diverse transportation network supported 
+by emerging technologies that connect residents, workers, and 
+visitors to transit, micro-mobility devices, rideshare, and other 
+mobility services. With little opportunity to accommodate 
+additional private vehicle traffic, the City will seek to reduce vehicle 
+miles traveled (VMT) through more consciously coordinated land 
+use and transportation planning.
+
+
+OCEANSIDE GENERAL PLAN
+4-2
+This page left intentionally blank
+
+
+4-3
+	
+INTEGRATED MOBILITY 4
+TABLE OF CONTENTS
+4.1 BACKGROUND............................................................................... 4-4
+4.2 ACTIVE TRANSPORTATION............................................................4-14
+4.3 VEHICULAR MOVEMENT.............................................................. 4-24
+4.4 TRANSIT........................................................................................ 4-38
+4.5 TRANSPORTATION DEMAND MANAGEMENT (TDM)................... 4-42
+4.6 GOODS MOVEMENT.................................................................... 4-44
+4.7 ACTIONS...................................................................................... 4-45
+
+
+OCEANSIDE GENERAL PLAN
+4-4
+4.1	Background
+A CHANGING MOBILITY 
+LANDSCAPE
+The Integrated Mobility Element (IM) replaces the 
+City’s Circulation Element, which was last updated 
+in 2012. The mobility landscape in the San Diego 
+region has changed considerably over the inter-
+vening decade, and more change is inevitably on 
+its way, driven by evolving consumer preferenc-
+es, new state policies (e.g. Senate Bill 743), new 
+mobility services, expanded roadway and transit 
+infrastructure, and the principles and priorities of 
+the Regional Transportation Plan. In the course of 
+preparing the IM, the City has been mindful of the 
+following mobility trends:
+•	 A nation-wide trend towards zero-emission 
+vehicles, including all-electric and hydrogen fuel 
+vehicles;
+•	 Expansion of ride-hailing services (e.g., Uber, 
+Lyft);
+•	 New technologies for scheduling, coordinating, 
+and paying for transit trips;
+•	 New micro-mobility options (e.g., e-bikes, 
+scooters, neighborhood electric vehicles);
+•	 The rise of e-commerce, allowing consumers to 
+access goods and services without leaving their 
+homes, while placing more delivery vehicles on 
+the road;
+•	 The rise of telework and alternative commuting 
+options;
+•	 The use of “big data” and real-time traffic 
+monitoring to improve the efficiency of 
+roadways and transit systems;
+•	 State and regional transportation agencies 
+dedicating highway lanes to express buses 
+and other high-occupancy vehicles, while 
+contemplating congestion pricing and user fees; 
+•	 Local jurisdictions implementing “complete 
+streets” with traffic-calming features and 
+enhanced pedestrian and bicycle facilities; and
+•	 As part of bipartisan infrastructure legislation 
+approved in 2021, the federal government has 
+allocated substantial funding for programs and 
+projects that reduce GHG emissions in the 
+transportation sector. One of the initiatives 
+emerging from this legislation is the National 
+Electric Vehicle Infrastructure (NEVI) Formula 
+Program, which seeks to build out a national 
+electric vehicle charging network.
+Cover Photo Credit: Terry Brown
+
+
+4-5
+	
+INTEGRATED MOBILITY 4
+All of the above reflect a mobility landscape in 
+transition, at all levels of society and government. 
+It is essential that Oceanside and other local juris-
+dictions in the San Diego region not only be cog-
+nizant of and prepared for this transition, but also 
+engaged in regional efforts to guide this transition 
+in ways that serve the region’s economic, environ-
+mental, and social interests. This means participat-
+ing actively in regional forums sponsored by the 
+San Diego Association of Government (SANDAG), 
+Caltrans, and other agencies, advocating for fed-
+eral and state policies that align with the region’s 
+values and priorities, engaging community mem-
+bers on their mobility needs and preferences, and 
+securing the region’s fair share of grant funding 
+and other resources.
+LEARNING FROM THE PAST
+Like many cities, Oceanside can look to its own past 
+to find inspiration for expanded mobility options. 
+Incorporated in 1888, the City was not always 
+an auto-dependent community. Indeed, an auto-
+mobile would have been a rare site in Oceanside 
+prior to 1908, when mass production began in 
+the United States. It is worth noting that some of 
+the first automobiles to appear in Oceanside were 
+powered by electric batteries, while others were 
+powered by steam.
+Prior to post-WWII urban sprawl, Oceanside was a 
+relatively walkable community accessible by train 
+from the north, south, and east. With develop-
+ment concentrated near the coast, residential and 
+non-residential uses were generally in closer prox-
+imity to one another, allowing people to walk (and 
+in some cases, ride horses) to their destinations. 
+For a brief period in the early 1880s, the California 
+Southern Railroad connected Oceanside to freight 
+and passenger rail services between San Diego 
+and Colton, until massive flooding near Fallbrook 
+destroyed a segment of the rail line in 1891.
+The Santa Fe Railroad completed the “Surf Line” 
+between Oceanside and Orange County in 1888, 
+establishing direct rail service between San Diego 
+and Los Angeles. Most of Oceanside’s earliest resi-
+dents and visitors came to the City by train. In fact, 
+train service made Oceanside a popular seaside 
+getaway for wealthy Angelenos, including those in 
+the burgeoning motion picture industry.
+The Central California Railroad provided both pas-
+senger and freight services between Oceanside 
+and Escondido from 1900 to 1946. Today, the 
+North County Transit District’s (NCTD) SPRINTER 
+service utilizes much of the original right-of-way 
+dedicated to the Central California Railroad.
+As the South Oceanside area began to devel-
+op in the 1920s (prior to its annexation into the 
+City of Oceanside), a trolley line between South 
+Oceanside and Carlsbad Village was planned but 
+never constructed. Nearly 100 years later, a list 
+of potential transportation projects prepared 
+by SANDAG in support of the 2014 Regional 
+Transportation 
+Improvement 
+Program 
+(RTIP) 
+included a trolley line on Coast Highway between 
+downtown Oceanside and Carlsbad Village. While 
+this project did not survive SANDAG’s budgeting 
+process, it speaks how new transit options could 
+reduce vehicle miles traveled (VMT) and conges-
+tion on Coast Highway while enhancing access to 
+key coastal destinations and amenities.
+Oceanside’s early history of compact develop-
+ment, walkable neighborhoods, and reliance on rail 
+service provides perspective on the relationship 
+between land use and mobility, and hints at what 
+the future might hold for the City as it promotes 
+“smart growth” and embraces a broader range of 
+mobility options.  
+
+
+OCEANSIDE GENERAL PLAN
+4-6
+KEY CHARACTERISTICS OF 
+OCEANSIDE’S EXISTING 
+MOBILITY NETWORK
+Notwithstanding Oceanside’s peripheral location 
+and predominately suburban and exurban charac-
+ter, the City is an important gateway into the San 
+Diego region for people coming from the north, 
+as well as an increasingly popular coastal desti-
+nation for residents of the Highway 78 and State 
+Route 76 corridors, the Inland Empire, and other 
+western states. The City is also an employment 
+hub for many workers living in the North County 
+subregion. In addition to the local, City-maintained 
+roadway system, Oceanside is connected to other 
+areas by roadways and transit services operat-
+ed and maintained by other agencies, including 
+Caltrans (I-5, SR-78, SR-76), Amtrak, Metrolink, and 
+NCTD. Consequently, coordination between the 
+City and these other agencies is critical to the suc-
+cessful integration of the City’s mobility network.
+Listed below are key characteristics of Oceanside’s 
+existing mobility network, including facilities and 
+services operated by other agencies.
+•	 The local, City-maintained roadway system 
+features five major north-south surface streets 
+(Coast Highway, El Camino Real, Rancho del Oro, 
+College Boulevard and Melrose Drive) and three 
+major east-west surface streets (Mission Avenue, 
+Oceanside Boulevard, and Vista Way). Together, 
+these streets constitute the spine of the local 
+roadway network, with other streets like North 
+River Road, Mesa Drive, North Santa Fe Drive, and 
+Douglas Drive providing important connections 
+between them. The local network is supplemented 
+by regional facilities including Interstate 5, State 
+Route 76, and State Route 78, all of which are 
+managed and operated by Caltrans.
+•	 Traf fic congestion hot spot s include 
+intersections along State Route 76, Oceanside 
+Boulevard near Interstate 5, El Camino Real 
+near State Route 78, and College Boulevard near 
+State Route 78 and Oceanside Boulevard. 
+•	 Oceanside is served by Interstate 5 and 
+State Routes 76 and 78. These roadways not 
+only connect the City to the rest of the San 
+Diego region, but also to Orange County, the 
+Interstate 15 corridor, and the Inland Empire. At 
+the same time, these facilities tend to separate 
+neighborhoods and create barriers to active 
+transportation. For example, the absence of 
+grade-separated crossings along State Route 
+76 discourages walking and biking and divides 
+residential areas from nearby commercial 
+venues and recreational amenities. 
+•	 Coast Highway has long served as an alternative 
+to Interstate 5, particularly during periods 
+of high traffic congestion. Complete streets 
+improvements on Coast Highway – including 
+a “road diet,” roundabout intersections, bike 
+lanes, and enhanced pedestrian crossings – are 
+expected to render this roadway a less attractive 
+option for pass-through traffic.
+•	 Oceanside is uniquely positioned to benefit 
+from expanded rail service, with the Oceanside 
+Transit Center (OTC) accommodating four 
+separate rail lines – NCTD’s COASTER and 
+SPRINTER, as well as Metrolink’s Orange 
+County Line and Amtrak’s Surfliner. The OTC is 
+also a hub for bus service, accommodating eight 
+separate bus routes that connect Oceanside 
+to Carlsbad, Vista, and Camp Pendleton. 
+Redevelopment of the OTC with a mix of 
+housing and commercial uses is expected to 
+increase demand for rail and bus service and 
+create a more attractive, comfortable, and 
+accommodating environment for transit users. 
+The San Luis Rey River Trail
+
+
+4-7
+	
+INTEGRATED MOBILITY 4
+•	 Designated a Silver Level Bicycle Friendly 
+Community by the League of American 
+Bicyclists, Oceanside features the San Luis 
+Rey River Trail and a segment of the statewide 
+Coastal Rail Trail. The City continues to work 
+with state and regional agencies to implement 
+the Inland Rail Trail within the Oceanside 
+Boulevard corridor. 
+•	 In partnership with private entities, the City 
+has piloted a neighborhood electric vehicle 
+(NEV) service in the coastal area. NEVs and 
+other forms of micro-mobility will be essential 
+to the City’s efforts to connect its more remote 
+neighborhoods to commercial districts and other 
+destinations. Micro-mobility options will also be 
+key to linking these neighborhoods to regional 
+transportation facilities and services.
+THE USER EXPERIENCE AND 
+COMMUNITY IMPACTS
+In outreach events in support of the IM, communi-
+ty members expressed concern about traffic con-
+gestion, speeding in residential areas, the safety 
+and security of transit environments, constraints 
+on walking and biking in certain parts of the City, 
+and traffic-induced air-quality and noise impacts. 
+These concerns speak to how community mem-
+bers are experiencing the mobility network as 
+motorists, transit users, pedestrian and bicyclists, 
+and those living and working in proximity to trans-
+portation facilities and services.
+As important as it is to assess the technical and 
+quantitative aspects of the mobility network (e.g., 
+collision data, capacity, frequency of service, 
+travel times), it is equally important to understand 
+the qualitative experience of those who utilize 
+the network, as well as those indirectly impacted 
+by transportation facilities and services. The IM 
+seeks to enhance the user experience by not only 
+expanding mobility options, but also ensuring that 
+these options are safe, comfortable, accessible, 
+affordable, and visually appealing, as long as they 
+are feasible in terms of funding, adequate right-
+of-way, geometrics, etc. The IM further seeks to 
+minimize the impacts that transportation facilities 
+and services can have on adjacent areas and the 
+people who live and work in these areas. IM goals, 
+policies, and actions have been informed by user 
+comfort, safety, accessibility, and linkages with 
+other modes, as well as education and health and 
+wellness.
+Assessing the performance of the mobility net-
+work from the point-of-view of the user helps us 
+appreciate what it takes to navigate the network, 
+make the most of what it has to offer, and do so in 
+a way that is expeditious, cost-effective, and pleas-
+ant. Understanding how the mobility network can 
+impact surrounding areas helps us determine how 
+best to integrate transportation facilities and ser-
+vices into the fabric of the community.
+Camino Del Mar
+Photo credit: Spurlock Landscape Architects
+
+
+OCEANSIDE GENERAL PLAN
+4-8
+THE NEXUS BETWEEN LAND USE 
+AND MOBILITY
+No discussion of mobility is complete without 
+consideration of the ways in which land use plan-
+ning affects the nature, scale, and configuration 
+of the mobility network. How localities regulate 
+development, maintain open space, and deal with 
+natural features (e.g., landforms, water bodies, 
+ecosystems) largely determines where transporta-
+tion facilities can be sited, what modes of travel 
+these facilities can accommodate, and how these 
+facilities are accessed and utilized. Land use pat-
+terns can both provide for and constrain mobility 
+options. Moreover, land use patterns can accom-
+modate the mobility needs and preferences of 
+some community members while leaving other 
+community members without convenient and 
+cost-effective mobility options. Development is 
+often sited in areas where active transportation 
+and transit are not viable options, and the built 
+environment is often designed only to accommo-
+date automobiles. Development on hillsides and 
+mesas can make walking and biking less appeal-
+ing, even when active transportation facilities 
+are present. Separating housing from commercial 
+districts, recreational facilities, and other desti-
+nations can encourage residents to rely solely on 
+their automobiles to access essential goods, ser-
+vices, and amenities. Localities are learning from 
+these problems and working to better coordinate 
+land use decisions with the existing and planned 
+components of their mobility networks.
+The IM has been prepared in conjunction with the 
+Efficient and Compatible Land Use Element (ECLU), 
+the Smart and Sustainable Corridors Specific Plan, 
+and the South Morro Hills Community Plan, which 
+collectively establish the City’s overarching strate-
+gy for accommodating both housing and non-resi-
+dential growth through 2050. These three land use 
+planning documents promote the common goals 
+of efficient land use, an activated public realm, 
+appropriate transitions between areas featuring 
+different land use types and intensities, preser-
+vation and enhancement of sensitive habitat, and 
+conservation of farmland. Progress toward these 
+land use goals supports an integrated mobility 
+network by limiting the extension of roadways, 
+increasing demand for transit, creating more walk-
+able and bikeable environments, and allowing for 
+“mobility hubs” where a range of transportation 
+modes and complementary land uses converge 
+to provide travelers with convenient connections 
+and a range of commercial services and public 
+amenities. In turn, a mobility network offering 
+a wide range of transportation options supports 
+efficient land use by encouraging high-density 
+residential and mixed-use development in prox-
+imity to transit and active transportation facilities. 
+Combined, the land use strategies and multimodal 
+mobility network can contribute towards shorter 
+trip distances, less vehicular demand, and reduced 
+greenhouse gas emissions which are consistent 
+with the goals of Senate Bill 743, discussed further 
+under the Legislative Context section below.
+Situated at the periphery of the San Diego region 
+and featuring a dispersed, low-intensity develop-
+ment pattern, the City of Oceanside has been an 
+auto-dependent community for generations. The 
+City’s built environment extends over much of its 
+43 square miles of land area, necessitating costly 
+and often uneconomical extensions of roads, side-
+walks, bus service, etc., making it difficult to focus 
+transportation investments in those areas where 
+they can provide the greatest benefit, and often 
+limiting mobility options for those least able to 
+afford private automobiles. Moreover, the City’s 
+hilly terrain, water-based environments, and 
+wildland areas create natural barriers to mobility 
+and access. For example, while the hillside neigh-
+borhoods of Loma Alta, Fire Mountain, and Mira 
+Costa are served by NCTD’s SPRINTER rail ser-
+vice, many residents are not able or willing to walk 
+or bike the long distances or steep slopes between 
+their homes and this transit option.
+
+
+4-9
+	
+INTEGRATED MOBILITY 4
+However, the City’s major commercial corridors 
+present an opportunity to sync future housing 
+and non-residential growth with new and expand-
+ed mobility options. These corridors extend into 
+much of the City’s built environment, linking 
+neighborhoods and providing access to transit 
+hubs, commercial districts, state highways, coast-
+al areas, and neighboring cities. The IM seeks to 
+leverage these corridors and the future growth 
+they will accommodate to afford residents, work-
+ers, and visitors with more convenient and cost-ef-
+fective ways to move about the City. For those 
+neighborhoods most removed from these corri-
+dors (e.g., North Valley, Ocean Hills, and portions 
+of the Lake, Airport, and Guajome Neighborhood 
+Planning Areas), the IM promotes connections via 
+micro-mobility options – including e-bikes, flex bus 
+service, and neighborhood electric vehicles (NEVs) 
+– as well as new pedestrian and bicycle trails.
+The effective integration of Oceanside’s mobili-
+ty network and the viability of alternative travel 
+modes is largely contingent upon the City’s abili-
+ty to channel future housing and non-residential 
+growth into already-urbanized areas where transit 
+is viable and a complementary mix of land uses 
+places essential goods and services within walking 
+distance of a significant percentage of the City’s 
+residents.
+ACTIVE TRANSPORTATION PLAN 
+(ATP) AND TRAILS MASTER PLAN 
+The IM will be supported by an Active 
+Transportation Plan (ATP) and a Trails Master 
+Plan, both of which will promote improvements 
+that connect pedestrians and bicyclists to com-
+mercial districts and community facilities. The 
+ATP will consolidate the City’s Pedestrian and 
+Bicycle Master Plans and identify priority projects 
+that close gaps in the City’s active transportation 
+infrastructure. The Trails Master Plan will focus 
+on dedicated trail connections between neighbor-
+hoods and nearby recreational facilities – a key 
+objective of the City’s recently updated Parks and 
+Recreation Master Plan – while also facilitating the 
+completion of the Coastal Rail Trail and the Inland 
+Rail Trail.  
+PURPOSE AND INTENT
+As its title suggests, the Integrated Mobility 
+Element (IM) promotes a citywide mobility net-
+work that effectively integrates all modes of 
+travel, including driving, walking, biking, transit 
+use, ride-hailing services, and powered micro-mo-
+bility options. A fundamental goal of the IM is to 
+make it easier for travelers to both access and 
+transition between a broad range of mobility 
+modes that deliver them to the places they need 
+and want to go in a timely fashion. To this end, the 
+IM seeks to facilitate a resilient and reliable trans-
+portation system that provides safe, convenient, 
+efficient, and cost-effective travel options to all 
+users, including young people, seniors, the dis-
+abled, low-income earners, those living or working 
+in under-resourced areas, and those who choose 
+not to own private automobiles.
+Legislative Context
+Since the City’s last comprehensive General 
+Plan Update, several key planning initiatives and 
+state legislative actions have been adopted that 
+redefine the way local transportation planning 
+is carried out. Examples include Assembly Bill 
+1358 – Complete Streets Act, Senate Bill 375 – 
+Sustainable Communities and Climate Protection 
+Act, and Senate Bill 743 – Environmental Quality.
+AB 1358
+In September of 2008, the State of California 
+approved AB 1358 – the Complete Streets Act. 
+Effective January 1, 2011, AB 1358 requires city 
+or county legislative bodies to plan for a balanced, 
+multi-modal transportation network that meets 
+the needs of all users of streets, roads, and high-
+ways. “All users” is defined to include motorists, 
+pedestrians, bicyclists, children, persons with dis-
+abilities, seniors, movers of commercial goods, and 
+users of public transportation, in a manner that is 
+suitable to the rural, suburban, or urban context of 
+the general plan.
+
+
+OCEANSIDE GENERAL PLAN
+4-10
+SB 375
+SB 375 was also adopted in 2008, requiring metro-
+politan planning organizations (MPO) to formulate 
+a “sustainable community strategy” (SCS) as part of 
+their regional transportation plan (RTP). The SCS is 
+intended to identify how the region will achieve tar-
+geted reductions in greenhouse gas emissions from 
+automobiles and light trucks through coordinated 
+development patterns and transportation systems.
+Efforts at the regional level have embraced the sus-
+tainable and multimodal transportation emphasis 
+directed by these legislative actions. The San Diego 
+Association of Governments (SANDAG) is responsi-
+ble for developing the San Diego region’s SCS. The 
+SCS consists of the following five building blocks:
+•	 A land use pattern that accommodates our 
+region’s future employment and housing needs 
+and protects sensitive habitats and resource 
+areas.
+•	 A transportation network of public transit, 
+Managed Lanes and highways, local streets, 
+bikeways, and walkways built and maintained 
+with reasonably expected funding.
+•	 M a n a g i n g  d e m a n d s  o n  t h e  r e g i o n’s 
+transportation system (also known as 
+Transportation Demand Management, or 
+TDM) in ways that reduce or eliminate traffic 
+congestion during peak periods of demand.
+•	 Managing region’s transportation system (also 
+known as Transportation System Management, 
+or TSM) through measures that maximize the 
+overall efficiency of the transportation network.
+•	 Innovative pricing policies, and other measures 
+designed to reduce the number of miles 
+people travel in their vehicles, as well as traffic 
+congestion during peak periods of demand.
+SANDAG is currently underway with the 2025 
+Regional Plan which will be an update of the 2021 
+Regional Transportation Plan, San Diego Forward. 
+The 2025 Regional Plan is anticipated to continue 
+the regional vision and further encourage sustain-
+able development, including transportation infra-
+structure that supports future development pat-
+terns and helps to achieve regional greenhouse gas 
+reduction goals set by the California Air Resources 
+Board. The Regional Plan will also address compli-
+ance with federal civil rights requirements (Title 
+VI), environmental justice considerations, air quali-
+ty conformity, and public participation. Addressing 
+these requirements will ensure the region com-
+plies with federal laws and maintains eligibility for 
+a variety of funding sources.
+
+
+4-11
+	
+INTEGRATED MOBILITY 4
+The 5 Big Moves are at the heart of the Regional 
+Plan vision. These key strategies envision a bal-
+anced transportation network that leverages tech-
+nology to create safe, efficient, and socially equi-
+table transportation system that increases access 
+to opportunity and helps achieve environmental 
+mandates. Aligning with the Regional Plan vision 
+will help position Oceanside to compete for grant 
+funds and leverage regional investments. The 5 
+Big Moves consist of the following concepts:
+•	 Complete Corridors provide a variety of travel 
+choices and use technology to manage how 
+highways and major roads are used in real time. 
+They provide a balance of dedicated, safe space 
+for everyone, including freight vehicles and 
+people who walk, bike, drive, ride transit, and 
+use flexible fleets.
+•	 Transit Leap could create a complete network 
+of fast, high-capacity, high-frequency transit 
+services that connect major residential areas 
+with employment centers and attractions 
+throughout the San Diego region.
+•	 Mobility Hubs are places of connectivity where 
+different travel options come together. They 
+provide an integrated suite of mobility services, 
+amenities, and supporting technologies to better 
+connect high-frequency transit to an individual’s 
+origin or destination.
+•	 Flexible Fleets build on the popularity of shared 
+mobility services such as on-demand ride-share, 
+bike-share, and scooter-share. These services 
+can make it easier to connect to high-speed 
+transit and other important destinations by 
+providing a last-mile connection.
+•	 Next Operating System (OS) is a digital platform 
+that uses technology and data to connect and 
+manage different modes of transportation to 
+improve overall efficiency and accessibility for 
+people and goods to move throughout the region.
+SB 743
+SB 743 was signed into law in September 
+2013, making several changes to the California 
+Environmental Quality Act (CEQA). This bill removes 
+vehicular delay, level of service (LOS), parking and 
+other vehicular capacity measures as metrics of 
+transportation system impacts for mixed-use, infill 
+or transit-oriented development projects. Vehicle 
+miles traveled (VMT) is considered the new analy-
+sis metric used to measure transportation impacts. 
+VMT reflects the automobile distance attributable 
+to a project. The intent is to balance the needs 
+of congestion management with statewide goals 
+related to infill development, active transportation 
+and transit use, and the reduction of greenhouse 
+gas emissions. Consistent with state mandates, 
+
+
+OCEANSIDE GENERAL PLAN
+4-12
+the City of Oceanside adopted the Traffic Impact 
+Analysis Guidelines for Vehicle Miles Traveled and 
+Level of Service Assessment in August 2020.
+These guiding policies and documents emphasize 
+the need for enhanced transportation networks 
+that serve all travel modes, decrease reliance on 
+single vehicle trips, and are closely tied to existing 
+and planned development patterns. Building on 
+these efforts, the updated General Plan is a com-
+prehensive process that will provide for consistent 
+and integrated land use and transportation plan-
+ning. The Integrated Mobility Element will ensure 
+the City is eligible and competitive for a variety of 
+funding sources by complying with regional, state, 
+and federal guidance and trends.
+Benefits of an Integrated Mobility 
+Network
+A more integrated mobility network should 
+reduce dependence on the private automobile, 
+which is the principal source of traffic congestion, 
+air pollution, GHG emissions, and fatal or severe 
+crashes in the San Diego region. Better integra-
+tion of mobility modes should foster more active 
+transportation, which in turn should contribute 
+to better public health outcomes. By providing 
+the workforce with greater range and flexibility, a 
+more integrated mobility network should foster a 
+better correspondence between workers and the 
+jobs for which they are qualified, thereby enhanc-
+ing overall economic productivity. Such a network 
+should also contribute to worker productivity by 
+reducing commute times and affording transit 
+riders the option of working while en route. Given 
+the myriad benefits of an integrated mobility net-
+work, the goals, policies, and implementing actions 
+of the IM center around and collectively further a 
+vision of all modes of travel being linked as safely 
+and seamlessly as possible.
+Flexible Policies and Actions
+Given the ongoing evolution of both the region-
+al mobility network and mobility-oriented poli-
+cies and programs at the federal, state, and local 
+levels, the IM has been designed to be flexible 
+and responsive to change. While the goals of the 
+IM point in a specific direction – that is, toward 
+a multimodal mobility network that is at once 
+accessible, efficient, resilient, and adaptable – 
+most IM policies and actions are crafted to allow 
+for adjustments that address unforeseen circum-
+stances, take advantage of new opportunities, and 
+effectively meet the moment. Implementation of 
+the IM should adhere to key principles (e.g., safety, 
+equity, cost effectiveness) and, at the same time, 
+remain mindful of and receptive to different ways 
+of upholding and furthering these principles. As 
+techniques, technologies, and funding mecha-
+nisms continue to evolve, IM policies and actions 
+will need to be interpreted and applied in ways 
+that leverage advancements while aligning with 
+the overarching IM direction.
+Photo Credit: Terry Brown
+
+
+4-13
+	
+INTEGRATED MOBILITY 4
+The IM establishes a vision for the future of trans-
+portation in the City of Oceanside. The IM out-
+lines goals, policies, and recommendations meant 
+to foster a highly integrated mobility network that 
+supports safe, reliable, and convenient transitions 
+between different modes of travel. Oceanside’s 
+mobility network should not only connect local 
+transportation facilities and services, but also link 
+these facilities and services to the regional mobili-
+ty network – e.g., Interstate 5, State Routes 76 and 
+78, NCTD bus and rail service, Metrolink, Amtrak, 
+etc. The IM identifies a wide range of actions the 
+City can undertake to expand mobility options 
+for residents, workers, and visitors, and provide 
+ready and equitable access to all modes of travel 
+– i.e., walking, micro-mobility (including bicycling), 
+public and private transit, ridesharing, and the pri-
+vate automobile. 
+With the City’s roadway network largely built 
+out, and with few opportunities to add road-
+way capacity for automobiles, the IM focuses on 
+improving the efficiency of the roadway network 
+while encouraging community members to choose 
+healthier and more sustainable modes of travel. By 
+increasing active transportation, micro-mobility, 
+and transit use, the City will reduce dependence 
+on the automobile, and, in turn, reduce congestion 
+on Oceanside’s roadways. 
+The IM also promotes the transition to low and 
+zero-emission vehicles, encouraging the expansion 
+of electric and hydrogen vehicle charging facilities 
+and exploring ways to motivate community mem-
+bers to choose vehicles powered by clean and 
+renewable energy. 
+It is important to note that the City’s ability to 
+implement the goals, policies, and recommenda-
+tions of the IM depend upon numerous factors, 
+including funding, physical constraints, health and 
+safety considerations, and other potential limita-
+tions. In keeping with state and regional mobility 
+goals, standards, and initiatives, the policy direc-
+tion charted by the IM is consciously ambitious 
+and forward-thinking. Creating a more efficient, 
+sustainable, and equitable mobility network will 
+require an openness to change, a willingness to 
+explore possibilities, and a commitment to bold 
+and purposeful action. While some of the recom-
+mendations promulgated by the IM may prove 
+to be infeasible, or only partially achievable, the 
+overall success of the City’s efforts to enhance 
+mobility will not be contingent upon any single 
+project or initiative. Rather, success will be based 
+on the totality of the City’s achievements.
+
+
+OCEANSIDE GENERAL PLAN
+4-14
+4.2	Active 
+Transportation
+Active transportation can be defined as non-mo-
+torized movement powered by human energy. 
+Active transportation facilities include sidewalks, 
+trails, and bicycle lanes.
+Active transportation can reduce travel costs, 
+lessen roadway congestion, improve public health 
+outcomes, and enhance public safety and securi-
+ty by activating public spaces and placing “eyes 
+on the street.” Communities that prioritize active 
+transportation tend to be healthier, as it enables 
+residents to be more physically active in their 
+daily routines and provides cleaner air to breathe. 
+Active transportation systems also foster econom-
+ic health by creating dynamic, connected commu-
+nities with a high quality of life that catalyzes small 
+business development, increases property values, 
+sparks tourism, and encourages corporate invest-
+ment that attracts a talented, highly educated 
+workforce.
+Impediments to active transportation in Oceanside 
+include dispersed land use patterns, the sepa-
+ration of residential and non-residential uses, 
+topography, state highways, gaps in sidewalk, and 
+minimal or no separation from vehicular traffic 
+in most environments. To meaningfully increase 
+walking and bicycling, the City can expand active 
+transportation infrastructure and facilitate more 
+efficient and balanced land use within already 
+urbanized areas (e.g., major commercial corridors). 
+Where feasible, the City can provide more space 
+for walking and bicycling within the public right-of-
+way. The City’s robust and growing trail network, 
+featuring the San Luis Rey River Trail, the Coastal 
+Rail Trail, and the future Inland Rail Trail, can also 
+be leveraged to promote walking and bicycling.
+PEDESTRIAN MOBILITY
+The pedestrian realm shapes every journey. 
+Regardless of the primary mode of transporta-
+tion, every trip begins and ends with walking. We 
+walk from our origins to our destinations, or to/
+from bicycles, transit stops or our own vehicles. 
+Walking is also a common transportation option 
+used for school commutes, with student travel 
+often occurring when vehicle traffic is at its peak, 
+underscoring the significance of safe and comfort-
+able walking environments.
+Providing enhanced pedestrian infrastructure 
+throughout the City, coupled with complimentary 
+land use patterns, can foster more walking oppor-
+tunities for both transportation and recreation 
+while enhancing pedestrian safety. Pedestrian 
+infrastructure consists of sidewalks, crosswalks, 
+curb ramps, and trails. Additional features, such 
+as pedestrian countdown signal heads, curb 
+extensions, lighting, and signage aid in facilitating 
+the enhancement of pedestrian crossings, while 
+amenities like landscaping, seating, and buffers 
+can enhance overall comfort. Descriptions and 
+conceptual images of some potential intersection 
+treatments are provided.
+Milton Street Park
+Photo credit: Spurlock Landscape Architects
+
+
+4-15
+	
+INTEGRATED MOBILITY 4
+Figure 4-1: Pedestrian Infrastructure Improvements
+Curb extensions reduce pedestrian crossing distances 
+and serve as a traffic calming measure by visually and 
+physically narrowing the roadway. Curb extensions or 
+“bulb outs” extend the curb into the parking lane or 
+roadway, reducing pedestrian exposure to vehicles. Curb 
+extensions can be designed with a smaller or tighter corner 
+radii, which facilitates slower turning vehicle speeds.
+Curb Extensions
+High visibility crosswalk designs make it easier for motorists 
+to see crosswalks and increases their likelihood of being 
+aware of and yielding to pedestrians crossing the street. 
+They can be used in conjunction with advance stop bars.
+High-Visibility Crosswalk
+Advance stop bars are solid white lines striped approximately 
+four (4) feet from a crosswalk, on the approach. The line 
+serves as an indication where a motorist should stop. 
+Advance stop bars improve visibility of pedestrians 
+and create additional separation between drivers and 
+pedestrians crossing the street.
+Advance Stop Bars
+Lead Pedestrian Intervals (LPI) give pedestrians a walk signal 
+approximately 3 to 6 seconds before drivers get a green signal. This 
+time gives the pedestrian several seconds to establish their presence 
+in a crosswalk, which makes pedestrians more visible to drivers and 
+drivers more likely to yield when turning.
+Lead Pedestrian Intervals (LPI)
+Pedestrian signage at crossing locations can remind drivers to 
+anticipate crossing pedestrians and of the driver’s duty to yield to 
+pedestrians. This signage can also be placed at non-crossing locations 
+(in medians or on the side of the street) on lower speed roadways to 
+help bring attention to crossing locations ahead. Signage should be 
+applied sparingly as overuse may reduce effectiveness
+Pedestrian Signage
+Protected left-turn phases eliminate conflicts between 
+crossing pedestrians and drivers making left-turns, by not 
+allowing motorists to turn left while the through traffic has 
+the green light. This gives the left hand turn its own phase 
+which does not conflict with pedestrians crossing.
+Protected Left Turn
+
+
+OCEANSIDE GENERAL PLAN
+4-16
+A system of three pedestrian route typologies 
+was established to guide levels of pedestrian ame-
+nities for mobility network streets: Connectors, 
+Corridors, 
+and 
+Pedestrian 
+Priority 
+Zones. 
+Designations were determined based on sur-
+rounding land uses and transportation facilities. 
+The route typologies and pedestrian network are 
+also supported by additional sidewalks along local 
+roadways as well as multi-use paths or bike paths.
+Figure 4-1 shows example treatments of the rec-
+ommended pedestrian route typologies. Figure 
+4-2 displays the pedestrian route typology desig-
+nations across the City.
+Connector route types feature amenities such as 
+high visibility crosswalks with advanced stop bars 
+and American Disability Act (ADA) compliant curb 
+ramps and sidewalk widths. Sidewalks should also 
+avoid obstructions that limit accessibility. Some 
+sections may potentially feature wider separation 
+between sidewalks and vehicular travel lanes, and 
+shade producing landscaping.
+Corridor route types are also envisioned for 
+high pedestrian activity areas, though these 
+route types have slightly fewer amenities than 
+Pedestrian Priority Zones. They feature pedestrian 
+scale lighting, shade producing landscaping, wider 
+separation from between sidewalks and vehicular 
+travel lanes high visibility crosswalks with advance 
+stop bars, and ADA-compliant curb ramps. Some 
+intersections may also feature signalized operational 
+crossing enhancements such as automated and audi-
+ble pedestrian signal with Lead Pedestrian Intervals.
+Pedestrian Priority Zone are designated along 
+specific streets and general areas where the high-
+est pedestrian activity is anticipated, including 
+commercial corridors and near major transit stops. 
+They should have wider than minimum sidewalks, 
+pedestrian oriented street furniture, pedestrian 
+scale lighting, shade producing landscaping, wider 
+separation between sidewalks and vehicular travel 
+lanes, and crossing enhancements such as curb 
+extensions (where feasible), high visibility crosswalks 
+with advance stop bars, ADA curb ramps, and sig-
+nalized operational crossing enhancements such as 
+automated and audible pedestrian signals with Lead 
+Pedestrian Intervals.
+Multi-Use Paths or Bike Paths, also referred to as 
+shared use paths, are a type of bicycle infrastructure 
+intended for both pedestrian and bicycle use. They 
+are completely separated from the roadway and 
+have limited interactions with vehicular traffic. An 
+additional multi-use path description and example 
+graphic are provided within the following Bicycle 
+Network section.
+Figure 4-2 Pedestrian Route Types
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\GP\Figure 4-3 Pedestrian Route Type Recommendations.mxd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+a
+l
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+P a c i f i c
+O c e a n
+Source: CR Associates, 2024; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Route Typologies
+Pedestrian Priority Zones
+Pedestrian Priority Zones
+Corridor
+Connector
+Multi-Use Path
+!(
+T
+Transit Stop
+Rail
+City of Oceanside
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 3/14/2024
+A³
+!"^$
+!"^$
+A¸
+A³
+Figure 4-3: Pedestrian Route Type Recommendations
+
+
+OCEANSIDE GENERAL PLAN
+4-18
+BICYCLE NETWORK
+Bicycling presents a variety of benefits for individ-
+uals and communities alike. It provides a practical 
+option for local trips, offering a potential alterna-
+tive to traditional vehicle travel while also con-
+tributing to a reduction in traffic congestion and 
+the associated greenhouse gas emissions. Bicycles 
+play an important role in connecting people to 
+transit stops and final destinations, serving as an 
+integral part of first/last-mile transit connectivity. 
+This is especially significant for SPRINTER stations, 
+which offer a high-quality transit option that might 
+be located beyond convenient walking distances.
+Bicycling can also have a positive impact on school-
+age children’s daily commute. By providing a reli-
+able means of transportation to and from school, it 
+can contribute to the physical well-being of youth 
+while also alleviating vehicle trips from the trans-
+portation system during peak commute hours. 
+Additionally, the relatively low cost of owning 
+and operating a bicycle can make it an accessible 
+transportation option for youth and lower-income 
+residents.
+To fully realize these benefits, it is necessary 
+to establish a well-connected, convenient, and 
+comfortable bicycle network that accommodates 
+individuals of varying skill levels. Bicycle facilities 
+should be designed within the context of the sur-
+rounding environment while providing convenient 
+connections between origins and destinations, as 
+well as from one facility to another.
+Secure bicycle parking is another critical compo-
+nent that can factor into one’s decision to make 
+a trip via bicycle. The uncertainty of adequate, 
+secure bicycle parking availability at the end of 
+one’s trip can deter bicycle owners from making 
+bicycle trips. The importance of bicycle parking 
+has increased with the prevalence of electric bicy-
+cles, which has broadened the appeal of bicycling 
+to a wider audience while also increasing the value 
+of the typical bicycle.
+Caltrans recognizes four classifications of bicycle 
+facilities: Class I Bike Path, Class II Bike Lane, Class 
+III Bike Route, and Class IV Separated Bikeway 
+(also called Cycle Track).
+Example images and descriptions are provided for 
+each classification followed by the bicycle network 
+recommendations in Figures 4-4 and 4-5.
+Bike Path: Also referred to as a multi-use 
+path or shared-use path, a Class I facility 
+provides a completely separated right-
+of-way designed for the exclusive 
+use of bicycles and pedestrians with 
+crossflows by motorists minimized. A 
+bike path can provide connections 
+where roadways are non-existent or 
+unable to support bicycle travel. The 
+minimum paved width for a two-way 
+bike path is eight feet, with a two-foot 
+wide graded area adjacent to the 
+pavement on both sides of the path.
+Class I
+Figure 4-4: Bicycle Lane Typologies
+
+
+4-19
+	
+INTEGRATED MOBILITY 4
+Bike Lane: This class of bike facility provides 
+a striped lane designated for bicycle use, 
+prohibiting motor vehicles or pedestrians. A 
+Class II bike lane is a one-way facility located 
+on either side of a roadway. Pedestrian and 
+motorist crossflows are permitted at locations 
+such as intersections or vehicles preparing to 
+make a right turn. Additional enhancements 
+such as painted buffers and signage may be 
+applied. The minimum recommended bike lane 
+width is five feet, or six feet when posted speeds 
+are greater than 40 miles per hour.
+Class II
+Bike Route: This classification provides for 
+shared use of traffic lanes with cyclists and 
+motor vehicles. A bike route can be identified 
+by signage and/or lane pavement markings 
+called “sharrows.” Such routes are best suited 
+for low-speed, low-volume roadways. Bike 
+routes provide network continuity or designate 
+preferred routes through corridors with high 
+demand. Traffic calming features such as speed 
+humps, traffic circles, and curb extensions can 
+be used to help keep traffic speeds and volumes 
+low, enhancing the comfort along these shared 
+use facilities.
+Class III
+Separated Bikeway: Also referred to as a cycle 
+track, a Class IV facility provides a right-of-way 
+designated exclusively for bicycle travel within 
+the roadway that is physically separated from 
+vehicular traffic. A cycle track can be designed 
+for one or two-way travel. Examples of physical 
+separation include vertical separation (e.g., 
+sidewalk level), flexible posts, railings, planters, 
+or with on-street parking.
+Class IV
+Figure 4-4: Bicycle Lane Typologies (continued)
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\GP\Figure 4-5 Bicycle Network Recommendations.mxd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+a
+l
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+P a c i f i c
+O c e a n
+Source: CR Associates, 2024; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Recommended Classifications
+Class I - Bike Path
+Class II - Bike Lane
+Class III - Bike Route
+Class IV - Cycle Track or
+Buffered Bike Lane
+Buffered Bike Lane
+!(
+T
+Transit Stop
+Rail
+City of Oceanside
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/9/2025
+A³
+!"^$
+!"^$
+A¸
+A³
+Figure 4-5: Bicycle Network Recommendations
+
+
+4-21
+	
+INTEGRATED MOBILITY 4
+The following goals and policies are meant to 
+outline the City’s future vision for active trans-
+portation and speak to how the City can achieve 
+a more balanced mode share that reduces VMT 
+and associated roadway congestion, air pollution, 
+and greenhouse gas emissions, and promotes 
+improved public health and wellness
+GOALS
+4-A	
+Oceanside will be one of the most pedes-
+trian and bicycle friendly communities 
+in the San Diego region, with complete 
+pedestrian and bicycle networks provid-
+ing continuous and convenient access to 
+transit, employment and retail centers, 
+neighborhoods, schools, beaches, parks, 
+public places, and other destinations.
+4-B	
+The City’s active transportation net-
+works will be free of physical barriers and 
+hazards, providing for safe and efficient 
+travel, and accommodating travelers of 
+all abilities.
+4-C	
+The City’s active transportation facilities 
+will be comfortable and inviting, while 
+contributing positively to the City’s 
+visual quality. 
+4-D	
+The City’s active transportation net-
+works will be located and designed to 
+provide viable alternatives to driving, 
+linking travelers to a wide range of des-
+tinations, including commercial venues, 
+public services, recreational opportuni-
+ties, and transit.
+POLICIES
+Complete Networks
+4-1	
+Highlight the public health benefits of 
+active transportation through the devel-
+opment review process, public outreach, 
+and signage.
+4-2	
+Implement safe and well-connected active 
+transportation facilities, and supporting 
+amenities when feasible, consistent with 
+the pedestrian route typologies identified 
+in Figure 4-2 and the City’s bicycle net-
+work shown in Figure 4-5.
+4-3	
+Complete the Inland Rail Trail, Coastal 
+Rail Trail, and San Luis Rey River Trail, and 
+pursue opportunities to enhance access 
+to and use of these facilities.
+4-4	
+Prioritize funding to active transportation 
+improvements based on safety, demand, 
+equity, value, and locational balance.
+4-5	
+Leverage maintenance activities and capi-
+tal projects to implement active transpor-
+tation improvements in a cost-effective 
+manner.
+4-6	
+Evaluate bicycle parking demand to ensure 
+short-term and long-term parking needs are 
+met, especially in areas where higher activ-
+ity is anticipated (e.g., beaches, major transit 
+stops, parks, commercial districts, etc.).
+4-7	
+Strive to provide bicycle parking that (1) 
+supports a bicycle in at least two places, 
+(2) is U-lock compatible, (3) is securely 
+anchored, and (4) is located in highly vis-
+ible and well-lit areas.
+4-8	
+In areas where sidewalks are not feasible 
+or desired, explore the need for and 
+feasibility of traffic calming features such 
+as speed humps/bumps, speed feedback 
+signs, neighborhood traffic circles, and 
+other context-appropriate measures. 
+4-9	
+Prioritize pedestrian and bicycle con-
+nections to transit services, schools, and 
+recreational facilities when seeking grant 
+funding for active transportation projects. 
+4-10	
+Collaborate with Caltrans, SANDAG, and 
+other agencies to reduce barriers to walk-
+ing and bicycling created by Interstate 5 
+and State Routes 76 and 78.
+4-11	
+Ensure 
+new 
+developments 
+provide 
+pedestrians and bicyclists with seamless 
+connections between private property 
+and the public right-of-way.
+4-12	
+Integrate bicycle parking and other bicycle 
+amenities into mobility nodes and hubs 
+(e.g., SPRINTER station sites, San Luis Rey 
+Transit Center).
+
+
+OCEANSIDE GENERAL PLAN
+4-22
+Safe and Accessible Facilities
+4-13	
+Ensure pedestrian and bicycle facilities 
+meet or exceed Americans with Disabilities 
+Act (ADA) access requirements.
+4-14	
+Employ Complete Streets principles to 
+make streets equally accessible and com-
+fortable for users of all ages and abilities.
+4-15	
+Require minimum five-foot wide side-
+walks in all new developments and street 
+improvements, where feasible, while 
+promoting larger widths in areas with 
+relatively higher pedestrian activity (e.g., 
+commercial districts, near parks and 
+schools, etc.).
+4-16	
+To the extent possible, minimize curb cuts/
+driveways where sidewalks and/or bicycle 
+facilities are present.
+4-17	
+In accordance with AB 413, limit visual 
+obstructions within 20 feet of intersec-
+tions where pedestrian crossings are 
+permitted to maximize sight distance for 
+drivers and pedestrians to see each other 
+(e.g., landscaping, signage, on-street park-
+ing, etc.).
+4-18	
+Provide buffers between bike lanes and 
+vehicle traffic lanes, and between parked 
+vehicles and bike lanes, where feasible. 
+4-19	
+Improve active transportation safety 
+at intersections, where feasible. Utilize 
+high visibility crosswalks, advance stop 
+bars, green conflict paint for bike lanes, 
+bike boxes, traffic circles/roundabouts, 
+pedestrian 
+countdown 
+signal 
+heads, 
+bicycle signals, lead pedestrian/bicycle 
+intervals, advance bicycle detection, curb 
+extensions, lighting, signage, pedestrian 
+hybrid beacons, rectangular rapid flashing 
+beacons, pedestrian refuges, and other 
+context appropriate enhancements.
+4-20	
+Work with Caltrans to improve pedestrian 
+and bicycle facilities that cross I-5, includ-
+ing the pedestrian underpass between the 
+Capistrano Neighborhood and the Harbor.
+4-21	
+To enhance pedestrian comfort on side-
+walks and other shared facilities, motor-
+ized mobility devices such as electric 
+bicycle and electric scooters, will only be 
+allowed to operate on roadways, parking 
+lots, bicycle lanes, and will be prohibited to 
+operate on sidewalks, promenades, nature 
+trails, parks, plazas, parking garages, and 
+piers.
+
+
+4-23
+	
+INTEGRATED MOBILITY 4
+4-22	
+Maintain and repair existing pedestrian 
+and bicycle facilities (e.g. repair damaged 
+sidewalks and asphalt, restripe cross-
+walks and facility markings, maintain 
+vegetation, etc.).
+4-23	
+Continue and expand opportunities to pro-
+vide education on transportation behav-
+iors, including the Safe Routes to School 
+program and bicycle education courses.
+4-24	
+Regularly review, monitor, and evaluate 
+collisions 
+involving 
+pedestrians 
+and 
+bicyclists to identify safety issues and 
+appropriate improvements.
+4-25	
+Explore ways to accommodate motorized 
+micro-mobility 
+modes 
+(e.g., 
+e-bikes, 
+scooters, hoverboards) without compro-
+mising the safety and comfort of pedes-
+trians and bicyclists.
+Comfortable Environments
+4-26	
+Maximize sidewalk and bike lane widths 
+without degrading vehicular operations.
+4-27	
+Promote land use patterns and urban 
+design that support active transportation 
+(e.g. mixed-use developments, strong 
+street grids, and short blocks).
+4-28	
+Create and maintain walkable environ-
+ments through facilities and amenities 
+that enhance security and comfort (e.g., 
+public art, landscaping and street trees, 
+outdoor seating, enhanced paving, etc.).
+4-29	
+Expand wayfinding signage to direct active 
+transportation users to destinations and 
+preferred facilities (e.g., San Luis Rey River 
+Trail, Coastal Rail Trail, etc.).
+4-30	
+Promote the benefits of walking and bicy-
+cling and raise awareness through City 
+communications 
+and 
+events/activities 
+that foster community interactions (e.g., 
+Bike to Work Day).
+4-31	
+Install outdoor seating and shade struc-
+tures along trails, where feasible and 
+appropriate.
+4-32	
+Ensure that the design of new develop-
+ment provides pedestrians and bicyclists 
+with safe, conspicuous, and convenient 
+connections between the public right-of-
+way and private property.
+
+
+OCEANSIDE GENERAL PLAN
+4-24
+4.3	Vehicular Movement
+Despite ongoing efforts at all levels of government 
+and civil society to increase active transportation, 
+transit ridership, and other alternative modes of 
+travel, most community members still rely heavily 
+on the private automobile. As long as this remains 
+the principal means of transportation in Oceanside 
+and the San Diego region, it is incumbent upon the 
+City to maintain adequate roadway capacity for 
+automobiles, in order to ensure timely emergency 
+response and provide sufficient access to employ-
+ment, commercial goods and services, healthcare, 
+public facilities, etc. 
+Given that the City’s roadway network is largely 
+built-out, in terms of both geographic reach and 
+lane capacity, minimizing congestion and delay 
+will require enhanced transportation management 
+systems (e.g., signal timing optimization, consol-
+idating driveways and other features that create 
+traffic friction) as well as improvements and ser-
+vices that make active transportation and transit 
+use more practical and appealing. In short, keeping 
+traffic moving on the City’s major roadways will 
+require both greater efficiency and a reduction in 
+per-capita vehicle miles traveled. Thus, accommo-
+dating additional automobile trips cannot come 
+at the expense of active transportation facilities, 
+transit service, and other mobility options that can 
+reduce our reliance on the automobile. 
+The recommended roadway network is intended 
+to align with planned multi-modal improvements, 
+accommodate forecasted transportation demands 
+and travel pattern shifts associated with planned 
+land uses, and contribute to sustained economic 
+activity and growth. Changes to the City’s network 
+are intended to be complemented by interstate and 
+state highway recommendations, such as managed 
+lanes along Interstate 5 through Oceanside, and 
+additional grade-separated crossings of SR-76. 
+
+
+4-25
+	
+INTEGRATED MOBILITY 4
+The vehicular network utilizes a system of six 
+classifications to identify the type of service each 
+facility is intended to provide  : Expressway, Prime 
+Arterial, Major Arterial, Secondary Collector, 
+Collector, and Local Streets. The classifications are 
+supported by the City of Oceanside Engineering 
+Design Manual which provides design guidelines 
+that dictate the physical characteristics of each 
+facility. 
+Expressway – An Expressway is designed to pro-
+vide express direct travel through the City with 
+four to six lanes in each direction. Expressways 
+are divided highways with raised medians and fully 
+controlled access at intersections. Grade separa-
+tion of intersections can help improve multimod-
+al safety and optimize Expressway operations. 
+Expressways are constructed and maintained by 
+Caltrans.
+Prime Arterial – A Prime Arterial is designed 
+to provide regional, sub-regional, and intra-city 
+travel. They typically have six lanes of travel, raised 
+and landscaped medians, shoulders for emergency 
+parking and bike facilities, and restricted access 
+(e.g., fewer intersections, no driveways). On-street 
+parking is prohibited.
+Major Arterial – A Major Arterial is designed to 
+provide intra-city and sub-regional connectivity 
+and provide some property access in select areas. 
+Driveways interfacing with these roads may have 
+certain restrictions to ensure proper roadway 
+functions. They typically have four or six lanes of 
+travel, raised, landscaped, and striped medians, 
+and shoulders for emergency parking and bike 
+facilities. Left-turn movements are typically pro-
+tected along Major Arterials.
+Secondary Collector – A Secondary Collector is 
+designed for intra-city travel as a link between 
+arterial and collector roadways. They are com-
+monly lined with driveways providing direct access 
+to abutting properties; however, that is not its pri-
+mary purpose. The typical design features include 
+four travel lanes with a center two-way left-turn 
+lane or left-turn pockets, and bike facilities.
+Collector – A Collector is designed to connect 
+local streets with the adjacent arterial street net-
+work. These are usually two travel lanes with or 
+without a center two-way left-turn lane and may 
+include bicycle facilities. On-street parking may 
+be present. Collector streets frequently have 
+driveways, which provide direct access to abutting 
+properties (although the desire is to limit access 
+where possible to reduce potential conflicts). A 
+Collector can also be a two-lane one-way street, 
+such as the one-way couplet on Mission Avenue 
+between Coast Highway and Clementine Street 
+and Seagaze Drive between Coast Highway and 
+Clementine Street.
+Local Street – Local Streets are low capacity, low 
+speed streets whose main purpose is to provide 
+direct access to abutting properties. Local Streets 
+typically do not provide or encourage vehicular 
+connectivity beyond providing access to the near-
+est intersecting higher capacity roadway (most 
+often, these are Collectors). The typical design 
+standards include the provision of two travel 
+lanes, parking lanes on both sides of the street, 
+and direct driveway access.
+The existing functional roadway classifications as of 
+2021 are depicted in Figure 4-6. Table 4-1 identi-
+fies recommended roadway network modifications 
+while Figure 4-7 displays the planned roadway clas-
+sifications citywide. Figure 4-8 shows the planned 
+lane geometrics of these roadways at key intersec-
+tion locations within the City. 
+A Transportation Impact Study (TIS) and Traffic 
+Operations Analysis (TOA) technical report was 
+prepared to understand and document network 
+operations under buildout of the planned General 
+Plan land uses and vehicular network. Consistent 
+with SB 743, the TIS utilizes a VMT-based analysis 
+to identify and document potential transportation 
+impacts and applicable mitigation measures. The 
+TOA is a LOS based analysis of the IM roadway 
+network and key intersections. Figure 4-9 displays 
+the IM roadway segment and intersection LOS 
+results. The full TIS/TOA document is provided as 
+Appendix B.
+
+
+OCEANSIDE GENERAL PLAN
+4-26
+Table 4-1: Planned Roadway Modifications
+Roadway 
+Existing (2021) 
+Planned (2050) 
+# lanes 
+Classification 
+# lanes  Classification 
+North River Road: North River Circle to 
+Wilshire Road 
+2 
+Collector 
+4 
+Secondary Collector
+North River Road: Wilshire Road to 
+Sleeping Indian 
+2
+Collector
+4
+Major
+Oceanside Boulevard: I-5 to  
+El Camino Real 
+4 
+Secondary Collector 
+4 
+Major 
+North Coast Highway: SR 76 to Seagaze 
+Drive 
+4
+Secondary Collector
+2 w/o 
+TWLTL* 
+Collector 
+South Coast Highway: Seagaze Drive to 
+Oceanside Boulevard 
+4
+Secondary Collector
+2 w/o 
+TWLTL* 
+Collector 
+Canyon Drive: SR 76 to  
+Mission Avenue 
+4 
+Secondary Collector 
+2 w/ 
+TWLTL 
+Collector 
+El Camino Real: Mesa Drive to 
+Oceanside Boulevard 
+4 
+Major
+5 
+Major
+Douglas Drive: Vandegrift Blvd. to  
+Via Malaguena 
+4 
+Secondary Collector 
+2 w/ 
+TWLTL 
+Collector 
+Vandergrift Blvd: Northern City Limit to 
+North River Road
+5
+Major
+4
+Major
+College Boulevard: Old Grove Road to 
+Olive Drive
+4 
+Major 
+6 
+Major 
+Melrose Drive: N. Santa Fe Avenue to 
+Sagewood Drive 
+2 
+Collector 
+4 
+Major 
+TWLTL = Two-Way Left-Turn Lane. SR 76 = State Route 76 
+*Roundabouts are planned along Coast Highway. Where space is constrained, implementation of the TWLTL or raised median will not be 
+necessary. 
+
+
+4-27
+	
+INTEGRATED MOBILITY 4
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\GP\Figure 4-6 Existing 2021 Functional Roadway Classifications_new layout.mxd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Guajome
+County Park
+P a c i f i c
+O c e a n
+Source: Chen Ryan Associates, 2024; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Expressway
+Prime Arterial
+Major Arterial
+Secondary Collector
+Collector
+Collector (One-Way)
+Two-Way Left Turn Lane
+Number of Travel Lanes
+City of Oceanside
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+!(
+T
+Transit Stop
+Rail
+Park
+Hardline or Softline Preserve
+Agriculture
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/4/2025
+A³
+!"^$
+!"^$
+A¸
+A³
+Douglas
+Vandegrift Bl
+Wilshire Rd
+Colle
+g
+e B
+l
+N. River Rd
+Oceanside Bl
+Melrose D
+r
+College Bl
+Emerald Dr
+Oceanside Bl
+Mission
+Canyon
+S. Coast Hwy
+Vista Wy
+Vista Wy
+Jefferson St
+Fouss
+a
+t
+Rd
+El
+C
+a
+m
+i
+n
+o
+Fraz
+e
+e
+R
+d
+Sleeping Indian
+Rd
+Ra
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+Dr
+O
+l
+d Gr
+o
+ve
+R
+d
+Cannon
+Rd
+Lake Bl
+N. River Cir
+Stallion Dr
+N. River Rd
+Via Puerta Del Sol
+Miss
+i
+on
+A
+v
+e
+Ave
+Lo
+r
+e
+tta
+St
+Town Ctr Dr
+Guajome Lake Rd
+E.Vista
+Wy
+Mesa Dr
+Ivey
+Ran
+ch
+Vi
+a
+R
+a
+n
+c
+ho
+Rd
+Rd
+Goat
+Hill
+Dr
+Arroyo Ave
+Temple
+Hts Dr
+Thunder Dr
+Plaza Dr
+Sundown Ln
+Sky Haven Ln
+Alameda Dr
+M
+e
+lr
+ose
+D
+r
+Wisconsin Ave
+Morse St
+Alex Rd
+Fire Mtn Dr
+Via Las Rosas
+Via Malaguena
+Cardiff Bay
+Festival Dr
+Old River St
+Dr
+Pala Rd
+O
+c
+ea
+n Ra
+n
+c
+h Bl
+Senior Ctr Dr
+D
+o
+u
+g
+la
+s
+D
+r
+Adams St
+Avda De
+La Plata
+Olive
+Dr
+Marvin St
+Waring
+Rd
+Old Ranch Rd
+Sage
+w
+ood
+Dr
+Meadowbrook Dr
+Cassidy St
+California
+Marron
+Rd
+N
+o
+r
+t
+h
+D
+r
+Los Arbolitos
+4M
+Ca
+p
+i
+s
+t
+r
+a
+no
+Dr
+2C
+2C
+Dr
+C
+r
+ouch
+St
+2C
+2C
+Maxson
+St
+2C
+St
+2C
+Hunsaker St
+2C
+Pacific St
+Shad
+o
+w
+r
+i
+d
+g
+e
+Dr
+2C
+2C
+2C
+2C
+2C
+Dr
+2C
+2C
+Cra
+n
+b
+e
+rr
+y
+St
+2C
+Jeffries
+Ranch Rd
+M
+e
+l
+r
+o
+s
+e
+Dr
+2C
+2C
+N. Sa
+n
+ta Fe
+Ave
+2C
+2C
+2C
+2C
+2C
+2C
+2C
+Sky
+lin
+e
+Dr
+2C
+Ca
+m
+e
+o
+Dr
+2C
+Lewis St
+2C
+2C
+2C
+Barnard Dr
+2C
+2C
+Downs St
+Ivy Rd
+2C
+2C
+2C
+2C
+Bush St
+2C
+Real
+2C
+2C
+Vista
+Campana
+2C
+2C
+2C
+2C
+Glaser Dr
+Thomas St
+2C
+2C
+2C
+2C
+6M
+Bl
+Benet Rd
+4SC
+#-Ln
+2C
+2C
+2C
+2C
+2C
+4SC
+4M
+4M
+2C
+2C
+2C
+2C
+4E
+4SC
+4SC
+4SC
+Garfield St
+N Cleveland St
+Missouri Ave
+Michigan St
+Windward Way
+Cen
+ter
+Ave
+Garfield St
+Topeka St
+Seagaze Dr
+Pier View Way
+S Weitzel St
+N Horne St
+N Ditmar St
+N Clementine St
+Seagaze Dr
+S Horne St
+S Cleveland St
+Grant St
+N Tremont St
+N Freeman St
+N Myers St
+S Tremont St
+Puls St
+Buena St
+Olive St
+2C
+2C
+2C
+2C
+2C
+2C
+4E
+2C
+3M
+4SC
+4M
+4M
+5M
+4M
+4M
+4M
+2C
+4M
+4M
+4E
+4E
+4E
+4M
+4M
+3M
+4M
+4M
+5M
+4E
+4E
+2C
+4E
+4M
+4M
+5M
+2C
+2C
+4M
+6P
+6P
+4SC
+2C
+4SC
+2C
+2C
+4M
+4SC
+4SC
+4SC
+4SC
+3SC
+4M
+4SC
+3M
+4M
+6M
+4M
+4M
+4SC
+4SC
+6P
+6P
+6P
+4M
+4M
+4SC
+2C
+2C
+4E
+4E
+4E
+5E
+4E
+6M
+4M
+4M
+4E
+4M
+5M
+6M
+4E
+4SC
+4SC
+4SC
+3SC
+4SC
+4M
+4M
+4M
+4M
+4M
+4M
+5M
+4M
+4M
+4M
+4M
+4M
+4M
+4E
+Figure 4-6: Existing Functional Roadway Classifications (2021)
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\GP\Figure 4-7 Planned Roadway Classifications.mxd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+!(
+Guajome
+County Park
+P a c i f i c
+O c e a n
+Source: Chen Ryan Associates, 2024; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+New Interchange/Connectors
+Number of Travel Lanes
+Expressway
+Prime Arterial
+Major Arterial
+Secondary Collector
+Collector
+Collector (One-Way)
+Two-Way Left Turn Lane
+City of Oceanside
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+!(
+T
+Transit Stop
+Rail
+Park
+Hardline or Softline Preserve
+Agriculture
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/4/2025
+A³
+!"^$
+!"^$
+A¸
+A³
+Douglas
+Vandegrift Bl
+Wilshire Rd
+Colle
+g
+e B
+l
+N. River Rd
+Oceanside Bl
+Melrose D
+r
+College Bl
+Emerald Dr
+Oceanside Bl
+Mission
+Canyon
+S. Coast Hwy
+Vista Wy
+Vista Wy
+Jefferson St
+Fouss
+a
+t
+Rd
+El
+C
+a
+m
+i
+n
+o
+Fraz
+e
+e
+R
+d
+Sleeping Indian
+Rd
+Ra
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+Dr
+O
+l
+d Gr
+o
+ve
+R
+d
+Cannon
+Rd
+Lake Bl
+N. River Cir
+Stallion Dr
+N. River Rd
+Via Puerta Del Sol
+Miss
+i
+on
+A
+v
+e
+Ave
+Lo
+r
+e
+tta
+St
+Town Ctr Dr
+Guajome Lake Rd
+E.Vista
+Wy
+Mesa Dr
+Ivey
+Ran
+ch
+Vi
+a
+R
+a
+n
+c
+ho
+Rd
+Rd
+Goat
+Hill
+Dr
+Arroyo Ave
+Temple
+Hts Dr
+Thunder Dr
+Plaza Dr
+Sundown Ln
+Sky Haven Ln
+Alameda Dr
+M
+e
+lr
+ose
+D
+r
+Wisconsin Ave
+Morse St
+Alex Rd
+Fire Mtn Dr
+Via Las Rosas
+Via Malaguena
+Cardiff Bay
+Festival Dr
+Old River St
+Dr
+Pala Rd
+O
+c
+ea
+n Ra
+n
+c
+h Bl
+Senior Ctr Dr
+D
+o
+u
+g
+la
+s
+D
+r
+Adams St
+Avda De
+La Plata
+Olive
+Dr
+Marvin St
+Waring
+Rd
+Old Ranch Rd
+Sage
+w
+ood
+Dr
+Meadowbrook Dr
+Cassidy St
+California
+Marron
+Rd
+N
+o
+r
+t
+h
+D
+r
+Los Arbolitos
+4M
+Ca
+p
+i
+s
+t
+r
+a
+no
+Dr
+2C
+2C
+Dr
+C
+r
+ouch
+St
+2C
+2C
+Maxson
+St
+2C
+St
+2C
+Hunsaker St
+2C
+Pacific St
+Shad
+o
+w
+r
+i
+d
+g
+e
+Dr
+2C
+2C
+2C
+2C
+2C
+Dr
+2C
+2C
+Cra
+n
+b
+e
+rr
+y
+St
+2C
+Jeffries
+Ranch Rd
+M
+e
+l
+r
+o
+s
+e
+Dr
+2C
+2C
+N. Sa
+n
+ta Fe
+Ave
+2C
+2C
+2C
+2C
+2C
+2C
+2C
+Sky
+lin
+e
+Dr
+2C
+Ca
+m
+e
+o
+Dr
+2C
+Lewis St
+2C
+2C
+2C
+Barnard Dr
+2C
+2C
+Downs St
+Ivy Rd
+2C
+2C
+2C
+2C
+Bush St
+2C
+Real
+2C
+2C
+Vista
+Campana
+2C
+2C
+2C
+2C
+Glaser Dr
+Thomas St
+2C
+2C
+2C
+2C
+6M
+Bl
+Benet Rd
+4SC
+#-Ln
+2C
+2C
+2C
+2C
+2C
+2C
+4M
+4M
+2C
+2C
+2C
+2C
+4E
+4SC
+2C
+2C
+Garfield St
+N Cleveland St
+Missouri Ave
+Michigan St
+Cen
+ter
+Ave
+Garfield St
+Topeka St
+Seagaze Dr
+Pier View Way
+S Weitzel St
+N Horne St
+N Nevada St
+N Ditmar St
+N Clementine St
+Seagaze Dr
+S Horne St
+S Cleveland St
+Grant St
+N Tremont St
+N Freeman St
+N Myers St
+S Tremont St
+Puls St
+Buena St
+Olive St
+!"^$
+2C
+2C
+4SC
+2C
+2C
+2C
+4M
+2C
+6P
+6P
+6P
+4M
+4SC
+4SC
+2C
+2C
+2C
+2C
+2C
+4M
+4M
+4M
+4M
+5M
+2C
+4E
+4E
+4E
+4SC
+4E
+4M
+4M
+4M
+4M
+4M
+4M
+4M
+4M
+4M
+4M
+5M
+4M
+4SC
+4SC
+6P
+6M
+4SC
+4SC
+3SC
+4SC
+2C
+2C
+4SC
+4M
+4M
+4M
+4M
+4M
+3M
+4M
+4M
+4M
+4M
+4M
+4E
+4E
+5E
+4E
+4E
+4E
+4M
+4M
+4M
+4M
+4SC
+4SC
+5M
+4M
+2C
+2C
+4M
+4SC
+4M
+4M
+6M
+4E
+4M
+4M
+4M
+5M
+4M
+4M
+3M
+4M
+5M
+5M
+4M
+4M
+4M
+6M
+6M
+4M
+4SC
+2C
+2C
+2C
+4E
+2C
+2C
+4SC
+4SC
+4SC
+4SC
+3M
+4M
+6M
+4M
+4M
+6M
+5M
+4M
+4M
+6M
+4SC
+4M
+4E
+2C
+3SC
+6M
+Figure 4-7: Planned Roadway Classifications
+
+
+4-29
+	
+INTEGRATED MOBILITY 4
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+<
+Legend
+Frazee Road & SR-76
+Foussat Road & SR-76
+I-5 SB Ramps & SR-76
+I-5 NB Ramps & SR-76
+Douglas Drive & SR-76
+Coast Highway & SR-76
+Old Grove Road & SR-76
+SR-76 & North River Road
+College Boulevard & SR-76
+Rancho Del Oro Drive & SR-76
+Douglas Drive & El Camino Real
+North Santa Fe Avenue & SR-76
+Douglas Drive & Mission Avenue
+Wilshire Road & North River Road
+Douglas Drive & North River Road
+North River Road & College Boulevard
+Vandegrift Boulevard & Douglas Drive
+Sleeping Indian Road
+& North River Road
+Vandegrift Boulevard 
+& North River Road/Redondo Drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+17
+16
+15
+14
+13
+18
+12
+11
+10
+19
+
+
+
+
+
+
+
+
+
+NRTOR
+RTOL
+RTOL
+NRTOR
+NRTOR
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+YIELD
+FREE
+FREE
+FREE
+RTOL
+RTOL
+RTOL
+RTOL
+N
+NOT TO SCALE
+- Proposed RTOL
+NRTOR - No Right-Turn On Red
+RTOL - Right-Turn Overlap
+RTOL
+Signalized Intersection
+³ê
+Existing
+Future
+Lane Geometry
+
+
+Stop Sign
+#$
+#$
+Study Intersection
+!
+X
+Figure 4-8: Planned Intersection Geometrics (Intersections 1 – 19)
+
+
+OCEANSIDE GENERAL PLAN
+4-30
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+<
+<
+<
+Legend
+Melrose Drive & SR-76
+Coast Highway & Vista Way
+Horne Street & Mission Avenue
+I-5 SB Ramp & Vista Way/SR-78
+Canyon Drive & Mission Avenue
+Foussat Road & Mission Avenue
+College Boulevard & Mesa Drive
+I-5 NB Ramps & Mission Avenue
+Coast Highway & Mission Avenue
+North Santa Fe Avenue & Mesa Drive
+Crouch Street & Oceanside Boulevard
+I-5 NB Ramps
+& Oceanside Boulevard
+Coast Highway
+& Oceanside Boulevard
+El Camino Real
+& Oceanside Boulevard
+College Boulevard
+& Oceanside Boulevard
+Rancho Del Oro Drive
+& Oceanside Boulevard
+Pirates Cove/I-5 SB Ramps
+& Mission Avenue
+Melrose Drive & Oceanside
+Boulevard/West Bobier Drive
+Parkwood Lane/I-5 SB Ramps
+& Oceanside Boulevard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+35
+34
+33
+32
+37
+31
+30
+29
+28
+38
+27
+26
+25
+24
+23
+22
+21
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+NRTOR
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+FREE
+FREE
+YIELD
+RTOL
+YIELD
+FREE
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+N
+NOT TO SCALE
+- Proposed RTOL
+NRTOR - No Right-Turn On Red
+RTOL - Right-Turn Overlap
+RTOL
+Signalized Intersection
+³ê
+Existing
+Future
+Lane Geometry
+
+
+Stop Sign
+#$
+#$
+Study Intersection
+!
+X
+Figure 4-8: Planned Intersection Geometrics (Intersections 20 – 38)
+
+
+4-31
+	
+INTEGRATED MOBILITY 4
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+³ê
+<
+<
+<
+<
+<
+<
+<
+<
+<
+<
+Legend
+El Camino Real & Vista Way
+SR-78 WB Ramps & Vista Way
+Plaza Drive & SR-78 EB Ramps
+College Boulevard & Vista Way
+Melrose Drive & North River Road
+El Camino Real & SR-78 EB Ramps
+Jefferson Street & SR-78 EB Ramps
+El Camino Real & SR-78 WB Ramps
+Jefferson Street & SR-78 WB Ramps
+South Melrose Drive & Cannon Road
+College Boulevard
+& SR78 EB Off-Ramp
+College Boulevard
+& SR78 WB On-Ramp
+College Boulevard
+& Haymar Drive/Plaza Drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+40
+39
+
+
+
+
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+RTOL
+Proposed signalized intersection
+Uncontrolled intersection
+N
+NOT TO SCALE
+- Proposed RTOL
+NRTOR - No Right-Turn On Red
+RTOL - Right-Turn Overlap
+RTOL
+Signalized Intersection
+³ê
+Existing
+Future
+Lane Geometry
+
+
+Stop Sign
+#$
+#$
+Study Intersection
+!X
+Figure 4-8: Planned Intersection Geometrics (Intersections 39 – 51)
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\GP\Figure 4-9 Planned Roadway Segment and Intersection Level of Service Results.mxd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+a
+l
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+!=
+!<=
+!=
+!=
+!=
+!=
+!=
+!=
+!=
+!<=
+!=
+!
+<
+=
+!
+<
+=
+!=!<=
+!=
+!<=
+!=
+!=
+!<=
+!
+<
+=
+!<=
+!=
+!=
+!= !
+<
+=!=!<=
+!=
+!<=
+!<=
+!=
+!<=
+!<=
+!=
+!=
+!
+<
+=
+!=
+!=
+!=
+!<=!
+<
+=
+!=
+!=
+!=
+!=
+!=!=
+!
+<
+=
+!=
+!=
+!
+<
+=
+!<=
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+((
+(
+(
+(
+(
+(
+(
+(
+(
+(
+( (((
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+((
+(
+(
+(
+(
+((
+(
+(
+(
+Alameda Dr
+Sundown Ln
+Waring
+Rd
+Plaza Dr
+Rancho Del
+Oro Park
+Lake Park
+Martin Luther
+King Jr. Park
+Alamosa
+Park
+Fireside
+Park
+Oak Riparian
+Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+33
+Crouch St
+Goat
+Hill
+Dr
+Adams St
+N. River Cir
+Town Ctr Dr
+1
+2
+3
+4
+5
+6
+7
+18
+19
+20
+17
+28
+8
+9
+14
+15
+16
+27
+13
+26
+36
+12
+11
+10
+21
+22
+23
+24
+25
+33
+34
+35
+29
+31
+30
+32
+37
+38
+42
+43
+39
+44
+45
+40
+46
+41
+47
+48
+49
+50
+10
+21
+51
+P a c i f i c
+O c e a n
+Source: CR Associates, 2024; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Roadway Level of Service
+A - C
+D
+E
+F
+!<=(
+Study Intersections
+!<=
+AM / PM Intersection Level of Service
+!(
+A - C
+!(
+D
+!(
+E
+!(
+F
+!(
+T
+Transit Stop
+Rail
+City of Oceanside
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/9/2025
+A³
+!"^$
+!"^$
+A¸
+A³
+#
+Figure 4-9: Planned Roadway Segment and 
+Intersection Level of Service Results
+
+
+4-33
+	
+INTEGRATED MOBILITY 4
+In light of the realities outlined above, the fol-
+lowing goals and policies seek to strike a balance 
+between minimizing traffic congestion and delay 
+and improving the viability of transportation 
+alternatives.
+GOALS
+4-E	
+The City’s vehicular circulation network 
+will provide for the safe movement of 
+automobiles while accommodating alter-
+nate travel modes.
+4-F	
+The City’s vehicular circulation network 
+will provide for efficient traffic move-
+ment while providing safe, accessible, 
+and comfortable facilities for other 
+roadway users.
+4-G	
+Through coordinated land use and trans-
+portation planning, enhanced transporta-
+tion management systems, and expanded 
+pedestrian and bicycle infrastructure, the 
+City will facilitate a decrease in vehicle 
+miles traveled (VMT) and associated 
+greenhouse gas emissions.
+4-H	
+Coordination with Caltrans, SANDAG, and 
+other stakeholders will ensure enhanced 
+and efficient transitions between the 
+local roadway network, state highways, 
+and transit facilities and services.
+POLICIES
+Safe Movement
+4-33	
+Collaborate with the community members 
+and organizations, City departments, 
+and partner agencies to identify issues, 
+develop recommendations, and implement 
+improvements. This can be achieved by 
+maintaining an up-to-date transportation 
+safety evaluation and action plan, such as 
+the Local Roadway Safety Plan or similar 
+document.
+4-34	
+Design all streets within the City in accor-
+dance with the City Engineer’s Design 
+and Processing Manual, unless otherwise 
+approved by the City Engineer.
+4-35	
+Implement traffic calming measures to 
+reduce vehicular travel speeds along road-
+ways serving residential neighborhoods, 
+schools, and parks, where feasible in terms 
+of community support, available funding, 
+constructability, available right-of-way, 
+and requirements per the City’s current 
+traffic calming program.
+4-36	
+Maintain the City’s traffic calming pro-
+gram, or similar mechanism for commu-
+nity members to raise vehicular speeding 
+related issues and evaluation process for 
+determining appropriate responses.
+4-37	
+Continue to pursue funding to improve 
+multimodal transportation safety through 
+programs such as the Safe Routes to 
+School (SRTS) program, Highway Safety 
+Improvement Program (HSIP), Safe Streets 
+and Roads for All (SS4A), and Active 
+Transportation Program (ATP).
+4-38	
+Continue to work with the Fire and Police 
+Departments on public safety through 
+evacuation planning and ensuring ade-
+quate means of emergency ingress and 
+egress.
+4-39	
+Explore opportunities to replace two-way 
+left-turn lanes with landscaped medians, 
+where feasible and appropriate.
+
+
+OCEANSIDE GENERAL PLAN
+4-34
+Efficient and Complete Networks
+4-40	
+The City shall strive to stay up-to-date 
+with legislation and emerging technol-
+ogies as it relates to complete streets, 
+roadway efficiency, and analysis of traffic 
+conditions.
+4-41	
+Implement the roadway classifications 
+identified in Figure 4-7 and roadway 
+modifications in Table 4-1, as funding 
+and 
+opportunities 
+become 
+available. 
+Roadways shall be designed to provide 
+the facilities and level of access necessary 
+to serve existing and proposed land uses 
+designated in the Efficient and Compatible 
+Land Use Element, while also supporting 
+regional travel.
+4-42	
+Prioritize improvements, including road-
+way efficiency measures, at intersections 
+experiencing the highest levels of peak 
+period congestion and delay.
+4-43	
+Seek to maintain Level of Service D or 
+better for all roadway segments and 
+intersections, with the exception of the 
+locations below, or at the discretion of the 
+City Engineer:
+Segments
+•	 College Boulevard
+	
+— North River Road to SR-76
+	
+— Frazee Road to Old Grove Road
+	
+— Avenida De La Plata to Southern 
+City Limits
+•	 Douglas Drive
+	
+— North River Road to El Camino 
+Real
+•	 El Camino Real
+	
+— Douglas Drive to Mission Avenue
+	
+— Mesa Drive to Via Las Rosas
+	
+— Vista Way to SR-78 Westbound 
+Ramps 
+•	 Foussat Road
+	
+— Mission Avenue to Oceanside 
+Boulevard
+•	 Lake Boulevard
+	
+— Thunder Drive to Sundown Lane
+•	 Coast Highway
+	
+— Northern City Limit to Southern 
+City Limit
+•	 Oceanside Boulevard
+	
+— Coast Highway to I-5 Southbound 
+Ramps
+•	 North River Road
+	
+— College Boulevard to Vandegrift 
+Boulevard 
+•	 Rancho Del Oro Drive
+	
+— Vista Del Oro Drive to Vista Way
+•	 Vista Way
+	
+— Coast Highway to I-5 Southbound 
+Ramps
+	
+— Jefferson Street to Rancho Del Oro 
+Drive
+	
+— College Boulevard to SR-78 
+Westbound Ramps
+•	 SR-76*
+	
+— Loretta Street to Canyon Drive
+	
+— College Boulevard to Melrose 
+Drive
+Intersections
+•	 North River Road & North Redondo 
+Drive & Vandegrift Boulevard
+•	 Douglas Drive & North River Road
+•	 College Boulevard & North River Road
+•	 Foussat Road & SR-76*
+•	 Douglas Drive & SR-76*
+•	 Rancho Del Oro Drive & SR-76*
+•	 Old Grove Road & SR-76*
+•	 Frazee Road & SR-76*
+•	 College Boulevard & SR-76*
+•	 North Santa Fe Avenue & SR-76* 
+•	 Melrose Drive & SR-76*
+•	 I-5 NB Ramps & Mission Avenue*
+•	 Foussat Road & Mission Avenue
+•	 Coast Highway & Oceanside Boulevard
+•	 El Camino Real & Oceanside Boulevard
+
+
+4-35
+	
+INTEGRATED MOBILITY 4
+•	 Rancho Del Oro Drive & Oceanside 
+Boulevard
+•	 College 
+Boulevard 
+& 
+Oceanside 
+Boulevard 
+•	 El Camino Real & Vista Way 
+* Identifies segments/intersections 
+within Caltrans jurisdiction
+4-44	
+Work with Caltrans to pursue grade-sep-
+arated crossings on SR-76 to improve 
+operations for all modes, with an empha-
+sis on intersections at Douglas Drive, 
+College Boulevard, Foussat Road, and 
+Rancho Del Oro.
+4-45	
+Coordinate with Caltrans to improve 
+access between Interstate 5 and the Fire 
+Mountain Neighborhood with an empha-
+sis on northbound vehicles exiting the 
+freeway.
+4-46	
+Consider funding mechanisms to support 
+construction of the Melrose Drive bridge 
+over the San Luis Rey River.
+4-47	
+Ensure development projects analyze 
+potential influences on the transportation 
+network consistent with the City’s Traffic 
+Impact Analysis Guidelines for Vehicle 
+Miles Traveled (VMT) and Level of Service 
+Assessment.
+4-48	
+Require development projects to provide 
+appropriate dedications to implement 
+planned transportation infrastructure and 
+construct adequate internal circulation for 
+all travel modes.
+4-49	
+Plans for roadway improvements shall 
+critically examine secondary noise control 
+options (e.g., speed limits, truck exclusion, 
+residential relocation, conversion to less 
+sensitive land uses, landscaping, etc.).
+4-50	
+Roadway construction, such as road wid-
+ening, intersection widening, or construc-
+tion of new roadways, should only occur 
+when the level of service on the road 
+and/or at nearby intersection is expected 
+to degrade to an unacceptable level by a 
+proposed development and warrants the 
+construction of the roadway.
+4-51	
+Roadway improvements should present 
+the least amount of disruption of the 
+natural terrain, vegetation, and character 
+of an area.
+4-52	
+Roadway improvements shall comply 
+with the requirements and objectives of 
+Assembly Bill (AB) 1358, The California 
+Complete Streets Act, to the extent 
+feasible.
+Roadway Design
+4-53	
+The City shall adopt design standards 
+for all streets in accordance with their 
+functional classifications and recognized 
+design guidelines. The City will also use 
+this as the basis for design standards of 
+Caltrans and the American Association 
+of State and Highway Transportation 
+Officials (AASHTO).
+4-54	
+The City may permit construction of 
+private streets within individual develop-
+ment projects, provided that:
+a.	 They are designed geometrically and 
+structurally to meet City standards.
+b.	 Only project occupants are served.
+c.	 All emergency vehicle access require-
+ments are satisfied.
+d.	 The streets do not provide a direct 
+through route between public streets.
+e.	 The Homeowners Association and/or 
+
+
+OCEANSIDE GENERAL PLAN
+4-36
+property owners provide an acceptable 
+program for financing regular street 
+maintenance.
+4-55	
+Reduce traffic conflicts by regulating 
+driveway access as follows: 
+a.	 The City shall prohibit left-turn move-
+ments to/from driveways along Prime 
+Arterials, unless controlled by a traffic 
+signal
+b.	 Driveway access to Major Arterials 
+shall not be permitted unless there is 
+no other reasonable means of access 
+to the public street system. Where 
+access to Major Arterials or Secondary 
+Collectors must be allowed, it shall be 
+limited through the use of medians and/
+or access controls to maintain street 
+capacity
+c.	 Along Major Arterials, access spacing 
+shall be a standard distance of 1,200 
+feet or more. Under special circum-
+stances this distance may be reduced 
+to a minimum of 600 feet where access 
+is limited to right-in and right-out only. 
+The above measurements shall be made 
+from the ends of curb returns.
+d.	 Along 
+Secondary 
+Collectors, 
+the 
+corresponding access spacing shall 
+be 600 feet for the standard distance 
+and a minimum of 300 feet for special 
+circumstances where access is limited 
+to right-in and right-out only. The above 
+measurements shall be made from the 
+ends of curb returns.
+4-56	
+The City shall strive to reduce or eliminate 
+residential driveways on all Collector and 
+higher order streets. Access to commer-
+cial projects shall be designed to meet 
+the City’s standards and be limited to the 
+extent feasible. The City shall routinely 
+review existing Collectors and higher 
+streets to determine, as feasible, the clos-
+ing, combining, or relocation of existing 
+driveways.
+4-57	
+The City shall consider the feasibility of 
+narrowing local streets that primarily 
+serve residential neighborhoods or imple-
+menting other techniques to discourage 
+cut through traffic in new residential 
+neighborhood developments.
+Fees/Right-of-Way Dedication/
+Required Improvements
+4-58	
+The City shall require dedication and 
+improvement of necessary rights-of-way 
+along roadways classified in Figure 4-7. 
+This usually will occur in fulfillment of a 
+condition of approval for a tentative map 
+or as a condition of approval for a building 
+permit, whichever occurs first.
+4-59	
+The City shall impose appropriate prorated 
+fees for construction of roadway facilities 
+and associated landscaping to ensure that 
+all new development contributes to the 
+completion of the circulation system. In 
+addition to City imposed fees, property 
+owners may create assessment districts 
+for supplemental funding.
+4-60	
+The City shall require additional right-of-
+way width and additional improvements 
+of major arterials where required for 
+turning movements or to provide access 
+to adjacent properties whenever access 
+is not feasible from a lower classification 
+street system.
+4-61	
+The City shall require new developments 
+to:
+a.	 Provide street improvements according 
+to the standards of the City Engineering 
+Department. 
+b.	 Dedicate necessary right-of-way when 
+the proposed property is adjacent to 
+streets classified in Figure 4-7. 
+c.	 Provide all necessary grading, instal-
+lation of curbs, gutters, sidewalks, 
+parkway tree planting, and streetlights 
+along fronting and internal roadways, 
+unless these improvements are pro-
+vided through other means.
+
+
+4-37
+	
+INTEGRATED MOBILITY 4
+d.	 Provide 
+half-street, 
+plus 
+12-feet, 
+improvements beyond the centerline in 
+accordance with City standards. Provide 
+full-street improvements if street is 40 
+feet or less wide, curb-to-curb.
+4-62	
+Consistent with City protocol meant to 
+enhance the efficiency of Oceanside’s 
+roadway network, if the location and traf-
+fic generation of a proposed development 
+will result in congestion on major streets 
+or failure to meet the LOS D threshold, or 
+if it creates safety hazards, the proposed 
+development shall be required to make 
+necessary off-site improvements.
+4-63	
+The City shall require that those respon-
+sible for street improvements replant, 
+replace, 
+or 
+install 
+new 
+landscaping 
+pursuant to existing City policy along all 
+new roadways or on those that have been 
+redesigned and reconstructed.
+4-64	
+Prior to approving any street widening 
+project, the City shall explore all alterna-
+tives to adding additional lanes or acquir-
+ing additional right-of-way.
+Sustainable Travel
+4-65	
+Reduce VMT by prioritizing pedestrian 
+and bicycle travel and/or incorporating 
+active 
+transportation 
+enhancements, 
+when feasible.
+4-66	
+Pursue full electrification of the City’s 
+vehicular fleet.
+4-67	
+Support expansion of electric vehicle 
+charging stations throughout the City, 
+where appropriate.
+
+
+OCEANSIDE GENERAL PLAN
+4-38
+4.4	Transit
+Compared to most suburban cities in California 
+and across the nation, Oceanside features an 
+extraordinary range of transit services. Founded 
+as a railroad town in the 1880s, the City lies along 
+the LOSSAN rail corridor, which extends from San 
+Diego to San Luis Obispo. NCTD’s SPRINTER rail 
+line extends through the Oceanside Boulevard 
+Corridor and connects the City to Vista, San 
+Marcos, and Escondido. Located just outside the 
+Oceanside Transit Center (OTC) is one of the most 
+robust transit hubs in the state, supporting four 
+separate rail services as well as NCTD’s Breeze 
+bus service. It is anticipated that the pending 
+redevelopment of the OTC will inspire more tran-
+sit ridership by creating a more comfortable and 
+appealing environment and providing “mobility 
+hub” amenities (e.g., wayfinding, bicycle storage, 
+Wi-Fi, retail venues).
+The City has piloted on-demand shuttle service in 
+coastal areas and is working with NCTD to expand 
+on-demand and fixed route shuttle service around 
+El Corazon. The City recognizes that reducing 
+dependence on the private automobile depends 
+in large part upon the provision of convenient and 
+reliable “first-mile/last-mile” connections between 
+residential areas, employments hubs, and transit 
+facilities. Establishing and maintaining these con-
+nections will require coordination between the 
+City, NCTD, SANDAG, private micro-transit oper-
+ators, and the local business community. 
+Despite the abundance of transit service in 
+Oceanside, transit ridership is low. While the 
+Oceanside Transit Center (OTC) and other transit 
+facilities in Oceanside accommodate several thou-
+sand bus and train passengers on a daily basis, tran-
+sit trips make up a very small percentage of total 
+trips in Oceanside. This is in part due to the fact that 
+transit service is concentrated in certain areas of the 
+City (e.g., coastal areas, the Oceanside Boulevard 
+corridor) and limited in other areas. The OTC lies 
+on the western edge of the City, while most of the 
+City’s housing stock, job centers, and public facili-
+ties are located in inland areas. To increase transit 
+ridership, better connections between the OTC 
+and inland areas of the City must be established. 
+Moreover, the bulk of the City’s future housing and 
+employment growth must be channeled into those 
+areas where transit service currently exists and can 
+be expanded (e.g., major commercial corridors).
+
+
+4-39
+	
+INTEGRATED MOBILITY 4
+Transit is largely planned for at the regional level 
+and guided by the Regional Plan. The current 
+Regional Plan recommends numerous upgrades 
+to transit infrastructure and service around the 
+region. Within Oceanside, this includes recommen-
+dations to improve the COASTER’s frequency to 
+30-minutes during commute peak periods and the 
+SPRINTER’s frequency to 10-minutes throughout 
+the day. Double-tracking of the SPRINTER rail and 
+grade separations at El Camino Real and Melrose 
+Drive will contribute to the improved services. 
+Existing Breeze bus routes 101, 303, and 315 
+are planned for upgrade to NextGen Rapid bus 
+routes. NextGen Rapid bus routes will feature 
+10-minute frequencies all day, representing a 
+significant increase in service. To improve travel 
+time and operating reliability, NextGen Rapid 
+bus routes typically have consolidated stop pat-
+terns, improved equipment, and infrastructure to 
+decrease dwell time delay, and may also be sup-
+ported by transit priority treatments in the road-
+way. Potential Flex Lanes have been identified 
+along segments of Mission Avenue and El Camino 
+Real to help improve operating reliability of the 
+NextGen Rapid routes through exclusive transit 
+lanes and/or transit priority signals.
+The portion of Oceanside generally to the west 
+of El Camino Real is designated as a Mobility Hub 
+Area at the regional level. SANDAG defines mobil-
+ity hubs as places of connectivity where mobility 
+services, technology, and a variety of amenities 
+create a landing spot for travelers to connect with 
+high-frequency transit services, bike and rideshare 
+options, and a variety of other modes of travel. 
+The combination of transit services and land use 
+patterns and intensities can be indicative of a 
+need for intensified amenities to facilitate multi-
+modal trips and help address “first-mile/last-mile” 
+transit access. Examples of amenities to consider 
+intensifying near transit stops within the mobility 
+hub area include long-term and short-term bicycle 
+parking, dedicated space for pick-up and drop-off, 
+comfortable waiting areas, and staging of flexible 
+fleet equipment (e.g., shared vehicles, bicycles, 
+and scooters), and trip planning information.
+Figure 4-10 identifies the transit recommenda-
+tions, including transit routes, flex lanes, and des-
+ignated mobility hub service areas.
+
+
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+a
+l
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+P a c i f i c
+O c e a n
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+A³
+A¸
+A³
+!"^$
+!"^$
+Figure 4-10: Planned Transit Infrastructure and 
+Service Recommendations
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Commuter Rail
+Light Rail
+Special Project
+Next Gen Rapid
+Recommended Flex Lanes
+Mobility Hub Service Area
+!(
+T
+Transit Stop
+Rail
+City of Oceanside
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Park
+Hardline or Softline Preserve
+Agriculture
+Military Training
+Water
+River/Creek
+0
+1
+2
+½
+Miles
+Map Date: 12/10/2025
+
+
+GOALS
+4-I	
+Transit will become an increasingly viable 
+and efficient mode of transportation to 
+destinations throughout Oceanside and 
+the greater region.
+4-J	
+Community members will enjoy com-
+fortable and convenient access to public 
+transportation services.
+4-K	
+In partnership with NCTD and other 
+stakeholders, the City will leverage its 
+position as a regional transit hub to 
+encourage commuters and visitors to 
+access Oceanside via rail and bus.
+4-L	
+Infill and redevelopment within already 
+urbanized areas will increase transit rid-
+ership and thereby generate demand for 
+more frequent headways.
+POLICIES
+Viable and Efficient
+4-68	
+Coordinate with NCTD, Amtrak, and 
+Metrolink to provide public transit services 
+in a manner that is equitable and beneficial 
+to all demographic groups, with an empha-
+sis on fair outcomes for social equity focus 
+communities.
+4-69	
+Collaborate with NCTD to identify opera-
+tional needs and solutions to transit travel 
+times and reliability (e.g., transit priority 
+signals, queue jump lanes, dedicated bus 
+lanes).
+4-70	
+Work with SANDAG and NCTD to 
+implement planned transit services and 
+infrastructure 
+improvements 
+identified 
+in the Regional Transportation Plan and 
+North County Comprehensive Multimodal 
+Corridor Plan, where feasible.
+4-71	
+Support regional efforts to provide free 
+transit for youth.
+4-72	
+Work with SANDAG to identify future 
+grant 
+opportunities 
+per 
+the 
+current 
+Regional Transportation Plan to create 
+local connection opportunities pertaining 
+to micro-transit or micromobility that con-
+nect to transit leap, flexible fleet services, 
+and mobility nodes and hubs.
+4-73	
+Explore the potential for a free coastal 
+shuttle service.
+4-74	
+Encourage developers to permit transit 
+services to operate within developments 
+and construct transit supporting amenities 
+and connections, where relevant.
+Accessible Service
+4-75	
+Integrate transit stations and bus stops 
+with adjacent land uses through connected 
+pedestrian and bicycle infrastructure, way-
+finding signage, and supporting amenities, 
+when feasible.
+4-76	
+As part of the development review pro-
+cess, ensure that bus stops are installed or 
+renovated on the project frontage, where 
+appropriate.
+4-77	
+Coordinate with SANDAG and NCTD 
+to establish mobility hubs that support 
+regional efforts to expand access to transit.
+4-78	
+Coordinate with SANDAG and NCTD 
+to provide flexible, on-demand transit 
+services to residential neighborhoods 
+throughout the City.
+4-79	
+Work with NCTD, law enforcement, 
+and property owners to improve safety 
+and comfort for transit riders through 
+measures including, but not limited to 
+visible stations/stops, lighting, transit 
+station security, shelters, seating, trash 
+receptacles, secure bicycle parking, and 
+other context appropriate features.
+4-80	
+Coordinate with NCTD to ensure regular 
+maintenance of bus stops and removal or 
+alleviation of potential impediments to 
+boarding and deboarding.
+
+
+OCEANSIDE GENERAL PLAN
+4-42
+4.5	Transportation 
+Demand 
+Management (TDM)
+Transportation Demand Management (TDM) 
+refers to a variety of strategies and programs 
+intended to reduce greenhouse gas emissions, 
+peak hour vehicular trips, and vehicle miles trav-
+eled. Transportation System Management (TSM) 
+is an approach to addressing roadway congestion 
+without increasing roadway size. TDM measures 
+can come in the form of marketing and promotion-
+al programs, incentives, and transportation ameni-
+ties and services. TSM strategies typically include 
+operational modifications – such as traffic signal 
+coordination – or minor roadway geometry chang-
+es. The City of Oceanside partners with SANDAG 
+to administer the regional TDM program. Examples 
+of programs currently offered include:
+•	 Employer Commuter Programs – Assistance is 
+offered to employers to establish customized 
+commuter benefits and telework programs, 
+including incentives, subsidies, and free classes 
+for employees who commute via sustainable 
+transportation modes.
+•	 Guaranteed Ride Home – People commuting via 
+carpool, vanpool, transit, walking, or bicycling 
+are eligible to enroll in the program which will 
+provide reimbursement for a direct ride home 
+from work (e.g., taxi, rideshare, rental car) in the 
+case of a qualifying emergency.
+•	 Commuter Vanpools – SANDAG organizes 
+vanpools for groups of five or more people, 
+helping commuters save money on commutes 
+and enable access to High Occupancy Vehicle 
+(HOV) lanes.
+•	 Transit Services – SANDAG plans and promotes 
+transit services at the regional level for the two 
+major transit agencies in the region, NCTD and 
+MTS. The Try Transit program provides eligible 
+employees with a one-month pass to try transit 
+options.
+•	 Bike Services – Bicycling is promoted as a 
+form of transportation through a regional bike 
+map, secure bike parking at transit stations – 
+including SPRINTER and COASTER stations, 
+bicycle education programs for schools and 
+employers, and funding for regional facilities 
+such as the Coastal Rail Trail.
+
+
+4-43
+	
+INTEGRATED MOBILITY 4
+GOAL
+4-M	
+Transportation 
+System 
+Management 
+(TSM) 
+and 
+Transportation 
+Demand 
+Management 
+(TDM) 
+measures 
+will 
+continue to improve transportation 
+efficiency 
+and 
+reduce 
+automobile 
+dependency.
+POLICIES
+4-81	
+Manage congestion through operational, 
+technological, 
+and 
+physical 
+improve-
+ments, including equipment upgrades and 
+communication enhancements between 
+traffic signals and the Transportation 
+Management Center, when feasible.
+4-82	
+Coordinate with SANDAG to maximize 
+the benefits of regional investments in 
+technology.
+4-83	
+Identify SANDAG grant opportunities per 
+Table A.17 in Appendix A of the San Diego 
+Forward: The 2021 Regional Plan, such as 
+opportunities pertaining to EVs, parking 
+and curb management, and TDM.
+4-84	
+Continue current traffic monitoring oper-
+ations to inform opportunities to enhance 
+transportation 
+network 
+operations 
+and identify opportunities to improve 
+and expand multimodal transportation 
+options.
+4-85	
+Promote TDM strategies to reduce sin-
+gle-occupant vehicle trips during peak 
+periods (e.g., telecommuting, flexible work 
+schedules, incentives for employees who 
+commute via walking, bicycling, or tran-
+sit; parking management, and rideshare 
+incentives).
+4-86	
+Support and promote SANDAG’s regional 
+iCommute program to reduce single-oc-
+cupant vehicle trips by increasing public 
+awareness of available alternative travel 
+options (e.g., transit services and route 
+planning programs, carpooling options, 
+active transportation options).
+4-87	
+Implement and support parking policies 
+that discourage single-occupant vehicle 
+trips (e.g., unbundled parking, dynamic 
+pricing strategies, and parking cash out 
+options).
+4-88	
+Require new or renovated commercial, 
+and industrial developments generating 
+more than 40 vehicle commute trips 
+per day to prepare a TDM plan. Support 
+this effort by maintaining a checklist of 
+common TDM measures to streamline 
+TDM plan preparation.
+4-89	
+Manage curb space in higher activity 
+areas to balance needs of different users 
+(e.g., emergency vehicles, buses, vehicle 
+parking, bicycle parking, delivery loading/
+unloading, 
+rideshare 
+pick-up/drop-off, 
+etc.). Develop curb management plans for 
+dense commercial areas.
+
+
+OCEANSIDE GENERAL PLAN
+4-44
+4.6	Goods Movement
+The efficient movement of goods supports eco-
+nomic development, synergies between local 
+businesses, and convenient access to commercial 
+products. It is therefore essential that the City’s 
+roadway network provide adequate access for 
+delivery vehicles. 
+The Oceanside Municipal Airport also contrib-
+utes to the local economy and offers recreational 
+opportunities. The airport features a dual runway, 
+located on 73-acres in northern Oceanside. The 
+airport is owned by the City of Oceanside and 
+offers transient fuel services, aircraft parking, 
+hangar rentals, and filming opportunities. Non-
+aircraft access to the airport is provided via Airport 
+Road and Benet Road, just north of SR-76. The 
+Airport Master Plan guides the extent, type, and 
+schedule of development needed to accommodate 
+anticipated future aviation demand. The City will 
+accommodate changes in surface transportation 
+activity resulting from future airport development. 
+Oceanside is home to numerous warehousing and 
+distribution facilities that generate freight vehicle 
+traffic. There are also concrete batch plants, con-
+struction materials yards, nurseries, and other uses 
+that contribute to the presence of freight vehicles 
+on City streets. With large industrial parks and 
+shopping centers located in the heart of the City, 
+removed from Interstate 5 and State Routes 76 
+and 78, freight vehicles rely on El Camino Real, 
+Oceanside Boulevard, College Boulevard, and 
+other local roadways to move goods into and out 
+of the City. While these roads are designed to 
+accommodate such vehicles, freight vehicle traf-
+fic can generate noise and other emissions that 
+impact nearby properties occupied by businesses, 
+homes, schools, and other uses.
+City of Oceanside Traffic Code Section 12.3 pro-
+hibits freight vehicles of a gross weight more than 
+ten thousand pounds from utilizing specific street 
+segments. In residential areas impacted by freight 
+vehicle traffic, the City can post signage, intro-
+duce traffic calming features, and increase police 
+patrols.
+GOAL
+4-N	
+The movement of goods through 
+Oceanside will occur in a safe and 
+efficient manner, limiting roadway 
+congestion and minimizing traffic and 
+noise in residential neighborhoods.
+POLICIES
+4-90	
+Support goods movement via rail to 
+reduce greenhouse gas emissions and 
+congestion.
+4-91	
+Evaluate the need for designating 
+loading zones in commercial and 
+industrial areas.
+4-92	
+Continue to prohibit heavy vehicle 
+access along specified streets.
+4-93	
+Coordinate with regional efforts to 
+encourage electrification of freight 
+vehicles and establish a network of 
+supporting charging infrastructure.
+4-94	
+Ensure 
+that 
+new 
+development 
+provides loading areas of sufficient 
+capacity that are sited and oriented 
+in a manner that reduces potential 
+impacts on adjacent streets and sur-
+rounding properties.
+
+
+4-45
+	
+INTEGRATED MOBILITY 4
+Action Item
+	
+Action
+Responsible 
+Party
+Time Frame
+Active Transportation
+IM-1
+Prepare an Active Transportation Plan that 
+consolidates the City’s Pedestrian and Bicycle Master 
+Plans and identifies opportunities to complete the 
+City’s roadway network with enhanced, comfortable, 
+and connected sidewalks and bike lanes.
+Planning 
+Division; 
+Traffic 
+Engineering 
+Division
+2026-2028
+IM-2
+Prepare a Trails Master Plan that identifies opportunities 
+to link the City’s existing spine trails (e.g., SLR River 
+Trail, Coastal Rail Trail, and Inland Rail Trail) to a wide 
+range of destinations, including parks and recreational 
+facilities.
+Planning 
+Division; 
+Traffic 
+Engineering 
+Division
+2026-2028 
+IM-3
+Maintain prioritized lists of pedestrian and bicycle 
+improvement projects, including those identified in the 
+Active Transportation Plan, Safe Routes to School Plan, 
+Trails Master Plan, City’s Pedestrian and Bicycle Master 
+Plan, and other relevant documents.
+Traffic 
+Engineering 
+Division
+Ongoing
+IM-4
+Secure grant funding to study the feasibility of 
+implementing separated bicycle facilities on Mesa 
+Drive between North Santa Fe Avenue and El Camino 
+Real.
+Planning 
+Division; 
+Traffic 
+Engineering 
+Division
+2026-2030
+Vehicular Movement
+IM-5
+When necessary, update the City’s Thoroughfare & 
+Traffic Signal Fee Program.
+Traffic 
+Engineering 
+Division
+	
+Ongoing
+IM-6
+Work with Caltrans and SANDAG to expand managed 
+lanes along Interstate 5 in the north- and southbound 
+directions between Vandergrift Boulevard/Harbor Drive 
+and SR-78.
+Traffic 
+Engineering 
+Division
+2026-2030
+IM-7
+Establish a Complete Streets criteria checklist for 
+Capital Improvement Projects (CIP); require all CIP 
+roadway construction and maintenance projects to 
+be reviewed for potential opportunities to incorporate 
+complete street improvements (e.g., pedestrian 
+facilities, bicycle facilities, transit amenities, stormwater 
+runoff features, etc.).
+Planning 
+Division; 
+Traffic 
+Engineering 
+Division
+2026-2028
+4.7	Actions
