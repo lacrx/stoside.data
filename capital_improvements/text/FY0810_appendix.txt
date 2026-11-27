@@ -1,0 +1,6437 @@
+Department
+Position
+change 
+change
+CITY COUNCIL
+Mayor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Councilperson
+               4.00 
+               4.00               4.00 
+             -             4.00 
+            -              4.00 
+Council Aide
+               5.00 
+               5.00               5.00 
+             -             5.00 
+            -              5.00 
+Office Specialist I 
+               0.33 
+               0.33               0.35 
+             -             0.35 
+            -              0.35 
+SUBTOTAL
+             10.33 
+             10.33             10.35 
+             -           10.35 
+            -            10.35 
+CITY CLERK
+City Clerk
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Assistant City Clerk
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Analyst II
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Secretary
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Document Technician
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Minutes Specialist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Program Specialist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Records Center Technician
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Records Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+SUBTOTAL
+9.00
+9.00
+9.00
+-
+9.00
+-
+9.00
+CITY TREASURER
+City Treasurer
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Treasury Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Treasury Technician
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+SUBTOTAL
+3.00
+3.00
+3.00
+-
+3.00
+-
+3.00
+CITY MANAGER
+City Manager
+               0.60 
+               0.60               0.50 
+             -             0.50 
+            -              0.50 
+Assistant to the City Manager
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Deputy City Manager
+               0.65 
+               0.65               1.00 
+             -             1.00 
+            -              1.00 
+Chief Information Officer
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Public Information Officer
+               0.50 
+               0.75 
+                  -   
+             -   
+              -   
+            -                  - 
+Administrative Secretary
+               2.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+GENERAL GOVERNMENT
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+175
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Applications Analyst I
+               2.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Applications Analyst II
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Applications Analyst III
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Applications Analyst IV
+               1.00 
+               1.00               2.00 
+             -             2.00 
+            -              2.00 
+Customer Account Rep. II
+                   -                  1.00               1.00 
+             -             1.00 
+            -              1.00 
+Info. Systems Analyst I
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Info. Systems Analyst II
+               1.00 
+               1.00               6.00 
+             -             6.00 
+            -              6.00 
+Info. Systems Analyst III
+               3.00 
+               3.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Info. Systems Analyst IV
+                   -   
+                   -                 4.00 
+             -             4.00 
+            -              4.00 
+Info. Systems Specialist II
+               7.00 
+               7.00               1.00 
+             -             1.00 
+            -              1.00 
+Management Analyst
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Office Specialist I
+               0.34 
+               0.34               0.32 
+             -             0.32 
+            -              0.32 
+Program Specialist
+               1.00 
+               1.00               2.00 
+             -             2.00 
+            -              2.00 
+Purchasing Coordinator
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Secretary to City Manager
+                   -                  1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Info Tech Analyst
+                   -   
+                   -                 2.00 
+             -             2.00 
+            -              2.00 
+SUBTOTAL
+             24.09 
+             25.34             24.82 
+             -           24.82 
+            -            24.82 
+CITY ATTORNEY
+City Attorney
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Assistant City Attorney
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Deputy City Attorney
+               1.00 
+               1.00               1.00         (1.00)
+              -   
+            -                  - 
+Deputy City Attorney II
+               3.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+Supervising Deputy City Attorney
+                   -   
+                   -                     -             1.00 
+          1.00 
+            -              1.00 
+Legal Secretary
+               2.00 
+               3.00               3.00         (1.00)
+          2.00 
+            -              2.00 
+Secretary to the City Attorney
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Secretary
+               1.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Office Specialist I 
+               0.33 
+               0.33               0.33 
+             -             0.33 
+            -              0.33 
+Paralegal I
+                   -   
+                   -                     -             1.00 
+          1.00        (1.00)
+               - 
+Paralegal II
+                   -   
+                   -                     -   
+             -   
+              -           1.00 
+           1.00 
+SUBTOTAL
+10.33
+10.33
+10.33
+-
+10.33
+-
+10.33
+FINANCIAL SERVICES
+Financial Services Director
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Financial Services Division Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Accounting Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+176
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Budget Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Principal Accountant
+                   -   
+                   -                     -             1.00 
+          1.00 
+            -              1.00 
+Accountant
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Accounting Specialist II
+               3.00 
+               3.00               3.00         (2.00)
+          1.00 
+            -              1.00 
+Accounting Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Accounting Technician
+               4.00 
+               4.00               4.00         (1.00)
+          3.00 
+            -              3.00 
+Administrative Analyst II
+               1.00 
+                   -                     -             1.00 
+          1.00 
+            -              1.00 
+Administrative Secretary
+               1.00 
+               1.00               1.00         (1.00)
+              -   
+            -                  - 
+Business License Inspector
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Customer Account Rep. I
+                   -                  2.00               2.00           4.00 
+          6.00 
+            -              6.00 
+Customer Account Rep. II
+             15.00 
+             14.00             14.00         (6.00)
+          8.00 
+            -              8.00 
+Customer Service Supervisor
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Management Analyst
+               1.00 
+               1.00               1.00           1.00 
+          2.00 
+            -              2.00 
+Office Services Technician
+               1.00 
+               1.00               1.00           1.00 
+          2.00 
+            -              2.00 
+Office Specialist II
+                   -   
+                   -                     -             1.00 
+          1.00 
+            -              1.00 
+Payroll Technician I
+                   -   
+                   -                     -             2.00 
+          2.00 
+            -              2.00 
+Program Specialist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Customer Account Rep.
+               2.00 
+               3.00               3.00           1.00 
+          4.00 
+            -              4.00 
+Senior Management Analyst
+               1.00 
+               2.00               2.00         (1.00)
+          1.00 
+            -              1.00 
+Supervising Accountant
+               2.00 
+               2.00               2.00         (1.00)
+          1.00 
+            -              1.00 
+SUBTOTAL
+             41.00 
+             43.00             43.00 
+             -           43.00 
+            -            43.00 
+HUMAN RESOURCES
+Human Resources Director
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Personnel Director
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Personnel Division Manager
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+EEO Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Workers Compensation and Safety Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Principal Human Resources Analyst
+                   -   
+                   -                 3.00 
+             -             3.00 
+            -              3.00 
+Principal Personnel Analyst
+               1.00 
+               3.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Claims Officer
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Human Resources Analyst I
+                   -   
+                   -                 1.00           1.00 
+          2.00 
+            -              2.00 
+Human Resources Technician
+                   -   
+                   -                 3.00 
+             -             3.00 
+            -              3.00 
+Office Specialist I
+                   -   
+                   -                 2.00 
+             -             2.00 
+            -              2.00 
+Office Specialist II
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Personnel Analyst II
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+177
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Personnel Assistant
+               3.00 
+               3.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Personnel Technician
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Human Resources Analyst
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Senior Personnel Analyst
+               4.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+SUBTOTAL
+16.00
+16.00
+15.00
+1.00
+16.00
+-
+16.00
+POLICE
+Police Chief
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Police Corporal
+             21.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Police Lieutenant
+               6.00 
+               6.00               8.00 
+          8.00 
+            -              8.00 
+Police Officer
+           137.00 
+           159.00           175.00 
+             -         175.00 
+            -          175.00 
+Police Officer Recruits
+                   -   
+                   -                 4.00 
+             -             4.00 
+            -              4.00 
+Police Records Manager
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Police Records Supervisor
+               3.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+Police Records Technician
+             13.00 
+             13.75             15.00 
+             -           15.00 
+            -            15.00 
+Police Sergeant
+             23.00 
+             23.00             25.00 
+             -           25.00 
+            -            25.00 
+Police Training Coordinator
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Police Captain
+               3.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+Administrative Analyst I
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Administrative Secretary
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Communications Manager
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Communications Supervisor
+               3.00 
+               3.00               4.00 
+             -             4.00 
+            -              4.00 
+Community Services Officer
+                   -   
+                   -                 7.00 
+             -             7.00 
+            -              7.00 
+Community Services Officer I
+               6.00 
+               6.75 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Officer II
+               3.00 
+               4.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Officer III (Level I)
+             13.00 
+             13.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Officer III (Level II)-A
+                   -                  0.75 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Officer III (Level II)-B
+               6.00 
+               6.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Officer IV
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Supervisor
+               1.00 
+               2.75               1.00 
+             -             1.00 
+            -              1.00 
+Crime Analyst
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Crime Prevention Specialist
+                   -   
+                   -                 4.00 
+             -             4.00 
+            -              4.00 
+Dispatcher I
+                   -   
+                   -                 4.00 
+             -             4.00 
+            -              4.00 
+Dispatcher II
+             23.00 
+             27.00             23.00         (2.00)
+        21.00 
+            -            21.00 
+PUBLIC SAFETY
+178
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Evidence Property Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Evidence/Property Tech. I
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Evidence/Property Tech. II
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Field Evidence Technician
+                   -   
+                   -               17.00         (2.00)
+        15.00 
+            -            15.00 
+Investigative Assistant
+                   -   
+                   -                 3.00 
+             -             3.00 
+            -              3.00 
+Management Analyst
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Office Specialist I
+               1.00 
+               0.75               1.00 
+          1.00 
+            -              1.00 
+Office Specialist II
+               2.00 
+               3.00               2.00 
+             -             2.00 
+            -              2.00 
+Program Specialist
+                   -                  0.75               2.00 
+             -             2.00 
+            -              2.00 
+Public Information Officer (Police)
+               1.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Public Safety Communications Manager
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Public Safety Comm./Record Mgr.
+               1.50 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Records Manager
+                   -                  1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Crime Analyst
+                   -                  0.75               1.00 
+             -             1.00 
+            -              1.00 
+Senior Evidence/Property Tech.
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Field Evidence Technician
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Senior Management Analyst
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Senior Office Specialist
+               7.00 
+               7.00               7.00 
+             -             7.00 
+            -              7.00 
+Senior Police Records Tech.
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+SUBTOTAL
+           286.50 
+           298.25           323.00         (4.00)
+      319.00 
+            -          319.00 
+FIRE
+Fire Chief
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Fire Battalion Chief
+               5.00 
+               7.00               9.00         (1.00)
+          8.00 
+            -              8.00 
+Fire Captain
+             25.00 
+             27.00             27.00 
+             -           27.00 
+            -            27.00 
+Fire Engineer 
+             21.00 
+             24.00             24.00 
+             -           24.00 
+            -            24.00 
+Fire Safety Specialist
+               3.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+Firefighter Recruits
+             20.00 
+             10.00             10.00 
+             -           10.00 
+            -            10.00 
+Firefighter/Paramedic
+             48.00 
+             48.00             48.00 
+             -           48.00 
+            -            48.00 
+Accounting Specialist I
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Analyst I
+               1.00 
+               1.00               1.00         (1.00)
+              -   
+            -                  - 
+Administrative Secretary
+                   -                  1.00               1.00 
+             -             1.00 
+            -              1.00 
+Assistant Fire Chief
+               2.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Assistant Training Officer
+               2.00 
+               2.00               2.00         (1.00)
+          1.00 
+            -              1.00 
+Courier
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Dispatcher II
+               4.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+179
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Emergency Medical Tech.
+             12.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Office Specialist I
+               1.00 
+               1.00               1.00         (1.00)
+              -   
+            -                  - 
+Office Specialist II
+                   -   
+                   -                     -             1.00 
+          1.00 
+            -              1.00 
+Public Safety Comm./Records Manager
+               0.50 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Senior Management Analyst
+                   -   
+                   -                     -             1.00 
+          1.00 
+            -              1.00 
+Senior Office Specialist
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+SUBTOTAL
+           149.50 
+           129.00           131.00         (2.00)
+      129.00 
+            -          129.00 
+PUBLIC WORKS
+Public Works Director
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Public Works Division Mgr.
+               2.00 
+               2.00               2.00         (0.40)
+          1.60 
+            -              1.60 
+City Manager 
+               0.10 
+               0.10               0.10 
+             -             0.10 
+            -              0.10 
+City Traffic Engineer
+               1.00 
+               1.00               1.00 
+          1.00 
+           1.00 
+Deputy Director Public Works
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Deputy Director Public Works-City Engineer
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Deputy Director Public Works-Trans. Eng.
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Accounting Technician
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Analyst I
+               2.00 
+               2.00               1.00 
+          1.00 
+            -              1.00 
+Administrative Analyst II
+                   -                  1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Administrative Secretary
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Assistant Engineer
+               4.00 
+               3.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Associate Engineer
+               4.00 
+               5.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Automotive Technician I
+               3.00 
+               2.00               1.00 
+             -             1.00 
+            -              1.00 
+Automotive Technician II
+                   -                  2.00               2.00 
+             -             2.00 
+            -              2.00 
+Automotive Technician III
+                   -                  2.00               4.00 
+          4.00 
+            -              4.00 
+CIP Manager I
+                   -   
+                   -                 1.00 
+          1.00 
+            -              1.00 
+Clean Water Coordinator
+               0.25 
+               0.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Code Enforcement Officer II
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Custodian
+               9.00 
+               9.00               8.00 
+             -             8.00 
+            -              8.00 
+Electrician
+               4.00 
+               4.00               4.00         (0.30)
+          3.70 
+            -              3.70 
+Electrician/Traffic Maintenance  Supervisor
+               1.00 
+               1.00               0.75 
+             -             0.75 
+            -              0.75 
+Electronic Specialist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Engineering Assistant I*
+               3.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Engineering Assistant II
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Engineering Staff Assistant
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Environmental Specialist  I
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+180
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Fleet Manager
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Fleet Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Garage Service Worker
+               1.00 
+               1.00               2.00 
+             -             2.00 
+            -              2.00 
+Lead Automotive Technician
+                   -                  1.00               1.00 
+             -             1.00 
+            -              1.00 
+Lead Custodian
+               1.00 
+               1.00               2.00 
+             -             2.00 
+            -              2.00 
+Lead Mechanic
+               1.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Lead Public Works Inspector
+               2.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Maintenance Specialist
+             12.00 
+             12.00             14.00 
+             -           14.00 
+            -            14.00 
+Maintenance Supervisor
+               3.00 
+               4.00               3.00 
+             -             3.00 
+            -              3.00 
+Maintenance Worker I
+             10.00 
+               2.00               5.00 
+             -             5.00 
+            -              5.00 
+Maintenance Worker II
+             23.00 
+             31.00             27.00 
+             -           27.00 
+            -            27.00 
+Maintenance Worker III
+             11.00 
+             11.00             13.00 
+             -           13.00 
+            -            13.00 
+Management Analyst
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Mechanic I
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Mechanic II
+               6.00 
+               3.00               2.00 
+             -             2.00 
+            -              2.00 
+Office Specialist I
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Office Specialist II
+               4.00 
+               4.00               2.50 
+             -             2.50 
+            -              2.50 
+Ordinance Enforce. Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Parking Enforcement Coordinator
+               1.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Parking Enforcement Officer I
+               6.00 
+               5.00               9.00 
+             -             9.00 
+            -              9.00 
+Parking Enforcement Officer II
+               3.00 
+               4.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Principal Engineering Staff Asst.
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Program Specialist
+               2.00 
+               2.00               1.00 
+             -             1.00 
+            -              1.00 
+Property Agent
+               0.73 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Public Works Inspector
+             11.00 
+             11.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Purchasing Technician
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Real Property Manager
+                   -                  1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Civil Engineer
+               4.00 
+               4.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Engineering Assist.
+               2.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Mgmt. Analyst
+               2.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Office Specialist
+               3.67 
+               4.00               2.00 
+             -             2.00 
+            -              2.00 
+Senior Parking Enforce. Officer
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Property Agent
+               2.00 
+               2.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Transportation Engineer
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Supervising Property Agent
+               1.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Transportation Operations Sup.
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+181
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Transportation Planner
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+SUBTOTAL
+           166.75 
+           165.35           119.35         (0.70)
+      118.65 
+            -          118.65 
+Development Services Director
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Community Development Director
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Planning Director
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Building Director
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+City Manager
+                   -   
+                   -                     -             0.10 
+          0.10 
+            -              0.10 
+Deputy City Manager
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Chief Building Official
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+City Development Engineer
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+City Engineer
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Economic Development Division Manager
+                   -   
+                   -                     -             0.10 
+          0.10 
+            -              0.10 
+Accounting Technician
+                   -   
+                   -   
+1.00
+              
+             -   
+1.00
+           
+            -   
+1.00
+            
+Administrative Analyst II
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Administrative Secretary
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Assistant Engineer
+                   -   
+                   -                 3.00         (1.00)
+          2.00 
+            -              2.00 
+Associate Engineer
+                   -   
+                   -                 5.00 
+             -             5.00 
+            -              5.00 
+Associate Planner
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Building Inspections Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Building Inspector  I
+               1.00 
+               1.00               2.00         (1.00)
+          1.00 
+           1.00 
+Building Inspector  II
+               6.00 
+               6.00               7.00 
+             -             7.00 
+            -              7.00 
+Building Inspector  III
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+CIP Manager I
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+City Planner
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+City Traffic Engineer
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Clean Water Coordinator
+                   -   
+                   -                 0.25 
+             -             0.25 
+            -              0.25 
+Electrician
+                   -   
+                   -                     -             0.30 
+          0.30 
+            -              0.30 
+Electrician/Traffic Maint Supv
+                   -   
+                   -                 0.25 
+             -             0.25 
+            -              0.25 
+Engineering Assistant I
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Engineering Assistant II
+               1.00 
+               1.00               2.00         (1.00)
+          1.00 
+           1.00 
+Fire Plans Examiner
+                   -                  1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Lead Public Works Inspector
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+COMMUNITY DEVELOPMENT
+DEVELOPMENT SERVICES
+182
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Office Specialist I
+               1.00 
+                   -                 2.00         (1.00)
+          1.00 
+            -              1.00 
+Office Specialist II
+               3.00 
+               4.00               6.50         (1.00)
+          5.50 
+            -              5.50 
+Permit Processing Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Planner I
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Planner II
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Principal Engineering Staff Assistant
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Principal Planner
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Program Specialist
+               1.00 
+               1.00               3.00         (1.00)
+          2.00 
+            -              2.00 
+Public Works Inspector
+                   -   
+                   -                 9.00         (2.00)
+          7.00 
+            -              7.00 
+Public Works Division Manager
+                   -   
+                   -                     -             0.20 
+          0.20 
+            -              0.20 
+Senior Building Inspector
+               3.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+Senior Civil Engineer
+                   -   
+                   -                 3.00 
+             -             3.00 
+            -              3.00 
+Senior Engineering Asst
+                   -   
+                   -                 2.00 
+             -             2.00 
+            -              2.00 
+Senior Management Analyst
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Senior Office Specialist
+               2.00 
+               2.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Planner
+               3.00 
+               3.00               1.00 
+             -             1.00 
+            -              1.00 
+Transportation Operations Supv
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Transporation Planner
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+SUBTOTAL
+             31.00 
+             32.00             75.00         (7.30)
+        67.70 
+            -            67.70 
+Neighborhood Services Director
+-
+                
+-
+                 
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Accountant
+1.00
+              
+-
+                 
+-
+               
+-
+           
+-
+         
+-
+            
+Accounting Technician
+2.00
+              
+2.00
+               
+2.00
+             
+2.00
+         
+-
+         
+2.00
+          
+Administrative Analyst I
+2.00
+              
+1.00
+               
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Administrative Analyst II
+2.00
+              
+1.00
+               
+2.00
+             
+2.00
+         
+-
+         
+2.00
+          
+Administrative Secretary
+2.00
+              
+2.00
+               
+2.00
+             
+2.00
+         
+-
+         
+2.00
+          
+Aquatics Specialist
+1.00
+              
+1.00
+               
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Aquatics Supervisor
+1.00
+              
+1.00
+               
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Aquatics Technician
+6.00
+              
+6.00
+               
+6.00
+             
+6.00
+         
+-
+         
+6.00
+          
+Code Enforcement Manager
+1.00
+              
+1.00
+               
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Code Enforcement Officer II
+9.00
+              
+9.00
+               
+9.00
+             
+9.00
+         
+-
+         
+9.00
+          
+Code Enforcement Officer III
+-
+                
+-
+                 
+-
+               
+-
+           
+-
+         
+-
+            
+Community Resource Ctr. Assist
+6.00
+              
+6.00
+               
+8.00
+             
+(3.00)
+       
+5.00
+         
+-
+         
+5.00
+          
+COMMUNITY/CULTURAL SERVICES
+NEIGHBORHOOD SERVICES
+183
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Custodian
+3.00
+              
+3.00
+               
+3.00
+             
+3.00
+         
+-
+         
+3.00
+          
+Housing & Neighborhood Services Director
+1.00
+              
+1.00
+               
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Housing Program Manager
+-
+                
+-
+                 
+-
+               
+-
+           
+-
+         
+-
+            
+Housing Specialist
+10.00
+            
+10.00
+            
+10.00
+           
+10.00
+       
+-
+         
+10.00
+        
+Housing Technician
+2.00
+              
+2.00
+               
+2.00
+             
+2.00
+         
+-
+         
+2.00
+          
+Management Analyst
+3.00
+              
+4.00
+               
+4.00
+             
+4.00
+         
+-
+         
+4.00
+          
+Neighborhood Services Division Manager
+-
+                
+-
+                 
+-
+               
+-
+           
+-
+         
+-
+            
+Office Specialist I
+-
+                
+-
+                 
+-
+               
+-
+           
+-
+         
+-
+            
+Office Specialist II
+5.00
+              
+5.00
+               
+5.00
+             
+(1.00)
+       
+4.00
+         
+-
+         
+4.00
+          
+Parks & Recreation Director
+1.00
+              
+1.00
+               
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Recreation Specialist I
+7.00
+              
+7.00
+               
+7.00
+             
+7.00
+         
+-
+         
+7.00
+          
+Recreation Specialist II
+1.00
+              
+2.00
+               
+2.00
+             
+2.00
+         
+-
+         
+2.00
+          
+Recreation Supervisor
+6.00
+              
+6.00
+               
+6.00
+             
+6.00
+         
+-
+         
+6.00
+          
+Senior Housing Specialist
+3.00
+              
+3.00
+               
+3.00
+             
+3.00
+         
+-
+         
+3.00
+          
+Senior Management Analyst
+1.30
+              
+1.00
+               
+-
+               
+-
+           
+-
+         
+-
+            
+Senior Office Specialist
+3.00
+              
+3.00
+               
+3.00
+             
+3.00
+         
+-
+         
+3.00
+          
+Supervising Accountant
+-
+                
+1.00
+               
+1.00
+             
+1.00
+         
+-
+         
+1.00
+          
+Supervising Housing Specialist
+-
+                
+-
+                 
+-
+               
+-
+           
+-
+         
+-
+            
+SUBTOTAL
+             79.30 
+             79.00             82.00         (4.00)
+        78.00 
+            -            78.00 
+Economic Development & Redevelopment 
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Economic Development Division Manager
+                   -   
+                   -                 0.90 
+             -             0.90 
+            -              0.90 
+Redevelopment Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Deputy City Manager
+               0.35 
+               0.35 
+                  -   
+             -   
+              -   
+            -                  - 
+Administrative Secretary
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Associate Planner
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Community Service Officer I
+                   -                  0.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Officer III (Level II)-A
+                   -                  0.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Community Services Supervisor
+                   -                  0.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Development Coordinator
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Development Project Manager
+                   -                  1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Development Specialist
+                   -   
+                   -                 2.00 
+             -             2.00 
+            -              2.00 
+Economic Development Specialist
+               1.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Office Specialist I
+               1.00 
+               1.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Office Specialist II
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+ECONOMIC & COMMUNITY DEVELOPMENT
+184
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Police Officer
+               4.00 
+               4.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Police Records Technician
+                   -                  0.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Program Specialist
+               2.00 
+               1.25               3.00 
+             -             3.00 
+            -              3.00 
+Property Agent
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Public Works Division Manager
+                   -   
+                   -                 0.20 
+             -             0.20 
+            -              0.20 
+Public Works Inspector
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Senior Crime Analyst
+                   -                  0.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Management Analyst
+               1.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Senior Property Agent
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+SUBTOTAL
+             12.35 
+             14.10             14.10 
+             -           14.10 
+            -            14.10 
+LIBRARY 
+Library Director
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Library Division Manager
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Principal Librarian
+               3.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+Accounting Specialist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Secretary
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Computer Operator
+               2.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Librarian I
+               2.00 
+               2.00               1.00 
+             -             1.00 
+            -              1.00 
+Librarian II
+               8.00 
+               8.00               7.00 
+             -             7.00 
+            -              7.00 
+Library Assistant
+               5.00 
+               7.00               7.00 
+             -             7.00 
+            -              7.00 
+Library Clerk II
+               5.00 
+               4.00               3.00         (1.00)
+          2.00 
+            -              2.00 
+Library Technician
+               8.00 
+               7.00               5.00 
+             -             5.00 
+            -              5.00 
+Literacy Coordinator
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Management Analyst
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Program Specialist
+               1.00 
+               1.00               2.00 
+             -             2.00 
+            -              2.00 
+Senior Librarian
+               3.00 
+               3.00               2.00 
+             -             2.00 
+            -              2.00 
+Senior Library Assistant
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Management Analyst
+               0.70 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Office Specialist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Technology Analyst
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+SUBTOTAL
+             43.70 
+             44.00             37.00         (1.00)
+        36.00 
+            -            36.00 
+185
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+ENTERPRISE FUNDS
+WATER UTILITIES
+Water Utilities Director
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Water Utilities Division Manager
+               2.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+City Manager
+               0.20 
+               0.20               0.20 
+             -             0.20 
+            -              0.20 
+Chief Plant Operator
+               4.00 
+               4.00               3.00 
+             -             3.00 
+            -              3.00 
+Administrative Analyst II
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Manager
+               1.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Associate Chemist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Associate Engineer
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Clean Water Coordinator
+               0.75 
+               0.75               0.75 
+             -             0.75 
+            -              0.75 
+Clean Water Program Inspector
+                   -   
+                   -                     -             2.00 
+          2.00 
+            -              2.00 
+Code Enforcement Officer II
+                   -   
+                   -                 2.00 
+             -             2.00 
+            -              2.00 
+Code Enforcement Officer III
+               2.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Cross Connection Control Tech.
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Distribution Operator II
+               4.00 
+               4.00               4.00 
+             -             4.00 
+            -              4.00 
+Distribution Operator III
+                   -   
+                   -                 3.00 
+             -             3.00 
+            -              3.00 
+Electrician
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Engineer Assistant I
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Engineer Assistant II
+                   -                  1.00               1.00 
+             -             1.00 
+            -              1.00 
+Environmental and Regulatory Compliance Officer
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Environmental Specialist 
+               1.00 
+               1.00               2.00 
+             -             2.00 
+            -              2.00 
+Geographic Information System Specialist
+               4.00 
+               4.00               3.00 
+             -             3.00 
+            -              3.00 
+Geographic Information System Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Groundwater Comp. Inspector
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Industrial Waste Inspector
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Instrumentation Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Instrumentation Technician I
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Instrumentation Technician II
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Laboratory Assistant
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Laboratory Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Laboratory Technician
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Maintenance Specialist
+               4.00 
+               4.00               1.00 
+             -             1.00 
+            -              1.00 
+Maintenance Worker I
+               3.00 
+               3.00               5.00 
+             -             5.00 
+            -              5.00 
+Management Analyst
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+186
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+Mechanic II
+                   -   
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Mechanical Technologist I
+               3.00 
+               3.00               4.00 
+             -             4.00 
+            -              4.00 
+Mechanical Technologist II
+               3.00 
+               3.00               2.00 
+             -             2.00 
+            -              2.00 
+Meter Service Worker I
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Meter Service Worker II
+               7.00 
+               7.00               4.00 
+             -             4.00 
+            -              4.00 
+Meter Service Worker III
+               1.00 
+               1.00               5.00 
+             -             5.00 
+            -              5.00 
+Meter Shop Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Microbiologist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Office Specialist II
+               3.00 
+               3.00               2.00 
+             -             2.00 
+            -              2.00 
+Plant Maintenance Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Public Information Officer
+               0.50 
+               0.25 
+                  -   
+             -   
+              -   
+            -                  - 
+Senior Chemist
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Engineering Assistant
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Senior Management Analyst
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Meter Service Worker
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Senior Office Specialist
+               1.00 
+               1.00               2.00 
+             -             2.00 
+            -              2.00 
+Senior Utility Worker
+                   -   
+                   -                 2.00 
+             -             2.00 
+            -              2.00 
+Utility Inspector
+               2.00 
+               2.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Utility Supervisor
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Utility Worker I
+               5.00 
+               5.00               6.00 
+             -             6.00 
+            -              6.00 
+Utility Worker II
+             14.00 
+             14.00             10.00 
+             -           10.00 
+            -            10.00 
+Utility Worker III
+               8.00 
+               8.00               8.00 
+             -             8.00 
+            -              8.00 
+Wastewater Plant Operator I
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Wastewater Plant Operator II
+               4.00 
+               4.00               5.00 
+             -             5.00 
+            -              5.00 
+Wastewater Plant Operator III
+             19.00 
+             19.00             17.00 
+             -           17.00 
+            -            17.00 
+Wastewater Plant Supervisor
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Water Distribution Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Water Plant Operator I
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Water Plant Operator II
+               7.00 
+               7.00               7.00 
+             -             7.00 
+            -              7.00 
+Water Plant Operator III
+               3.00 
+               3.00               3.00 
+             -             3.00 
+            -              3.00 
+Water Treatment Supervisor
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Water/Wastewater Project Manager
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+SUBTOTAL
+           141.45 
+           142.20           140.95           2.00 
+      142.95 
+            -          142.95 
+187
+
+
+Department
+Position
+change 
+change
+AUTHORIZED POSITION SCHEDULE
+ Adopted
+08/09 
+ Adopted
+09-10 
+ Adopted
+05/06 
+ Adopted
+06/07 
+ Adopted
+07/08 
+HARBOR & BEACHES
+Harbor & Beaches Director
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Harbor & Beaches Division Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Harbor Police Corporal
+               3.00 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Harbor Police Officer
+               5.00 
+               8.00               8.00 
+             -             8.00 
+            -              8.00 
+Harbor Police Sergeant
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+City Manager
+               0.10 
+               0.10               0.10 
+             -             0.10 
+            -              0.10 
+Deputy City Manager
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Accounting Technician
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Administrative Secretary
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Aquatics Specialist
+               3.00 
+               3.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Aquatics Supervisor
+               1.00 
+               1.00 
+                  -   
+             -   
+              -   
+            -                  - 
+Aquatics Technician
+               4.00 
+               4.00               1.00 
+             -             1.00 
+            -              1.00 
+Beach Lifeguard - Captain
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Beach Lifeguard - Lieutenant
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Beach Lifeguard - Sergeant
+                   -   
+                   -                 3.00 
+             -             3.00 
+            -              3.00 
+Seasonal Beach Lifeguard
+                   -   
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Customer Account Rep. II
+               2.00 
+               2.00               2.00 
+             -             2.00 
+            -              2.00 
+Electrician
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Maintenance Manager
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Maintenance Specialist
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Maintenance Supervisor
+               1.00 
+               1.00               1.00 
+             -             1.00 
+            -              1.00 
+Maintenance Worker I
+                   -   
+                   -                 1.00 
+             -             1.00 
+            -              1.00 
+Maintenance Worker II
+               8.00 
+               8.00               7.00 
+             -             7.00 
+            -              7.00 
+Maintenance Worker III
+               5.00 
+               5.00               4.00 
+             -             4.00 
+            -              4.00 
+Property Agent
+               0.27 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+Senior Office Specialist
+               0.33 
+                   -                     -   
+             -   
+              -   
+            -                  - 
+SUBTOTAL
+             39.70 
+             39.10             37.10 
+             -           37.10 
+            -            37.10 
+Total City Authorized
+        1,064.00 
+        1,060.00        1,075.00       (16.00)
+   1,059.00 
+            -       1,059.00 
+188
+
+
+ 
+ 
+ 
+BUDGET PROCESS 
+The City’s budget represents the official financial plan by 
+hich City financial and organizational policies 
+and programs are implemented.  This budget, 
+upon adoption by the City Council, allocates 
+resources necessary to provide essential 
+d includes the revenues to fund those services.  
+The City’s budget is prepared by City staff under direction of the City 
+Manager.  The City Manager reviews and considers preliminary budget 
+estimates and proposals submitted by City departments.  The City 
+Manager then formulates these estimates and proposals into the 
+Proposed Budget for submission to the City Council.  The City Manager 
+is supported in this budget formulation process by the Financial Services 
+Department, Department Directors, departmental budget coordinators, 
+and other support staff. 
+ 
+The City of 
+w
+the 
+services an
+Oceanside is on a biennial (two-year) budget cycle.  The 
+s for the budg
+ guidelines to 
+ut, 
+e
+ent prepares the proposed budget document in 
+dget is then adopted by resolution prior to the beginning 
+ement Program Process 
+c Works Director review 
+the list of proposed capital improvement projects and funding sources 
+City’s budget process begins six months prior to the adoption deadline in 
+June with a kick-off meeting in January between the Finance 
+Department, City Manager, Department Directors, and departmental 
+budget coordinators.  The City Manager’s budget goals and directives for 
+development of the coming years’ budget are outlined.  Instructions, 
+decision packages, forms and budget worksheets are distributed to the 
+departments.  (Decision packages include requests for reclassifications, 
+new positions, programs or capital equipment).   
+ 
+n January, preliminary forecasts of revenue
+I
+et years are 
+completed and submitted to the City Manager.  Internal Service Fund 
+rates are developed and distributed to departments.  Public Works and 
+Finance also meet to discuss the inclusion of the CIP, Landscape 
+Maintenance, and Lighting Districts’ budget development to coordinate 
+with the Operating Budget adoption.   
+ 
+The City Manager issues written
+Departments and others who receive funding.  
+Included in these guidelines is direction to staff to 
+ensure that budgets are developed keeping in mind 
+items identified as goals and priorities by the City 
+Council. 
+Throughout 
+the 
+next 
+few 
+months, 
+departments work diligently to create a workable budget plan for the next 
+two years.  Communication with the City Manager and Finance Director 
+is ongoing as everyone works together to create a balanced budget.   
+ 
+After the departments have completed their inp
+Finance budget staff compiles the data and 
+calculates the total amount requested including 
+estimated revenues and projected fund balances.  
+Departmental budget hearings with the City 
+Manager and Finance Director are held.  In 
+determining recommended allocation levels, the 
+City Manager considers the projected amount of 
+available resources, direction provided by the City 
+Council, the City’s fiscal policies, and the most cost-
+method of service delivery to the public.  Subsequently, the City Manager 
+makes his recommendations and communicates this information to the 
+Finance Department.   
+ 
+The Finance Departm
+ffective and efficient 
+April and May.  The City Manager then presents the proposed budget to 
+the City Council.  The City Council, Community Development 
+Commission and the Oceanside Small Craft Harbor District Board review 
+and consider the proposed budget.  Public hearings are also conducted 
+for usage of Community Development Block Grant Funds, Landscape 
+Maintenance and the Capital Improvement Budget in addition to the 
+Operating Budget.  The purpose of the public hearings is to provide the 
+City Council and public with an overview of the budget proposals, receive 
+public comment and give final consideration to the annual operating and 
+capital budgets.   
+ 
+The approved bu
+of the fiscal year.  The final Budget document is printed and made 
+available to the public.   
+ 
+The Capital Improv
+ 
+The City Manager, Finance Director and Publi
+189
+
+
+ 
+ 
+ 
+BUDGET PROCESS 
+during the review of the operating budgets.  The final Capital 
+Improvement Program, produced as a separate document, is presented 
+by the City Manager during the budget workshops in May.  The City 
+Council adopts a resolution approving the fiscal year Capital 
+Improvement Program, along with the operating budgets in June. 
+ 
+Level of Control and Changes to Adopted Budget 
+ 
+Budgetary control, the level at w
+cannot legally exceed the approp
+hich expenditures 
+riated amount, is 
+ fund 
+The City Manage
+line items within 
+s (with the exception of additional capital outlay expenditures 
+ss unit which was not included in the 
+ 
+ 
+ 
+udgeta
+side does not distinguish between 
+ntal charges are cost allocations for 
+exercised at the fund level.  Administrative policies 
+provide guidelines on budget transfers and the 
+authorization necessary to implement transfers.  
+Generally, there are two types of budget transfers: 
+ 
+Budget Adjustment:  This is a transfer which does 
+not change the total appropriated amount within a
+and does not require Council action.  Approval is 
+granted at the City Manager level. 
+r has discretion to reapportion funds between certain 
+a business unit but may not exceed total appropriated 
+amounts for each fund or business unit.  Additional expenditures for 
+capital outlay items (in excess of $10,000, or in the case of Public Works 
+projects per policy 300-01, changes in excess of 10% of the initial 
+contract amount or $25,000 whichever is less) must be approved by the 
+City Manager and City Council.  Funds appropriated for salaries and 
+benefits may not be expended for any other purpose without approval by 
+the City Council. 
+ 
+The City Manager may transfer funds within and between programs and 
+epartment
+d
+which require Council approval.) 
+ 
+Budget Amendment:  This is an adjustment to the total appropriated 
+mount within a fund or busine
+a
+original budget.  These supplemental appropriations are presented to 
+City Council in an agenda report and require the passage by a simple 
+majority of the City Council for approval.  Types of modifications can be 
+categorized as follows: 
+ 
+• 
+Unanticipated r
+ evenue which was not projected in the budget 
+may be appropriated by Council for expenditure in the year 
+received. 
+Prior year re
+• 
+serves or fund balances may be appropriated to 
+fund items not previously included in the adopted budget.  
+Reserves/fund balances exceeding minimum amounts required 
+by administrative policies may be appropriated if it is determined 
+to be in the best interest of the City.  Council may also 
+appropriate reserves in case of emergencies or unusual 
+circumstances. 
+Transfers betwee
+• 
+n funds require a motion and agreement by 
+majority of the City Council. 
+ry Basis:  The City of Ocean
+B
+Basis of Budgeting and Basis of Accounting.  The principles set forth as 
+the Basis of Accounting are strictly observed in the budgeting process.  A 
+fund’s Basis of Budgeting and Basis of Accounting determines when a 
+transaction or event is recognized within a fund’s operating statement.  
+All City of Oceanside funds are maintained on a Modified Accrual basis.  
+Revenues are recognized when measurable and available to be used to 
+pay liabilities of the current period.  Expenditures are recognized when 
+the liability is incurred. Only revenues and expenditures anticipated 
+during the fiscal year are included in the budget.  Unexpended operating 
+budget funds revert to fund balance at the close of a fiscal year.  
+Unexpended capital reserve funds are carried forward from year to year 
+until projects are officially closed. 
+ 
+Cost Allocation:  Interdepartme
+goods and services provided by one City department to another City 
+department on a cost reimbursement basis.  A fair and equitable 
+methodology is determined for identifying and distributing direct and 
+indirect cost from a service provider to the service consumer.  In the 
+City’s case, the General Fund is the service provider, and the external 
+190
+
+
+ 
+ 
+ 
+BUDGET PROCESS 
+funds are the service consumer for costs such as city administration, 
+financial 
+services, 
+human 
+resources, 
+legal 
+services, 
+facilities 
+maintenance, etc.  In addition, Internal Service Funds receive revenues 
+from other City departments for charges such as insurance, postage, 
+duplicating, central services, data processing, communications, fleet 
+rental, etc.  Charges are established biennially and are based generally 
+upon actual use of the goods or services.  Replacement charges to 
+Information Services and the Fleet Replacement Reserve are based 
+upon the anticipated cost of replacement.  Replacement charges are 
+allocated annually over the life of the vehicle or equipment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+191
+
+
+ 
+ 
+ 
+2008 BUDGET CALENDAR 
+January 
+ 
+14 - Budget Kick-Off - Rules and process review for operating and CIP 
+budgets, distribute budget calendar, manual and forms including internal 
+service charges. 
+ 
+February 
+ 
+4 - Budgets due from departments including expenditure & revenue line 
+item budget, verification of approved positions and personnel, 
+department program narratives, new capital outlay requests, new 
+position and reclassification requests. Finance submits copies of 
+department budgets to City Manager. 
+7 - Return budgets to departments with list of questions. 
+18 - All department final changes due, including expenditures, revenues, 
+personnel, and written answers to Financial Services Department 
+questions. CIP project list due to Finance including funding source and 
+project amounts.  Finance submits copy of CIP budget to City Manager. 
+ 
+March 
+ 
+12 - Public Hearing on CDBG allocations - public comment period only. 
+18 - Public Hearing on CDBG (continued) at workshop with approval of 
+allocations and FY 2008-09 CDBG budget. 
+25 - Finance submits preliminary budgets to City Manager and 
+departments for review. 
+24-27 - City Manager review of budget recommendations and CIP 
+projects with  Finance and individual Departments. 
+ 
+April 
+14 - Submit paperwork for public hearing budget workshop to City 
+Clerk’s office (15 days) through May 6th 
+28 - Preliminary budgets and CIP books compiled, copied and 
+distributed to Council.   
+ 
+May 
+ 
+7 - Public Hearing and approval for CDBG 2008-09 Action Plan by City 
+Council 
+6 - City Council Workshops for Operating Budget and CIP Budget   
+12 - Submit paperwork for public hearing budget adoption to City Clerk’s 
+office (15 days) through June 4th 
+ 
+June 
+ 
+11 - Conduct Public Hearing and Adopt Operating, CIP and LMAD 
+Budget 
+ 
+September 
+ 
+12 - Distribute Adopted Budget to City Manager/City Council, City Clerk, 
+Department Directors, Budget Coordinators, City Libraries and the 
+public.  Post Adopted Budget online at www.ci.oceanside.ca.us.  Debrief 
+meeting to discuss budget process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+192
+
+
+ 
+ 
+ 
+RESOLUTIONS 
+Resolutions for CDC operating budget (Resolution No. 08-R0365-3)  
+and Harbor District operating budget (Resolution No. 08-R0367-2) are  
+available online at www.ci.oceanside.ca.us 
+193
+
+
+ 
+ 
+ 
+RESOLUTIONS 
+194
+
+
+ 
+ 
+ 
+RESOLUTIONS 
+195
+
+
+ 
+ 
+ 
+RESOLUTIONS 
+ 
+196
+
+
+ 
+ 
+ 
+GANN APPROPRIATIONS LIMIT 
+Article XIII of the California State Constitution, more commonly referred 
+to as the Gann Initiative or Gann Limit, was adopted by California voters 
+in 1979 and placed limits on the amount of proceeds of taxes that state 
+and local governmental agencies can receive and appropriate (authorize 
+to spend) each year.  
+ 
+The limit is different for each agency and the limit changes each year.  
+Each year’s limit is based on the amount of tax proceeds that were 
+authorized to be spent in fiscal year 1978-79 in each agency, modified by 
+changes in inflation and population in each subsequent year.   
+ 
+Inflationary adjustments are, by law based on increases in the March-to-
+March U.S., or California, All Urban Consumer Price Index.  The State 
+Department of Finance provides the City with the required annual 
+population change factor to be used for the appropriations limit 
+calculations.   
+ 
+For Fiscal Year 2008-2010, the City’s estimated tax proceeds to be 
+received, as well as tax proceeds appropriated by the City Council, will 
+be under the legal limit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+197
+
+
+ 
+ 
+ 
+GANN APPROPRIATIONS LIMIT 
+ 
+ 
+198
+
+
+ 
+ 
+ 
+SAMPLE PROPERTY TAX BILL 
+ 
+ 
+ 
+Where Does My Property Tax Go? 
+ 
+In accordance with State law, property is assessed at actual full cash 
+value, and the maximum property tax is one percent of the assessed 
+value.  The sample tax bill shows the value of this property is $252,993 
+(*net taxable value).  Therefore the property tax is $2,529.93 (** 1% tax 
+on net value). 
+    
+     12345 ANYWHERE STREET 
+     LOT 2509 
+     OCEANSIDE #100 
+    JOAN Q. PUBLIC 
+     12345 ANYWHERE STREET 
+     OCEANSIDE, CA 92054 
+ 
+The City of Oceanside receives $0.196 of every property tax dollar 
+collected.  In this example, the City would receive $496.88.  The 
+remaining property taxes are allocated to the Oceanside Unified School 
+District, State of California (Educational Revenue Augmentation Fund), 
+County of San Diego, Mira Costa Community College, and numerous 
+other smaller agencies. 
+ 
+The chart below identifies the breakdown of property tax allocations. 
+ 
+ 
+38.3%
+19.6%
+15.4%
+13.8%
+8.2%
+4.7%
+Oceanside Unified
+School District
+City of Oceanside
+State of California
+(ERAF)
+County of San Diego
+Mira Costa Community
+College
+ 
+    JOAN Q. PUBLIC 
+     12345 ANYWHERE STREET 
+     OCEANSIDE, CA 92054 
+ 
+ 
+ 
+ 
+ 
+199
+
+
+ 
+ 
+ 
+GENERAL FUND REVENUE SOURCES 
+ 
+The revenues for the City of Oceanside come from a wide variety of 
+sources, many of which are restricted in their use.   Revenues that are of 
+a “general” nature, i.e. those that can be used for the general operations 
+of the City, are maintained in the General Fund.   
+ 
+GENERAL FUND REVENUES 
+ 
+General Fund revenues are of particular interest as they fund basic City 
+services.  Table 1 summarizes the major General Fund revenues for the 
+next two years along with percentage changes from the prior fiscal year. 
+ 
+General 
+Fund 
+Revenues 
+(in 
+millions) 
+ 
+Budget 
+FY 07/08 
+ 
+Adopted 
+FY 08/09 
+ 
+% 
+Chg 
+ 
+Adopted 
+FY 09/10 
+ 
+% 
+Chg 
+Taxes 
+$78.497 
+$83.154 
+5.93%
+$86.854
+4.45%
+Service 
+Charges 
+$25.656 
+$23.248 
+-9.39%
+$24.209
+4.13%
+Intergov’t. 
+$1.675 
+$2.119 
+26.51%
+$2.351
+10.95%
+Other:  
+Fines, 
+Interest, 
+Rentals, 
+Transfers 
+ 
+$10.645 
+ 
+$12.004 
+ 
+12.77%
+ 
+$11.958
+ 
+-0.38%
+Grand 
+Total 
+$116.473 
+$120.525 
+3.48%
+$125.372
+4.02%
+Table 1 
+ 
+Taxes constitute 69% of General Fund revenues, and are proposed to 
+increase approximately 6% in FY 08/09 plus another  
+4% in FY 09/10.  Table 2 and Chart 1 reflect the taxes component of the 
+General Fund revenues. 
+ 
+ 
+ 
+ 
+ 
+Tax Breakdown 
+FY 08/09 
+FY 09/10 
+Property Tax 
+$50,867,500
+$53,648,600
+Sales & Use Tax 
+$20,061,700
+$20,061,700
+Transient Occupancy Tax 
+$3,319,400
+$3,853,500
+Franchise Tax 
+$4,045,300
+$4,149,600
+Card Room Tax 
+$1,525,300
+$1,745,300
+Business License Tax 
+$2,729,100
+$2,783,700
+Property Transfer Tax 
+$606,000
+$612,100
+Grand Total 
+$83,154,300
+$86,854,500
+Table 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chart 1 
+ 
+ 
+ 
+ 
+Tax Breakdown
+0.5%
+2.2%
+1.3%
+3.4%
+2.8%
+42.2%
+16.7%
+Property Tax
+Sales Tax
+Transient Occupancy Tax
+Franchise Tax
+Card Room Tax
+Business License Tax
+Property Transfer Tax
+200
+
+
+ 
+ 
+ 
+GENERAL FUND REVENUE SOURCES 
+Property Taxes – are the City’s largest revenue source representing 
+42.2 percent of the total General Fu
+ revenue.  They are derived from a 
+ortion of the one-percent property tax collected by the County of San 
+iego and allocated to the various governmental entities within the 
+ounty.   Oceanside’s General Fund receives approximately $19.64 for 
+very $100 collected.  In accordance with State law, property is 
+ssessed at actual full cash value and the maximum tax is one percent 
+f the assessed valuation.  Proposition 13, passed by California voters in 
+979, specified that an assessed value may increase at the rate of the 
+onsumer Price Index, not to exceed two percent per year based on the 
+979 value, unless the property is improved or sold to establish a new 
+arket value.  In March 2004, California voters approved Proposition 57, 
+he California Economic Recovery Bond Act, which allowed the state to 
+urchase bonds to reduce the state budget deficit.  The legislature 
+nacted provisions that changed how revenues were distributed to 
+schools and local governments. 
+sequently, effective July 1, 2004, 
+the Motor Vehicle License Fee 
+as eliminated by the State and 
+replaced dollar-for-dollar with pro
+ tax, resulting in a property tax 
+revenue increase to Oceanside of approximately $7.5 million.  The 
+property tax in-lieu of motor vehicle license fee” has risen annually and 
+ill continue to increase at the rate of growth in assessed valuation.  The 
+nd
+p
+D
+c
+e
+a
+o
+1
+C
+1
+m
+t
+p
+e
+ Con
+backfill w
+perty
+“
+w
+overall property tax revenue will increase approximately 9.6 percent from 
+last year’s budget, which is attributed to the assessed valuation increase 
+in commercial and industrial properties along with the two-percent CPI 
+growth.  FY 09/10 increase will slow down to approximately 5.0 percent 
+growth.  These projections were prepared with assistance from our 
+property tax consultants who monitor all of Oceanside’s assessed 
+valuations.  Chart 2 portrays the use categories from which property 
+taxes are derived.  While residential is the largest component, this 
+category is experiencing modest growth.  The increase in the commercial 
+and industrial categories is contributing to increasing the overall size of 
+the “revenue pie” via additional assessed valuations. 
+ 
+Property Tax Use Category
+7%
+6%
+4%
+2%
+1%
+80%
+Residential
+Commercial
+Industrial
+Vacant
+Unsecured
+Other
+Chart 2 
+ 
+Sales & Use Taxes – are the City’s second largest revenue source 
+representing 16.7 percent of the total General Fund revenue.  The State 
+Board of Equalization collects sales tax receipts from the sale of tangible 
+personal property.  The sales tax rate in Oceanside is 7.75 percent.  In 
+compliance with the Bradley-Burns Sales and Use Tax law, Oceanside 
+receives one percent of the total based on sales within its jurisdiction, 
+although as a result of Proposition 57, one-quarter percent was diverted 
+to the State with an equivalent amount remitted to the City in the form of 
+a property tax reimbursement (this transaction is commonly known as 
+the “Triple Flip”).  Once the State’s Economic Recovery Bonds are paid 
+off, the City will no longer receive the property tax reimbursement, but 
+will regain the one-quarter-cent sales tax that was diverted to the State.  
+(This shift is different from the “property tax in-lieu of motor vehicle 
+license fee” which is a permanent shift of revenues.)  Another component 
+of the sales tax revenues recei
+he City is the safety sales tax, 
+ved by t
+201
+
+
+ 
+ 
+ 
+GENERAL FUND REVENUE SOURCES 
+also known as Proposition 172 Public Safety Augmentation Fund, which 
+was approved by California voters in 1993.  While taxpayers saw no net 
+increase in their sales tax burden from this proposition, it resulted in 
+additional revenues for the City of Oceanside for use solely for public 
+safety purposes.  Of the remaining 6.75 percent collected by SBOE, one-
+quarter percent is allocated to the San Diego County Transportation 
+District, and one-half percent is allocated to the San Diego Improvement 
+Program (TransNet) which was approved by San Diego County voters in 
+1987 and renewed in 2008 for an additional 40-year term.  The 
+remaining six percent is retained by the State.  Chart 3 depicts the 
+breakdown of every sales tax dollar in Oceanside. 
+ 
+Future budget projections are taking a conservative, “flat” approach 
+based on the economy.  General consumer goods, fuel, and food are the 
+categories that are experiencing modest growth, but they are offset by 
+declines in the building/construction and auto/transportation categories.  
+Overall the City is projecting a one percent decrease in sales tax 
+revenues for FY 08/09 and no adjustment for FY 09/10.  Chart 4 
+identifies the sales categories. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales Tax Revenue Categories
+13%
+14%
+12%
+9%
+12%
+9%
+31%
+Consumer
+Goods
+Restaurants
+Building
+Fuel
+Auto
+Food/Drugs
+Other
+ 
+Ch
+t 4 
+ 
+Transient Occupancy Taxes – is
+wn as the Hotel Bed Tax or by the 
+acronym “TOT”.  The City of Ocean
+e imposes a ten percent tax on the 
+rent of all transient lodging faciliti s in the City.  TOT revenues are 
+expected to increase approximat
+ercent due to the additional new 
+hotels that have opened since
+ In addition, the City is taking a 
+proactive stance in auditing hotels for tax compliance as well as ensuring 
+all hotels have a Transient Occupancy Registration Certificate.    
+ 
+Card Room Taxes – the City Council has recently adopted an ordinance 
+to increase the card room tax an additional one percent for a total tax of 
+five percent on gross revenues for the Ocean’s 11 card room.  Based on 
+this business’ historical trend, coupled with the addition of new card 
+tables, the City is projecting an additional $500,000 in revenues.   
+ 
+ar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chart 3 
+$0.770
+$0.130
+$0.035
+$0.065
+$0.00
+$0.10
+$0.20
+$0.30
+$0.40
+$0.50
+$0.60
+$0.70
+$0.80
+ kno
+sid
+e
+ely 4 p
+ last year. 
+3
+Breakdown of Sales Tax Dollar
+State of California
+City of Oceanside
+San Diego County
+Transportation
+District
+San Diego
+Improvement
+Program
+202
+
+
+ 
+ 
+ 
+GENERAL FUND REVENUE SOURCES 
+Franchise Taxes – are a form of “rent” for use of public streets and 
+roadways.  The City of Oceanside collects franchise taxes from 
+businesses that have a franchise to operate in Oceanside, including:  
+San Diego Gas & Electric, Southern California Gas Company, Cox 
+Communications, and Kinder Morgan.  Each company is assessed 
+between two and five percent of gross receipts.  These taxes will remain 
+flat, an indicator that utility usage is declining due to the high costs to 
+residences and businesses.  
+ 
+Licenses & Permits – the largest component of this revenue category is 
+building permits, which is projected at 30% less than the previous fiscal 
+year.  It is difficult to estimate development activity, but based on the 
+current economy it is certain that it will remain low.  New residential 
+construction has decreased 50% in both permit activity and valuation 
+(which the permit is calculated upon).  This amount is only 
+by increases in residential remodels/additions and n
+construction.  This trend is expected to continue within the 
+sector for the next few years as home-builders remain cautio
+ 
+Fines & Forfeitures – the majority of fines is 
+categorized as “impound fees” but actually 
+consists of several motor vehicle and traffic 
+fines.  Parking citations fall in this category and 
+these fines were increased in Ju
+esulting 
+n more revenue to the
+e fewer 
+lent to 0.65 percent (formerly 2 percent) of 
+ 
+allo
+ 
+a
+ 
+ 
+average of 4.08% compared to the Local Agency Investment Fund 
+(LAIF) rate of 2.89%.  Rental and leases collected on city-owned 
+property comprise the second largest portion of this revenue category 
+and is expected to increase approximately $300,000.  The City has 
+rental/lease agreements with two golf courses, business tenants, and 
+telecomm towers. 
+ 
+Intergovernmental – the Motor Vehicle in Lieu (also known as VLF) is a 
+pecial license fee equiva
+slightly offset 
+ew industrial 
+residential 
+us. 
+ly 2007 r
+ City.  Whil
+i
+citations 
+were 
+issued 
+due 
+to 
+increased 
+compliance by the populace, these revenues are 
+projected to increase an additional $350,000 
+based on trending and the higher fine.  Red light camera fines are also in 
+this category and are projected to increase due to the addition of red light 
+cameras at new locations.  Citations for traffic violations are also 
+projected to grow by $400,000 due to trending and continued 
+nforcement. 
+e
+ 
+Use of Money & Property – investment earnings constitute the largest 
+portion of this revenue category, and are expected to increase $830,000 
+from the previous fiscal year.  Interest is earned on idle cash balances in 
+the general fund, and as of June 2008 the City’s portfolio is earning an 
+s
+motor vehicles and is collected annually by the State.  Of this 
+assessment, 81.25 percent is divided equally between cities and 
+counties and is apportioned on the basis of population.  The remaining 
+18.75 percent of this fee is distributed to certain cities that lost limited 
+taxing authority when it was abolished by the State in 1978.  Based on 
+current state legislation, the former 2% of the market 
+value has been statutorily reduced to 0.65 percent.  The 
+“gap” between the 2% and 0.65% is ‘backfilled’ by 
+additional property taxes and recorded in that revenue 
+ategory.  Oceanside is projecting an increase of 
+c
+$260,000 in these revenues. 
+ 
+Charges for Services – includes general admin
+reimbursement for services.  Based on a cost 
+general fund recovers 10% of general administr
+City’s enterprise and other funds.  The cost allocat
+years old and will be revisited in the upcoming fisc
+for this revenue have increased less than 3%.  
+services is a cost recovery of utility billing services
+and is based on actual costs to provide the service. 
+ 
+ 
+ 
+ 
+istrative charges and
+cation analysis, the
+tive charges from the
+ion analysis is several 
+al year.  Projections
+Reimbursement for 
+ from enterprise funds 
+ 
+ 
+ 
+ 
+203
+
+
+ 
+ 
+ 
+GENERAL FUND REVENUES TREND ANALYSIS 
+ 
+Fiscal Year 
+00/01
+01/02
+02/03
+03/04
+04/05
+05/06 
+06/07
+07/08
+08/09 *
+09/10 *
+Net operating 
+revenues (rounded 
+to nearest 
+thousand) 
+70,932
+74,274
+78,211
+81,074
+89,670
+ 
+ 
+92,724 
+109,019
+115,072
+120,526
+125,373
+Consumer price 
+index (base year 
+1982-84**) 
+185.8
+190.1
+195.7
+203.8
+211.4
+ 
+ 
+218.3 
+226.7
+231.9
+242.4
+242.4
+Net operating 
+revenues in 
+constant dollars 
+(rounded to 
+nearest thousand) 
+38,177
+39,071
+39,965
+39,781
+42,417
+ 
+ 
+ 
+42,475 
+48,090
+49,621
+49,722
+51,722
+Population 
+164,311
+167,342
+170,455
+173,008
+174,597
+175,045 
+176,755
+178,806
+182,795
+186,785
+Net operating 
+revenues per 
+capita in constant 
+dollars 
+232.35
+233.48
+234.46
+229.94
+242.94
+ 
+ 
+242.65 
+272.07
+277.51
+272.01
+276.91
+ 
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+00/01
+01/02
+02/03
+03/04
+04/05
+05/06
+06/07
+07/08
+08/09
+09/10
+General Fund Revenues Per Capita
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description:  Examining per capital revenues shows changes in 
+revenues relative to changes in population size and rate of inflation.  As 
+population increases, it is expected that revenues and the need for 
+services would increase proportionately and therefore that the level of 
+per capita revenues would remain at least constant in real terms.  This 
+reasoning assumes that the cost of services is directly related to 
+population size.  
+ 
+Analysis:  Revenues for the City’s general fund has averaged $236/per 
+capita between FY 00/01 and FY 05/06.  FY 06/07 saw an increase to 
+$272/per capita due to significant increases in franchise fees due to 
+increase in energy rates and the customer base, as well as large 
+increases in property tax revenues due to increased property values.  
+For the next two years, the revenue per capita will decline which is a 
+reflection of the depressed economy. 
+ 
+Warning Trend:  Decreasing net operating revenues per capita 
+(constant dollars) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Formula:  Net operating revenues in constant dollars divided by 
+population 
+ 
+*   FY 2008/2009 and FY 2009/2010 population estimates per SANDAG 
+**  Consumer Price Index for All Urban Consumers (CPI-U), semi-annual average for San Diego, CA; US Department of Labor 
+ 
+ 
+204
+
+
+ 
+ 
+ 
+GENERAL FUND EXPENDITURES TREND ANALYSIS 
+ 
+Fiscal Year 
+00/01
+01/02
+02/03
+03/04
+04/05
+05/06 
+06/07
+07/08
+08/09 *
+09/10 *
+ 
+Net operating 
+expenditures 
+(rounded to nearest 
+thousand) 
+70,752
+71,038
+78,211
+81,074
+89,229
+ 
+ 
+94,173 
+108,918
+114,948
+120,378
+125,328
+ 
+ 
+ 
+Consumer price 
+index (base year 
+1982-84**) 
+185.8
+190.1
+195.7
+203.8
+211.4
+ 
+ 
+218.3 
+226.7
+231.9
+242.4
+242.4
+ 
+ 
+ 
+Net operating 
+expenditures in 
+constant dollars 
+(rounded to nearest 
+thousand) 
+38,080
+37,369
+39,965
+39,781
+42,209
+ 
+ 
+ 
+43,139 
+48,045
+49,568
+49,661
+51,703
+ 
+ 
+ 
+ 
+Population 
+164,311
+167,342
+170,455
+173,008
+174,597
+175,045 
+176,755
+178,806
+182,795
+186,785
+ 
+Net operating 
+expenditures per 
+capita in constant 
+dollars 
+231.76
+223.31
+234.46
+229.94
+241.75
+ 
+ 
+246.45 
+271.82
+277.22
+271.68
+276.80
+ 
+ 
+ 
+ 
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+00/01
+01/02
+02/03
+03/04
+04/05
+05/06
+06/07
+07/08
+08/09
+09/10
+General Fund Expenditures Per Capita
+ 
+ 
+Description:  Changes in per capita expenditures reflect changes in 
+expenditures relative to changes in population size and rate of inflation.  
+Increasing per capita expenditures can indicate that the cost of providing 
+services is outstripping the community’s ability to pay, especially if 
+spending is increasing faster than the residents’ collective personal 
+income.  From a different perspective, if the increase in spending is 
+greater than can be accounted for by inflation or the addition of new 
+services, it may indicate declining productivity – that is, the city is 
+spending more real dollars to support the same level of service.  
+ 
+Analysis:  Expenditures for the City’s general fund has averaged 
+$235/per capita between FY 00/01 and FY 05/06.  The budget for FY 
+06/07 and FY 07/08 included the use of general fund reserves for one-
+time capital improvement projects and financial software; however these 
+amounts have been eliminated from this analysis in order to accurately 
+compare operating expenditures.  After backing out these one-time 
+anomalies, the per capita for FY 06/07 jumps to $272 which reflects the 
+addition of six sworn officers, along with increases to labor costs for five 
+out of nine bargaining groups.  Expenditures per capita for the next two 
+years will decline as the City experiences budget reductions due to the 
+depressed economy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warning Trend:  Increasing net operating expenditures per capita 
+(constant dollars) 
+*   FY 2008/2009 and FY 2009/2010 population estimates per SANDAG 
+**  Consumer Price Index for All Urban Consumers (CPI-U), semi-annual average for San Diego, CA; US Department of Labor 
+ 
+Formula:  Net operating expenditures in constant dollars divided by 
+population 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+205
+
+
+ 
+ 
+ 
+COMPARATIVE DATA TO SURROUNDING CITIES 
+Residents per Square Mile
+2,533
+3,261
+3,917
+4,206
+1,290
+2,559
+4,998
+-
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+Carlsbad
+Encinitas
+Escondido
+Oceanside
+Pow ay
+San Marcos
+Vista
+ 
+ 
+City
+Population
+Square Miles
+ Residents 
+Square M
+Carlsbad
+101,398
+           
+40.00
+                
+2,5
+              
+Encinitas
+63,298
+             
+19.40
+                
+3,2
+              
+Escondido
+141,874
+           
+36.20
+                
+3,9
+              
+Oceanside
+176,755
+           
+42.00
+                
+4,2
+              
+Poway
+50,862
+             
+39.40
+                
+1,2
+              
+San Marcos
+79,863
+             
+31.19
+                
+2,5
+              
+Vista
+95,020
+             
+19.00
+               
+5,0
+            
+per
+ile 
+35
+63
+19
+08
+91
+61
+01
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Due to the size of the city, a lot of unique neighborhoods with 
+neighborhood specific demographics exist.  Oceanside's geography and 
+size runs mostly east to west and the topography is a series of hills and 
+valleys running to the ocean.  As the city was established in 1888, many 
+of the neighborhoods are not in large master planned communities, but 
+are an amalgam of small housing developments, built at different times 
+and taking advantage of a specific location or supply of land, and each 
+with different price points.  This has created the unique identity and 
+community characteristic of the neighborhoods.  Oceanside's growth rate 
+is slowing and the land supply is shrinking.  Oceanside qualifies as a 
+"boomburg" due to the rapid growth of the city over the last 20 years.  
+From 1990 to 2000 the city grew by 25 percent.  The population is 
+estimated to grow and additional 17 percent from the year 2000 to 2010 
+which represents an increase of approximately 43 percent from the year 
+1990 to 2010.  The current population is estimated at 178,806 with an 
+average household income of $78,545. 
+ 
+Oceanside has more than 30 parks, 2 public golf courses and 217 acres 
+of park land.  Additionally, there are several popular bike paths that add 
+to the overall quality of life of the city.  Oceanside is also home to 
+beautiful sandy beaches, a municipal fishing pier, and a harbor with 
+unique restaurants and shops.  The cultural activities that Oceanside has 
+to offer are also of importance.  Attractions include the California Surf 
+Museum and the Oceanside Museum of Art.  The Mission San Luis Rey 
+continues to be a staple within the Oceanside community and attracts a 
+multitude of visitors.  Oceanside's location provides convenient access to 
+a number of outstanding colleges and universities such as California 
+State Universities at San Marcos and San Diego.  Oceanside is also 
+home to two of the three Mira Costa Community College campuses, and 
+is the site of the original campus and administrative center.   
+ 
+Oceanside is a thriving community that provides all the conveniences of 
+a modern city without the disadvantages.  Located just 35 miles north of 
+San Diego and 83 miles south of Los Angeles, Oceanside offers a 
+unique combination of outstanding location, well-priced available land 
+and multiple resources.  California's main highway, Interstate 5, runs 
+through Oceanside, as does highway 78, which provides southeast 
+access to Interstate 15. Highway 76, which runs northeast, also provides 
+access to Interstate 15.  Oceanside's transit center is a major transit stop 
+for public transportation, which includes buses, trains, and the light rail 
+SPRINTER commuter train.   
+ 
+Based on the total population for 2007 at 176,755 and the 2007-08 sales 
+tax revenue of $13.3 million, each individual citizen in Oceanside 
+contributes $75 dollars in annual sales tax revenue.  On a local level, 
+Oceanside has experienced a softening in the economy.  The rising cost 
+of fuel and other consumables has made a notable impact to consumer 
+spending habits.  On the positive side, Oceanside's redevelopment 
+activity continues to move forward with construction activity in the 
+downtown area.  Various high profile hotel, retail and commercial 
+developments are in the works to increase high-end room and retail 
+space capacity.  As these projects progress and are completed, 
+Oceanside's downtown area will be the destination of choice for locals 
+and visitors alike. 
+206
+
+
+ 
+ 
+ 
+TAX COMPARISONS 
+ 
+ 
+ 2007 tax 
+allocation* 
+2007 
+population**
+per 
+capita 
+Del Mar
+1,168,185
+$       
+4,553
+256.57
+$ 
+Carlsbad
+20,691,506
+$     
+101,398
+204.06
+$ 
+National City
+11,801,809
+$     
+61,146
+193.01
+$ 
+Poway
+9,608,289
+$       
+50,862
+188.91
+$ 
+El Cajon
+17,319,989
+$     
+97,313
+177.98
+$ 
+Solana Beach
+2,258,848
+$       
+13,427
+168.23
+$ 
+Escondido
+22,591,120
+$     
+141,874
+159.23
+$ 
+La Mesa
+8,739,381
+$       
+56,286
+155.27
+$ 
+San Marcos
+11,894,259
+$     
+79,863
+148.93
+$ 
+Encinitas
+8,462,359
+$       
+63,298
+133.69
+$ 
+Lemon Grove
+3,367,727
+$       
+25,467
+132.24
+$ 
+San Diego
+169,093,054
+$   
+1,317,625
+128.33
+$ 
+Santee
+6,163,564
+$       
+55,193
+111.67
+$ 
+Vista
+10,181,101
+$     
+95,020
+107.15
+$ 
+Chula Vista
+21,853,925
+$     
+227,863
+95.91
+$   
+Coronado
+1,823,471
+$       
+22,968
+79.39
+$   
+Oceanside
+13,305,627
+$     
+176,755
+75.28
+$   
+Imperial Beach
+593,485
+$          
+27,726
+21.41
+$   
+Median
+9,894,695
+$       
+62,222
+$        
+141.31
+$ 
+* HdL Companies
+** Department of Finance
+City of Oceanside
+Sales Tax Per Capita Comparison
+Calendar Year 2007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Del Mar
+Carlsbad
+National City
+Poway
+El Cajon
+Solana Beach
+Escondido
+La Mesa
+San Marcos
+Encinitas
+Lemon Grove
+San Diego
+Santee
+Vista
+Chula Vista
+Coronado
+Oceanside
+Imperial Beach
+Sales Tax Per Capita
+Median $141.31
+City
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+207
+
+
+ 
+ 
+ 
+TAX COMPARISONS 
+ 
+ 
+ 
+ 
+ 2007-2008* 
+2007 
+population**
+per 
+capita 
+Coronado
+17,292,690
+$       
+22,968
+752.90
+$ 
+Del Mar
+3,240,000
+$         
+4,553
+711.62
+$ 
+Carlsbad
+50,000,000
+$       
+101,398
+493.11
+$ 
+Encinitas
+30,100,000
+$       
+63,298
+475.53
+$ 
+San Diego
+385,700,000
+$     
+1,317,625
+292.72
+$ 
+Oceanside
+46,391,140
+$       
+176,755
+262.46
+$ 
+Poway
+12,145,300
+$       
+50,862
+238.79
+$ 
+Santee
+12,798,000
+$       
+55,193
+231.88
+$ 
+El Cajon
+20,350,000
+$       
+97,313
+209.12
+$ 
+Vista
+18,429,000
+$       
+95,020
+193.95
+$ 
+Chula Vista
+42,829,000
+$       
+227,863
+187.96
+$ 
+La Mesa
+10,122,000
+$       
+56,286
+179.83
+$ 
+National City
+10,900,000
+$       
+61,146
+178.26
+$ 
+Lemon Grove
+4,237,000
+$         
+25,467
+166.37
+$ 
+San Marcos
+13,195,360
+$       
+79,863
+165.22
+$ 
+Escondido
+22,611,940
+$       
+141,874
+159.38
+$ 
+Imperial Beach
+4,273,072
+$         
+27,726
+154.12
+$ 
+Median
+17,292,690
+$       
+63,298
+$        
+209.12
+$ 
+ * Individual City's Website
+** Department of Finance
+City of Oceanside
+Property Tax Per Capita Comparison
+Fiscal Year 2007-2008
+Coronado
+Del Mar
+Carlsbad
+Encinitas
+San Diego
+Oceanside
+Poway
+Santee
+El Cajon
+Vista
+Chula Vista
+$0
+$100
+$200
+$300
+$400
+$500
+$600
+$700
+$800
+Property Tax Per Capita
+La Mesa
+National City
+Lemon Grove
+San Marcos
+Escondido
+Imperial Beach
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Median $209.12
+City
+208
+
+
+ 
+ 
+ 
+TAX COMPARISONS 
+$-
+$2,000,000
+$4,000,000
+$6,000,000
+$8,000,000
+$10,000,000
+$12,000,000
+$14,000,000
+Coronado
+Del Mar
+Carlsbad
+La Mesa
+Encinitas
+Oceanside
+National City
+El Cajon
+Chula Vista
+Escondido
+Imperial Beach
+San Marcos
+Vista
+Poway
+Santee
+Lemon Grove
+City
+Median $930,000
+Transient ccupancy Tax
+FY
+2008
+O
+ 2007-
+ 2007-2008* 
+Coronado
+9,800,000
+$      
+Del Mar
+1,733,000
+$      
+Carlsbad
+13,600,000
+$    
+La Mesa
+930,000
+$         
+Encinitas
+919,896
+$         
+Oceanside
+2,465,480
+$      
+City of Oceanside
+TOT Comparison
+Fiscal Year 2007-2008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National City
+830,000
+$         
+El Cajon
+1,194,800
+$      
+Chula Vista
+2,672,000
+$      
+Escondido
+1,328,030
+$      
+Imperial Beach
+254,800
+$         
+San Marcos
+397,100
+$         
+Vista
+425,000
+$         
+Poway
+206,810
+$         
+Santee
+125,000
+$         
+Lemon Grove
+30,500
+$           
+Median
+924,948
+$         
+ * Individual City's Website
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+209
+
+
+ 
+ 
+ 
+CURRENT DEBT OBLIGATION 
+The City uses debt financing for one-time capital improvement projects and unusual equipment purchases.  General fund debt service will not exceed revenues 
+in excess of the total budgeted expenditures and transfers out sufficient to service the outstanding debt for the issuing agency.  The term of the long-term debt 
+instrument will not exceed the legal life of the asset or thirty years, whichever is less. 
+ 
+The City’s general fund debt to revenue ratio is 4.3% for fiscal years 08-09 and 09-10.   The City has not been active in issuing debt; a bond in FY 07-08 
+was issued for Pacific Park Community Facilities District (CFD), which is not a general fund debt obligation.  The last general fund debt obligation was the 
+Taxable Pension Obligation Bond issued in August 2005.  
+ 
+The City’s DUN number is 73370678, and the City has a Moody’s rating of A2.  Moody’s defines this rating as an above average credit worthiness relative to 
+other US municipal or tax-exempt issuers or issues. This rating reflects the City’s strong financial performance and economic growth, driven by strong 
+development trends and commercial growth. 
+ 
+Bond Name
+Use of Funds
+Repayment Source
+Original Bond 
+Issue
+Principal Outstanding 
+6/30/2008
+Fiscal Year 
+Matures
+2008/09 Principal 
+and Interest Due
+2009/10 Principal 
+and Interest Due
+General City Debt Obligations
+1998 Oceanside Building Authority - Police and Library Facilities
+General Fund
+$10,750,000
+$8,695,000
+2022-23
+$781,025
+$788,979
+        Certificates of Participation
+2003 Oceanside Public Finance Authority - 93 Series A Refunding
+General Fund
+$25,185,000
+$20,145,000
+2022-23
+$2,174,853
+$2,168,103
+        Certificates of Participation
+Water Fund
+2005 Oceanside Taxable Pension Obligation Bonds
+All City Funds
+$42,780,000
+$41,825,000
+2026-27
+$2,799,691
+$2,915,461
+Enterprise Debt Obligations
+1998 Oceanside Water Revenue Refunding Bonds
+Water Fund
+$11,445,000
+$7,905,000
+2017-18
+$1,000,279
+$1,001,779
+1998 Watereuse Variable Rate Demand Bonds
+Sewer Fund
+$55,785,000
+$15,635,000
+2027-28
+$1,441,469
+$1,426,036
+Acquisition and 
+Improvement of Police 
+and Library Facilities
+Refunded 93 COPs - 
+SLR Flood Control 
+Project, Parking Project 
+and CAD System 
+Retire Unfunded Liability 
+with CA Public Employee 
+Retirement System 
+(PERS)
+Refunded 92 Watereuse 
+Authority Bonds - Various 
+Water CIP Projects
+San Luis Rey 
+Wastewater Treatment 
+Plant Expansion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+210
+
+
+ 
+ 
+ 
+CURRENT DEBT OBLIGATION 
+Bond Name
+Use of Funds
+Repayment Source
+Original Bond 
+Issue
+Principal Outstanding 
+6/30/2008
+Fiscal Year 
+Matures
+2008/09 Principal 
+and Interest Due
+2009/10 Principal 
+and Interest Due
+2003 Oceanside Public Finance Authority Wastewater Refunding
+Sewer Fund
+$11,080,000
+$8,725,000
+2021-22
+$905,750
+$907,550
+       Certificates of Participation
+2003 Oceanside Public Finance Authority Water Refunding
+Water Fund
+$15,855,000
+$10,610,000
+2021-22
+$1,787,263
+$1,328,438
+       Certificates of Participation
+Oceanside Community Development Commission Debt Service
+ 
+ 
+1995 Community Development Commission Refunding
+Civic Center Lease
+$34,300,000
+$2,780,000
+2009-10
+$1,469,150
+$1,469,325
+        Certificates of Participation - Civic Center Project 
+Payments
+2002 Community Development Commission Tax Allocation Bonds
+Redevelopment
+$22,030,000
+$19,430,000
+2025-26
+$1,718,088
+$1,715,694
+Tax Increment
+2003 Community Development Commission Tax Allocation  
+Redevelopment
+$7,740,000
+$6,060,000
+2018-19
+$669,500
+$665,850
+        Refunding Bonds
+Tax Increment
+2003 Community Development Commission Tax Allocation Escrow Bonds
+Redevelopment
+$17,800,000
+$16,940,000
+2025-26
+$1,479,328
+$1,474,330
+Tax Increment
+2003 Community Development Commission Tax Allocation  
+Redevelopment
+$13,510,000
+$12,545,000
+2024-25
+$848,954
+$857,354
+        Refunding Bonds
+Tax Increment
+2005 Community Development Commission Refunding
+Civic Center Lease
+$20,170,000
+$19,915,000
+2019-20
+$934,288
+$930,238
+        Certificates of Participation - Civic Center Project 
+Payments
+Refunded 1993 
+Wasterwater System 
+COPs - Various 
+Wastewater CIP Projects
+Refunded 1993 
+Wasterwater System 
+COPs - Various Water 
+CIP Projects
+Downtown 
+Redevelopment Projects
+Refunded 1994 Tax 
+Allocation Bonds - 
+Downtown 
+Redevelopment Projects
+Partial Refunding of 1995 
+Civic Center COPs - 
+Civic Center Construction
+Refunded 1991 CDC 
+COPs - Civic Center 
+Construction 
+Downtown 
+Redevelopment Projects
+Refunded 1993 Tax 
+Allocation Bonds - 
+Downtown 
+Redevelopment Projects
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+211
+
+
+ 
+ 
+ 
+SCHEDULE OF ESTIMATED TRANSFERS 
+ 
+ 
+Fund Fund Name
+Fund Fund Name
+Description
+FY 08-09
+FY 09-10
+General Fund Transfers
+213
+Gas Tax
+101
+General Fund
+Traffic Control System
+391,044
+           
+418,524
+           
+221
+Oceanside Lighting District 
+101
+General Fund
+Street Light Maintenance
+410,000
+           
+410,000
+           
+General Fund Transfers In
+801,044
+         
+828,524
+         
+101
+General Fund
+209
+Library Fund
+Subsidize Library Fund 209
+232,600
+           
+232,600
+           
+101
+General Fund
+287
+CDC Housing Resource Center Fund
+Cost of Resource Centers Fund 287
+542,966
+           
+579,306
+           
+101
+General Fund
+288
+CDC Mobile Home Program
+Rent Control
+106,052
+           
+120,107
+           
+101
+General Fund
+503
+Public Facilities Fees Fund
+Public Art in CIP Fund
+25,000
+             
+25,000
+             
+101
+General Fund
+510
+SLRR Major Water Course Fund
+GF share of SLRR Debt Payment
+400,000
+           
+400,000
+           
+101
+General Fund
+581
+GF Community Facilities CIP Fund
+Pier Deferred Maintenance
+100,000
+           
+100,000
+           
+101
+General Fund
+581
+GF Community Facilities CIP Fund
+Parks Deferred Maintenance
+100,000
+           
+100,000
+           
+101
+General Fund
+581
+GF Community Facilities CIP Fund
+Buildings Deferred Maintenance
+30,000
+             
+30,000
+             
+101
+General Fund
+581
+GF Community Facilities CIP Fund
+Median Landscaping
+210,000
+           
+210,000
+           
+101
+General Fund
+581
+GF Community Facilities CIP Fund
+Fire Apparatus
+225,000
+           
+225,000
+           
+101
+General Fund
+581
+GF Community Facilities CIP Fund
+Fire Station Maintenance
+20,000
+             
+20,000
+             
+101
+General Fund
+581
+GF Community Facilities CIP Fund
+San Luis Rey River Maintenance
+325,000
+           
+325,000
+           
+101
+General Fund
+814
+Risk Management Fund
+General Insurance Charge
+1,691,397
+        
+1,765,160
+        
+General Fund Transfers Out
+4,008,015
+      
+4,132,173
+      
+Net General Fund Total
+(3,206,971)
+    
+(3,303,649)
+    
+Inter-Fund Transfers
+817
+Employee Health Services
+814
+Risk Management Fund
+General Insurance Charge
+9,026
+               
+9,420
+               
+818
+Workers Comp
+814
+Risk Management Fund
+General Insurance Charge
+28,676
+             
+29,928
+             
+831
+Fleet Management
+814
+Risk Management Fund
+General Insurance Charge
+40,843
+             
+42,625
+             
+841
+Information Technology 
+814
+Risk Management Fund
+General Insurance Charge
+54,160
+             
+56,522
+             
+851
+City Building Service
+814
+Risk Management Fund
+General Insurance Charge
+36,107
+             
+37,681
+             
+Total Inter-Fund Transfers
+168,812
+         
+176,176
+         
+ 
+212
+
+
+ 
+ 
+ 
+SCHEDULE OF ESTIMATED TRANSFERS 
+Fund Fund Name
+Fund Fund Name
+Description
+FY 08-09
+FY 09-10
+Other Fund Transfers
+212
+TransNet
+520
+Loma Alta Creek Major Water Course Fund
+El Camino Real Detension Basin
+2,000,000
+        
+-
+                  
+213
+Gas Tax
+221
+Oceanside Lighting District
+Supplement Lighting District
+390,000
+           
+390,000
+           
+213
+Gas Tax
+814
+Risk Management Fund
+General Insurance Charge
+25,650
+             
+26,769
+             
+221
+Oceanside Lighting District 
+963
+Oceanside Lighting District Debt Service
+Debt Service 04-Lease Street Lighting
+250,666
+           
+250,666
+           
+237
+Community Dev Block Grant Fund
+814
+Risk Management Fund
+General Insurance Charge
+2,979
+               
+3,109
+               
+272
+State & Local Grant Fund
+814
+Risk Management Fund
+General Insurance Charge
+149
+                  
+155
+                  
+277
+HOME Grant Fund
+814
+Risk Management Fund
+General Insurance Charge
+819
+                  
+855
+                  
+282
+CDC Housing Rehab Loan Program
+814
+Risk Management Fund
+General Insurance Charge
+1,237
+               
+1,291
+               
+283
+CDC Housing Section 8 Fund
+814
+Risk Management Fund
+General Insurance Charge
+20,258
+             
+21,141
+             
+284
+CDC Admin/Program Dev Fund
+814
+Risk Management Fund
+General Insurance Charge
+7,001
+               
+7,306
+               
+286
+CDC Housing Mortgage Revenue 
+Bond Fund
+814
+Risk Management Fund
+General Insurance Charge
+1,937
+               
+2,022
+               
+287
+CDC Housing Resource Centers
+814
+Risk Management Fund
+General Insurance Charge
+5,300
+               
+5,531
+               
+288
+CDC Housing MobileHome Program
+814
+Risk Management Fund
+General Insurance Charge
+81,151
+             
+84,690
+             
+452
+Morrow Hills Debt Service
+814
+Risk Management Fund
+General Insurance Charge
+4,122
+               
+4,302
+               
+503
+Public Facility Fees
+917
+98 COP Police/Library Debt Service
+Debt Service for Police/Library
+612,398
+           
+618,608
+           
+540
+TMI Triangle DD-4 Fund
+598
+Park Fees Fund
+Unfunded Parks Project
+1,040,000
+        
+-
+                  
+591
+CDC-CRA General Project Fund
+489
+CDC-CRA Debt Service Fund
+Transfer for Housing Deficit Fund
+6,145,237
+        
+6,214,699
+        
+591
+CDC-CRA General Project Fund
+814
+Risk Management Fund
+General Insurance Charge
+24,369
+             
+25,432
+             
+594
+CDC-CRA Low & Mod Income 
+Housing
+814
+Risk Management Fund
+General Insurance Charge
+1,905
+               
+1,988
+               
+711
+Water Operating Fund
+510
+SLRR Major Water Course Fund
+Transfer for San Luis Rey River Debt
+900,000
+           
+900,000
+           
+711
+Water Operating Fund
+717
+Water Debt Service Fund
+Debt Service Pmnt-City Operation Ctr
+367,416
+           
+323,588
+           
+711
+Water Operating Fund
+814
+Risk Management Fund
+General Insurance Charge
+469,833
+           
+490,323
+           
+721
+Sewer Operating
+726
+Sewer Expansion-Improvement Fund
+Debt Service-Water Reuse Line
+1,659,787
+        
+1,665,322
+        
+721
+Sewer Operating
+727
+Sewer Debt Service
+Debt Service-2003 COP
+389,750
+           
+371,550
+           
+721
+Sewer Operating
+814
+Risk Management Fund
+General Insurance Charge
+220,364
+           
+229,974
+           
+721
+Sewer Operating
+831
+Fleet Management
+Police Vehicle Build-out
+76,054
+             
+76,054
+             
+731
+Solid Waste Disposal
+213
+Gas Tax
+Storm Drain Cleaning
+300,000
+           
+300,000
+           
+731
+Solid Waste Disposal
+814
+Risk Management Fund
+General Insurance Charge
+216,312
+           
+225,746
+           
+741
+Airport
+814
+Risk Management Fund
+General Insurance Charge
+4,816
+               
+5,026
+               
+751
+Harbor
+814
+Risk Management Fund
+General Insurance Charge
+63,484
+             
+66,253
+             
+Other Funds Total
+15,282,994
+    
+12,312,400
+    
+Total All  Transfers
+20,260,865
+    
+17,449,273
+    
+ 
+ 
+ 
+ 
+213
+
+
+ 
+ 
+ 
+ACRONYMS 
+AB 
+ 
+Assembly Bill 
+AED 
+ 
+Automated External Defibrillators 
+CAFR       
+Comprehensive Annual Financial Report 
+CAL-GRIP     
+California Gang Reduction, Intervention and Prevention  
+CALED 
+California Association for Local Economic Development 
+CDBG        
+Community Development Block Grant 
+CEQA       
+California Environmental Quality Act 
+CERT        
+Community Emergency Response Team 
+CHP  
+ 
+California Highway Patrol 
+CDC 
+ 
+Community Development Commission 
+CIP        
+Capital Improvement Program 
+COP 
+ 
+Certificate of Participation 
+COPE   
+Challenging Outdoor Personal Experiences 
+CDA 
+ 
+California Downtown Association 
+CRA 
+ 
+California Redevelopment Association 
+DD 
+ 
+Drainage District 
+DDA 
+ 
+Development and Disposition Agreement 
+ECSC  
+El Corazon Senior Center 
+EDC 
+ 
+Economic Development Commission 
+EIR        
+Environmental Impact Report 
+EMS 
+ 
+Emergency Medical Service 
+EOC        
+Emergency Operations Center 
+EPA 
+ 
+Environmental Protection Agency 
+ESG 
+ 
+Emergency Shelter Grant 
+FBI  
+ 
+Federal Bureau of Investigation 
+FY         
+Fiscal Year  
+GAC       
+Granular Activated Carbon 
+GASB  
+Governmental Accounting Standards Board 
+GF 
+ 
+General Fund 
+GIS 
+ 
+Geographic Information System 
+HCD        
+Housing and Community Development 
+HOME       
+The HOME Investment Partnerships Act, which is Title II 
+of the National Affordable Housing Act 
+HUD        
+Housing Urban Development 
+ICSC 
+ 
+International Council of Shopping Centers 
+JPA 
+ 
+Joint Powers Authority 
+KOCT      
+Oceanside Community Television  
+LMAD  
+Landscape and Maintenance District 
+MHCP  
+Multiple Habitat Conservation Plan 
+MIS 
+ 
+Management Information Services 
+MLK 
+ 
+Martin Luther King 
+MOU        
+Memorandum of Understanding 
+NAIOP 
+National Association of Industrial and Office Properties 
+NCHS  
+North Coastal Humane Society 
+NCTD  
+North County Transit District 
+NFIRS  
+National Fire Incident Reporting System 
+OFD  
+ 
+Oceanside Fire Department 
+OPD  
+ 
+Oceanside Police Department 
+OSHA   
+Occupational Safety and Health Administration 
+OUSD   
+Oceanside Unified School District 
+PASS       
+Portable Assisted Study Sequence 
+PD  
+ 
+Police Department 
+POST       
+Peace Officer Standards and Training 
+QCS  
+ 
+Quality Children’s Services 
+RAC 
+ 
+Redevelopment Advisory Committee 
+RDA        
+Redevelopment Agency 
+RDRC  
+Redevelopment Design Review Committee 
+RFID   
+Radio Frequency Identification 
+RV 
+ 
+Recreation Vehicle 
+SANDAG  
+San Diego Association of Governments 
+SBDC  
+Small Business Development Center 
+SCPP   
+Special College Preparatory Program 
+SDCWA  
+San Diego County Water Authority 
+SLRR  
+San Luis Rey River 
+SLRWTP  
+San Luis Rey Wastewater Treatment Plant 
+SR-78        
+California State Route 78, runs from Oceanside to Blythe 
+SFR 
+Single Family Residence 
+SUN  
+ 
+Supporting Urban Neighborhoods 
+TCP       
+Trichloropropane 
+TOT        
+Transient Occupancy Tax 
+VLF  
+ 
+Vehicle in-lieu fees 
+YMCA       
+Young Men's Christian Association 
+ 
+ 
+ 
+ 
+214
+
+
+ 
+ 
+ 
+GLOSSARY OF TERMS 
+Accrual Basis – The method of accounting under which revenues and 
+expenses are recorded when they occur, regardless of the timing of 
+related cash flows. Expenses are recorded at the time liabilities are 
+incurred and revenues are recorded when earned. 
+ 
+Actual – Represents the actual costs from the result of operations. 
+ 
+Adopted Budget – The official budget as approved by the City Council 
+at the start of each fiscal year. 
+ 
+Amended Budget – The official budget as adopted and as amended by 
+the City Council through the course of a fiscal year. 
+ 
+Appropriation – A legal authorization granted by the City Council to 
+make expenditures or incur obligations for specific purposes. 
+ 
+Assessment District (AD) – Under the Municipal Improvement Act that 
+allows a designated area to pay the debt service on bonds sold to 
+finance capital improvements installed by the City or a developer. The  
+property owners receiving the benefit of the improvements pay an 
+assessment on their property tax bills. 
+ 
+Audit – A systematic collection of the sufficient, competent evidential 
+matter needed to attest to the fairness of management’s assertions in the 
+financial statements or to evaluate whether management has efficiently 
+and effectively carried out its responsibilities. 
+ 
+Beginning Fund Balance – Fund balance available in a fund from the 
+end of the prior year for use in the following year. 
+ 
+Bond – A security that represents an obligation to pay a specific sum of 
+money on a specific date in the future, typically with periodic interest 
+payments. 
+ 
+Budget – A financial plan that identifies revenues and specific types and 
+levels of services to be provided and establishes the amount of money 
+which can be spent. 
+ 
+Budget Adjustments – The City Council and/or Agency members have 
+the responsibility for adopting the City’s budget, and may amend or 
+supplement the budget at any time after adoption by majority vote. The 
+City manager has the authority to approve line item budgetary transfers 
+between expenditure objects of the budget as long as those changes will 
+not have a significant policy impact nor affect budgeted year-end fund 
+balances. 
+ 
+Budgetary Basis - Refers to the basis of accounting used to estimate 
+financing sources and uses in the budget. 
+ 
+Budgetary Control – The control or management of a government or 
+enterprise in accordance with an approved budget for the purpose of 
+keeping expenditures within the limitations of available appropriations 
+and revenues. 
+ 
+Budget Calendar – The schedule of key dates or milestones which a 
+government follows in the preparation and adoption of the budget. 
+ 
+Budget Document – The official written statement prepared by Finance 
+and supporting staff, which represents the proposed budget to the 
+legislative body. 
+ 
+Business Unit - A stand-alone business that operates within a larger 
+company – in effect, a company within a company – with its own 
+independent management team, and financially measured or tracked as 
+a separate entity (referred to by accountants as a separate profit and 
+loss center, or P&L). 
+ 
+California Society of Municipal Finance Officers (CSMFO) – CSMFO 
+is an organization of government officials that reinforces the 
+professionalism in financial management and provides a method for 
+meeting the challenges of change and solving problems relating to 
+municipal finance. 
+ 
+Capital Expenditures – Expenditures resulting in the acquisition of or 
+addition to the government’s general fixed assets having a unit cost of 
+greater than $10,000 and a useful life of more than two years. 
+215
+
+
+ 
+ 
+ 
+GLOSSARY OF TERMS 
+Capital Improvements Plan (CIP) – A financial plan of proposed capital 
+improvement projects. CIP projects typically improve City owned assets 
+such as buildings, parks, streets and other infrastructure components. 
+Capital projects often span more than one fiscal year. 
+ 
+Capital Outlay – Expenditures which qualify as capital costs according 
+to accounting standards. Includes items such as furniture, fixtures, 
+machinery, equipment and other relatively minor fixed assets. 
+ 
+Certificates of Participation (COP) – Obligations of a public entity 
+based on a lease or installment sales agreement. Payments to certificate 
+holders may originate from the General Fund (in the case of a lease) or a 
+special fund (in the case of an installment sale). 
+ 
+Code Enforcement – The act of enforcing a set of principles, or laws 
+(especially written ones) and insuring observance of a system of norms 
+or customs. An authority usually enforces a civil code, a set of rules, or a 
+body of laws and compels those subject to their authority to behave in a 
+certain way. 
+ 
+Community Development Block Grant (CDBG) – Funds allocated to 
+local government from the federal government, usually through a local 
+clearinghouse (Riverside County Economic Development Agency), 
+based on a formula, but required to be applied for and required to be 
+used within a broad functional area such as community development. 
+ 
+Community Facilities District (CFD) – A designated area for specific 
+capital improvements installed by the City or a developer, or the 
+maintenance of the same. The property owners receiving the benefit of 
+the improvements pay an assessment on their property tax bills. 
+ 
+Comprehensive Annual Financial Report (CAFR) – Audited financial 
+statements submitted to the Mayor, City Council, and City Manager by 
+the Finance Director on an annual basis. 
+ 
+Computer-Aided Design (CAD) – The use of a wide range of computer-
+based tools that assist engineers, architects and other design 
+professionals in their design activities. 
+ 
+Consumer Price Index (CPI) – A statistical description of price levels 
+provided by the U.S. Department of Labor. The change in this index from 
+year to year is used to measure the cost of living and economic inflation. 
+ 
+Contingency – A budgetary reserve setaside for emergency or 
+unanticipated expenditures. 
+ 
+Contracted Services – Services rendered in support of City operations 
+and activities by external parties. These may be based upon either 
+formal contracts or ad hoc charges. 
+ 
+COPS Technology Grant – The COPS Technology grants provide 
+funding for the continued development of technologies and automated 
+systems that help tribal, state and local law enforcement agencies 
+prevent, respond to, and investigate crime. This funding allows state 
+agencies to purchase technologies to advance communications 
+interoperability, 
+information 
+sharing, 
+crime 
+analysis, 
+intelligence 
+gathering, and crime prevention in their communities. 
+ 
+Debt Service Fund – A fund established to account for the accumulation 
+of resources for, and the payment of, general long-term debt principal 
+and interest. 
+ 
+Debt Service – Annual principal and interest payments owed on money 
+borrowed. 
+ 
+Deficit – When the expenditures of a government (its purchases of 
+goods and services, plus its transfers (grants) to individuals and 
+corporations) are greater than its taxes and other revenues. 
+ 
+Department – A major organizational group of the City with overall 
+management responsibility for an operation or a group of related 
+operations within a functional area. 
+ 
+Designated Fund Balance – Represents tentative plans for the future 
+use of financial resources that are subject to change. 
+ 
+Development Impact Fee (DIF) – Fees generated by development 
+applications to offset the effect of development on city infrastructure. 
+216
+
+
+ 
+ 
+ 
+GLOSSARY OF TERMS 
+Fees are collected for eleven classifications which include law 
+enforcement facilities, vehicles and equipment; fire facilities, vehicles and 
+equipment; streets, minor bridges and culverts; traffic signals and 
+controllers; freeway interchanges; storm drainage facilities; general 
+facilities, vehicles and equipment; open space acquisition including 
+habitat preservation; park land acquisition and development; community 
+center expansion; and library facility and book collection expansion. 
+ 
+Economic Development (ED) – Economic development is the 
+development of economic wealth of countries or regions for the wellbeing 
+of their in habitants. It is a sustainable increase in living standards that 
+implies increased per capita income, better education and health. 
+ 
+Education Revenue Augmentation Funding (ERAF) – Property Tax 
+Shift – In 1992, facing a serious deficit position, and enabled by a 
+provision of Proposition 13, the State of California began shifting local 
+property tax revenues from cities, counties and some special districts 
+into these funds to reduce the cost of education to the state general fund 
+in order to meet its obligations to fund education at specified levels under 
+Proposition 98. To date, these property tax shifts have deprived local 
+governments of more than $51 Billion. 
+ 
+Emergency Operations Center (EOC) – The Emergency Operations 
+Center is a central command and control facility responsible for carrying 
+out the principles of emergency preparedness and emergency 
+management, or disaster management functions at a strategic level in an 
+emergency situation, and ensuring the continuity of operation of the 
+company, or political subdivision. 
+ 
+Encumbrance – An amount of money committed for the payment of 
+goods and services not yet received or paid for. A purchase order is a 
+common encumbrance. 
+ 
+Enterprise Funds – Established to finance and account for the 
+operation and maintenance of facilities and services which are 
+predominately self-supported by user charges. 
+ 
+Estimated Revenue – The revenue projected or estimated to be 
+received during the fiscal period shown.  Estimates are based on prior 
+year actual revenues recorded and projections of current year revenues 
+based on actual receipts through a certain point in the fiscal year. 
+ 
+Expenditure – The actual expenditures recorded in a fiscal period or 
+projected to be expended.  For the budget year, the expenditures are the 
+proposed resources being requested and will be appropriated upon 
+adoption of the budget. 
+ 
+Fees – Charges for services levied by the government associated with 
+providing a service, or permitting an activity. Major types of fees include 
+construction, recreation, and planning fees. 
+ 
+Fiscal Year (FY) – The period designated by the City for the beginning 
+and ending of financial transactions. The City’s fiscal year begins July 1 
+and ends June 30. 
+ 
+Full-Time Equivalents (FTE) – The amount of time a position has been 
+budgeted for in terms of the amount of time a regular, full-time employee 
+normally works in a year. For example, a full-time employee (1 FTE) is 
+paid for 2,080 hours per year while a .25 FTE would work 520 hours per 
+year. 
+ 
+Fund – An accounting entity with a set of self-balancing accounts used 
+to record the financial affairs of a governmental organization. 
+ 
+Fund Balance – That portion of the fund equity that is available for 
+expenditures at any time during the fiscal year for governmental type 
+funds.  For proprietary funds (enterprises) this balance is stated as 
+retained earnings.  The amounts shown are the net current resources 
+available for expenditures excluding other assets, such as fixed assets or 
+noncurrent receivables, that are not readily converted into cash. 
+ 
+GAAP – Generally Accepted Accounting Principles are uniform minimum 
+standards used for accounting and reporting used for both private 
+industry and governments. Government GAAP is currently set by the 
+Governmental Accounting Standards Board. 
+ 
+GANN Appropriation Limit – This term refers to Article XIIIB of the 
+California State Constitution that places limits on the amount of proceeds 
+217
+
+
+ 
+ 
+ 
+GLOSSARY OF TERMS 
+from taxes that state and local government agencies can receive and 
+spend each year. 
+ 
+Gas Tax – Funds collected from gasoline sales tax to be used for any 
+construction, betterments and maintenance of streets and roads. 
+ 
+General Fund – The primary operating fund of the City. All revenues that 
+are not allocated by law or contractual agreement to a specific fund are 
+accounted for in the General Fund. 
+ 
+General Obligation Bonds – Bonds for which the full faith and credit of 
+the insuring government are pledged for payment. 
+ 
+Goals – The desired result of accomplishments within a given time 
+frame. 
+ 
+Government Finance Officers Association (GFOA) – The GFOA is the 
+professional association of state/provincial and local finance officers in 
+the United States and Canada, and has served the public finance 
+profession since 1906. GFOA members are dedicated to the sound 
+management of government financial resources. 
+ 
+Governmental 
+Accounting 
+Standards 
+Board 
+(GASB) 
+– 
+The 
+Governmental Accounting Standards Board establishes and improves 
+standards of states and local governmental accounting and financial 
+reporting that will result in useful information for users of financial reports 
+and guide and educate the public, including issuers, auditors, and users 
+of those financial reports. 
+ 
+Grant – A contribution from one government unit to another, usually 
+made for a specific purpose and time period. 
+ 
+Infrastructure – The physical assets of the City, i.e. streets, public 
+buildings, parks, and the support structures within a development. 
+ 
+Interfund Payments – Expenditures made to other funds for services 
+rendered.  This category includes interfund repairs and maintenance. 
+ 
+Intergovernmental Costs – Costs or expenses paid from one 
+government to another government for services.  These costs include but 
+are not limited to such things as:  dispatch and jail services, animal 
+control services, audit, and voter costs. 
+ 
+Intergovernmental Services – Intergovernmental purchases of those 
+specialized services typically performed by local governments. 
+ 
+Internal/Interdepartmental Charges – Charges paid to other City 
+departments for services rendered and/or materials supplied. 
+ 
+Investment – Securities and real estate purchased and held for the 
+production of income in the form of interest, dividends, rentals and base 
+payments. 
+ 
+Investment Policy – A Council adopted policy identifying permitted 
+investments of the City’s idle cash. 
+ 
+Leasing  – A financial technique whereby ownership of the project or 
+equipment remains with the financing entity, and where title may or may 
+not transfer to the City at the end of the lease. 
+ 
+Levy – To impose taxes, special assessments or service charges for the 
+support of government activities.  The total amount of taxes, special 
+assessments or service charges imposed by a government. 
+ 
+Line Item Budget – A budget that lists detailed expenditure categories 
+(salary, materials, telephone service, travel, etc) separately, along with 
+amounts budgeted for each specific category. 
+ 
+Local Agency Investment Fund (LAIF) – a voluntary program created 
+by statute; began in 1977 as an investment alternative for California’s 
+local governments and special districts. 
+ 
+Long-Term Debt – Debt with a maturity of more than one year after the 
+date of issue. 
+ 
+Memorandum of Understanding (MOU) – A negotiated agreement 
+between an employee association and a government entity. 
+218
+
+
+ 
+ 
+ 
+GLOSSARY OF TERMS 
+ 
+Modified Accrual Basis – The method under which revenues and other 
+financial resource increments are recognized when they become 
+susceptible to accrual; that is, when they become both “measurable” and 
+“available to finance expenditures of the current period.”  “Available” 
+means collectible in the current period or soon enough thereafter to be 
+used to pay the liabilities of the current period. 
+ 
+Motor Vehicle In Lieu – State subvention revenue calculated annually 
+by the State on a per capita basis. 
+ 
+Municipal – In it broadest sense, an adjective which denotes the state 
+and all subordinate units of government. In a more restricted sense, an 
+adjective which denotes a city or village as opposed to other local 
+governments. 
+ 
+Objectives – The necessary steps that need to be accomplished to 
+achieve a desired goal. 
+ 
+Office of Traffic Safety (OTS) – The California Office of Traffic Safety’s 
+mission is to obtain and effectively administer traffic safety grant funds to 
+reduce deaths, injuries and economic losses resulting from traffic related 
+collisions. 
+ 
+Operating Budget – Day-to-day costs of delivering City services. 
+ 
+Operating and Maintenance Costs (O&M) – Items categorized as 
+operating costs in this budget include supplies, materials and contracted 
+services used in the normal operations of City departments. 
+ 
+Operating Transfers – Legally authorized transfers from a fund 
+receiving revenue to the fund through which the resources are to be 
+expended, such as transfers from the General Fund to a Special 
+Revenue or Capital Projects Fund. 
+ 
+Ordinance – A formal legislative enactment by the City Council. 
+ 
+Other Agencies – Funds made available from other agencies as jointly 
+agreed upon, including City of Oceanside and County of San Diego. 
+ 
+PERS – Public Employees Retirement System provided for employees in 
+the State of California. 
+ 
+Personnel Costs – Salaries and benefits paid to City employees. 
+Included are items such as insurance and retirement. 
+ 
+Property Tax – An annual local governmental tax on real property or 
+personal property based on a tax rate (so many dollars or cents per $100 
+value of the property).  The value is usually established by an Assessor, 
+a county official.  In California, the assessed value of real property is 
+based on the amount of the last sale of the property, and the tax is 
+limited to 1% of that figure (with a few minor exceptions) under the 
+“Proposition 13” state constitutional provision.  In addition, there are 
+special assessments for particular public property improvements such as 
+sidewalks, tree planting, or storm drains which are charged to each 
+property owner on the street in which the improvements are made. 
+ 
+Proposed Budget – The budget as formulated and proposed by the City 
+Manager. It is submitted to the City Council for review and approval. 
+ 
+Redevelopment Agency/Low-Moderate Housing (RDA) – This funding 
+source is available from the City’s Redevelopment Agency. State law 
+requires that 20% of gross RDA proceeds to be set aside to fund housing 
+opportunities for low and moderate income families. 
+ 
+Request for Proposal (RFP) – An invitation for suppliers, through a 
+bidding process, to submit a proposal on a specific product or service. 
+ 
+Reserve – A separate account maintained for restricted use, i.e., self-
+insurance programs, capital improvement projects, or for unrestricted 
+use to protect the City from emergencies or unanticipated expenditures. 
+ 
+Resolution – An order of a legislative body requiring less formality than 
+an ordinance. 
+ 
+Revenue – Income received through such sources as taxes, fines, fees, 
+grants or services charges that can be used to finance operations or 
+capital assets. 
+219
+
+
+ 
+ 
+ 
+GLOSSARY OF TERMS 
+Risk Management – An organized attempt to protect an organization’s 
+assets against accidental loss in the most cost effective manner. 
+ 
+Sales Tax – A tax on the purchase of goods and services. 
+ 
+Self-Insurance – A term often used to describe the retention of liabilities, 
+arising out of the ownership of property or from some other cause, 
+instead of transferring that risk to an independent third party through the 
+purchase of an insurance policy. The City currently provides self-
+insurance for general liability. 
+ 
+Special Assessment – A compulsory levy made against certain 
+properties to defray all or part of the cost of a specific capital 
+improvement or service deemed to benefit primarily those properties. 
+ 
+Special Assessment Bond – Bonds issued by cities, counties, 
+authorized political subdivisions, and local districts secured by liens on 
+benefited properties included in a special assessment district. 
+ 
+Special Revenue Funds – Funds used to account for the proceeds from 
+specific revenue sources (other than trusts or major capital projects) that 
+are legally restricted to expenditures for specific purposes. 
+ 
+Standard Operating Procedure (SOP) – A standard operating 
+procedure is a set of instructions having the force of a directive, covering 
+those features of operations that lend themselves to a definite or 
+standardized procedure without loss of effectiveness. 
+ 
+Subventions – Revenues collected by the State which are allocated to 
+the City on a formula basis.  For example, motor vehicle and gasoline 
+taxes. 
+ 
+Surplus - When tax revenues exceed government purchases and 
+transfer payments. 
+ 
+Taxes – Compulsory charges levied by a government for the purpose of 
+financing services performed for the common benefit. This term does not 
+include specific charges made against particular persons or property for 
+current or permanent benefits such as special assessments. Neither 
+does the term include charges for services rendered only to those paying 
+such charges as, for example, user charges. 
+ 
+Transfers – Interfund transfers are funds transferred between funds 
+when more than one revenue source is needed to fund a particular 
+project or operation.  Transfers are treated as revenue in the receiving 
+fund and as expenditure in the fund being reduced. 
+ 
+Transfers In/Out – Authorized exchanges of cash or other resources 
+between funds.  
+ 
+Transient Occupancy Tax (TOT) – Transient Occupancy Tax is 
+collected from the operators of hotels and motels located within the city 
+limits of Oceanside. Ten percent of the total rent collected by a motel or 
+hotel is remitted to the City. 
+ 
+Triple Flip – The “triple flip” swaps one-quarter of the City’s local sales 
+taxes to secure $15 billion in deficit financing bonds approved through 
+the passage of Proposition 57 (flip #1).  The State intends to replace this 
+revenue with Educational Revenue Augmentation Fund (ERAF) property 
+tax money that was taken from cities and counties in the early ‘90’s (flip 
+#2).  Using ERAF money to backfill the sales tax taken from cities will 
+increase the States obligation to fund schools from other general fund 
+resources (flip #3).  Another impact of the triple flip upon the City will be 
+cash flow.  Sales tax, which is received monthly, will be reduced by 25% 
+and will be “backfilled” with property tax, which will be received bi-
+annually in January and May.  
+ 
+Trust and Agency Funds – Also known as Fiduciary Fund Types, these 
+individual funds are used to account for assets held by the City in a 
+trustee capacity or as an agent for private individuals, organizations, or 
+other governmental agencies. Agency funds are custodial in nature 
+(assets equal liabilities) and do not measure the results of operations. 
+ 
+Undesignated Fund Balance – Represents that portion of fund equity 
+that is currently available to finance expenditures/expenses not already 
+approved by the City Council.  
+ 
+220
+
+
+ 
+ 
+ 
+GLOSSARY OF TERMS 
+User Charges/Fees – The payment of a fee for direct receipt of a public 
+service by the party benefiting from the service (i.e. building permit fees, 
+recreation classes).  
+  
+VLF – Vehicle License Fee: Motor Vehicle In-Lieu Tax - Established in 
+1935 as a uniform statewide tax, the VLF is a tax on the ownership of a 
+registered vehicle in place of taxing vehicles as personal property. By 
+law, all revenues from the VLF fund city and county services, but the 
+state legislature controls the tax rate and the allocation among local 
+governments.  
+ 
+Workers’ compensation (WC) – is a form of insurance that provides 
+medical care and compensation for employees who are injured in the 
+course of employment in abrogating the employee’s right to sue their 
+employer for the tort of negligence. 
+221
+
+
+A
+Acronyms …………….……….…………………………………………………………………………………………….....……214
+Airport …………….……….………………………………………………………………………………………………….....…165-168
+Authorized Position Schedule ………………………………………………………………………….....……….…………… 175
+B
+Budget Calendar …………….……….……………………………………………………………………………………………192
+Budget Process …………….……….…………………………………………………………………………………………….189-191
+C
+City Attorney …………….……………………………………………………………………………………….....……….…… 57- 60
+City Clerk …………….……………………………………………………………………………………….....……….…………43- 47
+City Council ……………………………………………………………………………………………….....……….……………39- 42
+City History ………………………………………………………………………………………………………….....……….… 18- 20
+City Manager …………………………………………………………………………………………….....……….………………51- 56
+City Officials ………………………………………………………………………………………………………….....……….…11
+City Treasurer ……………………………………………………………………………………………….....……….…………48- 50
+Comparative Data to Surrounding Cities …………….……….…………………………………………………………………206
+Current Debt Obligations …………….……….……………………………………………………………………………………210- 211
+D
+Demographics ………………………………………………………………………………………………………….....……… 16- 17
+Description of Funds ………………………………………………………………………………………………………….....…21
+Development Services ………………………………………………………………………………………………….....………103- 109
+E
+Economic and Community Development ……………………………………………………………………………………… 127- 137
+Expenditure Sources by Department ……………………………………………………………………………………………37- 38
+Expenditure Sources by Fund ……………………………………………………………………………………………………35- 36
+Expenditure Summary by Category ………………………………………………………………………………………………34
+F
+Finance …………….……….……………………………………………………………………………………………………...61- 65
+Fire …………….……….………………………………………………………………………………………………….....…… 87- 94
+Fund Balance Projection …………………………………………………………………………………………………………22- 23
+INDEX
+222
+
+
+INDEX
+G
+GANN Appropriations Limit …………….……….…………………………………………………………………………………197- 198
+General Fund Expenditures Trend Analysis …………….……….…………………………………………………………… 205
+General Fund Revenues (by category) …………………………………………………………………………………………33
+General Fund Revenue Sources …………….……….…………………………………………………………………………200- 203
+General Fund Revenue Trend Analysis …………….……….………………………………………………………………… 204
+Glossary of Terms …………….……….………………………………………………………………………………………… 215- 221
+H
+Harbor & Beaches…………….……….……………………………………………………………………………………………169-174
+Human Resources …………….……………………………………………………………………………………….....………66- 71
+L
+Library  …………….……….……………………………………………………………………………………….....……….……138- 144
+M
+Map of Oceanside ………………………………………………………………………………………………………….....……15
+Mission Statement ………………………………………………………………………………………………………….....……14
+N
+Neighborhood Services …………………………………………………………………………………………….....……….…111- 126
+Non-Departmental …………….……….……………………………………………………………………………………….... 72- 76
+O
+Organizational Chart ………………………………………………………………………………………………………….....…13
+P
+Police …………….………………………………………...……………………………………………………………………… 77- 85
+Public Works ……………………………………………………..…………………………………………………….....……… 95- 102
+R
+Resolutions …………….……….…………………………………………………………………………………………….....…193- 196
+Revenue Sources by Fund ……………………………………………………………………………………………………… 25- 26
+Revenue Sources by Type ……………………………………………………………………………………………………… 27- 32
+Revenue Summary by Fund ………………………………………………………………………………………………………24
+223
+
+
+INDEX
+S
+Sample Property Tax Bill …………….……….……………………………………………………………………………………199
+Schedule of Estimated Transfers …………….……….…………………………………………………………………………212- 213
+Sewer …………….……….……………………………………………………………………………………………….....…… 153- 159
+Solid Waste Disposal …………….……….………………………………………………………………………………………160- 164
+T
+Tax Comparisons …………….……….……………………………………………………………………………………………207- 209
+Transmittal Letter ………………………………………………………………………………………………………….....……1- 9
+W
+Water Utilities …………….……….……………………………………………………………………………………………… 145- 152
+224

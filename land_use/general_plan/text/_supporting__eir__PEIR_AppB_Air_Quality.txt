@@ -1,0 +1,12084 @@
+Onward Oceanside Recirculated PEIR 
+APPENDIX B 
+Air Quality Analysis:  
+CalEEMod Modelling and Calculation Data (RECON)  
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Oceanside GPU - Construction Detailed Report 
+Table of Contents 
+1 . Basic Project Information 
+1.1. Basic Project Information 
+1.2. Land Use Types 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+2. Emissions Summary 
+2.1. Construction Emissions Compared Against Thresholds 
+2.2. Construction Emissions by Year, Unmitigated 
+3. Construction Emissions Details 
+3.1. Demolition (2025) - Unmitigated 
+3.3. Site Preparation (2025) - Unmitigated 
+3.5. Grading (2025) - Unmitigated 
+3.7. Building Construction (2025) - Unmitigated 
+3.9. Building Construction (2026) - Unmitigated 
+3.11. Paving (2026) - Unmitigated 
+1 / 32 
+
+
+3.13. Architectural Coating (2025) - Unmitigated 
+4. Operations Emissions Details 
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+5. Activity Data 
+5.1. Construction Schedule 
+5.2. Off-Road Equipment 
+5.2.1. Unmitigated 
+5.3. Construction Vehicles 
+5.3.1. Unmitigated 
+5.4. Vehicles 
+5.4.1. Construction Vehicle Control Strategies 
+5.5. Architectural Coatings 
+5.6. Dust Mitigation 
+5.6.1. Construction Earthmoving Activities 
+2 /32 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+
+
+5.6.2. Construction Earthmoving Control Strategies 
+5.7. Construction Paving 
+5.8. Construction Electricity Consumption and Emissions Factors 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+6.2. Initial Climate Risk Scores 
+6.3. Adjusted Climate Risk Scores 
+6.4. Climate Risk Reduction Measures 
+7. Health and Equity Details 
+7 .1. CalEnviroScreen 4.0 Scores 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+3/32 
+
+
+7.2. Healthy Places Index Scores 
+7 .3. Overall Health & Equity Scores 
+7.4. Health & Equity Measures 
+7 .5. Evaluation Scorecard 
+7 .6. Health & Equity Custom Measures 
+8. User Changes to Default Data 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+4/32 
+
+
+1 . Basic Project Information 
+1 .1. Basic Project Information 
+Data Field 
+Project Name 
+Construction Start Date 
+Lead Agency 
+Land Use Scale 
+Analysis Level for Defaults 
+Windspeed (mis) 
+Precipitation (days) 
+Location 
+County 
+City 
+Air District 
+Air Basin 
+TAZ 
+EDFZ 
+Electric Utility 
+Gas Utility 
+App Version 
+1.2. Land Use Types 
+Land Use Subtype 
+Size 
+Apartments Mid Rise 450 
+Unit 
+Dwelling Unit 
+Lot Acreage 
+4.00 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Value 
+Oceanside GPU - Construction 
+1/1/2025 
+City of Oceanside 
+ProjecUsite 
+County 
+1.90 
+20.6 
+33.19476677689441 , -117.35644053868447 
+San Diego 
+Oceanside 
+San Diego County APCD 
+San Diego 
+6233 
+12 
+San Diego Gas & Electric 
+San Diego Gas & Electric 
+2022.1.1.21 
+Building Area (sq ft) 
+432,000 
+5/ 32 
+Landscape Area (sq 
+ft) 
+35,000 
+Special Landscape 
+Area (sq ft) 
+0.00 
+Population 
+Description 
+1,255 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Strip Mall 
+20.0 
+1000sqft 
+1.00 
+20,000 
+9,000 
+0.00 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+No measures selected 
+2. Emissions Summary 
+2.1. Construction Emissions Compared Against Thresholds 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+i'@foij■-----•Ail[l]◄iHIM·MiHIMli#Mliii#Mi·li#Miii 
+Hi=S•ti[ _____ 
+Daily, 
+Summer 
+(Max) 
+Unmit. 
+2.91 
+2.51 
+13.2 
+29.1 
+0.03 
+0.45 
+3.12 
+3.57 
+0.41 
+0.75 
+1.16 
+6,818 
+6,818 
+0.30 
+0.31 
+15.1 
+6,933 
+Daily, 
+Winter 
+(Max) 
+Unmit. 
+4.46 
+64.6 
+32.8 
+34.7 
+0.05 
+1.39 
+8.37 
+9.77 
+1.28 
+4.11 
+5.39 
+6,644 
+6,644 
+0.31 
+0.32 
+0.39 
+6,747 
+Average 
+Daily 
+(Max) 
+Unmit. 
+2.08 
+9.45 
+10.8 
+19.2 
+0.02 
+0.39 
+2.26 
+2.64 
+0.36 
+0.63 
+0.99 
+4,463 
+4,463 
+0.20 
+0.20 
+3.93 
+4,531 
+Annual 
+(Max) 
+Unmit. 
+0.38 
+1.72 
+1.97 
+3.50 
+< 0.005 
+0.07 
+0.41 
+0.48 
+0.07 
+0.12 
+0.18 
+739 
+739 
+0.03 
+0.03 
+0.65 
+750 
+Exceeds 
+(Daily 
+Max) 
+Threshol 
+250 
+250 
+550 
+250 
+100 
+67.0 
+d 
+Unmit. 
+No 
+No 
+No 
+No 
+No 
+No 
+6/ 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Exceeds 
+(Average 
+Daily) 
+Threshol 
+250 
+250 
+550 
+250 
+100 
+67.0 
+d 
+Unmit. 
+No 
+No 
+No 
+No 
+No 
+No 
+2.2. Construction Emissions by Year, Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+------•Hlt-1◄1HIM•l1Hl 111Mi#Mliii#Mi•l 1Htiii 
+Hi=S•ti[ _____ 
+Daily-
+Summer 
+(Max) 
+2025 
+2.91 
+2.51 
+13.2 
+29.1 
+0.03 
+0.45 
+3.12 
+3.57 
+0.41 
+0.75 
+1.16 
+6,818 
+6,818 
+0.30 
+0.31 
+15.1 
+6,933 
+Daily-
+Winter 
+(Max) 
+2025 
+4.46 
+64.6 
+32.8 
+34.7 
+0.05 
+1.39 
+8.37 
+9.77 
+1.28 
+4.11 
+5.39 
+6,644 
+6,644 
+0.31 
+0.32 
+0.39 
+6,747 
+2026 
+2.67 
+2.29 
+12.6 
+26.3 
+0.03 
+0.40 
+3.12 
+3.52 
+0.37 
+0.75 
+1.11 
+6,560 
+6,560 
+0.30 
+0.32 
+0.36 
+6,663 
+Average 
+Daily 
+2025 
+2.08 
+9.45 
+10.8 
+19.2 
+0.02 
+0.39 
+2.26 
+2.64 
+0.36 
+0.63 
+0.99 
+4,463 
+4,463 
+0.20 
+0.20 
+3.93 
+4,531 
+2026 
+0.21 
+0.20 
+1.11 
+2.13 
+< 0.005 
+0.04 
+0.20 
+0.23 
+0.04 
+0.05 
+0.08 
+483 
+483 
+0.02 
+0.02 
+0.38 
+490 
+Annual 
+2025 
+0.38 
+1.72 
+1.97 
+3.50 
+< 0.005 
+0.07 
+0.41 
+0.48 
+0.07 
+0.12 
+0.18 
+739 
+739 
+0.03 
+0.03 
+0.65 
+750 
+2026 
+0.04 
+0.04 
+0.20 
+0.39 
+< 0.005 
+0.01 
+0.04 
+0.04 
+0.01 
+0.01 
+0.01 
+80.0 
+80.0 
+< 0.005 
+< 0.005 
+0.06 
+81 .2 
+3. Construction Emissions Details 
+3.1. Demolition (2025) - Unmitigated 
+7 I 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+.j-iiili·i,i-----•HIM◄•Hiui•Mtwil 111M 1Htiil 1Hh&i·liHtiii 
+Hi=S•ti[ _____ 
+Onsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Off-Road 2.86 
+2.40 
+22.2 
+19.9 
+0.03 
+0.92 
+0.92 
+0.84 
+0.84 
+3,425 
+3,425 
+0.14 
+0.03 
+3,437 
+Equipment 
+Demolitio -
+0.62 
+0.62 
+0.09 
+0.09 
+n 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Average 
+Daily 
+Off-Road 0.16 
+0.13 
+1.22 
+1.09 
+< 0.005 
+0.05 
+0.05 
+0.05 
+0.05 
+188 
+188 
+0.01 
+< 0.005 
+188 
+Equipment 
+Demolitio -
+0.03 
+0.03 
+0.01 
+0.01 
+n 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Annual 
+Off-Road 0.03 
+0.02 
+0.22 
+0.20 
+< 0.005 
+0.01 
+0.01 
+0.01 
+0.01 
+31 .1 
+31 .1 
+< 0.005 
+< 0.005 
+31 .2 
+Equipment 
+Demolitio -
+0.01 
+0.01 
+< 0.005 
+< 0.005 
+n 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Offsite 
+Daily, 
+Summer 
+(Max) 
+8/ 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Daily, 
+Winter 
+(Max) 
+Worker 
+0.06 
+0.06 
+0.05 
+0.61 
+0.00 
+0.00 
+0.13 
+0.13 
+0.00 
+0.03 
+0.03 
+134 
+134 
+0.01 
+0.01 
+0.01 
+136 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.06 
+0.02 
+1.12 
+0.41 
+0.01 
+0.02 
+0.21 
+0.23 
+0.02 
+0.06 
+0.07 
+827 
+827 
+0.05 
+0.13 
+0.05 
+867 
+Average 
+Daily 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+0.03 
+0.00 
+0.00 
+0.01 
+0.01 
+0.00 
+< 0.005 
+< 0.005 
+7.43 
+7.43 
+< 0.005 
+< 0.005 
+0.01 
+7.54 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+< 0.005 
+< 0.005 
+0.06 
+0.02 
+< 0.005 
+< 0.005 
+0.01 
+0.01 
+< 0.005 
+< 0.005 
+< 0.005 
+45.3 
+45.3 
+< 0.005 
+0.01 
+0.04 
+47.5 
+Annual 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+0.01 
+0.00 
+0.00 
+< 0.005 
+< 0.005 
+0.00 
+< 0.005 
+< 0.005 
+1.23 
+1.23 
+< 0.005 
+< 0.005 
+< 0.005 
+1.25 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+< 0.005 
+< 0.005 
+0.01 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+7.50 
+7.50 
+< 0.005 
+< 0.005 
+0.01 
+7.87 
+3.3. Site Preparation (2025) - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+a-i&iii·i,Y-llllmll--•HIM◄i#IIM·Mi#ilViii#Mliii#Mi·li#Miii 
+Hi=S-►1 1-IIIIIBI-EIII 
+Onsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Off-Road 3.94 
+3.31 
+31 .6 
+30.2 
+0.05 
+1.37 
+1.37 
+1.26 
+1.26 
+5,295 
+5,295 
+0.21 
+0.04 
+5,314 
+Equipment 
+9/ 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Dust 
+7.67 
+7.67 
+3.94 
+3.94 
+From 
+Material 
+Movemen·: 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Average 
+Daily 
+Off-Road 0.11 
+0.09 
+0.87 
+0.83 
+< 0.005 
+0.04 
+0.04 
+0.03 
+0.03 
+145 
+145 
+0.01 
+< 0.005 
+146 
+Equipment 
+Dust 
+0.21 
+0.21 
+0.11 
+0.11 
+From 
+Material 
+Movemen: 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Annual 
+Off-Road 0.02 
+0.02 
+0.16 
+0.15 
+< 0.005 
+0.01 
+0.01 
+0.01 
+0.01 
+24.0 
+24.0 
+< 0.005 
+< 0.005 
+24.1 
+Equipment 
+Dust 
+0.04 
+0.04 
+0.02 
+0.02 
+From 
+Material 
+Movemen: 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Offsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Worker 
+0.08 
+0.07 
+0.06 
+0.71 
+0.00 
+0.00 
+0.15 
+0.15 
+0.00 
+0.03 
+0.03 
+157 
+157 
+0.01 
+0.01 
+0.02 
+159 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+10 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Average 
+Daily 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+0.02 
+0.00 
+0.00 
+< 0.005 
+< 0.005 
+0.00 
+< 0.005 
+< 0.005 
+4.33 
+4.33 
+< 0.005 
+< 0.005 
+0.01 
+4.40 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+0.00 
+0.00 
+< 0.005 
+< 0.005 
+0.00 
+< 0.005 
+< 0.005 
+0.72 
+0.72 
+< 0.005 
+< 0.005 
+< 0.005 
+0.73 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+3.5. Grading (2025) - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+B·i&iii·i,Y-1111---•Hlt-i◄iHIM·Mi#IIVili#M&iii#Mi·li#Miii 
+Hi=S•tl1-IIIIIBI--
+Onsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Off-Road 2.07 
+1.74 
+16.3 
+17.9 
+0.03 
+0.72 
+0.72 
+0.66 
+0.66 
+2,959 
+2,959 
+0.12 
+0.02 
+2,970 
+Equipment 
+Dust 
+2.76 
+2.76 
+1.34 
+1.34 
+From 
+Material 
+Movemen: 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Average 
+Daily 
+Off-Road 0.11 
+0.10 
+0.89 
+0.98 
+< 0.005 
+0.04 
+0.04 
+0.04 
+0.04 
+162 
+162 
+0.01 
+< 0.005 
+163 
+Equipment 
+11 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Dust 
+0.15 
+0.15 
+0.07 
+0.07 
+From 
+Material 
+Movemen·: 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Annual 
+Off-Road 0.02 
+0.02 
+0.16 
+0.18 
+< 0.005 
+0.01 
+0.01 
+0.01 
+0.01 
+26.8 
+26.8 
+< 0.005 
+< 0.005 
+26.9 
+Equipment 
+Dust 
+0.03 
+0.03 
+0.01 
+0.01 
+From 
+Material 
+Movemen: 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Offsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Worker 
+0.06 
+0.06 
+0.05 
+0.61 
+0.00 
+0.00 
+0.13 
+0.13 
+0.00 
+0.03 
+0.03 
+134 
+134 
+0.01 
+0.01 
+0.01 
+136 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Average 
+Daily 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+0.03 
+0.00 
+0.00 
+0.01 
+0.01 
+0.00 
+< 0.005 
+< 0.005 
+7.43 
+7.43 
+< 0.005 
+< 0.005 
+0.01 
+7.54 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+0.01 
+0.00 
+0.00 
+< 0.005 
+< 0.005 
+0.00 
+< 0.005 
+< 0.005 
+1.23 
+1.23 
+< 0.005 
+< 0.005 
+< 0.005 
+1.25 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+12 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+3.7. Building Construction (2025) - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+a-i&ili·!,i--llll--•HIMW•Hiui·MiHl111MiHtiiiiiU&i·INMiii 
+Hi=S•ti[ _____ 
+Onsite 
+Daily, 
+Summer 
+(Max) 
+Off-Road 1.35 
+1.13 
+10.4 
+13.0 
+0.02 
+0.43 
+0.43 
+0.40 
+0.40 
+2,398 
+2,398 
+0.10 
+0.02 
+2,406 
+Equipment 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Daily, 
+Winter 
+(Max) 
+Off-Road 1.35 
+1.13 
+10.4 
+13.0 
+0.02 
+0.43 
+0.43 
+0.40 
+0.40 
+2,398 
+2,398 
+0.10 
+0.02 
+2,406 
+Equipment 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Average 
+Daily 
+Off-Road 0.77 
+0.64 
+5.97 
+7.45 
+0.01 
+0.25 
+0.25 
+0.23 
+0.23 
+1,370 
+1,370 
+0.06 
+0.01 
+1,375 
+Equipment 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Annual 
+Off-Road 0.14 
+0.12 
+1.09 
+1.36 
+< 0.005 
+0.05 
+0.05 
+0.04 
+0.04 
+227 
+227 
+0.01 
+< 0.005 
+228 
+Equipment 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Offsite 
+13 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Daily, 
+Summer 
+(Max) 
+Worker 
+1.45 
+1.33 
+1.01 
+15.3 
+0.00 
+0.00 
+2.79 
+2.79 
+0.00 
+0.65 
+0.65 
+3,135 
+3,135 
+0.15 
+0.11 
+11 .8 
+3,183 
+Vendor 
+0.11 
+0.05 
+1.71 
+0.79 
+0.01 
+0.02 
+0.33 
+0.35 
+0.02 
+0.09 
+0.11 
+1,286 
+1,286 
+0.06 
+0.18 
+3.34 
+1,345 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Daily, 
+Winter 
+(Max) 
+Worker 
+1.43 
+1.31 
+1.13 
+13.4 
+0.00 
+0.00 
+2.79 
+2.79 
+0.00 
+0.65 
+0.65 
+2,960 
+2,960 
+0.16 
+0.12 
+0.31 
+2,999 
+Vendor 
+0.11 
+0.05 
+1.78 
+0.82 
+0.01 
+0.02 
+0.33 
+0.35 
+0.02 
+0.09 
+0.11 
+1,287 
+1,287 
+0.06 
+0.18 
+0.09 
+1,342 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Average 
+Daily 
+Worker 
+0.81 
+0.74 
+0.64 
+7.77 
+0.00 
+0.00 
+1.58 
+1.58 
+0.00 
+0.37 
+0.37 
+1,707 
+1,707 
+0.09 
+0.07 
+2.90 
+1,732 
+Vendor 
+0.06 
+0.03 
+1.01 
+0.46 
+< 0.005 
+0.01 
+0.19 
+0.20 
+0.01 
+0.05 
+0.06 
+735 
+735 
+0.03 
+0.10 
+0.83 
+768 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Worker 
+0.15 
+0.14 
+0.12 
+1.42 
+0.00 
+0.00 
+0.29 
+0.29 
+0.00 
+0.07 
+0.07 
+283 
+283 
+0.01 
+0.01 
+0.48 
+287 
+Vendor 
+0.01 
+0.01 
+0.18 
+0.08 
+< 0.005 
+< 0.005 
+0.03 
+0.04 
+< 0.005 
+0.01 
+0.01 
+122 
+122 
+0.01 
+0.02 
+0.14 
+127 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+3.9. Building Construction (2026) - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+a-i&ili·i,i _____ 
+iHU-IWiHIM·MiHl111M1HtiiiiHh&i·liWMiii 
+Hi=S•ti[ _____ 
+Onsite 
+Daily, 
+Summer 
+(Max) 
+14 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Daily, 
+Winter 
+(Max) 
+Off-Road 1.28 
+1.07 
+9.85 
+13.0 
+0.02 
+0.38 
+0.38 
+0.35 
+0.35 
+2,397 
+2,397 
+0.10 
+0.02 
+2,405 
+Equipment 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Average 
+Daily 
+Off-Road 0.08 
+0.06 
+0.60 
+0.79 
+< 0.005 
+0.02 
+0.02 
+0.02 
+0.02 
+145 
+145 
+0.01 
+< 0.005 
+146 
+Equipment 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Annual 
+Off-Road 0.01 
+0.01 
+0.11 
+0.14 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+24.1 
+24.1 
+< 0.005 
+< 0.005 
+24.2 
+Equipment 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Offsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Worker 
+1.30 
+1.18 
+1.03 
+12.6 
+0.00 
+0.00 
+2.79 
+2.79 
+0.00 
+0.65 
+0.65 
+2,900 
+2,900 
+0.15 
+0.12 
+0.28 
+2,939 
+Vendor 
+0.10 
+0.04 
+1.69 
+0.78 
+0.01 
+0.02 
+0.33 
+0.35 
+0.02 
+0.09 
+0.11 
+1,263 
+1,263 
+0.05 
+0.18 
+0.08 
+1,318 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Average 
+Daily 
+Worker 
+0.08 
+0.07 
+0.06 
+0.77 
+0.00 
+0.00 
+0.17 
+0.17 
+0.00 
+0.04 
+0.04 
+178 
+178 
+0.01 
+0.01 
+0.28 
+180 
+Vendor 
+0.01 
+< 0.005 
+0.10 
+0.05 
+< 0.005 
+< 0.005 
+0.02 
+0.02 
+< 0.005 
+0.01 
+0.01 
+76.6 
+76.6 
+< 0.005 
+0.01 
+0.08 
+80.0 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+15 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Annual 
+Worker 
+0.01 
+0.01 
+0.01 
+0.14 
+0.00 
+0.00 
+0.03 
+0.03 
+0.00 
+0.01 
+0.01 
+29.4 
+29.4 
+< 0.005 
+< 0.005 
+0.05 
+29.8 
+Vendor 
+< 0.005 
+< 0.005 
+0.02 
+0.01 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+12.7 
+12.7 
+< 0.005 
+< 0.005 
+0.01 
+13.3 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+3.11. Paving (2026) - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+;;,i¥iil·i,i _____ 
+1Hlt-1◄1HIM•M 1HIMMiHti1iiHti·liHtiii 
+Hi=M•ti[-mllllllll-BIII 
+Onsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Off-Road 0.81 
+0.68 
+6.23 
+8.81 
+0.01 
+0.26 
+0.26 
+0.24 
+0.24 
+1,350 
+1,350 
+0.05 
+0.01 
+1,355 
+Equipment 
+Paving 
+0.33 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Average 
+Daily 
+Off-Road 0.04 
+0.04 
+0.34 
+0.48 
+< 0.005 
+0.01 
+0.01 
+0.01 
+0.01 
+74.0 
+74.0 
+< 0.005 
+< 0.005 
+74.2 
+Equipment 
+Paving 
+0.02 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Annual 
+Off-Road 0.01 
+0.01 
+0.06 
+0.09 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+12.2 
+12.2 
+< 0.005 
+< 0.005 
+12.3 
+Equipment 
+Paving 
+< 0.005 
+16 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Offsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Worker 
+0.08 
+0.07 
+0.06 
+0.76 
+0.00 
+0.00 
+0.17 
+0.17 
+0.00 
+0.04 
+0.04 
+176 
+176 
+0.01 
+0.01 
+0.02 
+178 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Average 
+Daily 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+0.04 
+0.00 
+0.00 
+0.01 
+0.01 
+0.00 
+< 0.005 
+< 0.005 
+9.71 
+9.71 
+< 0.005 
+< 0.005 
+0.02 
+9.85 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Worker 
+< 0.005 
+< 0.005 
+< 0.005 
+0.01 
+0.00 
+0.00 
+< 0.005 
+< 0.005 
+0.00 
+< 0.005 
+< 0.005 
+1.61 
+1.61 
+< 0.005 
+< 0.005 
+< 0.005 
+1.63 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+3.13. Architectural Coating (2025) - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+-i·i&ili·i,i--llll--•HIMMiHiui·MiHl111MiHtiiiiHti•iiWMiii 
+Hi=S•ti[ _____ 
+Onsite 
+Daily, 
+Summer 
+(Max) 
+17 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Daily, 
+Winter 
+(Max) 
+Off-Road 0.15 
+0.13 
+0.88 
+1.14 
+< 0.005 
+0.03 
+0.03 
+0.03 
+0.03 
+134 
+134 
+0.01 
+< 0.005 
+134 
+Equipment 
+Architect 
+60.8 
+ural 
+Coatings 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Average 
+Daily 
+Off-Road 0.02 
+0.02 
+0.11 
+0.14 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+16.8 
+16.8 
+< 0.005 
+< 0.005 
+16.9 
+Equipment 
+Architect 
+7.66 
+ural 
+Coatings 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Annual 
+Off-Road < 0.005 
+< 0.005 
+0.02 
+0.03 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+< 0.005 
+2.79 
+2.79 
+< 0.005 
+< 0.005 
+2.80 
+Equipment 
+Architect 
+1.40 
+ural 
+Coatings 
+Onsite 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+truck 
+Offsite 
+Daily, 
+Summer 
+(Max) 
+Daily, 
+Winter 
+(Max) 
+Worker 
+0.29 
+0.26 
+0.23 
+2.68 
+0.00 
+0.00 
+0.56 
+0.56 
+0.00 
+0.13 
+0.13 
+592 
+592 
+0.03 
+0.02 
+0.06 
+600 
+18 / 32 
+
+
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Average 
+Daily 
+Worker 
+0.04 
+0.03 
+0.03 
+0.34 
+0.00 
+0.00 
+0.07 
+0.07 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Worker 
+0.01 
+0.01 
+0.01 
+0.06 
+0.00 
+0.00 
+0.01 
+0.01 
+Vendor 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Hauling 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+4. Operations Emissions Details 
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.02 
+0.02 
+75.3 
+75.3 
+< 0.005 
+< 0.005 
+0.13 
+76.4 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+< 0.005 
+< 0.005 
+12.5 
+12.5 
+< 0.005 
+< 0.005 
+0.02 
+12.6 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+• 
+19 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+E·iilii◄-----•HIMW•Hiui·MiHl 111MiHtiiiiiU&i·INMiii 
+Daily, 
+Summer 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+20 / 32 
+• 
+
+
+Daily, 
+Winter 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+Annual 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+5. Activity Data 
+5.1. Construction Schedule 
+Phase Name 
+Phase Type 
+Demolition 
+Demolition 
+Site Preparation 
+Site Preparation 
+Start Date 
+1/1/2025 
+1/30/2025 
+End Date 
+1/29/2025 
+2/13/2025 
+21 / 32 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Days Per Week 
+5.00 
+5.00 
+Work Days per Phase 
+20.0 
+10.0 
+Phase Description 
+
+
+Grading 
+Building Construction 
+Paving 
+Architectural Coating 
+Grading 
+Building Construction 
+Paving 
+Architectural Coating 
+5.2. Off-Road Equipment 
+5.2.1. Unmitigated 
+Phase Name 
+Equipment Type 
+Demolition 
+Rubber Tired Dozers 
+Demolition 
+Concrete/Industrial 
+Saws 
+Demolition 
+Excavators 
+Site Preparation 
+Rubber Tired Dozers 
+Site Preparation 
+Tractors/Loaders/Backh 
+oes 
+Grading 
+Graders 
+Grading 
+Excavators 
+Grading 
+Tractors/Loaders/Backh 
+oes 
+Grading 
+Rubber Tired Dozers 
+Building Construction 
+Cranes 
+Building Construction 
+Forklifts 
+Building Construction 
+Generator Sets 
+Building Construction 
+Welders 
+Building Construction 
+Tractors/Loaders/Backh 
+oes 
+Paving 
+Tractors/Loaders/Backh 
+oes 
+2/14/2025 
+3/15/2025 
+2/1/2026 
+1/10/2025 
+Fuel Type 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+Diesel 
+3/14/2025 
+1/31/2026 
+3/1/2026 
+3/14/2025 
+Engine Tier 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+Average 
+5.00 
+5.00 
+5.00 
+5.00 
+Number per Day 
+2.00 
+1.00 
+3.00 
+3.00 
+4.00 
+1.00 
+1.00 
+3.00 
+1.00 
+1.00 
+3.00 
+1.00 
+1.00 
+3.00 
+1.00 
+22 / 32 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Hours Per Day 
+8.00 
+8.00 
+8.00 
+8.00 
+8.00 
+8.00 
+8.00 
+8.00 
+8.00 
+7.00 
+8.00 
+8.00 
+8.00 
+7.00 
+8.00 
+20.0 
+230 
+20.0 
+46.0 
+Horsepower 
+Load Factor 
+367 
+0.40 
+33.0 
+0.73 
+36.0 
+0.38 
+367 
+0.40 
+84.0 
+0.37 
+148 
+0.41 
+36.0 
+0.38 
+84.0 
+0.37 
+367 
+0.40 
+367 
+0.29 
+82.0 
+0.20 
+14.0 
+0.74 
+46.0 
+0.45 
+84.0 
+0.37 
+84.0 
+0.37 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Paving 
+Cement and Mortar 
+Diesel 
+Average 
+2.00 
+6.00 
+10.0 
+0.56 
+Mixers 
+Paving 
+Pavers 
+Diesel 
+Average 
+1.00 
+8.00 
+81 .0 
+0.42 
+Paving 
+Paving Equipment 
+Diesel 
+Average 
+2.00 
+6.00 
+89.0 
+0.36 
+Paving 
+Rollers 
+Diesel 
+Average 
+2.00 
+6.00 
+36.0 
+0.38 
+Architectural Coating 
+Air Compressors 
+Diesel 
+Average 
+1.00 
+6.00 
+37.0 
+0.48 
+5.3. Construction Vehicles 
+5.3.1. Unmitigated 
+Phase Name 
+Trip Type 
+One-Way Trips per Day 
+Miles per Trip 
+Vehicle Mix 
+Demolition 
+Demolition 
+Worker 
+15.0 
+12.0 
+LDA,LDT1 ,LDT2 
+Demolition 
+Vendor 
+7.63 
+HHDT,MHDT 
+Demolition 
+Hauling 
+11.5 
+20.0 
+HHDT 
+Demolition 
+Onsite truck 
+HHDT 
+Site Preparation 
+Site Preparation 
+Worker 
+17.5 
+12.0 
+LDA,LDT1 ,LDT2 
+Site Preparation 
+Vendor 
+7.63 
+HHDT,MHDT 
+Site Preparation 
+Hauling 
+0.00 
+20.0 
+HHDT 
+Site Preparation 
+Onsite truck 
+HHDT 
+Grading 
+Grading 
+Worker 
+15.0 
+12.0 
+LDA,LDT1 ,LDT2 
+Grading 
+Vendor 
+7.63 
+HHDT,MHDT 
+Grading 
+Hauling 
+0.00 
+20.0 
+HHDT 
+Grading 
+Onsite truck 
+HHDT 
+Building Construction 
+Building Construction 
+Worker 
+330 
+12.0 
+LDA,LDT1 ,LDT2 
+23 / 32 
+
+
+Building Construction 
+Vendor 
+Building Construction 
+Hauling 
+Building Construction 
+Onsite truck 
+Paving 
+Paving 
+Worker 
+Paving 
+Vendor 
+Paving 
+Hauling 
+Paving 
+Onsite truck 
+Architectural Coating 
+Architectural Coating 
+Worker 
+Architectural Coating 
+Vendor 
+Architectural Coating 
+Hauling 
+Architectural Coating 
+Onsite truck 
+5.4. Vehicles 
+5.4.1. Construction Vehicle Control Strategies 
+Non-applicable. No control strategies activated by user. 
+5.5. Architectural Coatings 
+Phase Name 
+Architectural Coating 
+5.6. Dust Mitigation 
+Residential Interior Area Coated 
+(sq ft) 
+874,800 
+5.6.1. Construction Earthmoving Activities 
+Phase Name 
+Material Imported (cy) 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+51.4 
+0.00 
+20.0 
+0.00 
+66.1 
+0.00 
+Residential Exterior Area Coated 
+(sq ft) 
+291 ,600 
+Material Exported (cy) 
+7.63 
+20.0 
+12.0 
+7.63 
+20.0 
+12.0 
+7.63 
+20.0 
+Non-Residential Interior Area 
+Coated (sq ft) 
+30,000 
+Acres Graded (acres) 
+24 / 32 
+HHDT,MHDT 
+HHDT 
+HHDT 
+LDA,LDT1 ,LDT2 
+HHDT,MHDT 
+HHDT 
+HHDT 
+LDA,LDT1 ,LDT2 
+HHDT,MHDT 
+HHDT 
+HHDT 
+Non-Residential Exterior Area 
+Coated (sq ft) 
+Parking Area Coated (sq ft) 
+10,000 
+Material Demolished (Building 
+Square Footage) 
+Acres Paved (acres) 
+
+
+Demolition 
+0.00 
+0.00 
+Site Preparation 
+Grading 
+Paving 
+0.00 
+0.00 
+5.6.2. Construction Earthmoving Control Strategies 
+Control Strategies Applied 
+Water Exposed Area 
+Water Demolished Area 
+5. 7. Construction Paving 
+Land Use 
+Apartments Mid Rise 
+Strip Mall 
+Frequency (per day) 
+2 
+2 
+Area Paved (acres) 
+2.00 
+0.50 
+5.8. Construction Electricity Consumption and Emissions Factors 
+kWh per Year and Emission Factor (lb/MWh) 
+Year 
+2025 
+2026 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+kWh per Year 
+0.00 
+0.00 
+589 
+589 
+0.00 
+15.0 
+20.0 
+0.00 
+PM10 Reduction 
+61% 
+36% 
+25 / 32 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+0.03 
+0.03 
+20,000 
+0.00 
+0.00 
+0.00 
+% Asphalt 
+100% 
+100% 
+2.50 
+PM2.5 Reduction 
+61% 
+36% 
+< 0.005 
+< 0.005 
+
+
+Vegetation Land Use Type 
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+Biomass Cover Type 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+Tree Type 
+Vegetation Soil Type 
+Initial Acres 
+Number 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Initial Acres 
+Final Acres 
+Final Acres 
+Electricity Saved (kWh/year) 
+Natural Gas Saved (btu/year) 
+Cal-Adapt midcentury 2040-2059 average projections for four hazards are reported below for your project location. These are under Representation Concentration Pathway (RCP) 8.5 which assumes GHG 
+emissions will continue to rise strongly through 2050 and then plateau around 2100. 
+I Climate Hazard 
+Temperature and Extreme Heat 
+Extreme Precipitation 
+Sea Level Rise 
+Wildfire 
+Result for Project Location 
+8.18 
+3.30 
+18.8 
+Unit 
+annual days of extreme heat 
+annual days with precipitation above 20 mm 
+meters of inundation depth 
+annual hectares burned 
+Temperature and Extreme Heat data are for grid cell in which your project are located. The projection is based on the 98th historical percentile of daily maximum/minimum temperatures from observed 
+historical data (32 climate model ensemble from Cal-Adapt, 2040-2059 average under RCP 8.5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Extreme Precipitation data are for the grid cell in which your project are located. The threshold of 20 mm is equivalent to about¾ an inch of rain, which would be light to moderate rainfall if received over a full 
+day or heavy rain if received over a period of 2 to 4 hours. Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Sea Level Rise data are for the grid cell in which your project are located. The projections are from Radke et al. (2017), as reported in Cal-Adapt (Radke et al., 2017, CEC-500-2017-008), and consider 
+inundation location and depth for the San Francisco Bay, the Sacramento-San Joaquin River Delta and California coast resulting different increments of sea level rise coupled with extreme storm events. 
+Users may select from four scenarios to view the range in potential inundation depth for the grid cell. The four scenarios are: No rise, 0.5 meter, 1.0 meter, 1.41 meters 
+26 I 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Wildfire data are for the grid cell in which your project are located. The projections are from UC Davis, as reported in Cal-Adapt (2040-2059 average under RCP 8.5), and consider historical data of climate, 
+vegetation, population density, and large(> 400 ha) fire history. Users may select from four model simulations to view the range in potential wildfire probabilities for the grid cell. The four simulations make 
+different assumptions about expected rainfall and temperature are: Warmer/drier (HadGEM2-ES), Cooler/wetter (CNRM-CM5), Average conditions (CanESM2), Range of different rainfall and temperature 
+possibilities (MIROC5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+6.2. Initial Climate Risk Scores 
+Climate Hazard 
+Exposure Score 
+Temperature and Extreme Heat 
+N/A 
+Extreme Precipitation 
+N/A 
+Sea Level Rise 
+Wildfire 
+Flooding 
+Drought 
+Snowpack Reduction 
+Air Quality Degradation 
+0 
+N/A 
+N/A 
+N/A 
+Sensitivity Score 
+Adaptive Capacity Score 
+Vulnerability Score 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+0 
+0 
+N/A 
+0 
+0 
+N/A 
+0 
+0 
+NIA 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+NIA 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores do not include implementation of climate risk reduction measures. 
+6.3. Adjusted Climate Risk Scores 
+Climate Hazard 
+Exposure Score 
+Sensitivity Score 
+Adaptive Capacity Score 
+Vulnerability Score 
+Temperature and Extreme Heat 
+N/A 
+N/A 
+N/A 
+N/A 
+Extreme Precipitation 
+N/A 
+N/A 
+N/A 
+N/A 
+Sea Level Rise 
+1 
+2 
+Wildfire 
+1 
+2 
+Flooding 
+1 
+2 
+Drought 
+N/A 
+N/A 
+N/A 
+NIA 
+Snowpack Reduction 
+N/A 
+N/A 
+N/A 
+N/A 
+27 / 32 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Air Quality Degradation 
+N/A 
+N/A 
+N/A 
+N/A 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores include implementation of climate risk reduction measures. 
+6.4. Climate Risk Reduction Measures 
+7. Health and Equity Details 
+7.1. CalEnviroScreen 4.0 Scores 
+The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Exposure Indicators 
+AO-Ozone 
+29.9 
+AQ-PM 
+46.1 
+AQ-DPM 
+66.0 
+Drinking Water 
+54.3 
+Lead Risk Housing 
+57.5 
+Pesticides 
+0.00 
+Toxic Releases 
+15.2 
+Traffic 
+60.3 
+Effect Indicators 
+Cleanup Sites 
+2.07 
+Groundwater 
+74.8 
+Haz Waste Facilities/Generators 
+58.3 
+Impaired Water Bodies 
+72.2 
+Solid Waste 
+72.4 
+28 / 32 
+
+
+Sensitive Population 
+Asthma 
+Cardio-vascular 
+Low Birth Weights 
+Socioeconomic Factor Indicators 
+Education 
+Housing 
+Linguistic 
+Poverty 
+Unemployment 
+7.2. Healthy Places Index Scores 
+22.2 
+30.5 
+46.8 
+77.1 
+88.5 
+61.1 
+77.4 
+89.2 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Economic 
+Above Poverty 
+17.87501604 
+Employed 
+27.87116643 
+Median HI 
+22.85384319 
+Education 
+Bachelor's or higher 
+22.50737842 
+High school enrollment 
+100 
+Preschool enrollment 
+63.42871808 
+Transportation 
+Auto Access 
+21 .39099192 
+Active commuting 
+68.24072886 
+Social 
+2-parent households 
+76.04260234 
+29 / 32 
+
+
+Voting 
+Neighborhood 
+Alcohol availability 
+Park access 
+Retail density 
+Supermarket access 
+Tree canopy 
+Housing 
+Homeownership 
+Housing habitability 
+Low-inc homeowner severe housing cost burden 
+Low-inc renter severe housing cost burden 
+Uncrowded housing 
+Health Outcomes 
+Insured adults 
+Arthritis 
+Asthma ER Admissions 
+High Blood Pressure 
+Cancer (excluding skin) 
+Asthma 
+Coronary Heart Disease 
+Chronic Obstructive Pulmonary Disease 
+Diagnosed Diabetes 
+Life Expectancy at Birth 
+Cognitively Disabled 
+Physically Disabled 
+Heart Attack ER Admissions 
+42.74348775 
+37.28987553 
+81 .35506224 
+97.33093802 
+81.40639035 
+34.83895804 
+14.03823945 
+33.85089183 
+78.50635185 
+33.00397793 
+30.36058001 
+11.03554472 
+56.7 
+38.3 
+82.7 
+71 .8 
+19.7 
+51 .0 
+22.0 
+44.3 
+36.7 
+44.8 
+46.5 
+36.2 
+30 / 32 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+
+
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Mental Health Not Good 
+16.4 
+Chronic Kidney Disease 
+45.1 
+Obesity 
+30.3 
+Pedestrian Injuries 
+80.7 
+Physical Health Not Good 
+28.8 
+Stroke 
+39.4 
+Health Risk Behaviors 
+Binge Drinking 
+22.7 
+Current Smoker 
+17.7 
+No Leisure Time for Physical Activity 
+26.0 
+Climate Change Exposures 
+Wildfire Risk 
+0.0 
+SLR Inundation Area 
+0.0 
+Children 
+12.4 
+Elderly 
+86.3 
+English Speaking 
+14.5 
+Foreign-born 
+60.4 
+Outdoor Workers 
+30.8 
+Climate Change Adaptive Capacity 
+Impervious Surface Cover 
+45.1 
+Traffic Density 
+89.8 
+Traffic Access 
+59.1 
+Other Indices 
+Hardship 
+68.4 
+Other Decision Support 
+2016 Voting 
+49.7 
+31 / 32 
+
+
+7.3. Overall Health & Equity Scores 
+Metric 
+CalEnviroScreen 4.0 Score for Project Location (a) 
+Healthy Places Index Score for Project Location (b) 
+Project Located in a Designated Disadvantaged Community (Senate Bill 535) 
+Project Located in a Low-Income Community (Assembly Bill 1550) 
+Project Located in a Community Air Protection Program Community (Assembly Bill 617) 
+Oceanside GPU - Construction Detailed Report, 2/21/2024 
+Result for Project Census Tract 
+63.0 
+32.0 
+No 
+Yes 
+No 
+a: The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+b: The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+7.4. Health & Equity Measures 
+No Health & Equity Measures selected. 
+7.5. Evaluation Scorecard 
+Health & Equity Evaluation Scorecard not completed. 
+7.6. Health & Equity Custom Measures 
+No Health & Equity Custom Measures created. 
+8. User Changes to Default Data 
+Screen 
+Land Use 
+Construction: Construction Phases 
+Construction: Paving 
+Justification 
+450 units, 20,000 sf retail 
+Architectural coatings simultaneous with last 20% of building construction 
+50% paved 
+32 / 32 
+
+
+BASELINE 2016 
+Summer 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Winter 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Mobile 
+977.24 
+760.91 
+2,353.82 
+17,841.62 
+30.34 
+41.55 
+2,248.46 
+2,290.01 
+39.26 
+570.33 
+609.59 
+Mobile 
+992.08 
+778.10 
+2,584.06 
+15,470.01 
+28.85 
+41.55 
+2,248.46 
+2,290.01 
+39.26 
+570.33 
+609.59 
+Area 
+753.85 
+4,796.41 
+56.98 
+5,125.49 
+0.25 
+6.46 
+6.46 
+4.88 
+4.88 
+Area 
+0.00 
+4,084.86 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Energy 
+61.80 
+30.90 
+539.38 
+307.09 
+3.37 
+42.70 
+42.70 
+42.70 
+42.70 
+Energy 
+61.80 
+30.90 
+539.38 
+307.09 
+3.37 
+42.70 
+42.70 
+42.70 
+42.70 
+Total 
+1,792.89 
+5,588.23 
+2,950.18 23,274.20 
+33.97 
+90.71 
+2,248.46 
+2,339.17 
+86.84 
+570.33 
+657.17 
+Total 
+1,053.89 
+4,893.87 
+3,123.44 
+15,777.10 
+32.22 
+84.25 
+2,248.46 
+2,332.71 
+81.96 
+570.33 
+652.30 
+ADOPTED GENERAL PLAN 2050 
+Summer 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Winter 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Mobile 
+274.17 
+213.93 
+317.67 
+5,797.77 
+20.84 
+7.77 
+2,362.74 
+2,370.50 
+7.28 
+598.83 
+606.11 
+Mobile 
+265.28 
+207.08 
+348.95 
+4,909.13 
+19.84 
+7.77 
+2,362.74 
+2,370.50 
+7.28 
+598.83 
+606.11 
+Area 
+687.45 
+4,140.07 
+52.31 
+5,843.86 
+0.28 
+4.96 
+4.96 
+3.75 
+3.75 
+Area 
+0.00 
+3,496.68 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Energy 
+72.66 
+36.33 
+637.46 
+385.75 
+3.96 
+50.20 
+50.20 
+50.20 
+50.20 
+Energy 
+72.66 
+36.33 
+637.46 
+385.75 
+3.96 
+50.20 
+50.20 
+50.20 
+50.20 
+Total 
+1,034.27 
+4,390.34 
+1,007.44 12,027.38 
+25.09 
+62.93 
+2,362.74 
+2,425.67 
+61.23 
+598.83 
+660.06 
+Total 
+337.94 
+3,740.09 
+986.41 
+5,294.87 
+23.81 
+57.97 
+2,362.74 
+2,420.70 
+57.48 
+598.83 
+656.31 
+GPU 2050 
+Summer 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Winter 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Mobile 
+316.29 
+246.80 
+366.48 
+6,688.57 
+24.05 
+8.96 
+2,725.76 
+2,734.72 
+8.39 
+690.84 
+699.24 
+Mobile 
+306.04 
+238.90 
+402.56 
+5,663.39 
+22.89 
+8.96 
+2,725.76 
+2,734.72 
+8.39 
+690.84 
+699.24 
+Area 
+777.39 
+4,667.33 
+60.11 
+6,704.49 
+0.32 
+5.52 
+5.52 
+4.18 
+4.18 
+Area 
+0.00 
+3,939.32 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Energy 
+81.08 
+40.54 
+711.17 
+429.33 
+4.42 
+56.02 
+56.02 
+56.02 
+56.02 
+Energy 
+81.08 
+40.54 
+711.17 
+429.33 
+4.42 
+56.02 
+56.02 
+56.02 
+56.02 
+Total 
+1,174.76 
+4,954.67 
+1,137.77 13,822.39 
+28.79 
+70.50 
+2,725.76 
+2,796.26 
+68.59 
+690.84 
+759.43 
+Total 
+387.12 
+4,218.76 
+1,113.73 
+6,092.72 
+27.32 
+64.98 
+2,725.76 
+2,790.74 
+64.41 
+690.84 
+755.25 
+Change over Existing 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Mobile 
+-67.6% 
+-67.6% 
+-84.4% 
+-62.5% 
+-20.8% 
+-78.4% 
+21.2% 
+19.4% 
+-78.6% 
+21.1% 
+14.7% 
+Mobile 
+-69.2% 
+-69.3% 
+-84.4% 
+-63.4% 
+-20.6% 
+-78.4% 
+21.2% 
+19.4% 
+-78.6% 
+21.1% 
+14.7% 
+Area 
+3.1% 
+-2.7% 
+5.5% 
+30.8% 
+27.3% 
+-14.5% 
+-14.5% 
+-14.4% 
+-14.4% 
+Area 
+-3.6% 
+Energy 
+31.2% 
+31.2% 
+31.9% 
+39.8% 
+31.2% 
+31.2% 
+31.2% 
+31.2% 
+31.2% 
+Energy 
+31.2% 
+31.2% 
+31.9% 
+39.8% 
+31.2% 
+31.2% #VALUE! 
+31.2% 
+31.2% #VALUE! 
+31.2% 
+Total 
+-34.5% 
+-11.3% 
+-61.4% 
+-40.6% 
+-15.2% 
+-22.3% 
+21.2% 
+19.5% 
+-21.0% 
+21.1% 
+15.6% 
+Total 
+-63.3% 
+-13.8% 
+-64.3% 
+-61.4% 
+-15.2% 
+-22.9% 
+21.2% 
+19.6% 
+-21.4% 
+21.1% 
+15.8% 
+Change over Adopted 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+TOG 
+ROG 
+NOx 
+CO 
+PM10E 
+PM10D 
+PM10T 
+PM2.5E 
+PM2.5D 
+PM2.5T 
+Mobile 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+Mobile 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+15.4% 
+Area 
+13.1% 
+12.7% 
+14.9% 
+14.7% 
+14.0% 
+11.2% 
+11.2% 
+11.2% 
+11.2% 
+Area 
+12.7% 
+Energy 
+11.6% 
+11.6% 
+11.6% 
+11.3% 
+11.6% 
+11.6% 
+11.6% 
+11.6% 
+11.6% 
+Energy 
+11.6% 
+11.6% 
+11.6% 
+11.3% 
+11.6% 
+11.6% 
+11.6% 
+11.6% 
+11.6% 
+Total 
+13.6% 
+12.9% 
+12.9% 
+14.9% 
+14.8% 
+12.0% 
+15.4% 
+15.3% 
+12.0% 
+15.4% 
+15.1% 
+Total 
+14.6% 
+12.8% 
+12.9% 
+15.1% 
+14.7% 
+12.1% 
+15.4% 
+15.3% 
+12.1% 
+15.4% 
+15.1% 
+so, 
+so, 
+so, 
+so, 
+so, 
+so, 
+so, 
+so, 
+so, 
+so, 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Oceanside GPU - Baseline 2016 Detailed Report 
+Table of Contents 
+1 . Basic Project Information 
+1.1. Basic Project Information 
+1.2. Land Use Types 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+2. Emissions Summary 
+2.4. Operations Emissions Compared Against Thresholds 
+2.5. Operations Emissions by Sector, Unmitigated 
+4. Operations Emissions Details 
+4.1. Mobile Emissions by Land Use 
+4.1.1. Unmitigated 
+4.2. Energy 
+4.2.1. Electricity Emissions By Land Use - Unmitigated 
+4.2.3. Natural Gas Emissions By Land Use - Unmitigated 
+4.3. Area Emissions by Source 
+1 / 35 
+
+
+4.3.1. Unmitigated 
+4.4. Water Emissions by Land Use 
+4.4.1. Unmitigated 
+4.5. Waste Emissions by Land Use 
+4.5.1. Unmitigated 
+4.6. Refrigerant Emissions by Land Use 
+4.6.1. Unmitigated 
+4.7. Offroad Emissions By Equipment Type 
+4.7.1. Unmitigated 
+4.8. Stationary Emissions By Equipment Type 
+4.8.1. Unmitigated 
+4.9. User Defined Emissions By Equipment Type 
+4.9.1. Unmitigated 
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+2 /35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+
+
+5. Activity Data 
+5.9. Operational Mobile Sources 
+5.9.1. Unmitigated 
+5.10. Operational Area Sources 
+5.10.1. Hearths 
+5.10.1.1. Unmitigated 
+5.10.2. Architectural Coatings 
+5.10.3. Landscape Equipment 
+5.11. Operational Energy Consumption 
+5.11.1. Unmitigated 
+5.12. Operational Water and Wastewater Consumption 
+5.12.1. Unmitigated 
+5.13. Operational Waste Generation 
+5.13.1. Unmitigated 
+5.14. Operational Refrigeration and Air Conditioning Equipment 
+5.14.1. Unmitigated 
+5.15. Operational Off-Road Equipment 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+3/35 
+
+
+5.15.1. Unmitigated 
+5.16. Stationary Sources 
+5.16.1. Emergency Generators and Fire Pumps 
+5.16.2. Process Boilers 
+5.17. User Defined 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+6.2. Initial Climate Risk Scores 
+6.3. Adjusted Climate Risk Scores 
+6.4. Climate Risk Reduction Measures 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+4/35 
+
+
+7. Health and Equity Details 
+7 .1. CalEnviroScreen 4.0 Scores 
+7.2. Healthy Places Index Scores 
+7 .3. Overall Health & Equity Scores 
+7.4. Health & Equity Measures 
+7 .5. Evaluation Scorecard 
+7 .6. Health & Equity Custom Measures 
+8. User Changes to Default Data 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+5/35 
+
+
+1 . Basic Project Information 
+1 .1. Basic Project Information 
+Data Field 
+Project Name 
+Operational Year 
+Lead Agency 
+Land Use Scale 
+Analysis Level for Defaults 
+Windspeed (mis) 
+Precipitation (days) 
+Location 
+County 
+City 
+Air District 
+Air Basin 
+TAZ 
+EDFZ 
+Electric Utility 
+Gas Utility 
+App Version 
+1.2. Land Use Types 
+Land Use Subtype 
+Single Family 
+Housing 
+Size 
+43,086 
+Unit 
+Dwelling Unit 
+Lot Acreage 
+8,000 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Value 
+Oceanside GPU - Baseline 2016 
+2016 
+City of Oceanside 
+Plan/community 
+County 
+1.90 
+20.6 
+Oceanside, CA, USA 
+San Diego 
+Oceanside 
+San Diego County APCD 
+San Diego 
+6231 
+12 
+San Diego Gas & Electric 
+San Diego Gas & Electric 
+2022.1.1.21 
+Building Area (sq ft) 
+Landscape Area (sq 
+ft) 
+84,017,700 
+0.00 
+6/ 35 
+Special Landscape 
+Area (sq ft) 
+Population 
+120,210 
+Description 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Apartments Mid Rise 23,506 
+Dwelling Unit 
+619 
+22,565,760 
+0.00 
+65,582 
+Strip Mall 
+16,830 
+1000sqft 
+386 
+16,830,159 
+0.00 
+General Office 
+814 
+1000sqft 
+18.7 
+814,230 
+0.00 
+Building 
+General Light 
+10,505 
+1000sqft 
+241 
+10,504,727 
+0.00 
+Industry 
+Hotel 
+2,704 
+Room 
+90.1 
+3,926,208 
+0.00 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+No measures selected 
+2. Emissions Summary 
+2.4. Operations Emissions Compared Against Thresholds 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+i'@M■-----iillt-1◄1HIM·Mil81MiiiitiiiiHti·liHtiii 
+H/=S•tl1m+I_IBI_BIII 
+Daily, 
+Summer 
+(Max) 
+Unmit. 
+1,793 
+5,588 
+2,950 
+23,274 
+34.0 
+90.7 
+2,248 
+2,339 
+86.8 
+570 
+657 
+54,413 
+4,879,12 4,933,53 5,724 
+162 
+24,428 
+5,149,41 
+2 
+5 
+3 
+Daily, 
+Winter 
+(Max) 
+Unmit. 
+1,054 
+4,894 
+3,123 
+15,777 
+32.2 
+84.3 
+2,248 
+2,333 
+82.0 
+570 
+652 
+54,413 
+4,712,10 4,766,51 
+5,723 
+171 
+10,123 
+4,970,81 
+2 
+4 
+7 
+Average 
+Daily 
+(Max) 
+Unmit. 
+1,419 
+5,238 
+3,130 
+18,565 
+32.6 
+87.4 
+2,219 
+2,306 
+84.4 
+563 
+647 
+54,413 
+4,742,86 4,797,27 5,723 
+170 
+16,083 
+5,007,21 
+1 
+4 
+9 
+7 I 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Annual 
+(Max) 
+Unmit. 
+259 
+956 
+571 
+3,388 
+5.94 
+16.0 
+405 
+421 
+15.4 
+103 
+118 
+9,009 
+785,235 
+794,243 
+948 
+28.2 
+2,663 
+829,002 
+2.5. Operations Emissions by Sector, Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+-----•Hl[l]W1HIM•l1HIMl1#U&il1#Mi•l1#M&ii 
+Hi=S•ti[ _____ 
+Daily, 
+Summer 
+(Max) 
+Mobile 
+977 
+761 
+2,354 
+17,842 
+30.3 
+41 .6 
+2,248 
+2,290 
+39.3 
+570 
+610 
+3,081 ,14 3,081 ,14 133 
+124 
+14,685 
+3,136,15 
+3 
+3 
+7 
+Area 
+754 
+4,796 
+57.0 
+5,125 
+0.25 
+6.46 
+6.46 
+4.88 
+4.88 
+0.00 
+15,838 
+15,838 
+0.66 
+0.13 
+15,894 
+Energy 
+61 .8 
+30.9 
+539 
+307 
+3.37 
+42.7 
+42.7 
+42.7 
+42.7 
+1,713,72 1,713,72 118 
+8.35 
+1,719,15 
+1 
+1 
+3 
+Water 
+11,936 
+68,421 
+80,357 
+1,228 
+29.5 
+119,853 
+Waste 
+42,477 
+0.00 
+42,477 
+4,245 
+0.00 
+148,612 
+Refrig. 
+9,742 
+9,742 
+Total 
+1,793 
+5,588 
+2,950 
+23,274 
+34.0 
+90.7 
+2,248 
+2,339 
+86.8 
+570 
+657 
+54,413 
+4,879,12 4,933,53 5,724 
+162 
+24,428 
+5,149,41 
+2 
+5 
+3 
+Daily, 
+Winter 
+(Max) 
+Mobile 
+992 
+778 
+2,584 
+15,470 
+28.8 
+41 .6 
+2,248 
+2,290 
+39.3 
+570 
+610 
+2,929,96 2,929,96 132 
+134 
+381 
+2,973,45 
+0 
+0 
+5 
+Area 
+0.00 
+4,085 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Energy 
+61 .8 
+30.9 
+539 
+307 
+3.37 
+42.7 
+42.7 
+42.7 
+42.7 
+1,713,72 1,713,72 118 
+8.35 
+1,719,15 
+1 
+1 
+3 
+Water 
+11,936 
+68,421 
+80,357 
+1,228 
+29.5 
+119,853 
+Waste 
+42,477 
+0.00 
+42,477 
+4,245 
+0.00 
+148,612 
+Refrig. 
+9,742 
+9,742 
+8/ 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Total 
+1,054 
+4,894 
+3,123 
+15,777 
+32.2 
+84.3 
+2,248 
+2,333 
+82.0 
+570 
+652 
+54,413 
+4,712,10 4,766,51 
+5,723 
+171 
+10,123 
+4,970,81 
+Average 
+Daily 
+Mobile 
+985 
+771 
+2,562 
+15,730 
+29.1 
+41 .6 
+2,219 
+2,260 
+39.3 
+563 
+602 
+2,952,90 2,952,90 132 
+132 
+6,341 
+3,002,02 
+9 
+9 
+0 
+Area 
+372 
+4,436 
+28.1 
+2,528 
+0.12 
+3.19 
+3.19 
+2.41 
+2.41 
+0.00 
+7,810 
+7,810 
+0.33 
+0.07 
+7,838 
+Energy 
+61 .8 
+30.9 
+539 
+307 
+3.37 
+42.7 
+42.7 
+42.7 
+42.7 
+1,713,72 1,713,72 118 
+8.35 
+1,719,15 
+1 
+1 
+3 
+Water 
+11 ,936 
+68,421 
+80,357 
+1,228 
+29.5 
+119,853 
+Waste 
+42,477 
+0.00 
+42,477 
+4,245 
+0.00 
+148,612 
+Refrig. 
+9,742 
+9,742 
+Total 
+1,419 
+5,238 
+3,130 
+18,565 
+32.6 
+87.4 
+2,219 
+2,306 
+84.4 
+563 
+647 
+54,413 
+4,742,86 4,797,27 5,723 
+170 
+16,083 
+5,007,21 
+1 
+4 
+9 
+Annual 
+Mobile 
+180 
+141 
+468 
+2,871 
+5.31 
+7.58 
+405 
+412 
+7.17 
+103 
+110 
+488,888 
+488,888 
+21 .9 
+21 .9 
+1,050 
+497,019 
+Area 
+67.8 
+810 
+5.13 
+461 
+0.02 
+0.58 
+0.58 
+0.44 
+0.44 
+0.00 
+1,293 
+1,293 
+0.05 
+0.01 
+1,298 
+Energy 
+11 .3 
+5.64 
+98.4 
+56.0 
+0.62 
+7.79 
+7.79 
+7.79 
+7.79 
+283,726 
+283,726 
+19.5 
+1.38 
+284,625 
+Water 
+1,976 
+11 ,328 
+13,304 
+203 
+4.89 
+19,843 
+Waste 
+7,033 
+0.00 
+7,033 
+703 
+0.00 
+24,604 
+Refrig. 
+1,613 
+1,613 
+Total 
+259 
+956 
+571 
+3,388 
+5.94 
+16.0 
+405 
+421 
+15.4 
+103 
+118 
+9,009 
+785,235 
+794,243 
+948 
+28.2 
+2,663 
+829,002 
+4. Operations Emissions Details 
+4.1. Mobile Emissions by Land Use 
+4.1.1. Unmitigated 
+Mobile source emissions results are presented in Sections 2.6. No further detailed breakdown of emissions is available. 
+9 I 35 
+
+
+4.2. Energy 
+4.2.1. Electricity Emissions By Land Use - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+Daily, 
+Winter 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+10 / 35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+426,977 
+426,977 
+23.9 
+128,617 
+128,617 
+7.21 
+239,386 
+239,386 
+13.4 
+21 ,803 
+21 ,803 
+1.22 
+152,108 
+152,108 
+8.52 
+74,432 
+74,432 
+4.17 
+1,043,32 1,043,32 58.5 
+4 
+4 
+426,977 
+426,977 
+23.9 
+128,617 
+128,617 
+7.21 
+2.90 
+0.87 
+1.63 
+0.15 
+1.03 
+0.51 
+7.09 
+2.90 
+0.87 
+• 
+428,440 
+129,058 
+240,206 
+21 ,878 
+152,629 
+74,687 
+1,046,89 
+7 
+428,440 
+129,058 
+
+
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+Annual 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.2.3. Natural Gas Emissions By Land Use - Unmitigated 
+11 / 35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+239,386 
+239,386 
+13.4 
+21 ,803 
+21 ,803 
+1.22 
+152,108 
+152,108 
+8.52 
+74,432 
+74,432 
+4.17 
+1,043,32 1,043,32 58.5 
+4 
+4 
+70,691 
+70,691 
+3.96 
+21 ,294 
+21 ,294 
+1.19 
+39,633 
+39,633 
+2.22 
+3,610 
+3,610 
+0.20 
+25,183 
+25,183 
+1.41 
+12,323 
+12,323 
+0.69 
+172,734 
+172,734 
+9.68 
+1.63 
+0.15 
+1.03 
+0.51 
+7.09 
+0.48 
+0.14 
+0.27 
+0.02 
+0.17 
+0.08 
+1.17 
+240,206 
+21 ,878 
+152,629 
+74,687 
+1,046,89 
+7 
+70,933 
+21 ,367 
+39,769 
+3,622 
+25,269 
+12,365 
+173,326 
+• 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Daily, 
+Summer 
+(Max) 
+Single 
+36.3 
+18.2 
+310 
+132 
+1.98 
+25.1 
+25.1 
+25.1 
+25.1 
+393,774 
+393,774 
+34.8 
+0.74 
+394,866 
+Family 
+Housing 
+Apartme 4.92 
+2.46 
+42.0 
+17.9 
+0.27 
+3.40 
+3.40 
+3.40 
+3.40 
+53,324 
+53,324 
+4.72 
+0.10 
+53,472 
+nts 
+Mid Rise 
+Strip Mall 2.15 
+1.08 
+19.6 
+16.4 
+0.12 
+1.49 
+1.49 
+1.49 
+1.49 
+23,341 
+23,341 
+2.07 
+0.04 
+23,406 
+General 
+0.77 
+0.39 
+7.00 
+5.88 
+0.04 
+0.53 
+0.53 
+0.53 
+0.53 
+8,356 
+8,356 
+0.74 
+0.02 
+8,380 
+Office 
+Building 
+General 
+12.5 
+6.26 
+114 
+95.7 
+0.68 
+8.66 
+8.66 
+8.66 
+8.66 
+135,891 
+135,891 
+12.0 
+0.26 
+136,268 
+Light 
+Industry 
+Hotel 
+5.14 
+2.57 
+46.7 
+39.2 
+0.28 
+3.55 
+3.55 
+3.55 
+3.55 
+55,710 
+55,710 
+4.93 
+0.10 
+55,865 
+Total 
+61 .8 
+30.9 
+539 
+307 
+3.37 
+42.7 
+42.7 
+42.7 
+42.7 
+670,397 
+670,397 
+59.3 
+1.26 
+672,256 
+Daily, 
+Winter 
+(Max) 
+Single 
+36.3 
+18.2 
+310 
+132 
+1.98 
+25.1 
+25.1 
+25.1 
+25.1 
+393,774 
+393,774 
+34.8 
+0.74 
+394,866 
+Family 
+Housing 
+Apartme 4.92 
+2.46 
+42.0 
+17.9 
+0.27 
+3.40 
+3.40 
+3.40 
+3.40 
+53,324 
+53,324 
+4.72 
+0.10 
+53,472 
+nts 
+Mid Rise 
+Strip Mall 2.15 
+1.08 
+19.6 
+16.4 
+0.12 
+1.49 
+1.49 
+1.49 
+1.49 
+23,341 
+23,341 
+2.07 
+0.04 
+23,406 
+General 
+0.77 
+0.39 
+7.00 
+5.88 
+0.04 
+0.53 
+0.53 
+0.53 
+0.53 
+8,356 
+8,356 
+0.74 
+0.02 
+8,380 
+Office 
+Building 
+General 
+12.5 
+6.26 
+114 
+95.7 
+0.68 
+8.66 
+8.66 
+8.66 
+8.66 
+135,891 
+135,891 
+12.0 
+0.26 
+136,268 
+Light 
+Industry 
+Hotel 
+5.14 
+2.57 
+46.7 
+39.2 
+0.28 
+3.55 
+3.55 
+3.55 
+3.55 
+55,710 
+55,710 
+4.93 
+0.10 
+55,865 
+12 / 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Total 
+61 .8 
+30.9 
+539 
+307 
+3.37 
+42.7 
+42.7 
+42.7 
+42.7 
+670,397 
+670,397 
+59.3 
+1.26 
+672,256 
+Annual 
+Single 
+6.63 
+3.31 
+56.6 
+24.1 
+0.36 
+4.58 
+4.58 
+4.58 
+4.58 
+65,194 
+65,194 
+5.77 
+0.12 
+65,375 
+Family 
+Housing 
+Apartme 0.90 
+0.45 
+7.67 
+3.26 
+0.05 
+0.62 
+0.62 
+0.62 
+0.62 
+8,828 
+8,828 
+0.78 
+0.02 
+8,853 
+nts 
+Mid Rise 
+Strip Mall 0.39 
+0.20 
+3.57 
+3.00 
+0.02 
+0.27 
+0.27 
+0.27 
+0.27 
+3,864 
+3,864 
+0.34 
+0.01 
+3,875 
+General 
+0.14 
+0.07 
+1.28 
+1.07 
+0.01 
+0.10 
+0.10 
+0.10 
+0.10 
+1,383 
+1,383 
+0.12 
+< 0.005 
+1,387 
+Office 
+Building 
+General 
+2.29 
+1.14 
+20.8 
+17.5 
+0.12 
+1.58 
+1.58 
+1.58 
+1.58 
+22,498 
+22,498 
+1.99 
+0.04 
+22,561 
+Light 
+Industry 
+Hotel 
+0.94 
+0.47 
+8.52 
+7.16 
+0.05 
+0.65 
+0.65 
+0.65 
+0.65 
+9,223 
+9,223 
+0.82 
+0.02 
+9,249 
+Total 
+11 .3 
+5.64 
+98.4 
+56.0 
+0.62 
+7.79 
+7.79 
+7.79 
+7.79 
+110,992 
+110,992 
+9.82 
+0.21 
+111 ,300 
+4.3. Area Emissions by Source 
+4.3.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+G·Mii■-llllllll--•HIM◄•Hiui·M•Hl 111MiHtiiiiHti••1Htiii 
+Hi=S•ti[ _____ 
+Daily, 
+Summer 
+(Max) 
+Hearths 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Consum 
+2,967 
+er 
+Products 
+Architect 
+1,118 
+ural 
+Coatings 
+13 / 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Landsca 754 
+712 
+57.0 
+5,125 
+0.25 
+6.46 
+6.46 
+4.88 
+4.88 
+15,838 
+15,838 
+0.66 
+0.13 
+15,894 
+Equipment 
+Total 
+754 
+4,796 
+57.0 
+5,125 
+0.25 
+6.46 
+6.46 
+4.88 
+4.88 
+0.00 
+15,838 
+15,838 
+0.66 
+0.13 
+15,894 
+Daily, 
+Winter 
+(Max) 
+Hearths 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Consum 
+2,967 
+er 
+Products 
+Architect 
+1,118 
+ural 
+Coatings 
+Total 
+0.00 
+4,085 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Hearths 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Consum 
+542 
+er 
+Products 
+Architect 
+204 
+ural 
+Coatings 
+Landsca 67.8 
+64.0 
+5.13 
+461 
+0.02 
+0.58 
+0.58 
+0.44 
+0.44 
+1,293 
+1,293 
+0.05 
+0.01 
+1,298 
+pe 
+Equipme 
+nt 
+Total 
+67.8 
+810 
+5.13 
+461 
+0.02 
+0.58 
+0.58 
+0.44 
+0.44 
+0.00 
+1,293 
+1,293 
+0.05 
+0.01 
+1,298 
+4.4. Water Emissions by Land Use 
+4.4.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+14 / 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+••• 
+---------
+• 
+Daily, 
+Summer 
+(Max) 
+Single 
+2,901 
+16,628 
+19,529 
+298 
+7.18 
+29,127 
+Family 
+Housing 
+Apartme 
+1,583 
+9,072 
+10,654 
+163 
+3.92 
+15,891 
+nts 
+Mid Rise 
+Strip Mall -
+2,389 
+13,694 
+16,083 
+246 
+5.91 
+23,988 
+General 
+277 
+1,590 
+1,867 
+28.5 
+0.69 
+2,785 
+Office 
+Building 
+General 
+4,655 
+26,684 
+31,339 
+479 
+11 .5 
+46,743 
+Light 
+Industry 
+Hotel 
+131 
+753 
+885 
+13.5 
+0.33 
+1,320 
+Total 
+11,936 
+68,421 
+80,357 
+1,228 
+29.5 
+119,853 
+Daily, 
+Winter 
+(Max) 
+Single 
+2,901 
+16,628 
+19,529 
+298 
+7.18 
+29,127 
+Family 
+Housing 
+Apartme 
+1,583 
+9,072 
+10,654 
+163 
+3.92 
+15,891 
+nts 
+Mid Rise 
+Strip Mall -
+2,389 
+13,694 
+16,083 
+246 
+5.91 
+23,988 
+General 
+277 
+1,590 
+1,867 
+28.5 
+0.69 
+2,785 
+Office 
+Building 
+15 / 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+General 
+4,655 
+26,684 
+31,339 
+479 
+11 .5 
+46,743 
+Light 
+Industry 
+Hotel 
+131 
+753 
+885 
+13.5 
+0.33 
+1,320 
+Total 
+11,936 
+68,421 
+80,357 
+1,228 
+29.5 
+119,853 
+Annual 
+Single 
+480 
+2,753 
+3,233 
+49.4 
+1.19 
+4,822 
+Family 
+Housing 
+Apartme 
+262 
+1,502 
+1,764 
+26.9 
+0.65 
+2,631 
+nts 
+Mid Rise 
+Strip Mall -
+396 
+2,267 
+2,663 
+40.7 
+0.98 
+3,971 
+General 
+45.9 
+263 
+309 
+4.72 
+0.11 
+461 
+Office 
+Building 
+General 
+771 
+4,418 
+5,189 
+79.3 
+1.91 
+7,739 
+Light 
+Industry 
+Hotel 
+21 .8 
+125 
+147 
+2.24 
+0.05 
+219 
+Total 
+1,976 
+11 ,328 
+13,304 
+203 
+4.89 
+19,843 
+4.5. Waste Emissions by Land Use 
+4.5.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+---
+---------
+-
+Daily, 
+Summer 
+(Max) 
+16 / 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Single 
+15,359 
+0.00 
+15,359 
+1,535 
+0.00 
+53,736 
+Family 
+Housing 
+Apartme 
+9,368 
+0.00 
+9,368 
+936 
+0.00 
+32,775 
+nts 
+Mid Rise 
+Strip Mall -
+9,524 
+0.00 
+9,524 
+952 
+0.00 
+33,321 
+General 
+408 
+0.00 
+408 
+40.8 
+0.00 
+1,428 
+Office 
+Building 
+General 
+7,020 
+0.00 
+7,020 
+702 
+0.00 
+24,561 
+Light 
+Industry 
+Hotel 
+798 
+0.00 
+798 
+79.7 
+0.00 
+2,791 
+Total 
+42,477 
+0.00 
+42,477 
+4,245 
+0.00 
+148,612 
+Daily, 
+Winter 
+(Max) 
+Single 
+15,359 
+0.00 
+15,359 
+1,535 
+0.00 
+53,736 
+Family 
+Housing 
+Apartme 
+9,368 
+0.00 
+9,368 
+936 
+0.00 
+32,775 
+nts 
+Mid Rise 
+Strip Mall -
+9,524 
+0.00 
+9,524 
+952 
+0.00 
+33,321 
+General 
+408 
+0.00 
+408 
+40.8 
+0.00 
+1,428 
+Office 
+Building 
+General 
+7,020 
+0.00 
+7,020 
+702 
+0.00 
+24,561 
+Light 
+Industry 
+Hotel 
+798 
+0.00 
+798 
+79.7 
+0.00 
+2,791 
+Total 
+42,477 
+0.00 
+42,477 
+4,245 
+0.00 
+148,612 
+Annual 
+17 / 35 
+
+
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.6. Refrigerant Emissions by Land Use 
+4.6.1. Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+18 / 35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+2,543 
+1,551 
+1,577 
+67.6 
+1,162 
+132 
+7,033 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+2,543 
+1,551 
+1,577 
+67.6 
+1,162 
+132 
+7,033 
+254 
+155 
+158 
+6.75 
+116 
+13.2 
+703 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+602 
+162 
+105 
+8,897 
+5,426 
+5,517 
+236 
+4,066 
+462 
+24,604 
+• 
+602 
+162 
+105 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+General 
+1.98 
+1.98 
+Office 
+Building 
+General 
+2,734 
+2,734 
+Light 
+Industry 
+Hotel 
+6,138 
+6,138 
+Total 
+9,742 
+9,742 
+Daily, 
+Winter 
+(Max) 
+Single 
+602 
+602 
+Family 
+Housing 
+Apartme 
+162 
+162 
+nts 
+Mid Rise 
+Strip Mall -
+105 
+105 
+General 
+1.98 
+1.98 
+Office 
+Building 
+General 
+2,734 
+2,734 
+Light 
+Industry 
+Hotel 
+6,138 
+6,138 
+Total 
+9,742 
+9,742 
+Annual 
+Single 
+99.6 
+99.6 
+Family 
+Housing 
+Apartme 
+26.8 
+26.8 
+nts 
+Mid Rise 
+Strip Mall -
+17.4 
+17.4 
+19 / 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.7. Offroad Emissions By Equipment Type 
+4.7.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+■ 
+. 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.8. Stationary Emissions By Equipment Type 
+4.8.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+20 / 35 
+0.33 
+0.33 
+453 
+453 
+1,016 
+1,016 
+1,613 
+1,613 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+••• 
+---------
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.9. User Defined Emissions By Equipment Type 
+4.9.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+■ 
+. 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+21 / 35 
+• 
+
+
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+22 / 35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+• 
+• 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+E·i@i◄-----•Hlt-i◄iHIM·Mi#il 111Mi#Mliii#tki·li#Miii 
+Daily, 
+Summer 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+Daily, 
+Winter 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+Annual 
+Avoided 
+Subtotal 
+23 / 35 
+
+
+Sequest 
+Subtotal 
+Remove 
+d 
+Subtotal 
+5. Activity Data 
+5.9. Operational Mobile Sources 
+5.9.1. Unmitigated 
+Land Use Type 
+Trips/Weekday 
+Trips/Saturday 
+Total all Land Uses 
+0.00 
+0.00 
+5.10. Operational Area Sources 
+5.10.1. Hearths 
+5.10.1.1. Unmitigated 
+Hearth Type 
+Single Family Housing 
+Wood Fireplaces 
+Gas Fireplaces 
+Propane Fireplaces 
+Electric Fireplaces 
+No Fireplaces 
+Conventional Wood Stoves 
+Trips/Sunday 
+0.00 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+TripsNear 
+VMT/Weekday 
+VMT/Saturday 
+VMT/Sunday 
+VMTNear 
+0.00 
+3,183,465 
+Unmitigated (number) 
+0 
+0 
+0 
+0 
+43086 
+0 
+24 I 35 
+3,183,465 
+3,183,465 
+1,161 ,964,725 
+
+
+Catalytic Wood Stoves 
+Non-Catalytic Wood Stoves 
+Pellet Wood Stoves 
+Apartments Mid Rise 
+Wood Fireplaces 
+Gas Fireplaces 
+Propane Fireplaces 
+Electric Fireplaces 
+No Fireplaces 
+Conventional Wood Stoves 
+Catalytic Wood Stoves 
+Non-Catalytic Wood Stoves 
+Pellet Wood Stoves 
+5.10.2. Architectural Coatings 
+Residential Interior Area Coated (sq ft) 
+Residential Exterior Area Coated (sq ft) 
+215831506.5 
+5.10.3. Landscape Equipment 
+Season 
+Snow Days 
+Summer Days 
+71 ,943,836 
+5.11. Operational Energy Consumption 
+5.11.1. Unmitigated 
+Unit 
+day/yr 
+day/yr 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+235060 
+0 
+0 
+0 
+0 
+Non-Residential Interior Area Coated 
+(sq ft) 
+48,112,986 
+25 I 35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Non-Residential Exterior Area Coated 
+(sq ft) 
+16,037,662 
+Value 
+0.00 
+180 
+Parking Area Coated (sq ft) 
+
+
+Electricity (kWh/yr) and CO2 and CH4 and N2O and Natural Gas (kBTU/yr) 
+I Land Use 
+Electricity (kWh/yr) 
+Single Family Housing 
+264,603,086 
+589 
+Apartments Mid Rise 
+79,705,788 
+589 
+Strip Mall 
+148,350,423 
+589 
+General Office Building 
+13,511,794 
+589 
+General Light Industry 
+94,263,317 
+589 
+Hotel 
+46,126,416 
+589 
+5.12. Operational Water and Wastewater Consumption 
+5.12.1. Unmitigated 
+Land Use 
+Single Family Housing 
+Apartments Mid Rise 
+Strip Mall 
+General Office Building 
+General Light Industry 
+Hotel 
+5.13. Operational Waste Generation 
+5.13.1. Unmitigated 
+Land Use 
+Single Family Housing 
+Apartments Mid Rise 
+Strip Mall 
+Indoor Water (gal/year) 
+1,513,743,669 
+825,838,061 
+1,246,652,314 
+144,716,150 
+2,429,218,119 
+68,591,746 
+Waste (ton/year) 
+28,499 
+17,382 
+17,672 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+26 / 35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+Outdoor Water (gal/year) 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Cogeneration (kWh/year) 
+Natural Gas (kBTU/yr) 
+1,228,680,585 
+166,385,724 
+72,831,107 
+26,074,109 
+424,015,522 
+173,831,011 
+
+
+General Office Building 
+General Light Industry 
+Hotel 
+757 
+13,026 
+1,480 
+5.14. Operational Refrigeration and Air Conditioning Equipment 
+5.14.1. Unmitigated 
+Land Use Type 
+Equipment Type 
+Refrigerant 
+Single Family Housing 
+Average room A/C & 
+R-410A 
+2,088 
+Other residential A/C 
+and heat pumps 
+Single Family Housing 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Apartments Mid Rise 
+Average room A/C & 
+R-410A 
+2,088 
+Other residential A/C 
+and heat pumps 
+Apartments Mid Rise 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Strip Mall 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+Strip Mall 
+Stand-alone retail 
+R-134a 
+1,430 
+refrigerators and 
+freezers 
+Strip Mall 
+Walk-in refrigerators 
+R-404A 
+3,922 
+and freezers 
+General Office Building 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+General Office Building 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+General Light Industry 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+Hotel 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Quantity (kg) 
+Operations Leak Rate 
+Service Leak Rate 
+Times Serviced 
+< 0.005 
+2.50 
+2.50 
+10.0 
+0.12 
+0.60 
+0.00 
+1.00 
+< 0.005 
+2.50 
+2.50 
+10.0 
+0.12 
+0.60 
+0.00 
+1.00 
+< 0.005 
+4.00 
+4.00 
+18.0 
+0.04 
+1.00 
+0.00 
+1.00 
+< 0.005 
+7.50 
+7.50 
+20.0 
+0.02 
+0.60 
+0.00 
+1.00 
+< 0.005 
+4.00 
+4.00 
+18.0 
+0.30 
+4.00 
+4.00 
+18.0 
+0.00 
+0.60 
+0.00 
+1.00 
+27135 
+
+
+Hotel 
+Hotel 
+Other commercial A/C 
+R-41 QA 
+and heat pumps 
+Walk-in refrigerators 
+and freezers 
+R-404A 
+5.15. Operational Off-Road Equipment 
+5.15.1. Unmitigated 
+Equipment Type 
+Fuel Type 
+Engine Tier 
+5.16. Stationary Sources 
+5.16.1. Emergency Generators and Fire Pumps 
+Equipment Type 
+Fuel Type 
+5.16.2. Process Boilers 
+Equipment Type 
+5.17. User Defined 
+Equipment Type 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+Vegetation Land Use Type 
+Fuel Type 
+Number per Day 
+Number 
+Vegetation Soil Type 
+2,088 
+3,922 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+1.80 
+4.00 
+4.00 
+18.0 
+< 0.005 
+7.50 
+7.50 
+20.0 
+Number per Day 
+Hours Per Day 
+Horsepower 
+Load Factor 
+Hours per Day 
+Hours per Year 
+Horsepower 
+Load Factor 
+Boiler Rating (MMBtu/hr) 
+Daily Heat Input (MMBtu/day) 
+Annual Heat Input (MMBtu/yr) 
+Fuel Type 
+Initial Acres 
+Final Acres 
+28 / 35 
+
+
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+Biomass Cover Type 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+Tree Type 
+Number 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Initial Acres 
+Final Acres 
+Electricity Saved (kWh/year) 
+Natural Gas Saved (btu/year) 
+Cal-Adapt midcentury 2040-2059 average projections for four hazards are reported below for your project location. These are under Representation Concentration Pathway (RCP) 8.5 which assumes GHG 
+emissions will continue to rise strongly through 2050 and then plateau around 2100. 
+I Climate Hazard 
+Temperature and Extreme Heat 
+Extreme Precipitation 
+Sea Level Rise 
+Wildfire 
+Result for Project Location 
+7.71 
+2.95 
+21 .9 
+Unit 
+annual days of extreme heat 
+annual days with precipitation above 20 mm 
+meters of inundation depth 
+annual hectares burned 
+Temperature and Extreme Heat data are for grid cell in which your project are located. The projection is based on the 98th historical percentile of daily maximum/minimum temperatures from observed 
+historical data (32 climate model ensemble from Cal-Adapt, 2040-2059 average under RCP 8.5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Extreme Precipitation data are for the grid cell in which your project are located. The threshold of 20 mm is equivalent to about¾ an inch of rain, which would be light to moderate rainfall if received over a full 
+day or heavy rain if received over a period of 2 to 4 hours. Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Sea Level Rise data are for the grid cell in which your project are located. The projections are from Radke et al. (2017), as reported in Cal-Adapt (Radke et al., 2017, CEC-500-2017-008), and consider 
+inundation location and depth for the San Francisco Bay, the Sacramento-San Joaquin River Delta and California coast resulting different increments of sea level rise coupled with extreme storm events. 
+Users may select from four scenarios to view the range in potential inundation depth for the grid cell. The four scenarios are: No rise, 0.5 meter, 1.0 meter, 1.41 meters 
+Wildfire data are for the grid cell in which your project are located. The projections are from UC Davis, as reported in Cal-Adapt (2040-2059 average under RCP 8.5), and consider historical data of climate, 
+vegetation, population density, and large(> 400 ha) fire history. Users may select from four model simulations to view the range in potential wildfire probabilities for the grid cell. The four simulations make 
+different assumptions about expected rainfall and temperature are: Warmer/drier (HadGEM2-ES), Cooler/wetter (CNRM-CM5), Average conditions (CanESM2), Range of different rainfall and temperature 
+possibilities (MIROC5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+29 I 35 
+
+
+6.2. Initial Climate Risk Scores 
+Climate Hazard 
+Exposure Score 
+Temperature and Extreme Heat 
+NIA 
+Extreme Precipitation 
+NIA 
+Sea Level Rise 
+Wildfire 
+Flooding 
+Drought 
+Snowpack Reduction 
+Air Quality Degradation 
+0 
+NIA 
+NIA 
+NIA 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Sensitivity Score 
+Adaptive Capacity Score 
+Vulnerability Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+0 
+0 
+NIA 
+0 
+0 
+NIA 
+0 
+0 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores do not include implementation of climate risk reduction measures. 
+6.3. Adjusted Climate Risk Scores 
+Climate Hazard 
+Temperature and Extreme Heat 
+Extreme Precipitation 
+Sea Level Rise 
+Wildfire 
+Flooding 
+Drought 
+Snowpack Reduction 
+Air Quality Degradation 
+Exposure Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+Sensitivity Score 
+NIA 
+NIA 
+1 
+1 
+1 
+NIA 
+NIA 
+NIA 
+Adaptive Capacity Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+Vulnerability Score 
+NIA 
+NIA 
+2 
+2 
+2 
+NIA 
+NIA 
+NIA 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+30 I 35 
+
+
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores include implementation of climate risk reduction measures. 
+6.4. Climate Risk Reduction Measures 
+7. Health and Equity Details 
+7.1. CalEnviroScreen 4.0 Scores 
+The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Exposure Indicators 
+AO-Ozone 
+29.9 
+AQ-PM 
+49.8 
+AQ-DPM 
+90.7 
+Drinking Water 
+54.3 
+Lead Risk Housing 
+49.8 
+Pesticides 
+0.00 
+Toxic Releases 
+15.6 
+Traffic 
+72.5 
+Effect Indicators 
+Cleanup Sites 
+42.6 
+Groundwater 
+70.3 
+Haz Waste Facilities/Generators 
+7.35 
+Impaired Water Bodies 
+83.0 
+Solid Waste 
+35.7 
+Sensitive Population 
+Asthma 
+31.1 
+Cardio-vascular 
+49.3 
+31 / 35 
+
+
+Low Birth Weights 
+Socioeconomic Factor Indicators 
+Education 
+Housing 
+Linguistic 
+Poverty 
+Unemployment 
+7.2. Healthy Places Index Scores 
+15.0 
+52.3 
+50.3 
+44.4 
+68.6 
+70.9 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Economic 
+Above Poverty 
+38.58591043 
+Employed 
+52.13653279 
+Median HI 
+29.38534582 
+Education 
+Bachelor's or higher 
+59.05299628 
+High school enrollment 
+0.115488259 
+Preschool enrollment 
+95.7141024 
+Transportation 
+Auto Access 
+17.29757475 
+Active commuting 
+80.14885153 
+Social 
+2-parent households 
+0.731425638 
+Voting 
+47.61965867 
+Neighborhood 
+Alcohol availability 
+4.516874118 
+32 / 35 
+
+
+Park access 
+Retail density 
+Supermarket access 
+Tree canopy 
+Housing 
+Homeownership 
+Housing habitability 
+Low-inc homeowner severe housing cost burden 
+Low-inc renter severe housing cost burden 
+Uncrowded housing 
+Health Outcomes 
+Insured adults 
+Arthritis 
+Asthma ER Admissions 
+High Blood Pressure 
+Cancer (excluding skin) 
+Asthma 
+Coronary Heart Disease 
+Chronic Obstructive Pulmonary Disease 
+Diagnosed Diabetes 
+Life Expectancy at Birth 
+Cognitively Disabled 
+Physically Disabled 
+Heart Attack ER Admissions 
+Mental Health Not Good 
+Chronic Kidney Disease 
+Obesity 
+81.35506224 
+80.05902733 
+87.25779546 
+10.61208777 
+10.18863082 
+56.62774285 
+79.66123444 
+80.16168356 
+60.05389452 
+54.27948159 
+20.2 
+38.3 
+40.5 
+36.4 
+23.6 
+19.3 
+12.3 
+34.4 
+26.1 
+21 .0 
+21.0 
+36.2 
+28.5 
+27.1 
+39.2 
+33 / 35 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+
+
+Pedestrian Injuries 
+Physical Health Not Good 
+Stroke 
+Health Risk Behaviors 
+Binge Drinking 
+Current Smoker 
+No Leisure Time for Physical Activity 
+Climate Change Exposures 
+Wildfire Risk 
+SLR Inundation Area 
+Children 
+Elderly 
+English Speaking 
+Foreign-born 
+Outdoor Workers 
+Climate Change Adaptive Capacity 
+Impervious Surface Cover 
+Traffic Density 
+Traffic Access 
+Other Indices 
+Hardship 
+Other Decision Support 
+2016 Voting 
+7.3. Overall Health & Equity Scores 
+Metric 
+CalEnviroScreen 4.0 Score for Project Location (a) 
+98.6 
+32.6 
+22.5 
+32.5 
+28.0 
+38.1 
+0.0 
+79.9 
+56.6 
+27.8 
+67.4 
+16.0 
+33.3 
+9.9 
+92.4 
+71.0 
+44.7 
+55.5 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+Result for Project Census Tract 
+51 .0 
+34 / 35 
+
+
+Healthy Places Index Score for Project Location (b) 
+Project Located in a Designated Disadvantaged Community (Senate Bill 535) 
+Project Located in a Low-Income Community (Assembly Bill 1550) 
+Project Located in a Community Air Protection Program Community (Assembly Bill 617) 
+14.0 
+No 
+Yes 
+No 
+Oceanside GPU - Baseline 2016 Detailed Report, 2/28/2024 
+a: The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+b: The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+7.4. Health & Equity Measures 
+No Health & Equity Measures selected. 
+7.5. Evaluation Scorecard 
+Health & Equity Evaluation Scorecard not completed. 
+7.6. Health & Equity Custom Measures 
+No Health & Equity Custom Measures created. 
+8. User Changes to Default Data 
+Screen 
+Land Use 
+Operations: Hearths 
+Justification 
+Baseline year 2016 land uses 
+No fireplaces or woodstoves modeled 
+35 / 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report 
+Table of Contents 
+1 . Basic Project Information 
+1.1. Basic Project Information 
+1.2. Land Use Types 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+2. Emissions Summary 
+2.4. Operations Emissions Compared Against Thresholds 
+2.5. Operations Emissions by Sector, Unmitigated 
+4. Operations Emissions Details 
+4.1. Mobile Emissions by Land Use 
+4.1.1. Unmitigated 
+4.2. Energy 
+4.2.1. Electricity Emissions By Land Use - Unmitigated 
+4.2.3. Natural Gas Emissions By Land Use - Unmitigated 
+4.3. Area Emissions by Source 
+1 / 35 
+
+
+4.3.1. Unmitigated 
+4.4. Water Emissions by Land Use 
+4.4.1. Unmitigated 
+4.5. Waste Emissions by Land Use 
+4.5.1. Unmitigated 
+4.6. Refrigerant Emissions by Land Use 
+4.6.1. Unmitigated 
+4.7. Offroad Emissions By Equipment Type 
+4.7.1. Unmitigated 
+4.8. Stationary Emissions By Equipment Type 
+4.8.1. Unmitigated 
+4.9. User Defined Emissions By Equipment Type 
+4.9.1. Unmitigated 
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+2 /35 
+
+
+5. Activity Data 
+5.9. Operational Mobile Sources 
+5.9.1. Unmitigated 
+5.10. Operational Area Sources 
+5.10.1. Hearths 
+5.10.1.1. Unmitigated 
+5.10.2. Architectural Coatings 
+5.10.3. Landscape Equipment 
+5.11. Operational Energy Consumption 
+5.11.1. Unmitigated 
+5.12. Operational Water and Wastewater Consumption 
+5.12.1. Unmitigated 
+5.13. Operational Waste Generation 
+5.13.1. Unmitigated 
+5.14. Operational Refrigeration and Air Conditioning Equipment 
+5.14.1. Unmitigated 
+5.15. Operational Off-Road Equipment 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+3/35 
+
+
+5.15.1. Unmitigated 
+5.16. Stationary Sources 
+5.16.1. Emergency Generators and Fire Pumps 
+5.16.2. Process Boilers 
+5.17. User Defined 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+6.2. Initial Climate Risk Scores 
+6.3. Adjusted Climate Risk Scores 
+6.4. Climate Risk Reduction Measures 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+4/35 
+
+
+7. Health and Equity Details 
+7 .1. CalEnviroScreen 4.0 Scores 
+7.2. Healthy Places Index Scores 
+7 .3. Overall Health & Equity Scores 
+7.4. Health & Equity Measures 
+7 .5. Evaluation Scorecard 
+7 .6. Health & Equity Custom Measures 
+8. User Changes to Default Data 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+5/35 
+
+
+1 . Basic Project Information 
+1 .1. Basic Project Information 
+Data Field 
+Project Name 
+Operational Year 
+Lead Agency 
+Land Use Scale 
+Analysis Level for Defaults 
+Windspeed (mis) 
+Precipitation (days) 
+Location 
+County 
+City 
+Air District 
+Air Basin 
+TAZ 
+EDFZ 
+Electric Utility 
+Gas Utility 
+App Version 
+1.2. Land Use Types 
+Land Use Subtype 
+Single Family 
+Housing 
+Size 
+43,176 
+Unit 
+Dwelling Unit 
+Lot Acreage 
+8,000 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Value 
+Oceanside GPU - Adopted General Plan 2050 
+2050 
+City of Oceanside 
+Plan/community 
+County 
+1.90 
+20.6 
+Oceanside, CA, USA 
+San Diego 
+Oceanside 
+San Diego County APCD 
+San Diego 
+6231 
+12 
+San Diego Gas & Electric 
+San Diego Gas & Electric 
+2022.1.1.21 
+Building Area (sq ft) 
+Landscape Area (sq 
+ft) 
+Special Landscape 
+Area (sq ft) 
+84,193,200 
+0.00 
+6/ 35 
+Population 
+Description 
+120,461 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Apartments Mid Rise 28,184 
+Dwelling Unit 
+742 
+27,056,640 
+0.00 
+78,633 
+Strip Mall 
+17,331 
+1000sqft 
+398 
+17,330,988 
+0.00 
+General Office 
+1,928 
+1000sqft 
+44.3 
+1,928,100 
+0.00 
+Building 
+General Light 
+15,983 
+1000sqft 
+367 
+15,983,425 
+0.00 
+Industry 
+Hotel 
+3,834 
+Room 
+128 
+5,566,968 
+0.00 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+No measures selected 
+2. Emissions Summary 
+2.4. Operations Emissions Compared Against Thresholds 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+i'@M■-----iillt-1◄1HIM·Mil81MiiiitiiiiHti·liHtiii 
+H/=S•tl1m+l_iBI_BIII 
+Daily, 
+Summer 
+(Max) 
+Unmit. 
+1,034 
+4,390 
+1,007 
+12,027 
+25.1 
+62.9 
+2,363 
+2,426 
+61 .2 
+599 
+660 
+64,400 
+3,300,51 
+3,364,91 
+6,660 
+101 
+14,017 
+3,575,66 
+9 
+8 
+5 
+Daily, 
+Winter 
+(Max) 
+Unmit. 
+338 
+3,740 
+986 
+5,295 
+23.8 
+58.0 
+2,363 
+2,421 
+57.5 
+599 
+656 
+64,400 
+3,181 ,35 3,245,75 6,658 
+104 
+13,779 
+3,456,94 
+7 
+6 
+6 
+Average 
+Daily 
+(Max) 
+Unmit. 
+679 
+4,059 
+1,009 
+8,316 
+24.1 
+60.4 
+2,331 
+2,392 
+59.3 
+591 
+650 
+64,400 
+3,205,76 3,270,16 6,659 
+104 
+13,878 
+3,481,40 
+1 
+1 
+5 
+7 I 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Annual 
+(Max) 
+Unmit. 
+124 
+741 
+184 
+1,518 
+4.40 
+11 .0 
+425 
+437 
+10.8 
+108 
+119 
+10,662 
+530,750 
+541,412 
+1,102 
+17.2 
+2,298 
+576,386 
+2.5. Operations Emissions by Sector, Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+-----•Hl[l]W1HIM•l1HIMl1#U&il1#Mi•l1#M&ii 
+Hi=S•ti[ _____ 
+Daily, 
+Summer 
+(Max) 
+Mobile 
+274 
+214 
+318 
+5,798 
+20.8 
+7.77 
+2,363 
+2,371 
+7.28 
+599 
+606 
+2,118,63 2,118,63 40.7 
+53.9 
+245 
+2,135,96 
+3 
+3 
+5 
+Area 
+687 
+4,140 
+52.3 
+5,844 
+0.28 
+4.96 
+4.96 
+3.75 
+3.75 
+0.00 
+18,123 
+18,123 
+0.76 
+0.15 
+18,187 
+Energy 
+72.7 
+36.3 
+637 
+386 
+3.96 
+50.2 
+50.2 
+50.2 
+50.2 
+1,138,68 1,138,68 138 
+9.75 
+1,145,03 
+4 
+4 
+8 
+Water 
+15,190 
+25,079 
+40,269 
+1,562 
+37.6 
+90,534 
+Waste 
+49,210 
+0.00 
+49,210 
+4,918 
+0.00 
+172,168 
+Refrig. 
+13,773 
+13,773 
+Total 
+1,034 
+4,390 
+1,007 
+12,027 
+25.1 
+62.9 
+2,363 
+2,426 
+61.2 
+599 
+660 
+64,400 
+3,300,51 
+3,364,91 
+6,660 
+101 
+14,017 
+3,575,66 
+9 
+8 
+5 
+Daily, 
+Winter 
+(Max) 
+Mobile 
+265 
+207 
+349 
+4,909 
+19.8 
+7.77 
+2,363 
+2,371 
+7.28 
+599 
+606 
+2,017,59 2,017,59 39.2 
+56.6 
+6.34 
+2,035,43 
+4 
+4 
+3 
+Area 
+0.00 
+3,497 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Energy 
+72.7 
+36.3 
+637 
+386 
+3.96 
+50.2 
+50.2 
+50.2 
+50.2 
+1,138,68 1,138,68 138 
+9.75 
+1,145,03 
+4 
+4 
+8 
+Water 
+15,190 
+25,079 
+40,269 
+1,562 
+37.6 
+90,534 
+Waste 
+49,210 
+0.00 
+49,210 
+4,918 
+0.00 
+172,168 
+Refrig. 
+13,773 
+13,773 
+8/ 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Total 
+338 
+3,740 
+986 
+5,295 
+23.8 
+58.0 
+2,363 
+2,421 
+57.5 
+599 
+656 
+64,400 
+3,181,35 3,245,75 6,658 
+104 
+13,779 
+3,456,94 
+Average 
+Daily 
+Mobile 
+268 
+209 
+346 
+5,048 
+20.0 
+7.77 
+2,331 
+2,339 
+7.28 
+591 
+598 
+2,033,06 2,033,06 39.6 
+56.3 
+106 
+2,050,92 
+1 
+1 
+3 
+Area 
+339 
+3,814 
+25.8 
+2,882 
+0.14 
+2.45 
+2.45 
+1.85 
+1.85 
+0.00 
+8,937 
+8,937 
+0.37 
+0.08 
+8,969 
+Energy 
+72.7 
+36.3 
+637 
+386 
+3.96 
+50.2 
+50.2 
+50.2 
+50.2 
+1,138,68 1,138,68 138 
+9.75 
+1,145,03 
+4 
+4 
+8 
+Water 
+15,190 
+25,079 
+40,269 
+1,562 
+37.6 
+90,534 
+Waste 
+49,210 
+0.00 
+49,210 
+4,918 
+0.00 
+172,168 
+Refrig. 
+13,773 
+13,773 
+Total 
+679 
+4,059 
+1,009 
+8,316 
+24.1 
+60.4 
+2,331 
+2,392 
+59.3 
+591 
+650 
+64,400 
+3,205,76 3,270,16 6,659 
+104 
+13,878 
+3,481,40 
+1 
+1 
+5 
+Annual 
+Mobile 
+48.9 
+38.2 
+63.2 
+921 
+3.65 
+1.42 
+425 
+427 
+1.33 
+108 
+109 
+336,596 
+336,596 
+6.56 
+9.32 
+17.5 
+339,554 
+Area 
+61 .9 
+696 
+4.71 
+526 
+0.03 
+0.45 
+0.45 
+0.34 
+0.34 
+0.00 
+1,480 
+1,480 
+0.06 
+0.01 
+1,485 
+Energy 
+13.3 
+6.63 
+116 
+70.4 
+0.72 
+9.16 
+9.16 
+9.16 
+9.16 
+188,522 
+188,522 
+22.8 
+1.61 
+189,574 
+Water 
+2,515 
+4,152 
+6,667 
+259 
+6.22 
+14,989 
+Waste 
+8,147 
+0.00 
+8,147 
+814 
+0.00 
+28,504 
+Refrig. 
+2,280 
+2,280 
+Total 
+124 
+741 
+184 
+1,518 
+4.40 
+11 .0 
+425 
+437 
+10.8 
+108 
+119 
+10,662 
+530,750 
+541 ,412 
+1,102 
+17.2 
+2,298 
+576,386 
+4. Operations Emissions Details 
+4.1. Mobile Emissions by Land Use 
+4.1.1. Unmitigated 
+Mobile source emissions results are presented in Sections 2.6. No further detailed breakdown of emissions is available. 
+9 / 35 
+
+
+4.2. Energy 
+4.2.1. Electricity Emissions By Land Use - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+Daily, 
+Winter 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+10 / 35 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+123,233 
+123,233 
+24.0 
+44,416 
+44,416 
+8.64 
+70,998 
+70,998 
+13.8 
+14,870 
+14,870 
+2.89 
+66,658 
+66,658 
+13.0 
+30,396 
+30,396 
+5.91 
+350,572 
+350,572 
+68.2 
+123,233 
+123,233 
+24.0 
+44,416 
+44,416 
+8.64 
+70,998 
+70,998 
+13.8 
+2.91 
+1.05 
+1.67 
+0.35 
+1.57 
+0.72 
+8.27 
+2.91 
+1.05 
+1.67 
+• 
+124,698 
+44,944 
+71 ,843 
+15,047 
+67,451 
+30,758 
+354,740 
+124,698 
+44,944 
+71 ,843 
+
+
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+Annual 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.2.3. Natural Gas Emissions By Land Use - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+11 / 35 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+14,870 
+14,870 
+2.89 
+66,658 
+66,658 
+13.0 
+30,396 
+30,396 
+5.91 
+350,572 
+350,572 
+68.2 
+20,403 
+20,403 
+3.97 
+7,354 
+7,354 
+1.43 
+11,755 
+11 ,755 
+2.29 
+2,462 
+2,462 
+0.48 
+11,036 
+11 ,036 
+2.15 
+5,032 
+5,032 
+0.98 
+58,041 
+58,041 
+11 .3 
+0.35 
+1.57 
+0.72 
+8.27 
+0.48 
+0.17 
+0.28 
+0.06 
+0.26 
+0.12 
+1.37 
+15,047 
+67,451 
+30,758 
+354,740 
+20,645 
+7,441 
+11,894 
+2,491 
+11,167 
+5,092 
+58,731 
+• 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Single 
+36.4 
+18.2 
+311 
+132 
+1.98 
+25.1 
+25.1 
+25.1 
+25.1 
+394,597 
+394,597 
+34.9 
+0.74 
+395,691 
+Family 
+Housing 
+Apartme 5.89 
+2.95 
+50.4 
+21.4 
+0.32 
+4.07 
+4.07 
+4.07 
+4.07 
+63,936 
+63,936 
+5.66 
+0.12 
+64,114 
+nts 
+Mid Rise 
+Strip Mall 2.22 
+1.11 
+20.1 
+16.9 
+0.12 
+1.53 
+1.53 
+1.53 
+1.53 
+24,036 
+24,036 
+2.13 
+0.05 
+24,103 
+General 
+1.82 
+0.91 
+16.6 
+13.9 
+0.10 
+1.26 
+1.26 
+1.26 
+1.26 
+19,788 
+19,788 
+1.75 
+0.04 
+19,843 
+Office 
+Building 
+General 
+19.1 
+9.53 
+173 
+146 
+1.04 
+13.2 
+13.2 
+13.2 
+13.2 
+206,764 
+206,764 
+18.3 
+0.39 
+207,337 
+Light 
+Industry 
+Hotel 
+7.28 
+3.64 
+66.2 
+55.6 
+0.40 
+5.03 
+5.03 
+5.03 
+5.03 
+78,992 
+78,992 
+6.99 
+0.15 
+79,211 
+Total 
+72.7 
+36.3 
+637 
+386 
+3.96 
+50.2 
+50.2 
+50.2 
+50.2 
+788,112 
+788,112 
+69.7 
+1.48 
+790,298 
+Daily, 
+Winter 
+(Max) 
+Single 
+36.4 
+18.2 
+311 
+132 
+1.98 
+25.1 
+25.1 
+25.1 
+25.1 
+394,597 
+394,597 
+34.9 
+0.74 
+395,691 
+Family 
+Housing 
+Apartme 5.89 
+2.95 
+50.4 
+21.4 
+0.32 
+4.07 
+4.07 
+4.07 
+4.07 
+63,936 
+63,936 
+5.66 
+0.12 
+64,114 
+nts 
+Mid Rise 
+Strip Mall 2.22 
+1.11 
+20.1 
+16.9 
+0.12 
+1.53 
+1.53 
+1.53 
+1.53 
+24,036 
+24,036 
+2.13 
+0.05 
+24,103 
+General 
+1.82 
+0.91 
+16.6 
+13.9 
+0.10 
+1.26 
+1.26 
+1.26 
+1.26 
+19,788 
+19,788 
+1.75 
+0.04 
+19,843 
+Office 
+Building 
+General 
+19.1 
+9.53 
+173 
+146 
+1.04 
+13.2 
+13.2 
+13.2 
+13.2 
+206,764 
+206,764 
+18.3 
+0.39 
+207,337 
+Light 
+Industry 
+Hotel 
+7.28 
+3.64 
+66.2 
+55.6 
+0.40 
+5.03 
+5.03 
+5.03 
+5.03 
+78,992 
+78,992 
+6.99 
+0.15 
+79,211 
+Total 
+72.7 
+36.3 
+637 
+386 
+3.96 
+50.2 
+50.2 
+50.2 
+50.2 
+788,112 
+788,112 
+69.7 
+1.48 
+790,298 
+Annual 
+12 / 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Single 
+6.64 
+3.32 
+56.7 
+24.1 
+Family 
+Housing 
+Apartme 1.08 
+0.54 
+9.19 
+3.91 
+nts 
+Mid Rise 
+Strip Mall 0.40 
+0.20 
+3.68 
+3.09 
+General 
+0.33 
+0.17 
+3.03 
+2.54 
+Office 
+Building 
+General 
+3.48 
+1.74 
+31 .6 
+26.6 
+Light 
+Industry 
+Hotel 
+1.33 
+0.66 
+12.1 
+10.1 
+Total 
+13.3 
+6.63 
+116 
+70.4 
+4.3. Area Emissions by Source 
+4.3.1. Unmitigated 
+0.36 
+4.59 
+4.59 
+4.59 
+4.59 
+0.06 
+0.74 
+0.74 
+0.74 
+0.74 
+0.02 
+0.28 
+0.28 
+0.28 
+0.28 
+0.02 
+0.23 
+0.23 
+0.23 
+0.23 
+0.19 
+2.40 
+2.40 
+2.40 
+2.40 
+0.07 
+0.92 
+0.92 
+0.92 
+0.92 
+0.72 
+9.16 
+9.16 
+9.16 
+9.16 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+A·i·iii■-----•HIMW•Hiui·MiHU·iiiHtiiiiHti•INMiii 
+Daily, 
+Summer 
+(Max) 
+Hearths 
+Consum 
+er 
+Products 
+Architect 
+ural 
+Coatings 
+0.00 
+0.00 
+3,254 
+243 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+13 / 35 
+65,330 
+65,330 
+5.78 
+0.12 
+65,511 
+10,585 
+10,585 
+0.94 
+0.02 
+10,615 
+3,979 
+3,979 
+0.35 
+0.01 
+3,990 
+3,276 
+3,276 
+0.29 
+0.01 
+3,285 
+34,232 
+34,232 
+3.03 
+0.06 
+34,327 
+13,078 
+13,078 
+1.16 
+0.02 
+13,114 
+130,481 
+130,481 
+11 .5 
+0.25 
+130,843 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Landsca 687 
+643 
+52.3 
+5,844 
+0.28 
+4.96 
+4.96 
+3.75 
+3.75 
+18,123 
+18,123 
+0.76 
+0.15 
+18,187 
+pe 
+Equipme 
+Total 
+687 
+4,140 
+52.3 
+5,844 
+0.28 
+4.96 
+4.96 
+3.75 
+3.75 
+0.00 
+18,123 
+18,123 
+0.76 
+0.15 
+18,187 
+Daily, 
+Winter 
+(Max) 
+Hearths 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Consum 
+3,254 
+er 
+Products 
+Architect 
+243 
+ural 
+Coatings 
+Total 
+0.00 
+3,497 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Hearths 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Consum 
+594 
+er 
+Products 
+Architect 
+44.3 
+ural 
+Coatings 
+Landsca 61 .9 
+57.9 
+4.71 
+526 
+0.03 
+0.45 
+0.45 
+0.34 
+0.34 
+1,480 
+1,480 
+0.06 
+0.01 
+1,485 
+pe 
+Equipme 
+nt 
+Total 
+61 .9 
+696 
+4.71 
+526 
+0.03 
+0.45 
+0.45 
+0.34 
+0.34 
+0.00 
+1,480 
+1,480 
+0.06 
+0.01 
+1,485 
+4.4. Water Emissions by Land Use 
+4.4.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+14 / 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+••• 
+---------
+• 
+Daily, 
+Summer 
+(Max) 
+Single 
+2,907 
+4,799 
+7,706 
+299 
+7.19 
+17,325 
+Family 
+Housing 
+Apartme 
+1,897 
+3,133 
+5,030 
+195 
+4.70 
+11 ,309 
+nts 
+Mid Rise 
+Strip Mall -
+2,460 
+4,061 
+6,521 
+253 
+6.09 
+14,662 
+General 
+657 
+1,084 
+1,741 
+67.5 
+1.63 
+3,914 
+Office 
+Building 
+General 
+7,083 
+11 ,694 
+18,776 
+729 
+17.5 
+42,214 
+Light 
+Industry 
+Hotel 
+186 
+308 
+494 
+19.2 
+0.46 
+1,111 
+Total 
+15,190 
+25,079 
+40,269 
+1,562 
+37.6 
+90,534 
+Daily, 
+Winter 
+(Max) 
+Single 
+2,907 
+4,799 
+7,706 
+299 
+7.19 
+17,325 
+Family 
+Housing 
+Apartme 
+1,897 
+3,133 
+5,030 
+195 
+4.70 
+11 ,309 
+nts 
+Mid Rise 
+Strip Mall -
+2,460 
+4,061 
+6,521 
+253 
+6.09 
+14,662 
+General 
+657 
+1,084 
+1,741 
+67.5 
+1.63 
+3,914 
+Office 
+Building 
+15 / 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+General 
+7,083 
+11 ,694 
+18,776 
+729 
+17.5 
+42,214 
+Light 
+Industry 
+Hotel 
+186 
+308 
+494 
+19.2 
+0.46 
+1,111 
+Total 
+15,190 
+25,079 
+40,269 
+1,562 
+37.6 
+90,534 
+Annual 
+Single 
+481 
+795 
+1,276 
+49.5 
+1.19 
+2,868 
+Family 
+Housing 
+Apartme 
+314 
+519 
+833 
+32.3 
+0.78 
+1,872 
+nts 
+Mid Rise 
+Strip Mall -
+407 
+672 
+1,080 
+41 .9 
+1.01 
+2,427 
+General 
+109 
+179 
+288 
+11 .2 
+0.27 
+648 
+Office 
+Building 
+General 
+1,173 
+1,936 
+3,109 
+121 
+2.90 
+6,989 
+Light 
+Industry 
+Hotel 
+30.9 
+50.9 
+81 .8 
+3.17 
+0.08 
+184 
+Total 
+2,515 
+4,152 
+6,667 
+259 
+6.22 
+14,989 
+4.5. Waste Emissions by Land Use 
+4.5.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+---
+---------
+-
+Daily, 
+Summer 
+(Max) 
+16 / 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Single 
+15,391 
+0.00 
+15,391 
+1,538 
+0.00 
+53,848 
+Family 
+Housing 
+Apartme 
+11 ,232 
+0.00 
+11 ,232 
+1,123 
+0.00 
+39,297 
+nts 
+Mid Rise 
+Strip Mall -
+9,807 
+0.00 
+9,807 
+980 
+0.00 
+34,313 
+General 
+966 
+0.00 
+966 
+96.6 
+0.00 
+3,381 
+Office 
+Building 
+General 
+10,681 
+0.00 
+10,681 
+1,068 
+0.00 
+37,371 
+Light 
+Industry 
+Hotel 
+1,131 
+0.00 
+1,131 
+113 
+0.00 
+3,958 
+Total 
+49,210 
+0.00 
+49,210 
+4,918 
+0.00 
+172,168 
+Daily, 
+Winter 
+(Max) 
+Single 
+15,391 
+0.00 
+15,391 
+1,538 
+0.00 
+53,848 
+Family 
+Housing 
+Apartme 
+11 ,232 
+0.00 
+11 ,232 
+1,123 
+0.00 
+39,297 
+nts 
+Mid Rise 
+Strip Mall -
+9,807 
+0.00 
+9,807 
+980 
+0.00 
+34,313 
+General 
+966 
+0.00 
+966 
+96.6 
+0.00 
+3,381 
+Office 
+Building 
+General 
+10,681 
+0.00 
+10,681 
+1,068 
+0.00 
+37,371 
+Light 
+Industry 
+Hotel 
+1,131 
+0.00 
+1,131 
+113 
+0.00 
+3,958 
+Total 
+49,210 
+0.00 
+49,210 
+4,918 
+0.00 
+172,168 
+Annual 
+17 / 35 
+
+
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.6. Refrigerant Emissions by Land Use 
+4.6.1. Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+18 / 35 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+2,548 
+1,860 
+1,624 
+160 
+1,768 
+187 
+8,147 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+2,548 
+1,860 
+1,624 
+160 
+1,768 
+187 
+8,147 
+255 
+186 
+162 
+16.0 
+177 
+18.7 
+814 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+603 
+194 
+108 
+8,915 
+6,506 
+5,681 
+560 
+6,187 
+655 
+28,504 
+• 
+603 
+194 
+108 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+General 
+4.69 
+4.69 
+Office 
+Building 
+General 
+4,161 
+4,161 
+Light 
+Industry 
+Hotel 
+8,703 
+8,703 
+Total 
+13,773 
+13,773 
+Daily, 
+Winter 
+(Max) 
+Single 
+603 
+603 
+Family 
+Housing 
+Apartme 
+194 
+194 
+nts 
+Mid Rise 
+Strip Mall -
+108 
+108 
+General 
+4.69 
+4.69 
+Office 
+Building 
+General 
+4,161 
+4,161 
+Light 
+Industry 
+Hotel 
+8,703 
+8,703 
+Total 
+13,773 
+13,773 
+Annual 
+Single 
+99.8 
+99.8 
+Family 
+Housing 
+Apartme 
+32.1 
+32.1 
+nts 
+Mid Rise 
+Strip Mall -
+17.9 
+17.9 
+19 / 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.7. Offroad Emissions By Equipment Type 
+4.7.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+■ 
+. 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.8. Stationary Emissions By Equipment Type 
+4.8.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+20 / 35 
+0.78 
+0.78 
+689 
+689 
+1,441 
+1,441 
+2,280 
+2,280 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+••• 
+---------
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.9. User Defined Emissions By Equipment Type 
+4.9.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+■ 
+. 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+21 / 35 
+• 
+
+
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+• 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+• 
+22 / 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+E·i@i◄-----•Hlt-i◄iHIM·Mi#il 111Mi#Mliii#tki·li#Miii 
+Daily, 
+Summer 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+Daily, 
+Winter 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+Annual 
+Avoided 
+Subtotal 
+23 / 35 
+
+
+Sequest 
+Subtotal 
+Remove 
+d 
+Subtotal 
+5. Activity Data 
+5.9. Operational Mobile Sources 
+5.9.1. Unmitigated 
+Land Use Type 
+Trips/Weekday 
+Trips/Saturday 
+Total all Land Uses 
+0.00 
+0.00 
+5.10. Operational Area Sources 
+5.10.1. Hearths 
+5.10.1.1. Unmitigated 
+Hearth Type 
+Single Family Housing 
+Wood Fireplaces 
+Gas Fireplaces 
+Propane Fireplaces 
+Electric Fireplaces 
+No Fireplaces 
+Conventional Wood Stoves 
+Trips/Sunday 
+0.00 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+TripsNear 
+VMT/Weekday 
+0.00 
+3,350,728 
+Unmitigated (number) 
+0 
+0 
+0 
+0 
+43176 
+0 
+24 I 35 
+VMT/Saturday 
+VMT/Sunday 
+VMTNear 
+3,350,728 
+3,350,728 
+1,223,015,720 
+
+
+Catalytic Wood Stoves 
+Non-Catalytic Wood Stoves 
+Pellet Wood Stoves 
+Apartments Mid Rise 
+Wood Fireplaces 
+Gas Fireplaces 
+Propane Fireplaces 
+Electric Fireplaces 
+No Fireplaces 
+Conventional Wood Stoves 
+Catalytic Wood Stoves 
+Non-Catalytic Wood Stoves 
+Pellet Wood Stoves 
+5.10.2. Architectural Coatings 
+Residential Interior Area Coated (sq ft) 
+Residential Exterior Area Coated (sq ft) 
+225280926 
+5.10.3. Landscape Equipment 
+Season 
+Snow Days 
+Summer Days 
+75,093,642 
+5.11. Operational Energy Consumption 
+5.11.1. Unmitigated 
+Unit 
+day/yr 
+day/yr 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+28184 
+0 
+0 
+0 
+0 
+Non-Residential Interior Area Coated 
+(sq ft) 
+61,214,222 
+25 I 35 
+Non-Residential Exterior Area Coated 
+(sq ft) 
+20,404,741 
+Value 
+0.00 
+180 
+Parking Area Coated (sq ft) 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Electricity (kWh/yr) and CO2 and CH4 and N2O and Natural Gas (kBTU/yr) 
+I Land Use 
+Electricity (kWh/yr) 
+Single Family Housing 
+265,155,800 
+170 
+Apartments Mid Rise 
+95,568,278 
+170 
+Strip Mall 
+152,765,009 
+170 
+General Office Building 
+31,995,984 
+170 
+General Light Industry 
+143,425,969 
+170 
+Hotel 
+65,402,617 
+170 
+5.12. Operational Water and Wastewater Consumption 
+5.12.1. Unmitigated 
+Land Use 
+Single Family Housing 
+Apartments Mid Rise 
+Strip Mall 
+General Office Building 
+General Light Industry 
+Hotel 
+5.13. Operational Waste Generation 
+5.13.1. Unmitigated 
+Land Use 
+Single Family Housing 
+Apartments Mid Rise 
+Strip Mall 
+Indoor Water (gal/year) 
+1,516,905,646 
+990,190,586 
+1,283,749,981 
+342,688,440 
+3,696,167,031 
+97,256,196 
+Waste (ton/year) 
+28,558 
+20,841 
+18,198 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+26 / 35 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+Outdoor Water (gal/year) 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Cogeneration (kWh/year) 
+Natural Gas (kBTU/yr) 
+1,231 ,247,109 
+199,498,649 
+74,998,402 
+61,743,597 
+645,159,107 
+246,474,888 
+
+
+General Office Building 
+General Light Industry 
+Hotel 
+1,793 
+19,819 
+2,099 
+5.14. Operational Refrigeration and Air Conditioning Equipment 
+5.14.1. Unmitigated 
+Land Use Type 
+Equipment Type 
+Refrigerant 
+Single Family Housing 
+Average room A/C & 
+R-410A 
+2,088 
+Other residential A/C 
+and heat pumps 
+Single Family Housing 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Apartments Mid Rise 
+Average room A/C & 
+R-410A 
+2,088 
+Other residential A/C 
+and heat pumps 
+Apartments Mid Rise 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Strip Mall 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+Strip Mall 
+Stand-alone retail 
+R-134a 
+1,430 
+refrigerators and 
+freezers 
+Strip Mall 
+Walk-in refrigerators 
+R-404A 
+3,922 
+and freezers 
+General Office Building 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+General Office Building 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+General Light Industry 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+Hotel 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Quantity (kg) 
+Operations Leak Rate 
+Service Leak Rate 
+Times Serviced 
+< 0.005 
+2.50 
+2.50 
+10.0 
+0.12 
+0.60 
+0.00 
+1.00 
+< 0.005 
+2.50 
+2.50 
+10.0 
+0.12 
+0.60 
+0.00 
+1.00 
+< 0.005 
+4.00 
+4.00 
+18.0 
+0.04 
+1.00 
+0.00 
+1.00 
+< 0.005 
+7.50 
+7.50 
+20.0 
+0.02 
+0.60 
+0.00 
+1.00 
+< 0.005 
+4.00 
+4.00 
+18.0 
+0.30 
+4.00 
+4.00 
+18.0 
+0.00 
+0.60 
+0.00 
+1.00 
+27 / 35 
+
+
+Hotel 
+Hotel 
+Other commercial A/C 
+R-41 QA 
+and heat pumps 
+Walk-in refrigerators 
+and freezers 
+R-404A 
+5.15. Operational Off-Road Equipment 
+5.15.1. Unmitigated 
+Equipment Type 
+Fuel Type 
+Engine Tier 
+5.16. Stationary Sources 
+5.16.1. Emergency Generators and Fire Pumps 
+Equipment Type 
+Fuel Type 
+5.16.2. Process Boilers 
+Equipment Type 
+5.17. User Defined 
+Equipment Type 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+Vegetation Land Use Type 
+Fuel Type 
+Number per Day 
+Number 
+Vegetation Soil Type 
+2,088 
+3,922 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+1.80 
+4.00 
+4.00 
+18.0 
+< 0.005 
+7.50 
+7.50 
+20.0 
+Number per Day 
+Hours Per Day 
+Horsepower 
+Load Factor 
+Hours per Day 
+Hours per Year 
+Horsepower 
+Load Factor 
+Boiler Rating (MMBtu/hr) 
+Daily Heat Input (MMBtu/day) 
+Annual Heat Input (MMBtu/yr) 
+Fuel Type 
+Initial Acres 
+Final Acres 
+28 / 35 
+
+
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+Biomass Cover Type 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+Tree Type 
+Number 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Initial Acres 
+Final Acres 
+Electricity Saved (kWh/year) 
+Natural Gas Saved (btu/year) 
+Cal-Adapt midcentury 2040-2059 average projections for four hazards are reported below for your project location. These are under Representation Concentration Pathway (RCP) 8.5 which assumes GHG 
+emissions will continue to rise strongly through 2050 and then plateau around 2100. 
+I Climate Hazard 
+Temperature and Extreme Heat 
+Extreme Precipitation 
+Sea Level Rise 
+Wildfire 
+Result for Project Location 
+7.71 
+2.95 
+21 .9 
+Unit 
+annual days of extreme heat 
+annual days with precipitation above 20 mm 
+meters of inundation depth 
+annual hectares burned 
+Temperature and Extreme Heat data are for grid cell in which your project are located. The projection is based on the 98th historical percentile of daily maximum/minimum temperatures from observed 
+historical data (32 climate model ensemble from Cal-Adapt, 2040-2059 average under RCP 8.5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Extreme Precipitation data are for the grid cell in which your project are located. The threshold of 20 mm is equivalent to about¾ an inch of rain, which would be light to moderate rainfall if received over a full 
+day or heavy rain if received over a period of 2 to 4 hours. Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Sea Level Rise data are for the grid cell in which your project are located. The projections are from Radke et al. (2017), as reported in Cal-Adapt (Radke et al., 2017, CEC-500-2017-008), and consider 
+inundation location and depth for the San Francisco Bay, the Sacramento-San Joaquin River Delta and California coast resulting different increments of sea level rise coupled with extreme storm events. 
+Users may select from four scenarios to view the range in potential inundation depth for the grid cell. The four scenarios are: No rise, 0.5 meter, 1.0 meter, 1.41 meters 
+Wildfire data are for the grid cell in which your project are located. The projections are from UC Davis, as reported in Cal-Adapt (2040-2059 average under RCP 8.5), and consider historical data of climate, 
+vegetation, population density, and large(> 400 ha) fire history. Users may select from four model simulations to view the range in potential wildfire probabilities for the grid cell. The four simulations make 
+different assumptions about expected rainfall and temperature are: Warmer/drier (HadGEM2-ES), Cooler/wetter (CNRM-CM5), Average conditions (CanESM2), Range of different rainfall and temperature 
+possibilities (MIROC5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+29 I 35 
+
+
+6.2. Initial Climate Risk Scores 
+Climate Hazard 
+Exposure Score 
+Temperature and Extreme Heat 
+NIA 
+Extreme Precipitation 
+NIA 
+Sea Level Rise 
+Wildfire 
+Flooding 
+Drought 
+Snowpack Reduction 
+Air Quality Degradation 
+0 
+NIA 
+NIA 
+NIA 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+Sensitivity Score 
+Adaptive Capacity Score 
+Vulnerability Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+0 
+0 
+NIA 
+0 
+0 
+NIA 
+0 
+0 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores do not include implementation of climate risk reduction measures. 
+6.3. Adjusted Climate Risk Scores 
+Climate Hazard 
+Temperature and Extreme Heat 
+Extreme Precipitation 
+Sea Level Rise 
+Wildfire 
+Flooding 
+Drought 
+Snowpack Reduction 
+Air Quality Degradation 
+Exposure Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+Sensitivity Score 
+NIA 
+NIA 
+1 
+1 
+1 
+NIA 
+NIA 
+NIA 
+Adaptive Capacity Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+Vulnerability Score 
+NIA 
+NIA 
+2 
+2 
+2 
+NIA 
+NIA 
+NIA 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+30 I 35 
+
+
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores include implementation of climate risk reduction measures. 
+6.4. Climate Risk Reduction Measures 
+7. Health and Equity Details 
+7.1. CalEnviroScreen 4.0 Scores 
+The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Exposure Indicators 
+AO-Ozone 
+29.9 
+AQ-PM 
+49.8 
+AQ-DPM 
+90.7 
+Drinking Water 
+54.3 
+Lead Risk Housing 
+49.8 
+Pesticides 
+0.00 
+Toxic Releases 
+15.6 
+Traffic 
+72.5 
+Effect Indicators 
+Cleanup Sites 
+42.6 
+Groundwater 
+70.3 
+Haz Waste Facilities/Generators 
+7.35 
+Impaired Water Bodies 
+83.0 
+Solid Waste 
+35.7 
+Sensitive Population 
+Asthma 
+31.1 
+Cardio-vascular 
+49.3 
+31 / 35 
+
+
+Low Birth Weights 
+Socioeconomic Factor Indicators 
+Education 
+Housing 
+Linguistic 
+Poverty 
+Unemployment 
+7.2. Healthy Places Index Scores 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+15.0 
+52.3 
+50.3 
+44.4 
+68.6 
+70.9 
+The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Economic 
+Above Poverty 
+38.58591043 
+Employed 
+52.13653279 
+Median HI 
+29.38534582 
+Education 
+Bachelor's or higher 
+59.05299628 
+High school enrollment 
+0.115488259 
+Preschool enrollment 
+95.7141024 
+Transportation 
+Auto Access 
+17.29757475 
+Active commuting 
+80.14885153 
+Social 
+2-parent households 
+0.731425638 
+Voting 
+47.61965867 
+Neighborhood 
+Alcohol availability 
+4.516874118 
+32 / 35 
+
+
+Park access 
+Retail density 
+Supermarket access 
+Tree canopy 
+Housing 
+Homeownership 
+Housing habitability 
+Low-inc homeowner severe housing cost burden 
+Low-inc renter severe housing cost burden 
+Uncrowded housing 
+Health Outcomes 
+Insured adults 
+Arthritis 
+Asthma ER Admissions 
+High Blood Pressure 
+Cancer (excluding skin) 
+Asthma 
+Coronary Heart Disease 
+Chronic Obstructive Pulmonary Disease 
+Diagnosed Diabetes 
+Life Expectancy at Birth 
+Cognitively Disabled 
+Physically Disabled 
+Heart Attack ER Admissions 
+Mental Health Not Good 
+Chronic Kidney Disease 
+Obesity 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+81.35506224 
+80.05902733 
+87.25779546 
+10.61208777 
+10.18863082 
+56.62774285 
+79.66123444 
+80.16168356 
+60.05389452 
+54.27948159 
+20.2 
+38.3 
+40.5 
+36.4 
+23.6 
+19.3 
+12.3 
+34.4 
+26.1 
+21 .0 
+21.0 
+36.2 
+28.5 
+27.1 
+39.2 
+33 / 35 
+
+
+Pedestrian Injuries 
+Physical Health Not Good 
+Stroke 
+Health Risk Behaviors 
+Binge Drinking 
+Current Smoker 
+No Leisure Time for Physical Activity 
+Climate Change Exposures 
+Wildfire Risk 
+SLR Inundation Area 
+Children 
+Elderly 
+English Speaking 
+Foreign-born 
+Outdoor Workers 
+Climate Change Adaptive Capacity 
+Impervious Surface Cover 
+Traffic Density 
+Traffic Access 
+Other Indices 
+Hardship 
+Other Decision Support 
+2016 Voting 
+7.3. Overall Health & Equity Scores 
+Metric 
+CalEnviroScreen 4.0 Score for Project Location (a) 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+98.6 
+32.6 
+22.5 
+32.5 
+28.0 
+38.1 
+0.0 
+79.9 
+56.6 
+27.8 
+67.4 
+16.0 
+33.3 
+9.9 
+92.4 
+71.0 
+44.7 
+55.5 
+Result for Project Census Tract 
+51 .0 
+34 / 35 
+
+
+Healthy Places Index Score for Project Location (b) 
+Project Located in a Designated Disadvantaged Community (Senate Bill 535) 
+Project Located in a Low-Income Community (Assembly Bill 1550) 
+Project Located in a Community Air Protection Program Community (Assembly Bill 617) 
+Oceanside GPU - Adopted General Plan 2050 Detailed Report, 2/28/2024 
+14.0 
+No 
+Yes 
+No 
+a: The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+b: The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+7.4. Health & Equity Measures 
+No Health & Equity Measures selected. 
+7.5. Evaluation Scorecard 
+Health & Equity Evaluation Scorecard not completed. 
+7.6. Health & Equity Custom Measures 
+No Health & Equity Custom Measures created. 
+8. User Changes to Default Data 
+Screen 
+Land Use 
+Operations: Hearths 
+Justification 
+Adopted General Plan land uses 
+No fireplaces or woodstoves modeled 
+35 / 35 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Oceanside GPU - GPU 2050 Detailed Report 
+Table of Contents 
+1 . Basic Project Information 
+1.1. Basic Project Information 
+1.2. Land Use Types 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+2. Emissions Summary 
+2.4. Operations Emissions Compared Against Thresholds 
+2.5. Operations Emissions by Sector, Unmitigated 
+4. Operations Emissions Details 
+4.1. Mobile Emissions by Land Use 
+4.1.1. Unmitigated 
+4.2. Energy 
+4.2.1. Electricity Emissions By Land Use - Unmitigated 
+4.2.3. Natural Gas Emissions By Land Use - Unmitigated 
+4.3. Area Emissions by Source 
+1 / 35 
+
+
+4.3.1. Unmitigated 
+4.4. Water Emissions by Land Use 
+4.4.1. Unmitigated 
+4.5. Waste Emissions by Land Use 
+4.5.1. Unmitigated 
+4.6. Refrigerant Emissions by Land Use 
+4.6.1. Unmitigated 
+4.7. Offroad Emissions By Equipment Type 
+4.7.1. Unmitigated 
+4.8. Stationary Emissions By Equipment Type 
+4.8.1. Unmitigated 
+4.9. User Defined Emissions By Equipment Type 
+4.9.1. Unmitigated 
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+2 /35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+
+
+5. Activity Data 
+5.9. Operational Mobile Sources 
+5.9.1. Unmitigated 
+5.10. Operational Area Sources 
+5.10.1. Hearths 
+5.10.1.1. Unmitigated 
+5.10.2. Architectural Coatings 
+5.10.3. Landscape Equipment 
+5.11. Operational Energy Consumption 
+5.11.1. Unmitigated 
+5.12. Operational Water and Wastewater Consumption 
+5.12.1. Unmitigated 
+5.13. Operational Waste Generation 
+5.13.1. Unmitigated 
+5.14. Operational Refrigeration and Air Conditioning Equipment 
+5.14.1. Unmitigated 
+5.15. Operational Off-Road Equipment 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+3/35 
+
+
+5.15.1. Unmitigated 
+5.16. Stationary Sources 
+5.16.1. Emergency Generators and Fire Pumps 
+5.16.2. Process Boilers 
+5.17. User Defined 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+6.2. Initial Climate Risk Scores 
+6.3. Adjusted Climate Risk Scores 
+6.4. Climate Risk Reduction Measures 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+4/35 
+
+
+7. Health and Equity Details 
+7 .1. CalEnviroScreen 4.0 Scores 
+7.2. Healthy Places Index Scores 
+7 .3. Overall Health & Equity Scores 
+7.4. Health & Equity Measures 
+7 .5. Evaluation Scorecard 
+7 .6. Health & Equity Custom Measures 
+8. User Changes to Default Data 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+5/35 
+
+
+1 . Basic Project Information 
+1 .1. Basic Project Information 
+Data Field 
+Project Name 
+Operational Year 
+Lead Agency 
+Land Use Scale 
+Analysis Level for Defaults 
+Windspeed (mis) 
+Precipitation (days) 
+Location 
+County 
+City 
+Air District 
+Air Basin 
+TAZ 
+EDFZ 
+Electric Utility 
+Gas Utility 
+App Version 
+1.2. Land Use Types 
+Land Use Subtype 
+Single Family 
+Housing 
+Size 
+47,125 
+Unit 
+Dwelling Unit 
+Lot Acreage 
+8,000 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Value 
+Oceanside GPU - GPU 2050 
+2050 
+City of Oceanside 
+Plan/community 
+County 
+1.90 
+20.6 
+Oceanside, CA, USA 
+San Diego 
+Oceanside 
+San Diego County APCD 
+San Diego 
+6231 
+12 
+San Diego Gas & Electric 
+San Diego Gas & Electric 
+2022.1.1.21 
+Building Area (sq ft) 
+Landscape Area (sq 
+ft) 
+91,893,750 
+0.00 
+6/ 35 
+Special Landscape 
+Area (sq ft) 
+Population 
+131,479 
+Description 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Apartments Mid Rise 37,025 
+Dwelling Unit 
+974 
+35,544,000 
+0.00 
+103,300 
+Strip Mall 
+17,832 
+1000sqft 
+409 
+17,831 ,816 
+0.00 
+General Office 
+1,990 
+1000sqft 
+45.7 
+1,990,359 
+0.00 
+Building 
+General Light 
+16,799 
+1000sqft 
+386 
+16,799,481 
+0.00 
+Industry 
+Hotel 
+4,964 
+Room 
+165 
+7,207,728 
+0.00 
+1.3. User-Selected Emission Reduction Measures by Emissions Sector 
+No measures selected 
+2. Emissions Summary 
+2.4. Operations Emissions Compared Against Thresholds 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+i'@M■-----iillt-1◄1HIM·Mil81MiiiitiiiiHti·liHtiii 
+H/=S•tl1m+l_iBI_BIII 
+Daily, 
+Summer 
+(Max) 
+Unmit. 
+1,175 
+4,955 
+1,138 
+13,822 
+28.8 
+70.5 
+2,726 
+2,796 
+68.6 
+691 
+759 
+71,894 
+3,762,19 3,834,08 7,435 
+114 
+16,951 
+4,070,97 
+5 
+9 
+1 
+Daily, 
+Winter 
+(Max) 
+Unmit. 
+387 
+4,219 
+1,114 
+6,093 
+27.3 
+65.0 
+2,726 
+2,791 
+64.4 
+691 
+755 
+71,894 
+3,625,02 3,696,92 7,433 
+117 
+16,676 
+3,934,31 
+9 
+3 
+6 
+Average 
+Daily 
+(Max) 
+Unmit. 
+773 
+4,580 
+1,140 
+9,560 
+27.7 
+67.7 
+2,690 
+2,757 
+66.5 
+682 
+748 
+71,894 
+3,653,03 3,724,92 7,434 
+117 
+16,791 
+3,962,38 
+3 
+7 
+3 
+7 I 35 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Annual 
+(Max) 
+Unmit. 
+141 
+836 
+208 
+1,745 
+5.05 
+12.4 
+491 
+503 
+12.1 
+124 
+137 
+11 ,903 
+604,801 
+616,704 
+1,231 
+19.3 
+2,780 
+656,018 
+2.5. Operations Emissions by Sector, Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+-----•Hl[l]W1HIM•l1HIMl1#U&il1#Mi•l1#M&ii 
+Hi=S•ti[ _____ 
+Daily, 
+Summer 
+(Max) 
+Mobile 
+316 
+247 
+366 
+6,689 
+24.0 
+8.96 
+2,726 
+2,735 
+8.39 
+691 
+699 
+2,444,15 2,444,15 46.9 
+62.2 
+282 
+2,464,14 
+1 
+1 
+6 
+Area 
+777 
+4,667 
+60.1 
+6,704 
+0.32 
+5.52 
+5.52 
+4.18 
+4.18 
+0.00 
+20,603 
+20,603 
+0.86 
+0.17 
+20,676 
+Energy 
+81 .1 
+40.5 
+711 
+429 
+4.42 
+56.0 
+56.0 
+56.0 
+56.0 
+1,270,10 1,270,10 154 
+10.9 
+1,277,18 
+0 
+0 
+5 
+Water 
+16,560 
+27,341 
+43,900 
+1,703 
+41 .0 
+98,699 
+Waste 
+55,334 
+0.00 
+55,334 
+5,530 
+0.00 
+193,596 
+Refrig. 
+16,669 
+16,669 
+Total 
+1,175 
+4,955 
+1,138 
+13,822 
+28.8 
+70.5 
+2,726 
+2,796 
+68.6 
+691 
+759 
+71,894 
+3,762,19 3,834,08 7,435 
+114 
+16,951 
+4,070,97 
+5 
+9 
+1 
+Daily, 
+Winter 
+(Max) 
+Mobile 
+306 
+239 
+403 
+5,663 
+22.9 
+8.96 
+2,726 
+2,735 
+8.39 
+691 
+699 
+2,327,58 2,327,58 45.2 
+65.2 
+7.32 
+2,348,16 
+8 
+8 
+8 
+Area 
+0.00 
+3,939 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Energy 
+81 .1 
+40.5 
+711 
+429 
+4.42 
+56.0 
+56.0 
+56.0 
+56.0 
+1,270,10 1,270,10 154 
+10.9 
+1,277,18 
+0 
+0 
+5 
+Water 
+16,560 
+27,341 
+43,900 
+1,703 
+41 .0 
+98,699 
+Waste 
+55,334 
+0.00 
+55,334 
+5,530 
+0.00 
+193,596 
+Refrig. 
+16,669 
+16,669 
+8/ 35 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Total 
+387 
+4,219 
+1,114 
+6,093 
+27.3 
+65.0 
+2,726 
+2,791 
+64.4 
+691 
+755 
+71,894 
+3,625,02 3,696,92 7,433 
+117 
+16,676 
+3,934,31 
+Average 
+Daily 
+Mobile 
+309 
+241 
+399 
+5,824 
+23.1 
+8.96 
+2,690 
+2,699 
+8.39 
+682 
+690 
+2,345,43 2,345,43 45.7 
+64.9 
+122 
+2,366,03 
+2 
+2 
+8 
+Area 
+383 
+4,298 
+29.6 
+3,306 
+0.16 
+2.72 
+2.72 
+2.06 
+2.06 
+0.00 
+10,160 
+10,160 
+0.43 
+0.09 
+10,197 
+Energy 
+81 .1 
+40.5 
+711 
+429 
+4.42 
+56.0 
+56.0 
+56.0 
+56.0 
+1,270,10 1,270,10 154 
+10.9 
+1,277,18 
+0 
+0 
+5 
+Water 
+16,560 
+27,341 
+43,900 
+1,703 
+41 .0 
+98,699 
+Waste 
+55,334 
+0.00 
+55,334 
+5,530 
+0.00 
+193,596 
+Refrig. 
+16,669 
+16,669 
+Total 
+773 
+4,580 
+1,140 
+9,560 
+27.7 
+67.7 
+2,690 
+2,757 
+66.5 
+682 
+748 
+71,894 
+3,653,03 3,724,92 7,434 
+117 
+16,791 
+3,962,38 
+3 
+7 
+3 
+Annual 
+Mobile 
+56.4 
+44.0 
+72.9 
+1,063 
+4.21 
+1.64 
+491 
+492 
+1.53 
+124 
+126 
+388,313 
+388,313 
+7.56 
+10.7 
+20.2 
+391 ,725 
+Area 
+70.0 
+784 
+5.41 
+603 
+0.03 
+0.50 
+0.50 
+0.38 
+0.38 
+0.00 
+1,682 
+1,682 
+0.07 
+0.01 
+1,688 
+Energy 
+14.8 
+7.40 
+130 
+78.4 
+0.81 
+10.2 
+10.2 
+10.2 
+10.2 
+210,280 
+210,280 
+25.5 
+1.80 
+211,452 
+Water 
+2,742 
+4,527 
+7,268 
+282 
+6.79 
+16,341 
+Waste 
+9,161 
+0.00 
+9,161 
+916 
+0.00 
+32,052 
+Refrig. 
+2,760 
+2,760 
+Total 
+141 
+836 
+208 
+1,745 
+5.05 
+12.4 
+491 
+503 
+12.1 
+124 
+137 
+11 ,903 
+604,801 
+616,704 
+1,231 
+19.3 
+2,780 
+656,018 
+4. Operations Emissions Details 
+4.1. Mobile Emissions by Land Use 
+4.1.1. Unmitigated 
+Mobile source emissions results are presented in Sections 2.6. No further detailed breakdown of emissions is available. 
+9 / 35 
+
+
+4.2. Energy 
+4.2.1. Electricity Emissions By Land Use - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+Daily, 
+Winter 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+10 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+134,504 
+134,504 
+26.2 
+58,349 
+58,349 
+11.4 
+73,050 
+73,050 
+14.2 
+15,350 
+15,350 
+2.99 
+70,061 
+70,061 
+13.6 
+39,355 
+39,355 
+7.66 
+390,669 
+390,669 
+76.0 
+134,504 
+134,504 
+26.2 
+58,349 
+58,349 
+11.4 
+73,050 
+73,050 
+14.2 
+3.17 
+1.38 
+1.72 
+0.36 
+1.65 
+0.93 
+9.21 
+3.17 
+1.38 
+1.72 
+• 
+136,103 
+59,042 
+73,919 
+15,533 
+70,894 
+39,823 
+395,315 
+136,103 
+59,042 
+73,919 
+
+
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+Annual 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.2.3. Natural Gas Emissions By Land Use - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+11 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+15,350 
+15,350 
+2.99 
+70,061 
+70,061 
+13.6 
+39,355 
+39,355 
+7.66 
+390,669 
+390,669 
+76.0 
+22,269 
+22,269 
+4.33 
+9,660 
+9,660 
+1.88 
+12,094 
+12,094 
+2.35 
+2,541 
+2,541 
+0.49 
+11,599 
+11 ,599 
+2.26 
+6,516 
+6,516 
+1.27 
+64,680 
+64,680 
+12.6 
+0.36 
+1.65 
+0.93 
+9.21 
+0.53 
+0.23 
+0.29 
+0.06 
+0.27 
+0.15 
+1.53 
+15,533 
+70,894 
+39,823 
+395,315 
+22,533 
+9,775 
+12,238 
+2,572 
+11,737 
+6,593 
+65,449 
+• 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Single 
+39.7 
+19.9 
+339 
+144 
+2.17 
+27.4 
+27.4 
+27.4 
+27.4 
+430,688 
+430,688 
+38.1 
+0.81 
+431 ,882 
+Family 
+Housing 
+Apartme 7.74 
+3.87 
+66.2 
+28.2 
+0.42 
+5.35 
+5.35 
+5.35 
+5.35 
+83,993 
+83,993 
+7.43 
+0.16 
+84,225 
+nts 
+Mid Rise 
+Strip Mall 2.28 
+1.14 
+20.7 
+17.4 
+0.12 
+1.58 
+1.58 
+1.58 
+1.58 
+24,730 
+24,730 
+2.19 
+0.05 
+24,799 
+General 
+1.88 
+0.94 
+17.1 
+14.4 
+0.10 
+1.30 
+1.30 
+1.30 
+1.30 
+20,427 
+20,427 
+1.81 
+0.04 
+20,484 
+Office 
+Building 
+General 
+20.0 
+10.0 
+182 
+153 
+1.09 
+13.8 
+13.8 
+13.8 
+13.8 
+217,321 
+217,321 
+19.2 
+0.41 
+217,923 
+Light 
+Industry 
+Hotel 
+9.43 
+4.71 
+85.7 
+72.0 
+0.51 
+6.51 
+6.51 
+6.51 
+6.51 
+102,273 
+102,273 
+9.05 
+0.19 
+102,557 
+Total 
+81 .1 
+40.5 
+711 
+429 
+4.42 
+56.0 
+56.0 
+56.0 
+56.0 
+879,431 
+879,431 
+77.8 
+1.66 
+881 ,870 
+Daily, 
+Winter 
+(Max) 
+Single 
+39.7 
+19.9 
+339 
+144 
+2.17 
+27.4 
+27.4 
+27.4 
+27.4 
+430,688 
+430,688 
+38.1 
+0.81 
+431 ,882 
+Family 
+Housing 
+Apartme 7.74 
+3.87 
+66.2 
+28.2 
+0.42 
+5.35 
+5.35 
+5.35 
+5.35 
+83,993 
+83,993 
+7.43 
+0.16 
+84,225 
+nts 
+Mid Rise 
+Strip Mall 2.28 
+1.14 
+20.7 
+17.4 
+0.12 
+1.58 
+1.58 
+1.58 
+1.58 
+24,730 
+24,730 
+2.19 
+0.05 
+24,799 
+General 
+1.88 
+0.94 
+17.1 
+14.4 
+0.10 
+1.30 
+1.30 
+1.30 
+1.30 
+20,427 
+20,427 
+1.81 
+0.04 
+20,484 
+Office 
+Building 
+General 
+20.0 
+10.0 
+182 
+153 
+1.09 
+13.8 
+13.8 
+13.8 
+13.8 
+217,321 
+217,321 
+19.2 
+0.41 
+217,923 
+Light 
+Industry 
+Hotel 
+9.43 
+4.71 
+85.7 
+72.0 
+0.51 
+6.51 
+6.51 
+6.51 
+6.51 
+102,273 
+102,273 
+9.05 
+0.19 
+102,557 
+Total 
+81 .1 
+40.5 
+711 
+429 
+4.42 
+56.0 
+56.0 
+56.0 
+56.0 
+879,431 
+879,431 
+77.8 
+1.66 
+881 ,870 
+Annual 
+12 / 35 
+
+
+Single 
+7.25 
+3.62 
+61.9 
+26.4 
+Family 
+Housing 
+Apartme 1.41 
+0.71 
+12.1 
+5.14 
+nts 
+Mid Rise 
+Strip Mall 0.42 
+0.21 
+3.78 
+3.18 
+General 
+0.34 
+0.17 
+3.12 
+2.62 
+Office 
+Building 
+General 
+3.66 
+1.83 
+33.2 
+27.9 
+Light 
+Industry 
+Hotel 
+1.72 
+0.86 
+15.6 
+13.1 
+Total 
+14.8 
+7.40 
+130 
+78.4 
+4.3. Area Emissions by Source 
+4.3.1. Unmitigated 
+0.40 
+5.01 
+5.01 
+5.01 
+5.01 
+0.08 
+0.98 
+0.98 
+0.98 
+0.98 
+0.02 
+0.29 
+0.29 
+0.29 
+0.29 
+0.02 
+0.24 
+0.24 
+0.24 
+0.24 
+0.20 
+2.53 
+2.53 
+2.53 
+2.53 
+0.09 
+1.19 
+1.19 
+1.19 
+1.19 
+0.81 
+10.2 
+10.2 
+10.2 
+10.2 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+A·i·iii■-----•HIMW•Hiui·MiHU·iiiHtiiiiHti•INMiii 
+Daily, 
+Summer 
+(Max) 
+Hearths 
+Consum 
+er 
+Products 
+Architect 
+ural 
+Coatings 
+0.00 
+0.00 
+3,665 
+274 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+13 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+71 ,305 
+71,305 
+6.31 
+0.13 
+71 ,503 
+13,906 
+13,906 
+1.23 
+0.03 
+13,944 
+4,094 
+4,094 
+0.36 
+0.01 
+4,106 
+3,382 
+3,382 
+0.30 
+0.01 
+3,391 
+35,980 
+35,980 
+3.18 
+0.07 
+36,080 
+16,932 
+16,932 
+1.50 
+0.03 
+16,979 
+145,600 
+145,600 
+12.9 
+0.27 
+146,004 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Landsca 777 
+728 
+60.1 
+6,704 
+0.32 
+5.52 
+5.52 
+4.18 
+4.18 
+20,603 
+20,603 
+0.86 
+0.17 
+20,676 
+pe 
+Equipme 
+Total 
+777 
+4,667 
+60.1 
+6,704 
+0.32 
+5.52 
+5.52 
+4.18 
+4.18 
+0.00 
+20,603 
+20,603 
+0.86 
+0.17 
+20,676 
+Daily, 
+Winter 
+(Max) 
+Hearths 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Consum 
+3,665 
+er 
+Products 
+Architect 
+274 
+ural 
+Coatings 
+Total 
+0.00 
+3,939 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Annual 
+Hearths 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Consum 
+669 
+er 
+Products 
+Architect 
+50.0 
+ural 
+Coatings 
+Landsca 70.0 
+65.5 
+5.41 
+603 
+0.03 
+0.50 
+0.50 
+0.38 
+0.38 
+1,682 
+1,682 
+0.07 
+0.01 
+1,688 
+pe 
+Equipme 
+nt 
+Total 
+70.0 
+784 
+5.41 
+603 
+0.03 
+0.50 
+0.50 
+0.38 
+0.38 
+0.00 
+1,682 
+1,682 
+0.07 
+0.01 
+1,688 
+4.4. Water Emissions by Land Use 
+4.4.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+14 / 35 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+••• 
+---------
+• 
+Daily, 
+Summer 
+(Max) 
+Single 
+3,173 
+5,238 
+8,411 
+326 
+7.85 
+18,909 
+Family 
+Housing 
+Apartme 
+2,493 
+4,115 
+6,608 
+256 
+6.17 
+14,856 
+nts 
+Mid Rise 
+Strip Mall -
+2,531 
+4,179 
+6,710 
+260 
+6.26 
+15,085 
+General 
+678 
+1,119 
+1,797 
+69.7 
+1.68 
+4,040 
+Office 
+Building 
+General 
+7,444 
+12,291 
+19,735 
+766 
+18.4 
+44,369 
+Light 
+Industry 
+Hotel 
+241 
+398 
+640 
+24.8 
+0.60 
+1,438 
+Total 
+16,560 
+27,341 
+43,900 
+1,703 
+41 .0 
+98,699 
+Daily, 
+Winter 
+(Max) 
+Single 
+3,173 
+5,238 
+8,411 
+326 
+7.85 
+18,909 
+Family 
+Housing 
+Apartme 
+2,493 
+4,115 
+6,608 
+256 
+6.17 
+14,856 
+nts 
+Mid Rise 
+Strip Mall -
+2,531 
+4,179 
+6,710 
+260 
+6.26 
+15,085 
+General 
+678 
+1,119 
+1,797 
+69.7 
+1.68 
+4,040 
+Office 
+Building 
+15 / 35 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+General 
+7,444 
+12,291 
+19,735 
+766 
+18.4 
+44,369 
+Light 
+Industry 
+Hotel 
+241 
+398 
+640 
+24.8 
+0.60 
+1,438 
+Total 
+16,560 
+27,341 
+43,900 
+1,703 
+41 .0 
+98,699 
+Annual 
+Single 
+525 
+867 
+1,392 
+54.0 
+1.30 
+3,131 
+Family 
+Housing 
+Apartme 
+413 
+681 
+1,094 
+42.4 
+1.02 
+2,460 
+nts 
+Mid Rise 
+Strip Mall -
+419 
+692 
+1,111 
+43.1 
+1.04 
+2,498 
+General 
+112 
+185 
+298 
+11 .5 
+0.28 
+669 
+Office 
+Building 
+General 
+1,232 
+2,035 
+3,267 
+127 
+3.05 
+7,346 
+Light 
+Industry 
+Hotel 
+39.9 
+66.0 
+106 
+4.11 
+0.10 
+238 
+Total 
+2,742 
+4,527 
+7,268 
+282 
+6.79 
+16,341 
+4.5. Waste Emissions by Land Use 
+4.5.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+---
+---------
+-
+Daily, 
+Summer 
+(Max) 
+16 / 35 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Single 
+16,799 
+0.00 
+16,799 
+1,679 
+0.00 
+58,774 
+Family 
+Housing 
+Apartme 
+14,756 
+0.00 
+14,756 
+1,475 
+0.00 
+51 ,625 
+nts 
+Mid Rise 
+Strip Mall -
+10,091 
+0.00 
+10,091 
+1,009 
+0.00 
+35,304 
+General 
+998 
+0.00 
+998 
+99.7 
+0.00 
+3,490 
+Office 
+Building 
+General 
+11,227 
+0.00 
+11,227 
+1,122 
+0.00 
+39,279 
+Light 
+Industry 
+Hotel 
+1,465 
+0.00 
+1,465 
+146 
+0.00 
+5,125 
+Total 
+55,334 
+0.00 
+55,334 
+5,530 
+0.00 
+193,596 
+Daily, 
+Winter 
+(Max) 
+Single 
+16,799 
+0.00 
+16,799 
+1,679 
+0.00 
+58,774 
+Family 
+Housing 
+Apartme 
+14,756 
+0.00 
+14,756 
+1,475 
+0.00 
+51 ,625 
+nts 
+Mid Rise 
+Strip Mall -
+10,091 
+0.00 
+10,091 
+1,009 
+0.00 
+35,304 
+General 
+998 
+0.00 
+998 
+99.7 
+0.00 
+3,490 
+Office 
+Building 
+General 
+11 ,227 
+0.00 
+11 ,227 
+1,122 
+0.00 
+39,279 
+Light 
+Industry 
+Hotel 
+1,465 
+0.00 
+1,465 
+146 
+0.00 
+5,125 
+Total 
+55,334 
+0.00 
+55,334 
+5,530 
+0.00 
+193,596 
+Annual 
+17 / 35 
+
+
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.6. Refrigerant Emissions by Land Use 
+4.6.1. Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Single 
+Family 
+Housing 
+Apartme 
+nts 
+Mid Rise 
+Strip Mall -
+18 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+2,781 
+2,443 
+1,671 
+165 
+1,859 
+243 
+9,161 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+2,781 
+2,443 
+1,671 
+165 
+1,859 
+243 
+9,161 
+278 
+244 
+167 
+16.5 
+186 
+24.2 
+916 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+658 
+255 
+111 
+9,731 
+8,547 
+5,845 
+578 
+6,503 
+848 
+32,052 
+• 
+658 
+255 
+111 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+General 
+4.84 
+4.84 
+Office 
+Building 
+General 
+4,373 
+4,373 
+Light 
+Industry 
+Hotel 
+11 ,268 
+11 ,268 
+Total 
+16,669 
+16,669 
+Daily, 
+Winter 
+(Max) 
+Single 
+658 
+658 
+Family 
+Housing 
+Apartme 
+255 
+255 
+nts 
+Mid Rise 
+Strip Mall -
+111 
+111 
+General 
+4.84 
+4.84 
+Office 
+Building 
+General 
+4,373 
+4,373 
+Light 
+Industry 
+Hotel 
+11 ,268 
+11 ,268 
+Total 
+16,669 
+16,669 
+Annual 
+Single 
+109 
+109 
+Family 
+Housing 
+Apartme 
+42.1 
+42.1 
+nts 
+Mid Rise 
+Strip Mall -
+18.4 
+18.4 
+19 / 35 
+
+
+General 
+Office 
+Building 
+General 
+Light 
+Industry 
+Hotel 
+Total 
+4.7. Offroad Emissions By Equipment Type 
+4.7.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+■ 
+. 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.8. Stationary Emissions By Equipment Type 
+4.8.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+20 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+0.80 
+0.80 
+724 
+724 
+1,865 
+1,865 
+2,760 
+2,760 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+••• 
+---------
+• 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.9. User Defined Emissions By Equipment Type 
+4.9.1. Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+■ 
+. 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+21 / 35 
+
+
+4.10. Soil Carbon Accumulation By Vegetation Type 
+4.10.1. Soil Carbon Accumulation By Vegetation Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+4.10.2. Above and Belowground Carbon Accumulation by Land Use Type - Unmitigated 
+Daily, 
+Summer 
+(Max) 
+Total 
+Daily, 
+Winter 
+(Max) 
+Total 
+Annual 
+Total 
+22 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+• 
+• 
+
+
+4.10.3. Avoided and Sequestered Emissions by Species - Unmitigated 
+Criteria Pollutants (lb/day for daily, ton/yr for annual) and GHGs (lb/day for daily, MT/yr for annual) 
+E·i@i◄-----•Hlt-i◄iHIM·Mi#il 111Mi#Mliii#tki·li#Miii 
+Daily, 
+Summer 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+Daily, 
+Winter 
+(Max) 
+Avoided 
+Subtotal 
+Sequest 
+ered 
+Subtotal 
+Remove 
+d 
+Subtotal 
+Annual 
+Avoided 
+Subtotal 
+23 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+
+
+Sequest 
+Subtotal 
+Remove 
+d 
+Subtotal 
+5. Activity Data 
+5.9. Operational Mobile Sources 
+5.9.1. Unmitigated 
+Land Use Type 
+Trips/Weekday 
+Trips/Saturday 
+Total all Land Uses 
+0.00 
+0.00 
+5.10. Operational Area Sources 
+5.10.1. Hearths 
+5.10.1.1. Unmitigated 
+Hearth Type 
+Single Family Housing 
+Wood Fireplaces 
+Gas Fireplaces 
+Propane Fireplaces 
+Electric Fireplaces 
+No Fireplaces 
+Conventional Wood Stoves 
+Trips/Sunday 
+0.00 
+TripsNear 
+VMT/Weekday 
+0.00 
+3,865,552 
+Unmitigated (number) 
+0 
+0 
+0 
+0 
+47125 
+0 
+24 I 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+VMT/Saturday 
+VMT/Sunday 
+VMTNear 
+3,865,552 
+3,865,552 
+1,410,926,480 
+
+
+Catalytic Wood Stoves 
+Non-Catalytic Wood Stoves 
+Pellet Wood Stoves 
+Apartments Mid Rise 
+Wood Fireplaces 
+Gas Fireplaces 
+Propane Fireplaces 
+Electric Fireplaces 
+No Fireplaces 
+Conventional Wood Stoves 
+Catalytic Wood Stoves 
+Non-Catalytic Wood Stoves 
+Pellet Wood Stoves 
+5.10.2. Architectural Coatings 
+Residential Interior Area Coated (sq ft) 
+Residential Exterior Area Coated (sq ft) 
+258061443.75 
+5.10.3. Landscape Equipment 
+Season 
+Snow Days 
+Summer Days 
+86,020,481 
+5.11. Operational Energy Consumption 
+5.11.1. Unmitigated 
+Unit 
+day/yr 
+day/yr 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+37025 
+0 
+0 
+0 
+0 
+Non-Residential Interior Area Coated 
+(sq ft) 
+65,744,076 
+25 I 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Non-Residential Exterior Area Coated 
+(sq ft) 
+21,914,692 
+Value 
+0.00 
+180 
+Parking Area Coated (sq ft) 
+
+
+Electricity (kWh/yr) and CO2 and CH4 and N2O and Natural Gas (kBTU/yr) 
+I Land Use 
+Electricity (kWh/yr) 
+Single Family Housing 
+289,407,706 
+170 
+Apartments Mid Rise 
+125,546,959 
+170 
+Strip Mall 
+157,179,587 
+170 
+General Office Building 
+33,029,145 
+170 
+General Light Industry 
+150,748,782 
+170 
+Hotel 
+84,678,819 
+170 
+5.12. Operational Water and Wastewater Consumption 
+5.12.1. Unmitigated 
+Land Use 
+Single Family Housing 
+Apartments Mid Rise 
+Strip Mall 
+General Office Building 
+General Light Industry 
+Hotel 
+5.13. Operational Waste Generation 
+5.13.1. Unmitigated 
+Land Use 
+Single Family Housing 
+Apartments Mid Rise 
+Strip Mall 
+Indoor Water (gal/year) 
+1,655,646,159 
+1,300,802,102 
+1,320,847,574 
+353,753,965 
+3,884,879,981 
+125,920,646 
+Waste (ton/year) 
+31 ,170 
+27,379 
+18,723 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+0.0330 
+26 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+0.0040 
+Outdoor Water (gal/year) 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Cogeneration (kWh/year) 
+Natural Gas (kBTU/yr) 
+1,343,860,478 
+262,079,104 
+77,165,694 
+63,737,318 
+678,098,603 
+319,118,765 
+
+
+General Office Building 
+General Light Industry 
+Hotel 
+1,851 
+20,831 
+2,718 
+5.14. Operational Refrigeration and Air Conditioning Equipment 
+5.14.1. Unmitigated 
+Land Use Type 
+Equipment Type 
+Refrigerant 
+Single Family Housing 
+Average room A/C & 
+R-410A 
+2,088 
+Other residential A/C 
+and heat pumps 
+Single Family Housing 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Apartments Mid Rise 
+Average room A/C & 
+R-410A 
+2,088 
+Other residential A/C 
+and heat pumps 
+Apartments Mid Rise 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Strip Mall 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+Strip Mall 
+Stand-alone retail 
+R-134a 
+1,430 
+refrigerators and 
+freezers 
+Strip Mall 
+Walk-in refrigerators 
+R-404A 
+3,922 
+and freezers 
+General Office Building 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+General Office Building 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+General Light Industry 
+Other commercial A/C 
+R-410A 
+2,088 
+and heat pumps 
+Hotel 
+Household refrigerators R-134a 
+1,430 
+and/or freezers 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Quantity (kg) 
+Operations Leak Rate 
+Service Leak Rate 
+Times Serviced 
+< 0.005 
+2.50 
+2.50 
+10.0 
+0.12 
+0.60 
+0.00 
+1.00 
+< 0.005 
+2.50 
+2.50 
+10.0 
+0.12 
+0.60 
+0.00 
+1.00 
+< 0.005 
+4.00 
+4.00 
+18.0 
+0.04 
+1.00 
+0.00 
+1.00 
+< 0.005 
+7.50 
+7.50 
+20.0 
+0.02 
+0.60 
+0.00 
+1.00 
+< 0.005 
+4.00 
+4.00 
+18.0 
+0.30 
+4.00 
+4.00 
+18.0 
+0.00 
+0.60 
+0.00 
+1.00 
+27 / 35 
+
+
+Hotel 
+Hotel 
+Other commercial A/C 
+R-41 QA 
+and heat pumps 
+Walk-in refrigerators 
+and freezers 
+R-404A 
+5.15. Operational Off-Road Equipment 
+5.15.1. Unmitigated 
+Equipment Type 
+Fuel Type 
+Engine Tier 
+5.16. Stationary Sources 
+5.16.1. Emergency Generators and Fire Pumps 
+Equipment Type 
+Fuel Type 
+5.16.2. Process Boilers 
+Equipment Type 
+5.17. User Defined 
+Equipment Type 
+5.18. Vegetation 
+5.18.1. Land Use Change 
+5.18.1.1. Unmitigated 
+Vegetation Land Use Type 
+Fuel Type 
+Number per Day 
+Number 
+Vegetation Soil Type 
+2,088 
+3,922 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+1.80 
+4.00 
+4.00 
+18.0 
+< 0.005 
+7.50 
+7.50 
+20.0 
+Number per Day 
+Hours Per Day 
+Horsepower 
+Load Factor 
+Hours per Day 
+Hours per Year 
+Horsepower 
+Load Factor 
+Boiler Rating (MMBtu/hr) 
+Daily Heat Input (MMBtu/day) 
+Annual Heat Input (MMBtu/yr) 
+Fuel Type 
+Initial Acres 
+Final Acres 
+28 / 35 
+
+
+5.18.1. Biomass Cover Type 
+5.18.1.1. Unmitigated 
+Biomass Cover Type 
+5.18.2. Sequestration 
+5.18.2.1. Unmitigated 
+Tree Type 
+Number 
+6. Climate Risk Detailed Report 
+6.1. Climate Risk Summary 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Initial Acres 
+Final Acres 
+Electricity Saved (kWh/year) 
+Natural Gas Saved (btu/year) 
+Cal-Adapt midcentury 2040-2059 average projections for four hazards are reported below for your project location. These are under Representation Concentration Pathway (RCP) 8.5 which assumes GHG 
+emissions will continue to rise strongly through 2050 and then plateau around 2100. 
+I Climate Hazard 
+Temperature and Extreme Heat 
+Extreme Precipitation 
+Sea Level Rise 
+Wildfire 
+Result for Project Location 
+7.71 
+2.95 
+21 .9 
+Unit 
+annual days of extreme heat 
+annual days with precipitation above 20 mm 
+meters of inundation depth 
+annual hectares burned 
+Temperature and Extreme Heat data are for grid cell in which your project are located. The projection is based on the 98th historical percentile of daily maximum/minimum temperatures from observed 
+historical data (32 climate model ensemble from Cal-Adapt, 2040-2059 average under RCP 8.5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Extreme Precipitation data are for the grid cell in which your project are located. The threshold of 20 mm is equivalent to about¾ an inch of rain, which would be light to moderate rainfall if received over a full 
+day or heavy rain if received over a period of 2 to 4 hours. Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+Sea Level Rise data are for the grid cell in which your project are located. The projections are from Radke et al. (2017), as reported in Cal-Adapt (Radke et al., 2017, CEC-500-2017-008), and consider 
+inundation location and depth for the San Francisco Bay, the Sacramento-San Joaquin River Delta and California coast resulting different increments of sea level rise coupled with extreme storm events. 
+Users may select from four scenarios to view the range in potential inundation depth for the grid cell. The four scenarios are: No rise, 0.5 meter, 1.0 meter, 1.41 meters 
+Wildfire data are for the grid cell in which your project are located. The projections are from UC Davis, as reported in Cal-Adapt (2040-2059 average under RCP 8.5), and consider historical data of climate, 
+vegetation, population density, and large(> 400 ha) fire history. Users may select from four model simulations to view the range in potential wildfire probabilities for the grid cell. The four simulations make 
+different assumptions about expected rainfall and temperature are: Warmer/drier (HadGEM2-ES), Cooler/wetter (CNRM-CM5), Average conditions (CanESM2), Range of different rainfall and temperature 
+possibilities (MIROC5). Each grid cell is 6 kilometers (km) by 6 km, or 3.7 miles (mi) by 3.7 mi. 
+29 I 35 
+
+
+6.2. Initial Climate Risk Scores 
+Climate Hazard 
+Exposure Score 
+Temperature and Extreme Heat 
+NIA 
+Extreme Precipitation 
+NIA 
+Sea Level Rise 
+Wildfire 
+Flooding 
+Drought 
+Snowpack Reduction 
+Air Quality Degradation 
+0 
+NIA 
+NIA 
+NIA 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Sensitivity Score 
+Adaptive Capacity Score 
+Vulnerability Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+0 
+0 
+NIA 
+0 
+0 
+NIA 
+0 
+0 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores do not include implementation of climate risk reduction measures. 
+6.3. Adjusted Climate Risk Scores 
+Climate Hazard 
+Temperature and Extreme Heat 
+Extreme Precipitation 
+Sea Level Rise 
+Wildfire 
+Flooding 
+Drought 
+Snowpack Reduction 
+Air Quality Degradation 
+Exposure Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+Sensitivity Score 
+NIA 
+NIA 
+1 
+1 
+1 
+NIA 
+NIA 
+NIA 
+Adaptive Capacity Score 
+NIA 
+NIA 
+NIA 
+NIA 
+NIA 
+Vulnerability Score 
+NIA 
+NIA 
+2 
+2 
+2 
+NIA 
+NIA 
+NIA 
+The sensitivity score reflects the extent to which a project would be adversely affected by exposure to a climate hazard. Exposure is rated on a scale of 1 to 5, with a score of 5 representing the greatest 
+exposure. 
+30 I 35 
+
+
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+The adaptive capacity of a project refers to its ability to manage and reduce vulnerabilities from projected climate hazards. Adaptive capacity is rated on a scale of 1 to 5, with a score of 5 representing the 
+greatest ability to adapt. 
+The overall vulnerability scores are calculated based on the potential impacts and adaptive capacity assessments for each hazard. Scores include implementation of climate risk reduction measures. 
+6.4. Climate Risk Reduction Measures 
+7. Health and Equity Details 
+7.1. CalEnviroScreen 4.0 Scores 
+The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Exposure Indicators 
+AO-Ozone 
+29.9 
+AQ-PM 
+49.8 
+AQ-DPM 
+90.7 
+Drinking Water 
+54.3 
+Lead Risk Housing 
+49.8 
+Pesticides 
+0.00 
+Toxic Releases 
+15.6 
+Traffic 
+72.5 
+Effect Indicators 
+Cleanup Sites 
+42.6 
+Groundwater 
+70.3 
+Haz Waste Facilities/Generators 
+7.35 
+Impaired Water Bodies 
+83.0 
+Solid Waste 
+35.7 
+Sensitive Population 
+Asthma 
+31.1 
+Cardio-vascular 
+49.3 
+31 / 35 
+
+
+Low Birth Weights 
+Socioeconomic Factor Indicators 
+Education 
+Housing 
+Linguistic 
+Poverty 
+Unemployment 
+7.2. Healthy Places Index Scores 
+15.0 
+52.3 
+50.3 
+44.4 
+68.6 
+70.9 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+I Indicator 
+Result for Project Census Tract 
+Economic 
+Above Poverty 
+38.58591043 
+Employed 
+52.13653279 
+Median HI 
+29.38534582 
+Education 
+Bachelor's or higher 
+59.05299628 
+High school enrollment 
+0.115488259 
+Preschool enrollment 
+95.7141024 
+Transportation 
+Auto Access 
+17.29757475 
+Active commuting 
+80.14885153 
+Social 
+2-parent households 
+0.731425638 
+Voting 
+47.61965867 
+Neighborhood 
+Alcohol availability 
+4.516874118 
+32 / 35 
+
+
+Park access 
+Retail density 
+Supermarket access 
+Tree canopy 
+Housing 
+Homeownership 
+Housing habitability 
+Low-inc homeowner severe housing cost burden 
+Low-inc renter severe housing cost burden 
+Uncrowded housing 
+Health Outcomes 
+Insured adults 
+Arthritis 
+Asthma ER Admissions 
+High Blood Pressure 
+Cancer (excluding skin) 
+Asthma 
+Coronary Heart Disease 
+Chronic Obstructive Pulmonary Disease 
+Diagnosed Diabetes 
+Life Expectancy at Birth 
+Cognitively Disabled 
+Physically Disabled 
+Heart Attack ER Admissions 
+Mental Health Not Good 
+Chronic Kidney Disease 
+Obesity 
+81.35506224 
+80.05902733 
+87.25779546 
+10.61208777 
+10.18863082 
+56.62774285 
+79.66123444 
+80.16168356 
+60.05389452 
+54.27948159 
+20.2 
+38.3 
+40.5 
+36.4 
+23.6 
+19.3 
+12.3 
+34.4 
+26.1 
+21 .0 
+21.0 
+36.2 
+28.5 
+27.1 
+39.2 
+33 / 35 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+
+
+Pedestrian Injuries 
+Physical Health Not Good 
+Stroke 
+Health Risk Behaviors 
+Binge Drinking 
+Current Smoker 
+No Leisure Time for Physical Activity 
+Climate Change Exposures 
+Wildfire Risk 
+SLR Inundation Area 
+Children 
+Elderly 
+English Speaking 
+Foreign-born 
+Outdoor Workers 
+Climate Change Adaptive Capacity 
+Impervious Surface Cover 
+Traffic Density 
+Traffic Access 
+Other Indices 
+Hardship 
+Other Decision Support 
+2016 Voting 
+7.3. Overall Health & Equity Scores 
+Metric 
+CalEnviroScreen 4.0 Score for Project Location (a) 
+98.6 
+32.6 
+22.5 
+32.5 
+28.0 
+38.1 
+0.0 
+79.9 
+56.6 
+27.8 
+67.4 
+16.0 
+33.3 
+9.9 
+92.4 
+71.0 
+44.7 
+55.5 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+Result for Project Census Tract 
+51 .0 
+34 / 35 
+
+
+Healthy Places Index Score for Project Location (b) 
+Project Located in a Designated Disadvantaged Community (Senate Bill 535) 
+Project Located in a Low-Income Community (Assembly Bill 1550) 
+Project Located in a Community Air Protection Program Community (Assembly Bill 617) 
+14.0 
+No 
+Yes 
+No 
+Oceanside GPU - GPU 2050 Detailed Report, 2/28/2024 
+a: The maximum CalEnviroScreen score is 100. A high score (i.e., greater than 50) reflects a higher pollution burden compared to other census tracts in the state. 
+b: The maximum Health Places Index score is 100. A high score (i.e., greater than 50) reflects healthier community conditions compared to other census tracts in the state. 
+7.4. Health & Equity Measures 
+No Health & Equity Measures selected. 
+7.5. Evaluation Scorecard 
+Health & Equity Evaluation Scorecard not completed. 
+7.6. Health & Equity Custom Measures 
+No Health & Equity Custom Measures created. 
+8. User Changes to Default Data 
+Screen 
+Land Use 
+Operations: Hearths 
+Justification 
+GPU land uses 
+No fireplaces or woodstoves modeled 
+35 / 35 

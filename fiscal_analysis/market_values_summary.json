@@ -1,0 +1,608 @@
+{
+  "methodology": {
+    "comp_period": "2020-2025 sales",
+    "fallback": "5% annual appreciation from sale year",
+    "city_tax_rate": 0.002946,
+    "note": "Market values estimated from recent comparable sales. Revenue-neutral scenario holds total city revenue constant and redistributes based on market values."
+  },
+  "totals": {
+    "parcels": 61158,
+    "total_assessed": 31495898253,
+    "total_market": 39071070311,
+    "aggregate_suppression": 0.806,
+    "total_revenue_gap": 7575172058,
+    "prop13_at_current_rate": 22319604
+  },
+  "by_category": [
+    {
+      "category": "SFR",
+      "count": 41416,
+      "units": 41408,
+      "acres": 2090,
+      "total_assessed": 19812672383,
+      "total_market": 23512524218,
+      "revenue_gap": 3699851835,
+      "aggregate_suppression": 0.843,
+      "median_suppression": 1.0,
+      "by_era": {
+        "pre-1990": {
+          "count": 638,
+          "assessed": 125913846,
+          "market": 304240992,
+          "suppression": 0.414
+        },
+        "1990s": {
+          "count": 1967,
+          "assessed": 501615583,
+          "market": 1054007029,
+          "suppression": 0.476
+        },
+        "2000s": {
+          "count": 6636,
+          "assessed": 2652456126,
+          "market": 3730036771,
+          "suppression": 0.711
+        },
+        "2010s": {
+          "count": 15742,
+          "assessed": 7179302002,
+          "market": 9065341588,
+          "suppression": 0.792
+        },
+        "2020s": {
+          "count": 16433,
+          "assessed": 9353384826,
+          "market": 9358897838,
+          "suppression": 0.999
+        }
+      }
+    },
+    {
+      "category": "Condo/TH",
+      "count": 8157,
+      "units": 8160,
+      "acres": 83,
+      "total_assessed": 3569295068,
+      "total_market": 3981860753,
+      "revenue_gap": 412565685,
+      "aggregate_suppression": 0.896,
+      "median_suppression": 1.0,
+      "by_era": {
+        "pre-1990": {
+          "count": 53,
+          "assessed": 11199780,
+          "market": 22222383,
+          "suppression": 0.504
+        },
+        "1990s": {
+          "count": 191,
+          "assessed": 44277788,
+          "market": 84865204,
+          "suppression": 0.522
+        },
+        "2000s": {
+          "count": 901,
+          "assessed": 323171338,
+          "market": 405377019,
+          "suppression": 0.797
+        },
+        "2010s": {
+          "count": 3391,
+          "assessed": 1313644724,
+          "market": 1583109437,
+          "suppression": 0.83
+        },
+        "2020s": {
+          "count": 3621,
+          "assessed": 1877001438,
+          "market": 1886286710,
+          "suppression": 0.995
+        }
+      }
+    },
+    {
+      "category": "Duplex",
+      "count": 184,
+      "units": 366,
+      "acres": 17,
+      "total_assessed": 127324001,
+      "total_market": 161694412,
+      "revenue_gap": 34370411,
+      "aggregate_suppression": 0.787,
+      "median_suppression": 0.976,
+      "by_era": {
+        "pre-1990": {
+          "count": 6,
+          "assessed": 601557,
+          "market": 3775039,
+          "suppression": 0.159
+        },
+        "1990s": {
+          "count": 12,
+          "assessed": 3034224,
+          "market": 8938532,
+          "suppression": 0.339
+        },
+        "2000s": {
+          "count": 40,
+          "assessed": 20965698,
+          "market": 36626491,
+          "suppression": 0.572
+        },
+        "2010s": {
+          "count": 63,
+          "assessed": 45016143,
+          "market": 54647971,
+          "suppression": 0.824
+        },
+        "2020s": {
+          "count": 63,
+          "assessed": 57706379,
+          "market": 57706379,
+          "suppression": 1.0
+        }
+      }
+    },
+    {
+      "category": "3-4 Plex",
+      "count": 487,
+      "units": 1740,
+      "acres": 48,
+      "total_assessed": 453149932,
+      "total_market": 599078097,
+      "revenue_gap": 145928165,
+      "aggregate_suppression": 0.756,
+      "median_suppression": 0.95,
+      "by_era": {
+        "pre-1990": {
+          "count": 4,
+          "assessed": 2213510,
+          "market": 4787761,
+          "suppression": 0.462
+        },
+        "1990s": {
+          "count": 18,
+          "assessed": 6999532,
+          "market": 19949685,
+          "suppression": 0.351
+        },
+        "2000s": {
+          "count": 63,
+          "assessed": 43983529,
+          "market": 76687116,
+          "suppression": 0.574
+        },
+        "2010s": {
+          "count": 203,
+          "assessed": 165007089,
+          "market": 262707263,
+          "suppression": 0.628
+        },
+        "2020s": {
+          "count": 199,
+          "assessed": 234946272,
+          "market": 234946272,
+          "suppression": 1.0
+        }
+      }
+    },
+    {
+      "category": "MFR 5-20",
+      "count": 320,
+      "units": 3555,
+      "acres": 61,
+      "total_assessed": 593174517,
+      "total_market": 923310329,
+      "revenue_gap": 330135812,
+      "aggregate_suppression": 0.642,
+      "median_suppression": 0.707,
+      "by_era": {
+        "pre-1990": {
+          "count": 1,
+          "assessed": 131312,
+          "market": 2780979,
+          "suppression": 0.047
+        },
+        "1990s": {
+          "count": 17,
+          "assessed": 9513968,
+          "market": 31388715,
+          "suppression": 0.303
+        },
+        "2000s": {
+          "count": 59,
+          "assessed": 106341775,
+          "market": 228828903,
+          "suppression": 0.465
+        },
+        "2010s": {
+          "count": 151,
+          "assessed": 252033878,
+          "market": 435158148,
+          "suppression": 0.579
+        },
+        "2020s": {
+          "count": 92,
+          "assessed": 225153584,
+          "market": 225153584,
+          "suppression": 1.0
+        }
+      }
+    },
+    {
+      "category": "MFR 21-100",
+      "count": 81,
+      "units": 9127,
+      "acres": 510,
+      "total_assessed": 1534500385,
+      "total_market": 2641642691,
+      "revenue_gap": 1107142306,
+      "aggregate_suppression": 0.581,
+      "median_suppression": 0.542,
+      "by_era": {
+        "pre-1990": {
+          "count": 4,
+          "assessed": 42770619,
+          "market": 176866109,
+          "suppression": 0.242
+        },
+        "1990s": {
+          "count": 8,
+          "assessed": 77380224,
+          "market": 281643193,
+          "suppression": 0.275
+        },
+        "2000s": {
+          "count": 23,
+          "assessed": 386170633,
+          "market": 737756842,
+          "suppression": 0.523
+        },
+        "2010s": {
+          "count": 29,
+          "assessed": 368089445,
+          "market": 785287083,
+          "suppression": 0.469
+        },
+        "2020s": {
+          "count": 17,
+          "assessed": 660089464,
+          "market": 660089464,
+          "suppression": 1.0
+        }
+      }
+    },
+    {
+      "category": "MFR 100+",
+      "count": 24,
+      "units": 5145,
+      "acres": 250,
+      "total_assessed": 426232740,
+      "total_market": 539842816,
+      "revenue_gap": 113610076,
+      "aggregate_suppression": 0.79,
+      "median_suppression": 1.0,
+      "by_era": {
+        "pre-1990": {
+          "count": 2,
+          "assessed": 5186413,
+          "market": 69562223,
+          "suppression": 0.075
+        },
+        "2000s": {
+          "count": 5,
+          "assessed": 73102925,
+          "market": 127169377,
+          "suppression": 0.575
+        },
+        "2010s": {
+          "count": 7,
+          "assessed": 165308448,
+          "market": 143744146,
+          "suppression": 1.15
+        },
+        "2020s": {
+          "count": 10,
+          "assessed": 182634954,
+          "market": 199367070,
+          "suppression": 0.916
+        }
+      }
+    },
+    {
+      "category": "Commercial",
+      "count": 1360,
+      "units": 1148,
+      "acres": 1587,
+      "total_assessed": 3324876017,
+      "total_market": 3724136870,
+      "revenue_gap": 399260853,
+      "aggregate_suppression": 0.893,
+      "median_suppression": 0.964,
+      "by_era": {
+        "pre-1990": {
+          "count": 19,
+          "assessed": 13260717,
+          "market": 38748850,
+          "suppression": 0.342
+        },
+        "1990s": {
+          "count": 79,
+          "assessed": 129102266,
+          "market": 237690568,
+          "suppression": 0.543
+        },
+        "2000s": {
+          "count": 224,
+          "assessed": 609359803,
+          "market": 774656455,
+          "suppression": 0.787
+        },
+        "2010s": {
+          "count": 627,
+          "assessed": 1538520339,
+          "market": 1629527672,
+          "suppression": 0.944
+        },
+        "2020s": {
+          "count": 411,
+          "assessed": 1034632892,
+          "market": 1043513325,
+          "suppression": 0.991
+        }
+      }
+    },
+    {
+      "category": "Industrial",
+      "count": 427,
+      "units": 342,
+      "acres": 272,
+      "total_assessed": 613104753,
+      "total_market": 653212624,
+      "revenue_gap": 40107871,
+      "aggregate_suppression": 0.939,
+      "median_suppression": 1.0,
+      "by_era": {
+        "pre-1990": {
+          "count": 25,
+          "assessed": 8874698,
+          "market": 13514007,
+          "suppression": 0.657
+        },
+        "1990s": {
+          "count": 23,
+          "assessed": 21424277,
+          "market": 39924600,
+          "suppression": 0.537
+        },
+        "2000s": {
+          "count": 92,
+          "assessed": 155728166,
+          "market": 126707759,
+          "suppression": 1.229
+        },
+        "2010s": {
+          "count": 194,
+          "assessed": 284458305,
+          "market": 327237450,
+          "suppression": 0.869
+        },
+        "2020s": {
+          "count": 92,
+          "assessed": 142602809,
+          "market": 145351265,
+          "suppression": 0.981
+        }
+      }
+    },
+    {
+      "category": "Mobile Home",
+      "count": 7229,
+      "units": 6078,
+      "acres": 84,
+      "total_assessed": 290284799,
+      "total_market": 315305573,
+      "revenue_gap": 25020774,
+      "aggregate_suppression": 0.921,
+      "median_suppression": 1.0,
+      "by_era": {
+        "pre-1990": {
+          "count": 459,
+          "assessed": 2135988,
+          "market": 2741549,
+          "suppression": 0.779
+        },
+        "1990s": {
+          "count": 1922,
+          "assessed": 5652182,
+          "market": 19026903,
+          "suppression": 0.297
+        },
+        "2000s": {
+          "count": 997,
+          "assessed": 25271472,
+          "market": 30057683,
+          "suppression": 0.841
+        },
+        "2010s": {
+          "count": 2074,
+          "assessed": 77684994,
+          "market": 81999932,
+          "suppression": 0.947
+        },
+        "2020s": {
+          "count": 1777,
+          "assessed": 179540163,
+          "market": 181479506,
+          "suppression": 0.989
+        }
+      }
+    },
+    {
+      "category": "Vacant",
+      "count": 958,
+      "units": 101,
+      "acres": 2174,
+      "total_assessed": 44239128,
+      "total_market": 468438930,
+      "revenue_gap": 424199802,
+      "aggregate_suppression": 0.094,
+      "median_suppression": 1.0,
+      "by_era": {
+        "pre-1990": {
+          "count": 327,
+          "assessed": 1633072,
+          "market": 163987868,
+          "suppression": 0.01
+        },
+        "1990s": {
+          "count": 242,
+          "assessed": 3876829,
+          "market": 122084999,
+          "suppression": 0.032
+        },
+        "2000s": {
+          "count": 186,
+          "assessed": 9308992,
+          "market": 92602753,
+          "suppression": 0.101
+        },
+        "2010s": {
+          "count": 104,
+          "assessed": 10819368,
+          "market": 42849927,
+          "suppression": 0.252
+        },
+        "2020s": {
+          "count": 99,
+          "assessed": 18600867,
+          "market": 46913383,
+          "suppression": 0.396
+        }
+      }
+    },
+    {
+      "category": "Institutional",
+      "count": 67,
+      "units": 25,
+      "acres": 1515,
+      "total_assessed": 63122784,
+      "total_market": 33486886,
+      "revenue_gap": -29635898,
+      "aggregate_suppression": 1.885,
+      "median_suppression": 1.0,
+      "by_era": {
+        "1990s": {
+          "count": 1,
+          "assessed": 216774,
+          "market": 317322,
+          "suppression": 0.683
+        },
+        "2000s": {
+          "count": 6,
+          "assessed": 3902915,
+          "market": 1870882,
+          "suppression": 2.086
+        },
+        "2010s": {
+          "count": 40,
+          "assessed": 48551439,
+          "market": 20847026,
+          "suppression": 2.329
+        },
+        "2020s": {
+          "count": 20,
+          "assessed": 10451656,
+          "market": 10451656,
+          "suppression": 1.0
+        }
+      }
+    },
+    {
+      "category": "Open Space",
+      "count": 57,
+      "units": 33,
+      "acres": 174,
+      "total_assessed": 126968183,
+      "total_market": 224594923,
+      "revenue_gap": 97626740,
+      "aggregate_suppression": 0.565,
+      "median_suppression": 0.62,
+      "by_era": {
+        "pre-1990": {
+          "count": 11,
+          "assessed": 12777679,
+          "market": 37334110,
+          "suppression": 0.342
+        },
+        "1990s": {
+          "count": 8,
+          "assessed": 14552858,
+          "market": 27082003,
+          "suppression": 0.537
+        },
+        "2000s": {
+          "count": 12,
+          "assessed": 34762988,
+          "market": 76346164,
+          "suppression": 0.455
+        },
+        "2010s": {
+          "count": 17,
+          "assessed": 25556537,
+          "market": 36574721,
+          "suppression": 0.699
+        },
+        "2020s": {
+          "count": 6,
+          "assessed": 34213983,
+          "market": 34213983,
+          "suppression": 1.0
+        }
+      }
+    },
+    {
+      "category": "Other",
+      "count": 391,
+      "units": 62,
+      "acres": 757,
+      "total_assessed": 516953563,
+      "total_market": 1291941189,
+      "revenue_gap": 774987626,
+      "aggregate_suppression": 0.4,
+      "median_suppression": 0.481,
+      "by_era": {
+        "pre-1990": {
+          "count": 52,
+          "assessed": 9954250,
+          "market": 98817890,
+          "suppression": 0.101
+        },
+        "1990s": {
+          "count": 97,
+          "assessed": 18242887,
+          "market": 76131143,
+          "suppression": 0.24
+        },
+        "2000s": {
+          "count": 74,
+          "assessed": 342774742,
+          "market": 928105136,
+          "suppression": 0.369
+        },
+        "2010s": {
+          "count": 80,
+          "assessed": 66731722,
+          "market": 107863459,
+          "suppression": 0.619
+        },
+        "2020s": {
+          "count": 67,
+          "assessed": 77139853,
+          "market": 79434746,
+          "suppression": 0.971
+        }
+      }
+    }
+  ]
+}

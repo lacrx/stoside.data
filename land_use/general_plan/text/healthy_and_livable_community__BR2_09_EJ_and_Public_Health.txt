@@ -1,0 +1,5487 @@
+ENVIRONMENTAL JUSTICE AND PUBLIC HEALTH
+9-1
+9
+ENVIRONMENTAL JUSTICE 
+AND PUBLIC HEALTH
+
+
+9-2
+EXISTING CONDITIONS REPORT
+9.1	 Environmental 
+Justice
+ENVIRONMENTAL JUSTICE AND EQUITY
+The City of Oceanside’s current General Plan 
+describes the City as a place where everyone 
+can live a long, healthy, and opportunity-filled 
+life. However, not all people have the opportu­
+nity to live their healthiest lives because of envi­
+ronmental inequities, which means that certain 
+geographies and groups of people unfairly and 
+disproportionately experience higher exposure 
+to pollution, greater negative health impacts, 
+and less access to health-supporting features, 
+such as green space and parks, safe and afford­
+able places to live, quality jobs and schools, and 
+stores that meet basic needs. 
+Environmental justice is a movement to take 
+concerted action to remedy environmental con­
+ditions that result in economic and health dispar­
+ities. Ultimately, environmental justice and social 
+equity mean the fair treatment and meaningful 
+involvement of all groups so that everyone has 
+the chance to live in a healthy environment. 
+DISADVANTAGED COMMUNITIES
+Under California law (SB 1000), cities and other 
+local jurisdictions must address environmental 
+justice by developing policies for issues that 
+affect disadvantaged communities, or commu­
+nities that experience high levels of pollution, 
+socioeconomic stress, and health impacts. SB 
+1000 identifies the California Communities 
+Environmental Health Screening Tool 3.0 
+(CalEnviroScreen) as the primary method 
+for identifying disadvantaged communities. 
+Developed by the California Environmental 
+Protection Agency (CalEPA), CalEnviroScreen 
+uses environmental, health, and socioeconomic 
+information to produce scores for every census 
+tract in the state, thereby identifying commu­
+nities that are most vulnerable to pollution’s 
+effects. The score assigned to each census tract 
+is a product of exposure to pollution, adverse 
+environmental effects caused by pollution, pres­
+ence of sensitive populations (i.e., those with 
+asthma or cardiovascular disease), and socioeco­
+nomic factors that increase vulnerability (i.e., low 
+household income, low educational attainment, 
+and unemployment). A disadvantaged commu­
+nity is defined as one which scores in the top 
+25th percentile of CalEnviroScreen’s cumulative 
+score. 
+
+
+ENVIRONMENTAL JUSTICE AND PUBLIC HEALTH
+9-3
+Overall CalEnviroScreen scores are calculated 
+from scores of two groups of indicators, pol­
+lution burden, and population characteristics 
+scores. Pollution burden represents the poten­
+tial exposures to pollutants, such as traffic, 
+drinking water contaminants, toxic releases, and 
+other sources, and the adverse environmental 
+conditions caused by pollution, such as ground­
+water threats, cleanup sites, solid waste sites, 
+or impaired water bodies. Population character­
+istics represent biological traits, health status, 
+or community characteristics that can result 
+in increased vulnerability to pollution, such as 
+health conditions or socioeconomic factors like 
+poverty or unemployment. 
+Using these criteria, there are no census tracts 
+within the Planning Area designated as disad­
+vantaged communities. However, some tracts 
+bear a disproportionate environmental burden 
+compared to other census tracts in the Planning 
+Area.  Some tracts in the Planning Area have 
+individual pollution burden or population char­
+acteristics scores above 70 . In general, tracts 
+with higher burdens are located in the west of 
+the city, due in part to higher relative pollution 
+burdens along the I-5 corridor. Census tracts 
+with cumulative CalEnviroScreen scores over 65 
+percent, including Census Tracts 82 and 85.09, 
+located in the south of Townsite and Loma Alta 
+neighborhoods, are shown in Table 9-1 and in 
+Figure 9-1.
+TABLE 9-1: OCEANSIDE CENSUS TRACTS: CALENVIROSCREEN RANKINGS
+CENSUS TRACT
+POPULATION
+CALENVIROSCREEN 3.0 
+PERCENTILE RANGE
+POLLUTION 
+BURDEN 
+SCORE
+POPULATION 
+CHARACTERISTICS 
+SCORE
+82
+6,847
+65-70%
+60
+63
+85.09 
+4,968
+70-75%
+60
+70
+Notes: 
+Only those census tracts in the Planning Area with CalEnviroScreen percentile ranges >65 percent are listed in this table.
+Source: California Communities Environmental Health Screening Tool 3.0 (CalEnviroScreen)
+
+
+Jef
+f
+e
+r
+s
+o
+S Coast Hwy
+Vista Way
+MissionAve
+N C
+a
+n
+yon
+D
+r
+Capistrano
+Park
+Tyson
+Street Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Alex Rd
+Skate Park
+Jose
+Carr
+Pa
+Buddy
+Todd
+Park
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+South
+Oceanside
+School
+Park
+Lom
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+185.04
+Tract
+185.11
+Tract
+182.00
+Tract
+181.00
+Tract
+183.00
+Tract
+184.00
+Tract
+185.09
+Tract
+185.10
+Tract
+06073018601
+Tract
+186.03
+P a c i f i c
+O c e a n
+9-4
+EXISTING CONDITIONS REPORT
+9.2	Public Health   
+One of the goals of the environmental justice 
+movement is to improve conditions that affect 
+people’s health. Determinants of health include 
+social factors and physical conditions of the 
+place in which people are born, live, learn, work, 
+play, and age. Social determinants include pov­
+erty, employment, educational attainment, and 
+housing, while physical determinants include 
+environmental quality, public transit accessibil­
+ity, and walking distance to services. Both social 
+and physical factors influence health.
+HEALTH OUTCOMES
+Evidence increasingly shows how interactions 
+between the social and physical environments 
+contribute significantly to an array of health 
+risks and outcomes. While San Diego County has 
+consistently ranked among the top 15 healthiest 
+counties in California since 2016, according to 
+California Health Interview Survey data, the City 
+of Oceanside has higher rates than the county 
+for adults ever diagnosed with diabetes (9.1 
+percent versus 8.2 percent), low-income adults 
+experiencing food insecurity (8.3 versus 6.1 per­
+cent), adult obesity (26.1 versus 25 percent), and 
+elevated weight and obesity for ages 12-17 (46.4 
+versus 30.4 percent).1     
+At the census tract level, health disparities 
+become even more stark, with several census 
+tracts in the Planning Area facing worse health 
+outcomes than others. Figures 9-2 through 9-4 
+show how census tracts within the Planning 
+Area rank among all California counties for rates 
+of asthma, high blood pressure, and low birth 
+weight.
+1  California Health Interview Survey. AskCHIS Neighborhood 
+Edition. 2018	
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\CES_Overview.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+185.04
+Tract
+185.11
+Tract
+185.16
+Tract
+186.08
+Tract
+186.14
+Tract
+194.03
+Tract
+198.08
+Tract
+182.00
+Tract
+181.00
+Tract
+183.00
+Tract
+184.00
+Tract
+185.09
+Tract
+185.10
+Tract
+185.12
+Tract
+185.13
+Tract
+185.14
+Tract
+185.15
+Tract
+185.17
+Tract
+185.18
+Tract
+185.19
+Tract
+06073018601
+Tract
+186.03
+Tract
+186.09
+Tract
+186.10
+Tract
+186.11
+Tract
+186.12
+Tract
+186.13
+Tract
+193.01
+Tract
+193.02
+Tract
+198.05
+Tract
+198.09
+Tract
+185.07
+P a c i f i c
+O c e a n
+Source: Public health Alliance of southern California, 2019; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+u
+m
+th
+m
+ M
+un
+o
+i
+r
+t
+r
+y 
+o
+P
+ 
+l
+H
+a
+i
+n
+ll
+ 
+s
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/30/2020
+o
+k
+e
+r
+a
+m
+0
+Figure 9-1: Planning Area Census Tracts with Highest Ranking CalEnviroScreen Scores 
+
+
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista W
+S Coast Hwy
+Vista Way
+MissionAve
+El C
+a
+min
+o
+Re
+al
+R
+an
+cho
+D
+e
+l Or
+o
+D
+r
+Oc
+eanside Blvd
+Palisades
+Park
+Tyson
+Street Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulve
+Park
+Joseph
+Carrasco
+Park
+Sport
+Fields
+Park
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+South
+Oceanside
+School
+Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Oceanside
+City Hall
+Tract
+181.00
+Tract
+182.00
+Tract
+183.00
+Tract
+184.00
+Tract
+185.04
+Tract
+185.09
+EXISTING CONDITIONS REPORT
+9-6
+Figure 9-2 shows how rates of asthma within 
+the Planning Area compare to the rest of tracts 
+in California. Census tracts in and around 
+downtown Oceanside--as well as tract 194.04, 
+located along Oceanside Boulevard in southeast 
+Oceanside--display elevated rates of asthma 
+compared to the rest of the state; these neigh­
+borhoods have asthma rates higher than 50 to 
+73 percent of California census tracts. These 
+census tracts also overlap with areas of the City 
+that have higher rates of poverty and cardio­
+vascular disease, as shown in Figures 9-3 and 
+9-5. The causes of asthma are unknown, but 
+both genetic and environmental factors can be 
+involved, including poor air quality. Air quality in 
+the downtown and Oceanside Boulevard areas 
+may be affected by vehicular traffic along major 
+corridors, which is likely to reduce over time 
+as emissions standards become increasingly 
+stringent. Pollution in the area has also likely 
+decreased in recent years due to the decommis­
+sioning and planned demolition of the nearby 
+Encina Power Station, located just south of the 
+area in Carlsbad.  Additionally, by facilitating 
+alternative modes of transportation, the City can 
+reduce vehicle miles traveled (VMT) and associ­
+ated emissions. 
+As seen In Figure 9-3, patterns of cardiovascular 
+disease within Oceanside are similar to those 
+for asthma, with ddowntown Oceanside expe­
+riencing rates of cardiovascular disease that are 
+higher than 50 to 74 percent of census tracts 
+in California  . There are many risk factors for 
+developing cardiovascular disease including age, 
+diet, lack of exercise, smoking and exposure to 
+air pollution. Exposure to outdoor air pollution 
+following a heart attack has been shown to 
+increase the risk of death. In addition to people 
+with a past heart attack, the effects of air pol­
+lution may also be greater in the elderly and 
+people with other preexisting health conditions.
+Figure 9-4 shows that two census tracts - Tract 
+185.17, located along Vista Way in south central 
+Oceanside, and Tract 186.11, corresponding 
+closely to the boundaries of the South Morro 
+Hills area - have incidences of low birth weight 
+that place them in the top quartile for the state, 
+meaning that low birth weight rates in these 
+tracts rank higher than 75 percent of all census 
+tracts in California. Poor nutrition, lack of prena­
+tal care, stress, and smoking by the mother are 
+known to increase the risk of having a low-birth-
+weight baby. Studies suggest that pollution could 
+also be a factor.2  
+2  Rogers, J. F., &amp; Dunlop, A. L. (2006, July 1). Air Pollution 
+and Very Low Birth Weight Infants: A Target Population? 
+American Academy of Pediatrics. https://pediatrics.
+aappublications.org/content/118/1/156.	
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\HealthVulnerabilities_Asthma.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Tract
+194.04
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+181.00
+Tract
+182.00
+Tract
+183.00
+Tract
+184.00
+Tract
+185.04
+Tract
+185.09
+P a c i f i c
+O c e a n
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+50% - 74%
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+u
+m
+th
+m
+ M
+un
+o
+i
+r
+t
+r
+y 
+o
+P
+ 
+l
+H
+a
+i
+n
+ll
+ 
+s
+Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/3/2020
+9-7
+Figure 9-2: Rates of Asthma - Statewide Ranking
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\HealthVulnerabilities_CardiovascularDisease.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Tract
+184.00
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+181.00
+Tract
+182.00
+Tract
+183.00
+Tract
+185.04
+Tract
+185.09
+P a c i f i c
+O c e a n
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+50th - 75th percentile
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+ut
+m
+h 
+m
+M
+un
+o
+i
+r
+t
+r
+y 
+o 
+Pl
+H
+a
+il
+n 
+ls
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/26/2020
+Figure 9-3: Cardiovascular Disease Rates - Statewide Ranking
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\HealthVulnerabilities_LowBirthWeight.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+185.17
+Tract
+186.11
+P a c i f i c
+O c e a n
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+Top 25%
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+u
+m
+th
+m
+ M
+un
+o
+i
+r
+t
+r
+y 
+o
+P
+ 
+l
+H
+a
+i
+n
+ll
+ 
+s
+Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/26/2020
+Figure 9-4: Low Birth Weight Rates - Statewide Ranking
+
+
+9-10
+EXISTING CONDITIONS REPORT
+SOCIAL DETERMINANTS OF PUBLIC 
+HEALTH
+Poverty, Unemployment, and 
+Educational Attainment
+Social determinants can increase stress levels 
+and/or make healthy living difficult, which can in 
+turn cause populations to be more sensitive to 
+the effects of pollution. For example, residents 
+of high-poverty neighborhoods may be more 
+likely to be exposed to toxic materials in homes, 
+dangerous streets, and pervasive advertising 
+promoting harmful substances than residents 
+of higher-income neighborhoods.3 High-poverty 
+neighborhoods also may have limited options 
+for healthy food and safe outdoor physical activ­
+ity, and fewer opportunities for education and 
+high-quality employment than higher-income 
+neighborhoods.4  These circumstances can 
+result in a multi-generational cycle of poor nutri­
+tion, poor health, and limited social, educational, 
+and economic opportunities.
+In 2018, approximately 29.4 percent of the City 
+of Oceanside’s population was living 200 percent 
+below the federal poverty level, on par with the 
+county’s current rate of 29.3 percent. Though 
+CalEnviroScreen uses now outdated ACS data 
+from 2011-2015 for its 2018 assessments, two of 
+Oceanside’s downtown census tracts, 182 and 
+185.09, had poverty rates of 58 and 57 percent, 
+respectively. These tracts, shown in Figure 9-5, 
+ranked in the top quartile for poverty rates, or 
+higher than 75 percent of the census tracts in 
+California.
+3  The Robert Wood Johnson Foundation, Center on Social 
+Disparities in Health, and the Build Healthy Places network, 
+Making the Case for Linking Community Development and 
+Health, 2015.	
+4  The Robert Wood Johnson Foundation, Center on Social 
+Disparities in Health, and the Build Healthy Places network, 
+Making the Case for Linking Community Development and 
+Health, 2015.	
+Stress from long-term unemployment can lead 
+to chronic illnesses, such as heart disease, which 
+can shorten a person’s life.5 In 2018, the unem­
+ployment rate in the City of Oceanside was 6.2 
+percent, approximately equivalent to the county 
+average of 6.4 percent. As seen In Figure 9-6, 
+Tracts 185.10 and 185.16, both located near cen­
+tral Oceanside, had unemployment rates in the 
+top quartile of CalEnviroScreen-ranked tracts, 
+meaning their unemployment rates were higher 
+than 75 percent of the census tracts in California.
+Low educational attainment also impacts 
+health. Educational attainment correlates most 
+strongly with life expectancy and most health 
+status measures.6 Additionally, several studies 
+have associated educational attainment with 
+susceptibility to the health impacts of envi­
+ronmental pollutants.7 According to 2018 ACS 
+data, within the Planning Area, approximately 
+13.3 percent of Oceanside residents have no 
+high school diploma, higher than the county 
+average of 12.9 percent. In Figure 9-7, Based on 
+CalEnviroScreen rankings, several of these tracts 
+had levels of educational attainment that are 
+among the lowest 25 percent in California. These 
+tracts are scattered across the City. While edu­
+cational attainment is correlated with multiple 
+factors, research indicates parental education 
+and income is strongly associated with children’s 
+educational achievement.8
+5  Brand J. E. The Far-Reaching Impact of Job Loss and 
+Unemployment. Annual review of sociology, 41, 359-375, 2015.	
+6  Winkleby, M. A., Jatulis, D. E., Frank, E., & Fortmann, S. P. 
+Socioeconomic status and health: how education, income, and 
+occupation contribute to risk factors for cardiovascular disease. 
+American journal of public health, 82(6), 816-20, 1992.
+7  The Robert Wood Johnson Foundation, Issue Brief: Why does 
+education matter so much to health? 2013.
+8  https://phys.org/news/2014-02-parental-income-strong-
+predictor-student.html	
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\SocioeconomicVulnerabilities_Poverty.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+6073018200
+Tract
+6073018509
+P a c i f i c
+O c e a n
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+Top 25%
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+u
+m
+th
+m
+ M
+un
+o
+i
+r
+t
+r
+y 
+o
+P
+ 
+l
+H
+a
+i
+n
+ll
+ 
+s
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/9/2020
+Figure 9-5: Poverty Rates - Statewide Ranking
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\SocioeconomicVulnerabilities_Unemployment.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract 
+185.10
+Tract 
+185.16
+P a c i f i c
+O c e a n
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+75th percentile
+and above (top quartile)
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+ut
+m
+h 
+m
+M
+un
+o
+i
+r
+t
+r
+y 
+o 
+Pl
+H
+a
+il
+n 
+ls
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/9/2020
+Figure 9-6: Unemployment - Statewide Ranking
+9-12
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\SocioeconomicVulnerabilities_EducaionalAttainment.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+6073018200
+Tract
+607301920
+Tract
+6073018509
+Tract
+6073019404
+Tract
+6073019501
+Tract
+6073019502
+Tract
+6073019503
+Tract
+6073018519
+Tract
+6073018603
+Tract
+6073018609
+Tract
+6073018610
+P a c i f i c
+O c e a n
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+Top 25%
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+u
+m
+th
+m
+ M
+un
+o
+i
+r
+t
+r
+y 
+o
+P
+ 
+l
+H
+a
+i
+n
+ll
+ 
+s
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/9/2020
+9-13
+Figure 9-7: Educational Attainment - Statewide Ranking
+
+
+9-14
+EXISTING CONDITIONS REPORT
+Housing
+Health and Safety
+Access to safe and adequate affordable housing 
+is a critical component of environmental jus­
+tice. According to American Community Survey 
+Data, 1% of homeowners and 6% of renters in 
+Oceanside face two or more physical or finan­
+cial issues. These issues can include a lack of 
+complete plumbing facilities, a lack of complete 
+kitchen facilities, more than one occupant per 
+room, and housing costs as a percentage of 
+household income greater than 30 percent. The 
+data is used to identify those homes in which the 
+quality of living and housing can be considered 
+substandard.9  
+Studies have indicated that renters have higher 
+rates of material hardship, which might force 
+acceptance of inadequate housing conditions.10,11 
+Figure 9-8 shows the percentage of renters 
+facing two or more issues by census tract across 
+the City. In the northern portion of the Guajome 
+neighborhood and the majority of the Lake 
+neighborhood, 20-30 percent of renters face 
+two or more issues, the highest percent in the 
+City and much higher than the citywide average. 
+Portions of East Side Capistrano, Airport, and 
+east Guajome as well as Morro Hills and Loma 
+Alta also face higher than average rates of sub­
+standard housing. 
+9  https://www.socialexplorer.com/data/ACS2017_5yr/
+metadata/?ds=ACS17_5yr&table=B25123; https://
+censusreporter.org/topics/housing/
+10  California Healthy Places Index. Housing Habitability. 
+https://healthyplacesindex.org/policy-actions/housing-
+habitability/ Accessed May 2021.
+11  Scally, C. and Gonzalez D. “Renters ar Renters are more 
+likely than homeowners to struggle with paying for basic 
+needs.” Urban Institute, 2018. https://www.urban.org/
+urban-wire/renters-are-more-likely-homeowners-struggle-
+paying-basic-needs#:~:text=Renters%20face%20greater%20
+financial%20uncertainty,to%20cover%20an%20emergency%20
+expense. Accessed May 2021.
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\RentConditions.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+!(
+T
+Guajome
+County Park
+Tract
+6073019303
+Tract
+06073018519
+Tract
+06073018518
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+06073018100
+Tract
+06073018200
+Tract
+06073018300
+Tract
+06073019301
+Tract
+06073018504
+Tract
+06073018507
+Tract
+06073018509
+Tract
+06073018510
+Tract
+06073018511
+Tract
+06073018512
+Tract
+06073018513
+Tract
+06073018514
+Tract
+06073019302
+Tract
+06073019403
+Tract
+06073019809
+Tract
+06073018515
+Tract
+06073018516
+Tract
+06073018517
+Tract
+06073019805
+Tract
+06073018614
+Tract
+06073019808
+Tract
+06073018613
+Tract
+06073018601
+Tract
+06073018603
+Tract
+06073018608
+Tract
+06073018609
+Tract
+06073018610
+Tract
+06073018611
+Tract
+06073018612
+A³
+!"^$
+!"^$
+P a c i f i c
+O c e a n
+Source: U.S. Census Bureau, 2014-2018; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Renters with 2 or More Conditions
+0% - 2%
+3% - 7%
+8% - 12%
+13% - 19%
+20% - 34%
+!(
+T
+Transit Stop
+Rail
+City of Oceanside
+South Morro Hills
+Community Plan Area
+SSCP Planning Area
+Sphere of Influence
+Neighbor City
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 5/26/2021
+A¸
+A³
+Renters with 2 or More Conditions
+ 
+ 
+ 
+ 
+ 
+Figure 9-8: Renters Facing Two or More Housing Issues
+
+
+9-16
+EXISTING CONDITIONS REPORT
+Affordability
+Generally, a household is considered “rent-bur­
+dened” if 30 percent or more of the gross house­
+hold income is spent on rent, which reduces 
+the availability of funds for schooling, childcare, 
+groceries, transportation, and other household 
+costs.12 According to 2018 ACS data, approxi­
+mately 57.3 percent of renting households in 
+Oceanside pay more than 30 percent of their 
+household income towards rent, as shown in 
+Figure 9-9. 
+While the majority of the Oceanside’s residents 
+are homeowners (56 percent), many of these 
+homeowners pay a significant portion of their 
+income towards housing costs. Median home 
+values have increased by about 7 percent over 
+the past 17 years, from $429,700 in 2010 to 
+$460,100 in 2018.13 Thirty four percent of house­
+holds with a mortgage pay more than 30 percent 
+of their household income towards housing 
+costs, which includes all mortgage principal 
+payments, interest payments, real estate taxes, 
+property insurance, homeowner fees, condo or 
+coop fees and utilities (not including telephone 
+or cable television).14
+12  Ibid.
+13  American Community Survey, 2010 and 2018.
+	
+14  American Community Survey, 2014-2018.	
+Community Engagement 
+Residents’ ability to engage in community life 
+contributes to feelings of social belonging and 
+good emotional and physical health. Community 
+engagement programs and activities also pro­
+motes environmental justice by providing resi­
+dents with regular opportunities to share their 
+environmental and health concerns and make 
+their voice heard in the policymaking process. 
+Two barriers that can inhibit sustained and 
+meaningful community participation include 
+linguistic isolation and lack of internet access.
+Linguistic Isolation
+Many households where little or no English is 
+spoken experience linguistic isolation. Adults 
+who are unable to communicate comfortably 
+and effectively in English often have trouble 
+talking to medical professionals and providers 
+of social services, and consequently may not 
+get the medical care or social support they and 
+their children need. Additionally, members of lin­
+guistically isolated households may not hear or 
+understand important information when there is 
+an emergency or an important community issue 
+is under consideration. 
+Figure 9-9: Gross Rent as a Percentage of Household Income, 2018
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\LinguisticIsolation.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+185.04
+Tract
+185.11
+Tract
+185.16
+Tract
+186.08
+Tract
+186.14
+Tract
+194.03
+Tract
+198.08
+Tract
+182
+Tract
+181
+Tract
+183
+Tract
+184
+Tract
+185.09
+Tract
+185.10
+Tract
+185.12
+Tract
+185.13
+Tract
+185.14
+Tract
+185.15
+Tract
+185.17
+Tract
+185.18
+Tract
+186.01
+Tract
+186.03
+Tract
+186.09
+Tract
+186.10
+Tract
+186.11
+Tract
+186.12
+Tract
+186.13
+Tract
+193.01
+Tract
+193.02
+Tract
+198.05
+Tract
+198.09
+Tract
+185.07
+P a c i f i c
+O c e a n
+Source: American Community Survey 5-Year Estimates, 2014-2018; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Linguistic Isolation
+Natural Breaks
+0.0% - 4.6%
+  Less Linguistically Isolated
+4.7% - 10.7%
+10.8% - 19.1%  More Linguistically Isolated
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+u
+m
+th
+m
+ M
+un
+o
+i
+r
+t
+r
+y 
+o
+P
+ 
+l
+H
+a
+i
+n
+ll
+ 
+s
+Area
+SSCSP Planning Area
+Sphere of Influence
+Neighbor City
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/1/2020
+Figure 9-10: Linguistic Isolation
+
+
+9-18
+EXISTING CONDITIONS REPORT
+Approximately five percent of Oceanside’s 
+households are linguistically isolated, in that 
+household members lack fluency in English. 
+Of these linguistically isolated households, 67 
+percent speak Spanish. The census tracts with 
+the highest proportion of linguistically isolated 
+households include Tracts 186.10, 185.19, 185.09, 
+and 182. These tracts are shown in Figure 9-10.
+Efforts to engage the City’s Spanish-speaking 
+community in the General Plan Update process 
+have included Spanish language announce­
+ments of workshops and other outreach events, 
+translation services at outreach events, and a 
+Spanish language survey (available both online 
+and in hard-copy).  The project team has posted 
+Spanish language announcements online and 
+at community resource and recreation centers, 
+community health centers, churches, and local 
+businesses that regularly serve the Spanish-
+speaking community.  Despite these efforts, 
+input from Spanish-speaking community mem­
+bers has thus far been limited.  As the General 
+Plan Update unfolds, the project team will 
+continue to explore ways to better engage the 
+Spanish-speaking community.  
+Internet Access
+Internet access facilitates access to online com­
+munity organizing, job and educational opportu­
+nities, and a variety of other vital personal and 
+community resources and activities. The COVID-
+19 pandemic has illustrated the significant role 
+that the internet plays in facilitating communi­
+cation and community building and ensuring 
+equity of opportunity with regard to education, 
+employment, and access to important public 
+health information. While the Planning Area has 
+rates of internet access on par with the county, 
+access rates vary across Oceanside census 
+tracts. According to 2018 ACS 5-year estimates, 
+areas with limited internet connectivity include 
+downtown Oceanside, tracts along the north and 
+south of Mission Avenue, and tract 193.02 near 
+Oceanside and College boulevards. These tracts 
+are shown in Figure 9-11.     Barriers to internet 
+access can include lack of access to infrastruc­
+ture, but most often are related to the financial 
+burden of subscribing to an internet service and 
+purchasing the necessary hardware.
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\Internet.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+185.04
+Tract
+185.11
+Tract
+185.16
+Tract
+186.08
+Tract
+186.14
+Tract
+194.03
+Tract
+198.08
+Tract
+182.00
+Tract
+181.00
+Tract
+183.00
+Tract
+184.00
+Tract
+185.09
+Tract
+185.10
+Tract
+185.12
+Tract
+185.13
+Tract
+185.14
+Tract
+185.15
+Tract
+185.17
+Tract
+185.18
+Tract
+185.19
+Tract
+06073018601
+Tract
+186.03
+Tract
+186.09
+Tract
+186.10
+Tract
+186.11
+Tract
+186.12
+Tract
+186.13
+Tract
+193.01
+Tract
+193.02
+Tract
+198.05
+Tract
+198.09
+Tract
+185.07
+P a c i f i c
+O c e a n
+Source: American Community Survey 5-Year Estimates, 2014-2018; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Internet Access
+Natural Breaks
+0.0% - 5.8%
+  More Internet Access
+5.9% - 12.0%
+13.0% - 21.0%
+22.0% - 38.0%  Less Internet Access
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+ut
+m
+h 
+m
+M
+un
+o
+i
+r
+t
+r
+y 
+o 
+Pl
+H
+a
+il
+n 
+ls
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/1/2020
+Figure 9-11: Households Without Internet Access
+
+
+9-20
+EXISTING CONDITIONS REPORT
+PHYSICAL DETERMINANTS OF PUBLIC 
+HEALTH
+Pollution Burdens in Oceanside
+Environmental pollution can take a variety of 
+forms, including pollution of the water, air, and 
+soil. All forms can have detrimental impacts on 
+human health. The City of Oceanside enjoys 
+relatively good air quality, benefiting from an 
+oceanfront setting and a relative lack of legacy 
+heavy industrial, manufacturing, and refinery 
+uses. However, there are a few environmental 
+concerns within the City, including pesticides, 
+automobile emissions, and water quality. 
+Exhaust from cars and trucks is the major source 
+of air pollution in much of California. Exhaust 
+fumes contain toxic chemicals that can damage 
+DNA, cause cancer, make breathing difficult, 
+and cause low birth weight and premature 
+births. Children who live or go to schools near 
+busy roads have higher rates of asthma and 
+other lung diseases than children in areas fur­
+ther from roads. Major roads can also generate 
+noise in nearby neighborhoods. According to 
+CalEnviroScreen, tracts ranking in the highest 
+quartile in the concentration of listed contam­
+inants (?) are those nearest to Oceanside’s 
+western border and the major transportation 
+corridors of I-5 and Highway 78. These tracts are 
+shown in Figure 9-11.
+Most drinking water in California meets require­
+ments for health and safety. However, water 
+can become contaminated with chemicals or 
+bacteria. Both natural sources and human activ­
+ities can contaminate drinking water, and both 
+sources can introduce bacteria, viruses and para­
+sites. Natural sources can include rocks, soil, and 
+fire.   Human sources include industrial opera­
+tions, water conveyance systems, automobiles, 
+sewage, and runoff from farms and urban areas 
+. Tracts in the top quartile are shown in Figure 
+9-12. Drinking water in these census tracts  have 
+especially high levels of 1,2,3-TrichloroProprane 
+(TCP), a solvent, cleaning and degreasing agent, 
+and paint and varnish remover which can cause 
+eye and throat Irritation, affect muscle coordina­
+tion and concentration, harm kidney function, 
+and cause cancer. 
+Pesticides are chemicals used to control insects, 
+weeds, and plant disease. Over 1,000 pesticides 
+are registered for use in California. They can 
+be applied to fields by air, farm machinery, or 
+workers on the ground. Exposure to pesticides 
+can cause short term health impacts such as 
+eye and respiratory irritation, as well as long 
+term impacts such as birth defects and cancer. 
+Farmworker families and those who live near 
+fields are the most likely to be exposed to high 
+levels of pesticides. Based on CalEnviroScreen 
+data, a number of census tracts in Oceanside are 
+subject to some of the highest levels of pesticide 
+exposure among CalEnviroScreen-ranked tracts 
+in California, with some tracts in the top quartile 
+(ranging from the 79th to 99th percentile). As 
+shown in Figure 9-13, most of these tracts are 
+within or in close proximity to South Morro Hills, 
+Oceanside’s agricultural district.
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\Traffic.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Tract
+185.19
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+181.00
+Tract
+182.00
+Tract
+184.00
+Tract
+185.04
+Tract
+185.09
+Tract
+185.15
+Tract
+185.17
+Tract
+185.18
+Tract
+198.05
+Tract
+186.01
+P a c i f i c
+O c e a n
+Source: CalEnviroScreen, 2018; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+75th percentile
+and above (top 
+quartile)
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+ut
+m
+h 
+m
+M
+un
+o
+i
+r
+t
+r
+y 
+o 
+Pl
+H
+a
+il
+n 
+ls
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/30/2020
+Figure 9-12: Traffic Density - Statewide Ranking
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\DrinkingWater.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+6073018601
+Tract
+6073018608
+P a c i f i c
+O c e a n
+Source: CalEnviroScreen, 2018; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+75th percentile
+and above (top quartile)
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+ut
+m
+h 
+m
+M
+un
+o
+i
+r
+t
+r
+y 
+o 
+Pl
+H
+a
+il
+n 
+ls
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/30/2020
+Figure 9-13: Drinking Water - Statewide Ranking
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\Pesticides.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Tract
+198.06
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City Hall
+Tract
+185.14
+Tract
+6073018608
+Tract
+186.10
+Tract
+186.11
+Tract
+186.12
+P a c i f i c
+O c e a n
+Source: CalEnviroScreen, 2018; SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Statewide Ranking by Census Tract
+75th percentile
+and above (top quartile)
+Transit Stop
+Rail
+City of Oceanside
+S
+C
+o
+o
+ut
+m
+h 
+m
+M
+un
+o
+i
+r
+t
+r
+y 
+o 
+Pl
+H
+a
+il
+n 
+ls
+Area
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 11/30/2020
+Figure 9-14: Pesticides - Statewide Ranking
+
+
+9-24
+EXISTING CONDITIONS REPORT
+Walkability and Access to Transit
+The City of Oceanside has a Walk Score of 36 
+(on a scale of 1 to 100), meaning that it is some­
+what walkable but that most errands require a 
+car.15 Amenities such as parks, restaurants, and 
+grocery stores are within walking distance of 
+many residents, but not in all areas of the City. 
+As seen in the Figure 9-15, commercial ameni­
+ties are grouped in downtown Oceanside, along 
+segments of SR 76, and in the Tri-City area. 
+While commercial amenities along segments of 
+Oceanside Boulevard are in close proximity to 
+residential areas, steep topography and other 
+physical barriers make it challenging for resi­
+dents to walk or bicycle to these venues.  
+Convenient access to public transit also helps 
+community members increase physical activity 
+and decrease vehicle miles traveled. Almost one-
+third of Americans who commute to work via 
+public transit meet their daily requirements for 
+physical activity (30 or more minutes a day) by 
+walking as a part of their daily life, including to 
+and from transit stops.16 While walkability and 
+access to transit stations is one part of transit 
+access, it is also important that people can access 
+their destinations quickly and conveniently. 
+15  Walk Score measures the walkability of a location by 
+analyzing walking routes to nearby amenities. Points are 
+awarded based on the distance to amenities in each category. 
+Walk Score also measures pedestrian friendli-ness by analyzing 
+population density and road metrics such as block length and 
+intersection density.	
+ 
+16  L. Besser and A. Dannenberg, “Walking to Public Transit: Steps 
+to Help Meet Physical Activity Recommenda-tions”. Vol. 32, Issue 
+4, American Journal of Preventive Medicine, at 273-280, 2005.
+Transfers, extra stops, and distance from desti­
+nation can all contribute to inconvenience along 
+a transit route. The City should prioritize more 
+direct routes between disadvantaged and tran­
+sit-dependent communities and colleges, medi­
+cal centers and employment centers. 
+As seen in Table 9-2, very few residents within 
+the Planning Area currently utilize public transit 
+or engage in active transportation. Almost 88 
+percent of residents in the Planning Area com­
+mute to work via car, truck, or van. Of those 
+who drive to work, 90 percent drive alone, while 
+10 percent carpool. Less than two percent of 
+residents use active transportation (walking or 
+biking) to get to work, and only three percent use 
+public transportation. At the county level, 3.6 
+percent of the population uses active transporta­
+tion and three percent use public transit to com­
+mute to work. Compared to San Diego County, 
+the City of Oceanside has slightly lower rates of 
+walking for recreation and fitness (?) (39.5 versus 
+41.2 percent).  
+Dispersed land use patterns and the separation 
+of residential and non-residential land uses 
+contribute significantly to the lack of walkability 
+in Oceanside, particularly outside of the City’s 
+major commercial corridors.  Some of the City’s 
+most isolated neighborhoods include South 
+Morro Hills, Ocean Hills, Peacock, Guajome, and 
+North Valley, all of which lie in eastern portions 
+of the City and feature mostly single-family 
+housing.
+Table 9-2: Means of Commuting within the Planning Area
+MEANS OF COMMUTE
+WORKERS 16 YEARS AND OVER
+PERCENT
+Car, Truck, or Van – Drive Alone
+66,879
+79.2
+Car, Truck, or Van - Carpool
+7,294
+8.6
+Public Transportation
+(Includes Taxicab)
+2,570
+3.0
+Motorcycle
+461
+0.6
+Bicycle
+224
+0.3
+Walked
+952
+1.1
+Other Means
+1,562
+1.9
+Worked at Home
+4,502
+5.3
+Total
+84,444
+100%
+Source: ACS, 2018
+
+
+Document Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\Walkscore.mxd
+Source: https://www.walkscore.com/CA/Oceanside, 2021; Dyett & Bhatia, 2020
+0
+1
+2
+½
+Miles
+Map Date: 1/29/2021
+Walkscore
+25
+100
+Figure 9-15: Walkability in the City of Oceanside
+
+
+9-26
+EXISTING CONDITIONS REPORT
+Access to Parks, Recreation, Healthy 
+Foods, and Health Services
+Safe and convenient access to parks and recre­
+ation is an important community health indi­
+cator. Regular physical activity has many phys­
+ical health benefits, including a reduced risk of 
+coronary heart disease, obesity, hypertension, 
+stroke, some cancers, and other conditions that 
+contribute to premature mortality.17 Regular 
+physical activity also has many attendant emo­
+tional health benefits, such as reduced depres­
+sion, anxiety, stress, as well as improved mood 
+and the ability to perform tasks and effectively 
+navigate challenging life events.18 The National 
+Parks Service and the Centers for Disease 
+Control and Prevention use a half-mile radius 
+to evaluate access to parks and other commu­
+nity amenities, while the 2019 Oceanside Parks 
+and Recreation Master Plan evaluates access 
+at a one-quarter mile radius.19 According to 
+the Parks and Recreation Master Plan, approx­
+imately 56 percent of Oceanside residents live 
+within one-quarter mile   of a park or community 
+space, compared to 62 percent of residents of 
+San Diego County. Moreover, as noted earlier, 
+topography and other physical barriers (e.g., 
+waterways, railroads) often complicate access to 
+such amenities, even for those who live nearby. 
+For more information on park access, please see 
+Chapter 6: Parks and Open Space in this ECR.
+In addition to being walkable and well-served by 
+public transit, a healthy community also has con­
+venient access to medical services and healthy 
+foods. When health care facilities are accessible 
+via public transit, medical care is more readily 
+accessible to those who do not drive or own 
+cars. There are multiple medical facilities located 
+within the Planning Area, ranging from large hos­
+pitals and medical complexes operated at the
+17  U.S. Department of Health and Human Services, Physical 
+Activity and Health: A Report of the Surgeon Gen-eral, Atlanta: 
+U.S. Department of Health and Human Services, Centers for 
+Disease Control and Prevention, Na-tional Center for Chronic 
+Disease Prevention and Health Promotion, 4–8, 1996.
+18  Ibid.	
+19  Merriam, D.; Bality, A.; Stein, J.; Boehmer, T. Improving 
+Public Health through Public Parks and Trails: Eight Common 
+Measures. Summary report. US Department of Health and 
+Human Services, Centers for Disease Control and Prevention and 
+US Department of the Interior, National Park Service, 5, 2017.
+Tri-City Medical Center and the Naval Hospital at 
+Camp Pendleton, mid-size clinics run by Scripps 
+Health and Kaiser Permanente, and  smaller 
+health centers run by TrueCare, the County of 
+San Diego, and Vista Community Clinic, which 
+operates four Federally Qualified Health Centers 
+(FQHC) in Oceanside at 4002 Vista Way, 517 N 
+Horne Street, 818 Pier View Way, and 4700 North 
+River Road.  
+Access to healthy foods is also important to a 
+community’s health. The presence of a super­
+market in a neighborhood is linked to higher 
+fruit and vegetable consumption, as well as a 
+reduced incidence of obesity.20 As shown in 
+Figure 9-16, the City of Oceanside contains sev­
+eral large chain supermarkets, with most clus­
+tered in commercial shopping centers. Large 
+chains (over 6,000 square feet) and smaller 
+grocery stores are mainly located in downtown 
+Oceanside, the major commercial corridors of 
+Vista Way and Mission Avenue, and to a lesser 
+extent, Oceanside Boulevard. The majority of 
+Oceanside’s convenience stores are similarly 
+distributed, falling predominately either in 
+downtown Oceanside or along major corridors. 
+Outside of these areas, there is a lack of conve­
+nient healthy food options within walkable dis­
+tance, especially for residential neighborhoods 
+between the corridors. 
+20  Inagami, S., et al., “You Are Where You Shop: Grocery 
+Store Locations, Weight, and Neighborhoods”, Vol. 31, Issue 1, 
+American Journal of Preventative Medicine, 10-17. See also K. 
+Morland et al., “Supermarkets, Other Food Stores, and Obesity: 
+The Atherosclerosis Risk in Communities Study”, Vol. 30, Issue 4, 
+American Journal of Preventative Medicine, 333-339, 2006.	
+
+
+ocument Path: J:\GISData\574_Oceanside\GIS\Projects\GP_Update\ECR\GroceryStores.mxd
+Jef
+f
+e
+r
+s
+o
+n
+S
+t
+Vista Way
+C
+o
+llege B
+lv
+d
+S Coast Hwy
+El Camino
+Real
+Vista Way
+C
+o
+llege Blv
+d
+North River R
+d
+MissionAve
+O
+ld
+Grov
+e Rd
+Me
+sa
+D
+r
+El C
+a
+min
+o
+Re
+al
+Mes
+a
+D
+r
+M
+is
+s
+i
+o
+nA
+ve
+Frazee R
+d
+Douglas D
+r
+Douglas
+Dr
+North River
+Rd
+Melrose
+Dr
+R
+an
+ch
+o
+D
+e
+l
+Oro
+R
+an
+cho
+D
+e
+l Or
+o
+Lake Blvd
+C
+a
+n
+non
+Rd
+North Emerald Dr
+N San
+t
+a
+FeA
+v
+e
+Oc
+e
+anside Blvd
+OliveAve
+N C
+a
+n
+yon
+D
+r
+Oc
+eanside Blvd
+Vandegrift Blvd
+Guajome
+County Park
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizen
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+SoCal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior
+Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Loma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+El Camino
+High School
+Miracosta
+College
+Eternal
+Hills
+Cemetery
+Tri-City
+Medical
+Center
+Oceanside
+Municipal
+Airport
+Oceanside
+City
+Hall
+P a c i f i c
+O c e a n
+urce: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Major Chain Supermarkets
+Small Grocery Stores
+Convenience Stores
+Half-mile Buffer of
+Major Chain Supermarkets
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+Water
+River/Creek
+Transit Stop
+Rail
+City of Oceanside
+South Morro Hills 
+Community Plan Area 
+SSCSP Planning Area 
+Sphere of Influence 
+Neighbor City
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 12/3/2020
+Figure 9-16: Grocery Stores
+
+
+EXISTING CONDITIONS REPORT
+9-28
+9.3	Key Planning Issues 
+and Objectives
+•	
+Creating environments that support 
+better health outcomes.  While San Diego 
+County is one of the healthiest counties in 
+California, Oceanside residents experience 
+higher rates of diabetes, food insecurity, 
+and adult and child obesity. Within the 
+City, populations that live in certain census 
+tracts, especially those close to downtown 
+Oceanside, have rates of asthma and high 
+blood pressure that are higher than 60 per­
+cent of census tracts in California. While 
+health outcomes are the result of a number 
+of factors, including genetics and behav­
+ior, the General Plan Update will shape the 
+environmental conditions that may impact 
+health.
+•	
+Addressing communities with higher 
+socioeconomic vulnerability. Some com­
+munities in Oceanside, including tracts in 
+central Oceanside, have poverty and unem­
+ployment rates that rank in the highest quar­
+tile in all of California. Others have some of 
+the lowest rates of educational attainment 
+in California. These factors make it difficult 
+to live a healthy and opportunity-filled life. 
+In wake of COVID-19, economic development 
+programs, job training, and public services 
+will be essential in supporting families and 
+individuals with less resources, particularly 
+residents in these geographic areas.
+•	
+Conducting targeted outreach and pro­
+viding additional options for community 
+engagement with linguistically, socially, 
+or technologically isolated groups. Areas 
+where people are not civically engaged and 
+more linguistically isolated are also typically 
+those areas where there is a lack of internet 
+access   and worse health outcomes.  The 
+City should explore other means of out­
+reach to these communities in policymaking, 
+information distribution, and engagement, 
+including by mail, through existing com­
+munity groups and events, and in multiple 
+languages.  The City can also consider ways 
+to reduce the “digital divide” faced by many 
+lower-income and cost-burdened house­
+holds such as implementing community 
+broadband, providing financial assistance for 
+data and hardware, and improving housing 
+affordability. For example, a current goal of 
+the Library department is to provide inno­
+vative ways for customers to obtain library 
+services and materials. This can Include a 
+variety of technology solutions for informa­
+tion delivery, and efforts to find out what 
+tools community members have to take 
+advantage of, and how to address the lack 
+of such tools, as well as outreach to make 
+the community aware of what the Library 
+can provide. Outreach plans include devel­
+opment of a translation team to assist with 
+bridging linguistic gaps.
+•	
+Addressing Oceanside renters’ high 
+housing cost burden. Nearly 60 percent of 
+Oceanside renters are rent cost burdened. 
+Median home prices have increased since 
+2010, and nearly 40 percent of households 
+with a mortgage pay more than 30 percent 
+of their monthly income on housing costs. 
+Affordable and quality housing are essen­
+tial components of healthy neighborhoods. 
+Beyond the social, economic, and physical 
+impacts on families and individuals, the con­
+sequences of the lack of affordable housing 
+affect everyone. For example, if teachers, 
+hotel and other service workers, agricultural 
+workers, nurses, and other low- to middle-in­
+come workers in Oceanside must live outside 
+the Planning Area, this can negatively affect 
+Oceanside’s educational system, the local 
+economy, access to health services, and envi­
+ronmental quality. Thus, affordable rental 
+and owner-occupied housing for all types of 
+lower-income families and individuals should 
+be of utmost importance in the General Plan 
+update.
+
+
+ENVIRONMENTAL JUSTICE AND PUBLIC HEALTH
+9-29
+•	
+Understanding pesticide use and mitigat­
+ing its adverse health effects. A number of 
+Oceanside residents are subject to elevated 
+levels of pesticides. Exposure to pesticides 
+can cause short term health impacts such 
+as eye and respiratory Irritation, as well as 
+long term Impacts such as birth defects 
+and cancer. Farmworker families and those 
+who live near fields are the most likely to be 
+exposed to high levels of pesticides. 
+•	
+A c k n o w l e d g i n g  a n d  a d d r e s s i n g 
+Oceanside’s car dependence and asso­
+ciated health issues. While downtown 
+Oceanside is fairly walkable, the City as a 
+whole is largely car-oriented has a low walk­
+ability score.  Fewer Oceanside adults walk 
+regularly than San Diego County residents 
+as a whole. Relatively limited opportunities 
+for walking may contribute to Oceanside’s 
+elevated rates of childhood and adult obe­
+sity. Currently, most of the Planning Area 
+is not highly walkable in areas outside of 
+downtown. As new, denser development 
+continues to be built and the Planning Area’s 
+population grows, improving walkability 
+and pedestrian environments (including tree 
+canopy and landscaping), as well as transit 
+access and service levels is key, as is ensur­
+ing that improvements are made across both 
+new developments and existing communi­
+ties with less access to resources.  
+•	
+Improving access to grocery stores. While 
+Oceanside is well-served by several large 
+chain supermarkets and smaller grocery 
+stores that supply fresh fruits and vegeta­
+bles, most of these are only accessible by car. 
+While the economic feasibility of a greater 
+density of grocery stores is subject to market 
+realities, such as pressure from delivery ser­
+vices and other trends, policies that support 
+smaller grocery stores, neighborhood mar­
+kets, local food stands, and other neighbor­
+hood-serving options could increase walk­
+ability and healthy food accessibility for an 
+increased number of Oceanside residents. 
+Increasing the number of households in an 
+area, particularly within the corridors, could 
+also help to provide a larger market needed 
+for grocery store viability. The combination 
+of improved food access and more walkable, 
+complete neighborhoods can help to create 
+conditions that support healthy living and 
+reduced rates of obesity.  
+•	
+Improving access to educational and 
+recreational facilities, public gathering 
+spaces, and scenic resources. Some of 
+Oceanside’s best resources for educational 
+facilities and gathering spaces are the City’s 
+libraries. One of the Library’s strategic goals 
+is to connect customers to a wide variety 
+of programs, services and activities spon­
+sored by both the Library and by other 
+community agencies and organizations. In 
+addition to improving programmatic access 
+to resources, the City can focus on improv­
+ing connections to resources throughout 
+the City. This can mean both ensuring that 
+there are enough facilities to serve all areas 
+of the City, and improving pedestrian, bicy­
+cle and transit connections to the existing 
+facilities across the City. As described in 
+the Mobility Report, improving bicycle and 
+pedestrian comfort and connections are key 
+to improving access to the City’s facilities and 
+resources.
+
+
+9-30
+EXISTING CONDITIONS REPORT
+This page intentionally left blank.

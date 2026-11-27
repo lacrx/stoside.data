@@ -1,0 +1,549 @@
+{
+  "source": "HCD APR Table A2 (2018-2025)",
+  "jurisdiction": "OCEANSIDE",
+  "total_hcd_apns": 949,
+  "total_records": 2759,
+  "match_rates": {
+    "apn_matched": 834,
+    "spatial_matched": 25,
+    "unmatched": 90,
+    "total_match_rate": 90.5
+  },
+  "pipeline_totals": {
+    "entitled_units": 8438,
+    "permitted_units": 4163,
+    "completed_units": 3306,
+    "pipeline_gap": 857
+  },
+  "enrichment": {
+    "parcels_enriched": 1334,
+    "by_match_type": {
+      "apn": 832,
+      "spatial": 502
+    },
+    "total_bp_units_attributed": 2622
+  },
+  "by_status": {
+    "completed": 650,
+    "permitted": 233,
+    "entitled": 66
+  },
+  "by_category": {
+    "2 to 4": {
+      "records": 755,
+      "apns": 42,
+      "entitled": 734,
+      "permitted": 958,
+      "completed": 1124,
+      "affordable_permitted": 4,
+      "apn_matched": 24,
+      "spatial_matched": 5,
+      "unmatched": 13
+    },
+    "5+": {
+      "records": 849,
+      "apns": 66,
+      "entitled": 6629,
+      "permitted": 2559,
+      "completed": 2304,
+      "affordable_permitted": 315,
+      "apn_matched": 33,
+      "spatial_matched": 10,
+      "unmatched": 23
+    },
+    "ADU": {
+      "records": 1398,
+      "apns": 684,
+      "entitled": 437,
+      "permitted": 988,
+      "completed": 908,
+      "affordable_permitted": 800,
+      "apn_matched": 669,
+      "spatial_matched": 2,
+      "unmatched": 13
+    },
+    "MH": {
+      "records": 64,
+      "apns": 50,
+      "entitled": 37,
+      "permitted": 46,
+      "completed": 52,
+      "affordable_permitted": 43,
+      "apn_matched": 46,
+      "spatial_matched": 0,
+      "unmatched": 4
+    },
+    "SFA": {
+      "records": 795,
+      "apns": 45,
+      "entitled": 1443,
+      "permitted": 1323,
+      "completed": 1277,
+      "affordable_permitted": 17,
+      "apn_matched": 15,
+      "spatial_matched": 15,
+      "unmatched": 15
+    },
+    "SFD": {
+      "records": 1335,
+      "apns": 127,
+      "entitled": 1637,
+      "permitted": 1288,
+      "completed": 1067,
+      "affordable_permitted": 55,
+      "apn_matched": 79,
+      "spatial_matched": 7,
+      "unmatched": 41
+    }
+  },
+  "by_year": {
+    "2018": {
+      "entitled": 896,
+      "permitted": 1053,
+      "completed": 1426
+    },
+    "2019": {
+      "entitled": 961,
+      "permitted": 673,
+      "completed": 1057
+    },
+    "2020": {
+      "entitled": 1157,
+      "permitted": 830,
+      "completed": 1077
+    },
+    "2021": {
+      "entitled": 1545,
+      "permitted": 1827,
+      "completed": 1892
+    },
+    "2022": {
+      "entitled": 2962,
+      "permitted": 1338,
+      "completed": 1041
+    },
+    "2023": {
+      "entitled": 2348,
+      "permitted": 1537,
+      "completed": 787
+    },
+    "2024": {
+      "entitled": 1924,
+      "permitted": 1782,
+      "completed": 1175
+    },
+    "2025": {
+      "entitled": 3223,
+      "permitted": 1482,
+      "completed": 568
+    }
+  },
+  "permitted_not_completed": [
+    {
+      "apn": "1610302300",
+      "units": 323,
+      "projects": [
+        "MODERA MELROSE",
+        "MODERA MELROSE.  BLDG 2:  NEW 4-STORY APARTMENT BLDG",
+        "MODERA MELROSE.  BLDG 3: NEW 4-STORY APARTMENT",
+        "MODERA MELROSE.  BLDG 4:  NEW 4-STORY APT BUILDING WITH 21",
+        "MODERA MELROSE.  BLDG 5: NEW 4-STORY APARTMENT BLDG",
+        "MODERA MELROSE.  BLDG 6: NEW 4-STORY APARTMENT BUILDING WITH",
+        "MODERA MELROSE. BLDG 1:  NEW 4-STORY MIXED USE,"
+      ],
+      "bp_date": "2025-02-06",
+      "match_type": null,
+      "categories": [
+        "5+"
+      ]
+    },
+    {
+      "apn": "1512705600",
+      "units": 153,
+      "projects": [
+        "Ocean Creek Mixed Use, Building 1, 64 units",
+        "Ocean Creek Mixed Use, Building 2, 89 units"
+      ],
+      "bp_date": "2024-08-30",
+      "match_type": "apn",
+      "categories": [
+        "5+"
+      ]
+    },
+    {
+      "apn": "1650120500",
+      "units": 110,
+      "projects": [
+        "ECR"
+      ],
+      "bp_date": "2025-07-25",
+      "match_type": "apn",
+      "categories": [
+        "5+"
+      ]
+    },
+    {
+      "apn": "1570704200",
+      "units": 64,
+      "projects": [
+        "MODEL PHASE, 8-PLEX 3-STORY TOWNHOME, 801A, BUILDING 5",
+        "PACIFICA: 164 TOWNHOMES",
+        "PHASE 1, 8 PLEX 3-STORY TOWNHOME, 802B, BUILDING 2",
+        "PHASE 1, 8 PLEX 3-STORY TOWNHOME, 802B-R, BUILDING 1",
+        "PHASE 2, 6-PLEX 3-STORY TOWNHOME, BUILDING 22 UNITS 141-146",
+        "PHASE 2, 6-PLEX 3-STORY TOWNHOME, BUILDING 25, UNITS 159-164",
+        "PHASE 3, 6-PLEX 3-STORY TOWNHOME, BUILDING 23, UNITS 147-152",
+        "PHASE 3, 6-PLEX 3-STORY TOWNHOME, BUILDING 24, UNITS 153-158",
+        "PHASE 4, 8-PLEX 3-STORY TOWNHOME, BUILDING 7, UNITS 49-56",
+        "PHASE 4, 8-PLEX, 3-STORY TOWNHOME, BUILDING 8, UNITS 57-64"
+      ],
+      "bp_date": "2025-06-27",
+      "match_type": null,
+      "categories": [
+        "SFA"
+      ]
+    },
+    {
+      "apn": "1531120100",
+      "units": 49,
+      "projects": [
+        "1602 S. COAST HWY",
+        "54 CONDOMINIUMS WITH (3) COMMERCIAL SPACES, GROUND FLOOR"
+      ],
+      "bp_date": "2025-02-24",
+      "match_type": "apn",
+      "categories": [
+        "5+",
+        "SFA"
+      ]
+    },
+    {
+      "apn": "1580304000",
+      "units": 49,
+      "projects": [
+        "RIVERVIEW SPRINGS - EXPAND MF PROJECT BY ADDING 6 BUILDINGS"
+      ],
+      "bp_date": "2024-12-31",
+      "match_type": "apn",
+      "categories": [
+        "5+"
+      ]
+    },
+    {
+      "apn": "1600205000",
+      "units": 49,
+      "projects": [
+        "MODEL PHASE, BUILDING 21, 3-STORY 6-PLEX, PLAN TYPE L",
+        "PHASE 3, BUILDING 16, 3-STORY 4 PLEX, PLAN TYPE A",
+        "PHASE 3, BUILDING 17, 2 - PLEX, PLAN TYPE A",
+        "PHASE 3, BUILDING 25, 3-STORY 4 PLEX, PLAN TYPE J",
+        "PHASE 4, BUILDING 14, 3-STORY 4-PLEX, PLAN TYPE B",
+        "PHASE 4, BUILDING 15, 3-STORY 4-PLEX, PLAN TYPE A",
+        "PHASE 5, BUILDING 26, 3-STORY 5-PLEX, PLAN TYPE C",
+        "PHASE 5, BUILDING 27, 3-STORY 4 PLEX, PLAN TYPE J",
+        "PHASE 6, BUILDING 11, 3-STORY 6-PLEX, PLAN TYPE LR",
+        "PHASE 6, BUILDING 12, 3-STORY 6-PLEX, PLAN TYPE D",
+        "PHASE 6, BUILDING 13, 3-STORY 4-PLEX, PLAN TYPE BR"
+      ],
+      "bp_date": "2025-03-11",
+      "match_type": null,
+      "categories": [
+        "SFA"
+      ]
+    },
+    {
+      "apn": "1606900900",
+      "units": 20,
+      "projects": [
+        "ST. CLOUD"
+      ],
+      "bp_date": "2018-10-10",
+      "match_type": "spatial",
+      "categories": [
+        "SFA"
+      ]
+    },
+    {
+      "apn": "1512220500",
+      "units": 19,
+      "projects": [
+        "AVOCADO ROAD - 19 SINGLE FAMILY DETACHED UNITS",
+        "SB330 1448 AVOCADO RD-19 RES. LOTS 3.43 ACRES"
+      ],
+      "bp_date": "2025-03-10",
+      "match_type": "apn",
+      "categories": [
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1653620200",
+      "units": 16,
+      "projects": [
+        "BLDG 10 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,",
+        "BLDG 11 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,",
+        "BLDG 12 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,",
+        "BLDG 13 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,",
+        "BLDG 14 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,",
+        "BLDG 15 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,",
+        "BLDG 16 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,",
+        "BLDG 1:  PLAN TYPE \" B \" 2,256 SF.  4  BEDROOMS,",
+        "BLDG 2 - PLAN TYPE \" B \" 2,256 SF.  4  BEDROOMS,",
+        "BLDG 3 - PLAN TYPE \" B \" 2,256 SF.  4  BEDROOMS,",
+        "BLDG 4 - PLAN TYPE \" B \" 2,256 SF.  4  BEDROOMS,",
+        "BLDG 5 - PLAN TYPE \" B \" 2,256 SF.  4  BEDROOMS,",
+        "BLDG 6 - PLAN TYPE \" B \" 2,256 SF.  4  BEDROOMS,",
+        "BLDG 7 - PLAN TYPE \" A \" - 1,984 SF.  3  BEDROOMS,",
+        "BLDG 8 - PLAN TYPE \" BR \" - 2,256 SF.  3  BEDROOMS,",
+        "BLDG 9 - PLAN TYPE \" A \" - 1,984 SF - 3  BEDROOMS,"
+      ],
+      "bp_date": "2023-05-23",
+      "match_type": "apn",
+      "categories": [
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1532514000",
+      "units": 12,
+      "projects": [
+        "MYERS 12                 T16-00001",
+        "Myers 12"
+      ],
+      "bp_date": "2019-07-16",
+      "match_type": null,
+      "categories": [
+        "2 to 4",
+        "5+"
+      ]
+    },
+    {
+      "apn": "1606922300",
+      "units": 10,
+      "projects": [
+        "ST. CLOUD"
+      ],
+      "bp_date": "2018-07-17",
+      "match_type": "spatial",
+      "categories": [
+        "SFA"
+      ]
+    },
+    {
+      "apn": "1606922100",
+      "units": 10,
+      "projects": [
+        "ST. CLOUD"
+      ],
+      "bp_date": "2018-09-24",
+      "match_type": "spatial",
+      "categories": [
+        "SFA"
+      ]
+    },
+    {
+      "apn": "1606921900",
+      "units": 10,
+      "projects": [
+        "ST. CLOUD"
+      ],
+      "bp_date": "2018-12-05",
+      "match_type": "spatial",
+      "categories": [
+        "SFA"
+      ]
+    },
+    {
+      "apn": "1521450100",
+      "units": 5,
+      "projects": [
+        "PACIFIC GATE",
+        "Pacific Gate - CONSTRUCT A 5-UNIT APARTMENT COMPLEX"
+      ],
+      "bp_date": "2023-10-16",
+      "match_type": "apn",
+      "categories": [
+        "5+"
+      ]
+    },
+    {
+      "apn": "1503561300",
+      "units": 4,
+      "projects": [
+        "T18-00001"
+      ],
+      "bp_date": "2018-11-07",
+      "match_type": "apn",
+      "categories": [
+        "2 to 4"
+      ]
+    },
+    {
+      "apn": "1470811000",
+      "units": 3,
+      "projects": [
+        "522 N TREMONT ROW HOMES",
+        "REVIVE EXPIRED PERMIT FOR BLDG19-0220 NEW SFD"
+      ],
+      "bp_date": "2019-09-12",
+      "match_type": null,
+      "categories": [
+        "2 to 4",
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1480640500",
+      "units": 3,
+      "projects": [
+        "CONSTRUCT NEW 2-STORY, 3 UNIT MULTI FAMILY BUILDING WITH",
+        "NEW 2-STORY 3 UNIT MF RES BLDG W/ ATTACHED STORAGE"
+      ],
+      "bp_date": "2025-12-17",
+      "match_type": "apn",
+      "categories": [
+        "2 to 4"
+      ]
+    },
+    {
+      "apn": "1652108300",
+      "units": 3,
+      "projects": [],
+      "bp_date": "2022-07-08",
+      "match_type": "spatial",
+      "categories": [
+        "ADU",
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1470911300",
+      "units": 3,
+      "projects": [
+        "CONVERT GARAGES INTO (3) ADU"
+      ],
+      "bp_date": "2024-12-09",
+      "match_type": "apn",
+      "categories": [
+        "ADU"
+      ]
+    },
+    {
+      "apn": "1480120500",
+      "units": 3,
+      "projects": [
+        "NEW 3 STORY RESIDENCE W/ ADU, JADU. 2878 SF. 32' HIGH."
+      ],
+      "bp_date": "2025-07-17",
+      "match_type": "apn",
+      "categories": [
+        "ADU",
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1500660800",
+      "units": 2,
+      "projects": [],
+      "bp_date": "2018-12-31",
+      "match_type": "apn",
+      "categories": [
+        "ADU"
+      ]
+    },
+    {
+      "apn": "1511706200",
+      "units": 2,
+      "projects": [],
+      "bp_date": "2018-12-31",
+      "match_type": "apn",
+      "categories": [
+        "ADU"
+      ]
+    },
+    {
+      "apn": "1480151200",
+      "units": 2,
+      "projects": [],
+      "bp_date": "2018-12-31",
+      "match_type": "apn",
+      "categories": [
+        "ADU"
+      ]
+    },
+    {
+      "apn": "1470521200",
+      "units": 2,
+      "projects": [
+        "DEMO (E) SFD & BUILD NEW 2 STORY, 2 UNIT RES. BUILDING",
+        "NEW 2 STORY 2 UNIT RES KEEP EXIST GAR (R-3)"
+      ],
+      "bp_date": "2024-09-18",
+      "match_type": "apn",
+      "categories": [
+        "2 to 4",
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1624002500",
+      "units": 2,
+      "projects": [
+        "NEW 2-STORY SINGLE FAMILY RESIDENCE WITH ADU"
+      ],
+      "bp_date": "2023-11-16",
+      "match_type": "apn",
+      "categories": [
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1490632100",
+      "units": 2,
+      "projects": [
+        "NEW 2454sf SFR w- attached GARAGE, & attached 877SF ADU, (2)"
+      ],
+      "bp_date": "2023-10-16",
+      "match_type": "apn",
+      "categories": [
+        "SFD"
+      ]
+    },
+    {
+      "apn": "1470920400",
+      "units": 2,
+      "projects": [
+        "REMODEL MAIN HOUSE, STUDIO APT AND DETACHED APARTMENT."
+      ],
+      "bp_date": "2023-02-23",
+      "match_type": "apn",
+      "categories": [
+        "ADU"
+      ]
+    },
+    {
+      "apn": "1500742400",
+      "units": 2,
+      "projects": [
+        "212 S PACIFIC ST",
+        "CONSTRUCTION OF NEW 3-STORY DUPLEX CONDO RESIDENCE"
+      ],
+      "bp_date": "2023-05-18",
+      "match_type": "apn",
+      "categories": [
+        "2 to 4"
+      ]
+    },
+    {
+      "apn": "1522321400",
+      "units": 2,
+      "projects": [],
+      "bp_date": "2022-07-26",
+      "match_type": "apn",
+      "categories": [
+        "ADU",
+        "SFD"
+      ]
+    }
+  ]
+}

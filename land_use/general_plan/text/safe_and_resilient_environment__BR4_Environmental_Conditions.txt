@@ -1,0 +1,7858 @@
+JUNE 2021
+CITY OF OCEANSIDE
+BACKGROUND REPORT #4: 
+ENVIRONMENTAL CONDITIONS
+Prepared by RECON Environmental, Inc.
+In association with Dyett & Bhatia
+
+
+ 
+ 
+ 
+1-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Onward Oceanside General Plan Update Background Reports  
+1. Economic and Market Conditions  
+2. Existing Conditions, Opportunities, and Challenges 
+3. Mobility  
+4. Conservation, Open Space, and Safety  
+ 
+ 
+
+
+ 
+ 
+1-2 
+ 
+ 
+ 
+1 
+Farmland and Agricultural Resources 
+1.1 Existing Conditions 
+AGRICULTURAL LAND  
+Agricultural in Oceanside is almost all concentrated in South Morro Hills, encompassing 
+a 5.4-square mile area of agriculturally zoned land in the northeast corner of Oceanside. 
+Agriculture in this area is in multiple parcels of varying sizes, with a variety of products, 
+and a resource that supports a portion of the city's economic base (City of Oceanside 
+2002). While the area has a rich history of agricultural production, agricultural land is 
+subject to development pressures associated with the demand for housing and the high 
+economic returns associated with development. For more information on South Morro 
+Hills, please refer to the South Morro Hills Community Plan Map Atlas, available on www.on-
+wardoceanside.com. 
+The agricultural industry has been challenged with significantly increased and costly 
+state regulation, increased cost of water, increasing labor costs, and a dramatically in-
+creased level of competition (specifically from Mexico with lower labor and 
+environmental and regulatory costs than California). Despite the pressures to convert ag-
+ricultural land to development, there is a strong component of the community that is 
+looking for ways to strengthen and diversify agricultural lands (City of Oceanside n.d.). 
+In response, the City developed a stakeholder-based agritourism strategic plan in 2017 
+with the intent of informing local public policy and supporting creation of an agritourism 
+area for the City. The plan identifies a number of strategies and actions that could inform 
+policy development in the City. 
+In February of 2020, the City began preparation of a South Morro Hills Community Plan 
+(SMHCP). The community plan will contain policies and planning guidance specific to 
+Oceanside’s only remaining agricultural area, and will focus on supporting the continued 
+viability of farming through supplemental income produced by expanded agritourism 
+
+
+ 
+ 
+ 
+1-3 
+opportunities and farmland conservation in conjunction with some housing develop-
+ment. The plan will also focus on protecting the rural character of South Morro Hills, 
+enhancing the quality of life of residents, and promoting responsible growth manage-
+ment. 
+FARMLAND  
+Through the Farming Mapping and Monitoring Program (FMMP), the California Depart-
+ment of Conservation (DOC) produces agricultural resource inventories and maps based 
+on soil quality and land use within California. These inventories and maps are updated 
+every two years. Figure 1-1 depicts the location of the different farmland categories 
+within the Planning Area as identified by the FMMP. Table 1-1 delineates the acreage for 
+each category. As shown, the FMMP identifies 4,460 acres or 16.6 percent of the city as 
+being a type of farmland. Prime Farmland or Farmland of Statewide Importance—the two 
+highest tiers of farmland under the State’s classification system—are almost all located 
+in South Morro Hills. Farmland of Local Importance can be found in central and northern 
+parts of the city; however, very little, if any, of this outside of South Morro Hills, is in 
+active agricultural use.   
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig1-1.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 1-1: State Farmland Designations
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+State Farmland Designations
+Prime Farmland
+Unique Farmland
+Farmland of Statewide Importance
+Farmland of Local Importance
+Grazing Land
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+ 
+ 
+1-5 
+Table 1-1: Farmland in Planning Area by Category 
+FMMP Category 
+Acreage 
+Percentage of 
+Planning 
+Area 
+Prime Farmland 
+168 
+0.6% 
+Farmland of Statewide Importance 
+450 
+1.7% 
+Farmland of Local Importance 
+1,405 
+5.2% 
+Unique Farmland 
+2,172 
+8.1% 
+Grazing Land 
+265 
+1.0% 
+Total 
+4,460 
+16.6% 
+Totals may not add due to rounding.  
+Source: DOC 2016 
+ 
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig1-2.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizens'
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+Socal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 1-2: Williamson Act Contracts
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Williamson Act Contracts
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+ 
+ 
+1-7 
+CROPS 
+The types of crops grown throughout the city are numerous and broad. Based on agricul-
+tural commodity data maintained by the Pesticide Regulatory Program, County 
+Department of Agriculture/Weights and Measures, the following types of crops were re-
+ported as being produced within the City:  
+• 
+arugula 
+• 
+orange  
+• 
+avocado 
+• 
+strawberry 
+• 
+beans 
+• 
+tangelo 
+• 
+blueberries 
+• 
+tangerine 
+• 
+bok choy 
+• 
+pomegranate 
+• 
+cherimoya 
+• 
+palm 
+• 
+grapes 
+• 
+raspberry 
+• 
+grapefruit  
+• 
+sweet basil 
+• 
+kumquat 
+• 
+tomato 
+• 
+lemon 
+• 
+tree crops 
+• 
+lime 
+• 
+tropical/subtropical fruits 
+• 
+nursery/greenhouse flowers and 
+plants 
+ 
+ 
+This list is not likely comprehensive, but is representative of the diversity of crops that can 
+be supported within the region. Soils within the city are capable of supporting a range of 
+farmland categories as detailed in Table 1-1. Approximately 56 percent of the Planning 
+Area soils are listed as soil candidates for the Prime Farmland and Farmland of Statewide 
+Importance Farmland categories as mapped by the FMMP.   
+Generalized agricultural categories as identified by SanGIS are shown in Figure 1-3. Table 
+1-2 delineates the acreage of each agricultural category reported in the Planning Area.   
+Table 1-2: Agricultural Land Use 
+Agricultural Land Use 
+Category 
+Acreage 
+Percentage 
+of Planning 
+Extensive Agriculture (field, pasture, 
+and row crops) 
+1,897 
+7.0% 
+Intensive Agriculture (dairies, 
+nurseries, and chicken ranches) 
+93 
+0.3% 
+Orchards and Vineyards 
+1,262 
+4.7% 
+Total 
+3,252 
+12.0% 
+Totals may not add due to rounding. 
+Source: SanGIS, 2020 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig1-3.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 1-3: Agricultural Categories
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Agricultural Categories
+Extensive Agriculture
+Intensive Agriculture
+Orchards and Vineyards
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+ 
+ 
+1-9 
+Climate, soils, availability of water, and proximity to markets and infrastructure make the 
+city, specifically South Morro Hills, a successful agricultural community. Policy support 
+and actions to support diversification of economic opportunities for agricultural land 
+owners within the Planning Area will be critical to support and strengthen long term vi-
+ability of agriculture in the region.  
+ 
+1.2 Agriculture Conservation and Mitigation Programs 
+Williamson Act  
+The Williamson Act (California Land Conservation Act, California Government Code, 
+Section 51200 et seq.) is a statewide mechanism for the preservation of agricultural land 
+and open space land. The Act provides a comprehensive method for local governments to 
+protect farmland and open space by allowing lands in agricultural use to be placed under 
+contract (agricultural preserve) between a local governmental and land owner. Under the 
+Act, agricultural lands are taxed at their agricultural value rather than their value for 
+higher-valued uses. In exchange, the landowner enters into a contract to retain their land 
+in agricultural use for at least 10 years. Once a “Notice of Nonrenewal” is filed, it is 10 
+years until the contract expires. Figure 1-2 depicts the location of current Williamson Act 
+lands within the Planning Area. Within areas under contract, lands are less likely to be 
+subject to development within the near future.  
+County of San Diego PACE Program 
+The County has initiated an agricultural conservation program known as the PACE Pro-
+gram. The "Mitigation Bank and Credits" are an expanded component of the PACE 
+Program, approved by the Board of Supervisors in September 2014. With this expanded 
+component, easement lands acquired by the County under the PACE Program can be used 
+as off-site mitigation for agricultural impacts resulting from private development pro-
+jects. The PACE Program is intended to preserve lands within the County for long-term 
+agricultural use. Applicants may purchase PACE credits to mitigate for agricultural im-
+pacts at a 1:1 ratio. One credit is equal to 1 acre of agricultural land. 
+To purchase PACE Program mitigation credits, the applicant must have an approved dis-
+cretionary project, with a condition of approval requiring agricultural mitigation. The 
+cost of credits is determined by the fee in effect on the date of purchase. Credits, which 
+
+
+ 
+ 
+1-10 
+ 
+are non-refundable and non-transferrable, can only be purchased after the proposed pro-
+ject has been approved. 
+The City does not have a mitigation program to address impacts to agricultural lands; 
+however, the City may consider developing a similar program to encourage conservation 
+of agricultural lands. 
+1.3 Key Findings and Planning Considerations 
+• 
+Agricultural Resources Conservation. In parallel with the General Plan Update, 
+the City of Oceanside is developing a community plan for South Morro Hills, the 
+city's agricultural center. Policies that emerge as part of the SMHCP will be incor-
+porated into the General Plan.  
+ 
+• 
+Agriculture linkages with the broader city economy. The General Plan Update 
+provides an opportunity for the City to incorporate strategies and actions from 
+the 2017 Agritourism Strategic Plan into potential policies to support diversifica-
+tion of economic opportunities for agricultural landowners within the City. This 
+will be critical to support and strengthen long term viability of agriculture in the 
+region.  
+ 
+ 
+
+
+ 
+2-1 
+2 
+Biological Resources 
+This chapter discusses existing conditions, regulatory setting, opportunities, and challenges 
+affecting the City of Oceanside’s (City; also referred to as Planning Area) planning efforts 
+related to Biological Resources. Issues are discussed in terms of related plans and programs 
+on a federal, state and local level throughout the City. 
+2.1 Existing Conditions 
+VEGETATION AND HABITAT 
+The vegetation communities that are supported within the City are shown in Figure 2-1 and 
+further delineated in Table 2-1.  As shown, the Planning Area is predominantly developed 
+(>70 percent) followed by agriculture in the South Morro Hills area in the northeastern part 
+of the City (12 percent). The remaining 16 percent supports a variety of native and non-native 
+vegetation communities of varying sensitivity, including uplands and wetland habitats and 
+unvegetated areas, such as streams, lagoons, and beaches. These vegetation communities are 
+found primarily along the San Luis Rey River and tributary water bodies and scattered canyons 
+throughout the City. Wetland areas as mapped by the National Wetlands Inventory as of July 
+2020 are shown in Figure 2-2.   
+Table 2-1: Vegetation Communities 
+Category of Vegetation 
+Acreage 
+Percentage of 
+Planning Area 
+Coastal Sage Scrub 
+1,218 
+5% 
+Chaparral 
+46 
+<1% 
+Coast live oak woodland 
+5 
+<1% 
+Eucalyptus Woodland 
+61 
+<1% 
+Grassland 
+1,267 
+5% 
+Marsh (Freshwater Marsh, Alkali Marsh, Saltpan/Mudflats) 
+208 
+1% 
+Riparian Habitats (Riparian Forest, Riparian Scrub, Riparian Woodland) 
+923 
+3% 
+Disturbed Wetland 
+14 
+<1% 
+Waters (Non-vegetated channel, Open Water [Estuarine, Freshwater, Marine]) 
+488 
+2% 
+Beach 
+46 
+<1% 
+Agriculture (General Agriculture, Extensive Agriculture [Field/Pasture/Row 
+Crops], Intensive Agriculture [Dairies, Nurseries, Chicken Ranches], Orchards 
+and Vineyards) 
+3,252 
+12% 
+Urban/Developed and Disturbed Habitat 
+19,463 
+72% 
+Total 
+26,991 
+100% 
+Source: City of Oceanside, SanGIS 2020 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig2-1.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 2-1: Vegetation Communities
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Vegetation Community
+Agriculture
+Beach
+Chaparral
+Coast Live Oak Woodland
+Coastal Sage Scrub
+Eucalyptus Woodland
+Grassland
+Marsh
+Disturbed Wetland
+Water
+Riparian Habitats
+Urban/Developed and Disturbed Land
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig2-2.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 2-2: Wetlands
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+National Wetlands Inventory
+(NWI) Wetlands
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+2-4 
+The City's 2005 Draft Subarea Plan (Subarea Plan) identifies the South Morro Hills planning 
+area in the northeast part of the City as an "agricultural exclusion zone." Within this area 
+specific guidelines were identified to provide for protection for sensitive habitats and species, 
+while recognizing agricultural practices would continue. The Draft Subarea Plan identified 
+that discretionary actions and conversions to non-agricultural use would be subject to specific 
+conservation guidelines.  
+PRESERVES 
+In 1996, the City began subarea planning to better define conservation priorities within the 
+city and formulating a subarea conservation plan under the subregional umbrella of the Mul-
+tiple Habitat Conservation Program (MHCP). The approach was to identify a citywide preserve 
+system that met local and regional biological goals, while minimizing fiscal and economic 
+impacts to the city and adverse effects on private property rights or property values. Figure 2-
+3. illustrates existing preserve or protected areas and areas with potential for preservation 
+SPECIAL STATUS SPECIES 
+Special status species are those plants and animals that, because of their acknowledged rarity 
+or vulnerability to various causes of habitat loss or population decline, are recognized in some 
+fashion by federal, state, or other agencies as deserving special consideration.  
+According to records maintained by the California Natural Diversity Database, there are rec-
+ords of 26 special status plant species occurring in the city (California Department of Fish and 
+Wildlife [CDFW] 2020), four of which are state or federally listed as threatened or endangered. 
+Figure 2-4 illustrates the potential occurrence area for these species, and Table 2-2 provides 
+details regarding the listing status, presence, and occurrence type for sensitive plants. 
+According to records maintained by the California Natural Diversity Database, there are rec-
+ords of 34 special status wildlife species occurring in or with the potential to occur within the 
+City of Oceanside (CDFW 2020). Figure 2-5 illustrates the potential occurrence area for these 
+species, and Table 2-3 provides the listing status, presence, and occurrence type for sensitive 
+wildlife. 
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig2-3.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 2-3: Existing Preserved Areas
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Preserves
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig2-4.mxd
+!(
+T
+!?
+!?
+!?
+!?
+!?
+!?!?!?!?
+!
+!
+!
+!
+!
+!
+?
+?
+?
+?
+?
+?
+!?
+!
+!
+!
+?
+?
+?
+!O
+!
+!
+O
+O
+!O
+!O
+!O
+!O
+!.
+!.
+!.
+!.
+!.
+!.
+!
+!
+.
+.
+!
+!
+!
+!
+!
+(
+(
+(
+(
+(
+!(
+!(
+!(
+!(
+!
+!
+(
+(
+!
+!
+(
+(
+!O
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizens'
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+Socal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure2-4: Potential Areas of Occurrence of Special Status Plant Species
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+Critical Habitats
+Thread-leaved
+Brodiaea
+San Diego
+Ambrosia
+Map Date: 7/16/2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Sensitive Plants
+!(
+Blochman's Dudleya
+!(
+Coulter's Saltbush
+!(
+Nuttall's Acmispon
+!(
+Orcutt's Pincushion
+!(
+Parry's Tetracoccus
+!(
+Robinson's Pepper-grass
+!(
+San Diego Ambrosia
+!.
+San Diego Barrel Cactus
+!.
+San Diego Button-celery
+!.
+San Diego Marsh-elder
+!.
+San Diego Thorn-mint
+!.
+Aphanisma
+!.
+Cliff Spurge
+!.
+Coast Woolly-heads
+!O
+Decumbent Goldenbush
+!O
+Mud Nama
+!O
+Salt Spring Checkerbloom
+!O
+Sea Dahlia
+!O
+Slender Cottonheads
+!O
+Smooth Tarplant
+!O
+South Coast Saltscale
+!?
+Sticky Dudleya
+!?
+Variegated Dudleya
+!?
+Thread-leaved Brodiaea
+0
+1
+2
+½
+Miles
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig2-5.mxd
+!(
+T
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0#0
+#0#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0#0
+#0
+#0#0
+#0
+#0#0
+#0#0
+#0
+#0
+#0#0#0#0#0#0#0#0#0#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0#0#0
+#0
+#0#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0
+#0#0#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0#0
+#0
+#0#0#0
+#0#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0#0#0
+#0
+#0
+#0#0
+#0
+#0
+#0#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0#0#0
+#0
+#0#0#0
+#0
+#0
+#0
+#0#0#0
+#0#0
+#0#0
+#0
+#0
+#0#0
+#0
+#0#0
+#0
+#0
+#0
+#0#0
+#0
+#0#0#0
+#0
+#0
+#0
+#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0#0
+#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0#0
+#0#0
+#0
+#0#0
+#0#0
+#0#0#0#0
+#0
+#0
+#0#0#0
+#0#0
+#0#0
+#0
+#0
+#0
+#0#0#0#0 #0#0#0
+#0
+#0#0
+#0#0#0
+#0#0#0 #0
+#0#0 #0
+#0#0
+#0
+#0#0
+#0
+#0
+#0#0
+#0#0 #0
+#0
+#0
+#0#0
+#0 #0#0
+#0
+#0
+#0
+#0#0
+#0#0#0#0#0 #0
+#0#0#0#0#0#0#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0#0
+#0#0
+#0 #0
+#0
+#0
+#0#0
+#0#0
+#0
+#0#0#0 #0
+#0
+#0
+#0
+#0#0#0
+#0
+#0#0
+#0
+#0
+#0#0#0
+#0
+#0#0
+#0
+#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0
+#0
+#0#0#0#0#0
+#0
+#0#0
+#0
+#0
+#0
+#0#0#0
+#0#0
+#0#0#0
+#0
+#0
+#0
+#0#0#0#0
+#0#0#0
+#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0
+#0#0
+#0
+#0#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0
+#0#0#0#0#0
+#0#0
+#0
+#0
+#0
+#0#0#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0#0#0#0
+#0
+#0
+#0#0#0
+#0
+#0#0
+#0
+#0
+#0#0#0
+#0
+#0
+#0#0#0#0#0#0
+#0
+#0
+#0
+#0
+#0#0#0
+#0
+#0#0
+#0#0#0 #0
+#0
+#0
+#0 #0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0#0
+#0#0
+#0#0
+#0#0
+#0
+#0#0
+#0#0#0
+#0
+#0
+#0
+#0
+#0#0#0
+#0
+#0
+#0#0
+#0
+#0
+#0 #0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0#0
+#0#0
+#0#0
+#0#0
+#0
+# #0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0 #0#0
+#0#0
+#0#0
+#0#0#0
+#0
+#0
+#0#0
+#0#0#0#0
+#0
+#0#0
+#0
+#0#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0#0#0#0
+#0#0#0
+#0#0
+#0
+#0#0
+#0#0#0#0#0#0
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+#0
+0
+!C
+##
+#
+#
+#
+#
+##
+#
+#
+#
+#
+#
+#
+#
+###
+#
+#
+##
+00
+0
+0
+0
+0
+00
+0
+0
+0
+0
+0
+0
+0
+000
+0
+0
+00
+#
+##
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+0
+00
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+XY
+"
+")
+)
+#
+#
+#
+0
+0
+0
+XY
+#0
+#0
+")
+#0
+#0
+")
+#0
+")
+!C
+#0
+#0
+XY
+#0
+#0
+#0#0#0#0
+!C
+$+
+#0
+#0
+#0#0
+XY
+#0
+#0
+#0
+#0
+#0
+#0
+")
+#0
+$+
+#0
+#0
+#0
+#0
+")
+#0
+#0#0#0
+#0
+")
+#0
+#0
+#0
+#0
+#0
+#0#0
+#0
+#0
+#0
+#0
+#0
+")
+#0
+#0
+#0
+#0
+#0
+#0
+XY
+#0
+XY
+#0
+#0
+XY
+")
+#0
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizens'
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+Socal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 2-5: Potential Areas of Occurrence of Special Status Wildlife Species
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+Sensitive Animals
+Birds
+#0
+Belding's Savannah Sparrow
+#0
+ California Least Tern
+#0
+Cooper's Hawk
+#0
+Swainson's Hawk
+#0
+Bank Swallow
+#0
+Coastal California Gnatcatcher
+#0
+Least Bell's Vireo
+#0
+Light-footed Ridgway's Rail
+#0
+Southern California Rufous-crowned Sparrow
+#0
+Southwestern Willow Flycatcher
+#0
+Tricolored Blackbird
+#0
+Western Snowy Plover
+#0
+White-faced Ibis
+#0
+White-tailed Kite
+#0
+Yellow Warbler
+#0
+Yellow-breasted Chat
+#0
+Yellow-billed Cuckoo
+Fish
+!C
+Tidewater Goby
+Invertebrates
+$+
+California Brackishwater Snail
+$+
+Vernal Pool Fairy Shrimp
+Mammals
+")
+San Diego Black-tailed Jackrabbit
+")
+Stephens' Kangaroo Rat
+")
+Lesser Long-nosed Bat
+")
+Northwestern San Diego Pocket Mouse
+")
+Pallid Bat
+Reptiles
+XY
+Arroyo Toad
+XY
+California Glossy Snake
+XY
+Orange-throated Whiptail
+XY
+Red-diamond Rattlesnake
+XY
+South Coast Gartersnake
+XY
+Southern California Legless Lizard
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+Critical Habitats
+Tidewater Goby
+Arroyo Toad
+Least Bell's Vireo
+Southwestern
+Willow Flycatcher
+Coastal California
+Gnatcatcher
+
+
+ 
+2-8 
+Table 2-2: Potential to Occur for Special Status Plant Species 
+Common Name 
+Presence 
+Occurrence 
+Type 
+Federal 
+Listing 
+State 
+Listing/California 
+Rare 
+Plant 
+Rank 
+List* 
+Aphanisma 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+Blochman’s dudleya 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.1 
+California adolphia 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 2B.1 
+cliff spurge 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 2B.2 
+coast woolly-heads 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+Coulter’s saltbush 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+decumbent 
+goldenbush 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+mud nama 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 2B.2 
+Nuttall’s acmispon 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.1 
+Orcutt’s pincushion 
+Low to Moderate 
+Potential to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.1 
+Parry’s tetracoccus 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+Robinson’s 
+pepper-
+grass 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 4.3 
+salt 
+spring 
+checkerbloom 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 2B.2 
+San Diego ambrosia 
+Likely to Occur 
+Critical 
+Habitat 
+Present 
+Natural/Native 
+occurrence 
+Endangered 
+None/List 1B.1 
+San 
+Diego 
+barrel 
+cactus 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 2B.1 
+San Diego button-
+celery 
+Low to Moderate 
+Potential to Occur 
+Natural/Native 
+occurrence 
+Endangered 
+Endangered/List 1B.1 
+San 
+Diego 
+marsh-
+elder 
+Likely to Occur 
+Transplant Outside 
+of 
+Native 
+Habitat/Range 
+None 
+None/List 2B.2 
+
+
+ 
+2-9 
+Common Name 
+Presence 
+Occurrence 
+Type 
+Federal 
+Listing 
+State 
+Listing/California 
+Rare 
+Plant 
+Rank 
+List* 
+San Diego thorn-mint 
+Likely to Occur 
+Natural/Native 
+occurrence 
+Threatened 
+Endangered/List 1B.1 
+sea dahlia 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 2B.2 
+slender cottonheads 
+Low to Moderate 
+Potential to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 2B.2 
+smooth tarplant 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.1 
+South Coast saltscale 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+sticky dudleya 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+summer holly 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+thread-leaved 
+brodiaea 
+Likely to Occur  
+Critical 
+Habitat 
+Present 
+Natural/Native 
+occurrence 
+Threatened 
+Endangered/List 1B.1 
+variegated dudleya 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+None/List 1B.2 
+*Includes species ranked for rarity by California Native Plant Society 
+Source: CDFW 2020 
+Table 2-3: Potential to Occur for Special Status Wildlife Species 
+Common Name 
+Presence 
+Occurrence 
+Type 
+Federal 
+Listing 
+State 
+Listing* 
+Crotch’s bumble bee 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Candidate 
+Endangered 
+mimic 
+tryonia 
+(California 
+brackishwater snail) 
+Not Expected to 
+Occur 
+Natural/Native 
+occurrence 
+None 
+None 
+vernal 
+pool 
+fairy 
+shrimp 
+Low Potential to 
+Occur 
+Natural/Native 
+occurrence 
+Threatened 
+None 
+arroyo toad 
+Low Potential to 
+Occur 
+Critical Habitat 
+Present 
+-- 
+Endangered  
+None 
+
+
+ 
+2-10 
+Common Name 
+Presence 
+Occurrence 
+Type 
+Federal 
+Listing 
+State 
+Listing* 
+western spadefoot 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern  
+California glossy snake 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+orange-throated 
+whiptail 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Watch List  
+red-diamond 
+rattlesnake 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+South 
+Coast 
+gartersnake 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+Southern 
+California 
+legless lizard 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+tidewater goby 
+Low Potential to 
+Occur  
+Critical Habitat 
+Present 
+Natural/Native 
+occurrence 
+Endangered 
+Species 
+of 
+Special Concern 
+bank swallow 
+Not Expected to 
+Occur 
+Natural/Native 
+occurrence 
+None 
+Threatened 
+Belding’s 
+savannah 
+sparrow 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Endangered 
+California least tern 
+Likely to Occur 
+Natural/Native 
+occurrence 
+Endangered 
+Endangered/Fully 
+Protected 
+Coastal 
+California 
+gnatcatcher 
+Likely to Occur 
+Critical Habitat 
+Present 
+Natural/Native 
+occurrence 
+Threatened 
+Species 
+of 
+Special Concern 
+Cooper’s hawk 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Watch List  
+Least Bell’s vireo 
+Likely to Occur 
+Critical Habitat 
+Present 
+Natural/Native 
+occurrence 
+Endangered 
+Endangered 
+light-footed Ridgway’s 
+rail 
+Likely to Occur 
+Natural/Native 
+occurrence 
+Endangered 
+Endangered/Fully 
+Protected 
+Southern 
+California 
+rufous-crowned 
+sparrow 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Watch List 
+southwestern willow 
+flycatcher 
+Likely to Occur 
+Critical Habitat 
+Present 
+Natural/Native 
+occurrence 
+Endangered 
+Endangered 
+Swainson’s hawk 
+Low to Moderate 
+Potential to Occur 
+Natural/Native 
+occurrence 
+None 
+None 
+
+
+ 
+2-11 
+Common Name 
+Presence 
+Occurrence 
+Type 
+Federal 
+Listing 
+State 
+Listing* 
+tricolored blackbird 
+Low to Moderate 
+Potential to Occur 
+Natural/Native 
+occurrence 
+None 
+Threatened 
+western snowy plover 
+Not Expected to 
+Occur 
+Natural/Native 
+occurrence 
+Threatened 
+Species 
+of 
+Special Concern 
+white-faced ibis 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Watch List 
+white-tailed kite 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Fully Protected 
+yellow warbler 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+yellow-breasted chat 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+lesser long-nosed bat 
+Likely to Occur 
+Natural/Native 
+occurrence 
+Delisted 
+Species 
+of 
+Special Concern 
+northwestern 
+San 
+Diego pocket mouse 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+pallid bat 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+pocketed 
+free-tailed 
+bat 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+San Diego black-tailed 
+jackrabbit 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+Stephens’ 
+kangaroo 
+rat 
+Low Potential to 
+Occur 
+Natural/Native 
+occurrence 
+Endangered 
+Threatened  
+western yellow bat 
+Likely to Occur 
+Natural/Native 
+occurrence 
+None 
+Species 
+of 
+Special Concern 
+*Includes CDFW sensitivity categories of Fully Protected, Species of Special Concern, and Watch List which have 
+different levels of protections from listing under the California Endangered Species Act 
+Sources: CDFW 2020, U.S. Fish and Wildlife Service [USFWS] 2020 
+As indicated in Tables 2-2 and 2-3, several critical habitats for both plants and wildlife are 
+identified within the Planning Area (see Figures 2-4 and 2-5). Critical habitat for San Diego 
+ambrosia (Ambrosia pumila) is located in one small area along the San Luis Rey River on the 
+eastern border of the City. This is associated with a population confirmed within the last sev-
+eral years. Critical habitat for thread-leaved brodiaea (Brodiaea filifolia) is found in small 
+patches throughout the City, all associated with current and historic locations. Critical habitat 
+for least Bell’s vireo (Vireo bellii pusillus) and southwestern willow flycatcher (Empidonax 
+traillii extimus) is designated along the San Luis Rey River in the northern portion of the City; 
+
+
+ 
+2-12 
+both of these species are known to occur based on both historic and recent survey data. Crit-
+ical habitat is also designated for arroyo toad (Anaxyrus californicus) along the San Luis Rey in 
+the upstream reaches within the City. Arroyo toad are historically known to occur on the San 
+Luis Rey River; however, the only reported observation is over 10 years old. Critical habitat 
+for coastal California gnatcatcher is scattered within the western half of the City and this spe-
+cies is known to be present. Critical habitat for the tidewater goby (Eucyclogobius newberryi) 
+is located within the mouth of the San Luis Rey River; although this species has not been 
+identified in the area since 1958, with negative surveys in 2002 and 2003 (USFWS 2005). 
+2.2 Regulatory Setting 
+FEDERAL 
+Federal Endangered Species Act 
+The federal Endangered Species Act (ESA) of 1973 designates threatened and endangered an-
+imals and plant species and provides measures for their protection and recovery. Under the 
+ESA, "take" of listed animal and plant species in areas under federal jurisdiction is prohibited 
+without obtaining a federal permit. The ESA defines "take" as "to harass, harm, pursue, hunt, 
+shoot, wound, kill, trap, capture, or collect, or attempt to engage in any such conduct" (16 
+U.S. Code 1531). Harm includes any act that actually kills or injures fish or wildlife, including 
+significant habitat modification or degradation that significantly impairs essential behavioral 
+patterns of fish or wildlife. Activities that damage (i.e., harm) the habitat of listed wildlife 
+species require approval from USFWS for terrestrial species. If critical habitat has been desig-
+nated under the ESA for listed species, impacts to areas that contain the primary constituent 
+elements identified for the species, whether or not it is currently present, is also prohibited 
+without obtaining a federal permit. ESA, Sections 7 and 10, provide two pathways for obtain-
+ing permission to take listed species. 
+STATE 
+California Department of Fish and Wildlife 
+Under Section 1602 of the California Fish and Game Code, the CDFW regulates activities that 
+will divert or obstruct the natural flow or substantially change the bed, channel, or bank of 
+any river, stream, or lake that supports fish or wildlife. The CDFW has jurisdiction over ripar-
+ian habitats (e.g., mulefat scrub) associated with watercourses. Jurisdictional waters are 
+
+
+ 
+2-13 
+delineated by the outer edge of riparian vegetation or at the top of the bank of streams or 
+lakes, whichever is wider. CDFW jurisdiction does not include tidal areas or isolated resources.  
+California Endangered Species Act 
+The CDFW administers the California ESA (California Fish and Game Code, Section 2050 et 
+seq.), which prohibits the take of plant and animal species designated by the Fish and Game 
+Commission as endangered or threatened in California. Under the California ESA, Section 86, 
+take is defined as “hunt, pursue, catch, capture, or kill, or attempt to hunt, pursue, catch, 
+capture, or kill.” Section 2053 of the California ESA stipulates that state agencies may not 
+approve projects that would “jeopardize the continued existence of any endangered species 
+or threatened species or result in the destruction or adverse modification of habitat essential 
+to the continued existence of those species, if there are reasonable and prudent alternatives 
+available consistent with conserving the species or its habitat which would prevent jeopardy.” 
+Sections 2080 through 2085 of the California ESA address the taking of threatened, endan-
+gered, or candidate species by stating:  
+No person shall import into this state, export out of this state, or take, possess, 
+purchase, or sell within this state, any species, or any part or product thereof, 
+that the Commission determines to be an endangered species or a threatened 
+species, or attempt any of those acts, except as otherwise provided in this 
+chapter, the Native Plant Protection Act (California Fish and Game Code, Sec-
+tions 1900 1913), or the California Desert Native Plants Act (Food and 
+Agricultural Code, Section 80001). 
+LOCAL 
+City of Oceanside General Plan 
+Existing General Plan Elements/Policies 
+The City’s General Plan (City of Oceanside 2002) includes objectives and policies relating to 
+biological resources.  
+Land Use Element 
+• 
+Vegetation and Wildlife Habitats, Objective: Recognition and preservation of sig-
+nificant areas with regard to vegetation and wildlife habitats. 
+ 
+
+
+ 
+2-14 
+• 
+Policy 3.11A: A biological survey report, including a field survey, shall be required 
+for a proposed project site if the site is largely or totally in a natural state or if high 
+interest specifies of plants or animals have been found on nearby properties. 
+ 
+• 
+Policy 3.11B: Where appropriate, the City shall apply open space land use designa-
+tions and open space zoning to areas of significant scenic, ecological, or recreational 
+value. 
+ 
+• 
+Policy 3.11C: In areas where vegetation or wildlife habitat modification if inevitable, 
+mitigation and/or compensatory measures such as native plant restoration, land rec-
+lamation, habitat replacement, or land interest donation will be considered. 
+ 
+• 
+Policy 3.11D: Areas containing unique vegetation or wildlife habitats shall receive a 
+high priority for preservation. 
+ 
+• 
+Policy 3.11E: Specific plans shall be developed in conjunction with regional and 
+County agencies where appropriate, for areas where there is occurrence of endangered 
+or threatened species. 
+ 
+Environmental Resources Management Element 
+The Environmental Resource Management Element contains a workable program designed to 
+conserve natural resources and preserve open space. The long range policy direction for bio-
+logical resources is: 
+• 
+Vegetation and Wildlife Habitats, Long-Range Objective: Conserve and en-
+hance vegetation and wildlife habitats, especially areas of rare, endangered, or 
+threatened species. 
+North County Multiple Habitat Conservation Program 
+The MHCP is a comprehensive, long-term regional habitat conservation plan established to 
+protect sensitive species and habitats in northern San Diego County. The MHCP is one of 
+three, large multiple-jurisdictional habitat planning efforts in San Diego County; those being 
+the South County Plan, the North County Plan, and the East County Plan. Each of these con-
+stitutes a subregional plan under the State of California’s Natural Community Conservation 
+Planning Act of 1991 (NCCP Act). The MHCP encompasses the cities of Carlsbad, Encinitas, 
+Escondido, Oceanside, San Marcos, Solana Beach, and Vista. The program goals are to con-
+serve approximately 19,000 acres of habitat, of which roughly 8,800 acres (46 percent) are 
+
+
+ 
+2-15 
+already in public ownership and contribute toward the habitat preserve system for the pro-
+tection of more than 80 rare, threatened, or endangered species. The MHCP sets forth general 
+and subarea conditions of coverage that must be met for each covered species in order for the 
+cities to obtain take authorization. 
+City of Oceanside Draft Subarea Habitat Conservation Plan/ 
+Natural Communities Conservation Plan 
+The draft Oceanside Subarea Plan was prepared per the NCCP Act and the ESA. The Oceanside 
+Subarea Plan addresses how the City will conserve and protect biological communities and 
+species considered sensitive under the NCCP Act and ESA. As of 2021, the City has issued 
+permits for the taking of listed species through impact to natural habitats within its jurisdic-
+tional boundaries as permitted by wildlife agencies. 
+Regional Water Quality Control Board 
+The Regional Water Quality Control Board (RWQCB) administers Section 401 permits and 
+provides certification. The RWQCB also plays a role in review of water quality and wetland 
+issues, including avoidance and minimization of impacts. Section 401 certification is required 
+prior to the issuance of a U.S. Army Corps of Engineers (ACOE) Section 404 permit. Permits 
+requiring Section 401 certification include ACOE Section 404 permits and National Pollutant 
+Discharge Elimination System (NPDES) permits issued by the Environmental Protection 
+Agency (EPA) under Section 402 of the CWA. NPDES permits are issued by the applicable 
+RWQCB. The City is within the jurisdiction of the San Diego RWQCB (Region 9). 
+San Luis Rey River Restrictive Covenants 
+The City has been implementing a flood risk management project along the lower 7.2 river 
+miles of the San Luis Rey River with their federal partner, ACOE. The City was required to 
+designate 297.71 acres for conservation as mitigation for project impacts to riparian and ri-
+parian scrub habitat for the least Bell’s vireo, southwestern willow flycatcher, and other 
+riparian bird and mammal species within the San Luis Rey River, pursuant to: California ESA 
+Incidental Take Permit No. 2081-2007-029-05, between the City and CDFW dated February 1, 
+2008; the Agreement Regarding Proposed Stream or Lake Alteration Notification No. 1600-
+2007-0173-R5, executed by the City and CDFW dated February 5, 2008; and the Post Author-
+ization Decision Document/Supplemental Environmental Impact Report/Post Authorization 
+Change Report certified by the City, SCH 99061056, dated August 15, 2007.. A Declaration of 
+Restrictive Covenants was made by the City on September 22, 2014 to ensure that the desig-
+nated lands are maintained in a Natural Condition in perpetuity. These lands are subject to a 
+
+
+ 
+2-16 
+number of conditions that identify allowable and restricted land uses in order to ensure that 
+the permit requirements are maintained. Many of these lands are coincident with the draft 
+Subarea Plan preserve boundaries along the lower reach of the San Luis Rey River (see Figure 
+2-3). 
+2.3 Key Findings and Planning Considerations 
+The following is a summary of key findings and implications for the General Plan Update pro-
+cess related to biological resources: 
+• 
+Oceanside is largely developed, but natural areas can be found in some areas.  
+While the city is dominated by developed, disturbed, and agricultural operations, sen-
+sitive habitats and species are supported, particularly in proximity to wetland and 
+riparian areas along the San Luis Rey River, its tributaries, and scattered canyons 
+throughout the City. The General Plan Update provides an opportunity to address City 
+goals pertaining to the conservation and enhancement of vegetation and wildlife hab-
+itats. 
+ 
+• 
+The biodiverse Oceanside contains a range of sensitive species and critical hab-
+itat. The Planning Area supports 60 sensitive plant and wildlife species and critical 
+habitat for seven of these. General Plan Update policies can help to address the need 
+to evaluate the potential for impact to sensitive plants and wildlife species to ensure 
+that there is not a cumulative loss of these species or adverse effects on critical habitat 
+within the city. 
+ 
+
+
+ 
+3-1 
+3 
+Cultural (Tribal Cultural) Resources  
+The purpose of this chapter is to provide a brief overview of the history of the Planning Area 
+in terms tribal cultural resources, identify areas throughout the city that may support sensi-
+tive resources, summarize existing plans and programs that regulate preservation efforts, and 
+identify key findings and opportunities for the updated General Plan goals and policies.  
+3.1 Existing Conditions 
+The cultural setting of the city is embedded in its rich prehistoric and Native American history 
+as documented through archaeological studies.  
+CULTURAL SETTING 
+Evidence for continuous human occupation in the San Diego County region spans the last 
+10,000 years. The accumulation of cultural evidence throughout the San Diego region is bro-
+ken down by a chronology of generalized time periods: Paleoindian (pre-5500 BC), Archaic 
+(800 BC–AD 500), Late Prehistoric (AD 500–1769), and Ethnohistoric (post-AD 1769). Each of 
+these periods represent a time frame of archaeological culture (or complex).  
+Humans first appeared in the archaeological record in North America approximately 12,000 
+years ago during the Paleoindian Period. During this period, which took place at the end of 
+the last ice age, evidence of the San Dieguito Complex can be found in all of San Diego County, 
+parts of Riverside County, north through the Mojave Desert, east through western Arizona, 
+and south into northern Baja California and northern Sonora (Rogers 1966). Counter to many 
+beliefs that this period was a time of hunter/gatherers, the San Dieguito Complex assemblage 
+is dominated by finely made scraping and chopping tools, such as well-made scraper planes, 
+choppers, scraping tools, crescentics, elongated bifacial knives, and leaf-shaped projectile 
+points. 
+The Archaic Period, as represented by the Pauma Complex, is characterized by subsistence 
+economies supported through the exploitation of nuts, seeds, and shellfish. The Pauma Com-
+plex assemblage consists primarily of processing tools; milling stones, handstones, battered 
+cobbles, heavy crude scrapers, incipient flake-based tools, and cobble-core reduction. The lo-
+cal cultural manifestations of the Archaic Period are called the La Jolla Complex along the 
+
+
+ 
+3-2 
+coast and the Pauma Complex inland. Pauma Complex sites lack the shell that dominates 
+many La Jollan sites. 
+The Late Prehistoric Period is the time before contact between Native Americans and Euro-
+peans and is represented by the San Luis Rey Complex. Based on excavations at Pala some 20 
+miles north of the City, sites have revealed bedrock milling. 
+A major shift in prehistoric social organization began with the Ethnohistoric Period. Luiseño 
+settlement systems have been carefully reconstructed on the basis of extensive ethnographic 
+and ethnohistoric research (Bean and Shipek 1978; Kroeber 1925; Sparkman 1908; Strong 
+1929; White 1963). A Luiseño clan controlled one, or possibly more, specified territories, 
+called rancherias. White (1963) suggests that the Luiseño settlement system consisted of a 
+series of villages or rancherias located on terraces above a valley bottom watercourse (e.g., 
+the San Luis Rey River). The rancheria owned territory in a contiguous strip leading from the 
+valley bottom to upland areas. This vertical pattern of rancheria territory facilitated gathering 
+plant foods through the year. In early spring, tubers and berries first ripened along the water-
+course below the rancheria. As spring turned to summer, chaparral plants near the rancheria 
+became ripe. Later, those at a higher elevation above the rancheria ripened. In fall, people 
+moved temporarily to higher elevations (e.g., Palomar Mountain) for the acorn harvest (White 
+1963). 
+Archaeological Resources 
+A records search was performed at the South Coastal Information Center (SCIC) at San Diego 
+State University in 2020 and a sensitivity map was prepared to identify potential areas of cul-
+tural importance (not included in this ECR because of sensitive information.) The Planning 
+Area is within the territory of the Luiseño Band. 
+The SCIC records search indicate that there are 88 historic-era, 162 prehistoric (136 sites 
+and 26 isolated artifacts), 17 multi-component resources (with both historic and prehis-
+toric components), and 1 non-sites for a total of 268 resources.   
+The 88 historic-era cultural resources include commercial buildings, single-family prop-
+erty, multi-family property, public utility buildings, religious buildings, engineering 
+structures, railroad, wells/privies, trash scatters, roads/highways, historic trails, adobes, 
+and foundations.   
+The 136 prehistoric cultural resources include bedrock milling features, lithic scatters, 
+ceramic scatters, ground stone artifacts, shell scatters, faunal remains, hearths, 
+
+
+ 
+3-3 
+pictographs, and fire-affected rock (FAR). The 26 isolated artifacts include manos, flakes, 
+choppers, cores, ceramic sherd, milling slab fragment, and shell fragments.   
+The record search data will be evaluated to create a cultural resources sensitivity map 
+that can serve as a tool to identify the potential for cultural resources, suitability of areas 
+for development, and provide a screening tool to assist with City review of future projects 
+and support streamlined environmental processing.   
+3.2 Regulatory Setting 
+STATE 
+California Environmental Quality Act 
+California Environmental Quality Act (CEQA) Guidelines Section 15064.5 defines “historical 
+resources” as including any of the following: (1) a resource listed in or determined eligible for 
+listing on the California Register of Historical Resources, (2) a resource included in a local 
+register of historical resources or identified as significant in a historical resource survey that 
+meets certain requirements, and (3) any object, building, structure, site, area, place, record, 
+or manuscript which a lead agency determines to be significant. Some resources that do not 
+meet these criteria may still be historically significant for the purposes of CEQA. According 
+to the CEQA Guidelines Appendix G, adoption and implementation of a proposed project 
+would result in a significant adverse cultural resources impact if a proposed project would: 
+1. Cause a substantial adverse change in the significance of a historical pursuant to 
+CEQA Guidelines Section 15064.5; 
+2. Cause a substantial adverse change in the significance of an archaeological resources 
+pursuant to CEQA Guidelines Section 15064.5; 
+3. Disturb any human remains, including those interred outside of formal cemeteries.  
+
+
+ 
+3-4 
+The CEQA Guidelines were amended in 2016 to address Tribal cultural resources. Tribal cul-
+tural resources are defined in CEQA Guidelines Section 21074 as: 
+(1) Sites, features, places, cultural landscapes, sacred places, and objects with cultural 
+value to a California Native American tribe that are either of the following: 
+(A) Included or determined to be eligible for inclusion in the California Regis-
+ter of Historical Resources. 
+(B) Included in a local register of historical resources as defined in subdivision 
+(k) of Section 5020.1. 
+(2) A resource determined by the lead agency, in its discretion and supported by sub-
+stantial evidence, to be significant pursuant to criteria set forth in subdivision (c) of 
+Section 5024.1. 
+California Public Resources Code 
+Section 5097 of the Public Resources Code specifies the procedures to be followed in the event 
+of the unexpected discovery of human remains on nonfederal land. The disposition of Native 
+American burial falls within the jurisdiction of the California Native American Heritage Com-
+mission. Section 5097.5 of the Public Resources Code states the following: 
+No person shall knowingly and willfully excavate upon, or remove, destroy, 
+injure or deface any historic or prehistoric ruins, burial grounds, archaeologi-
+cal or vertebrate paleontological site, including fossilized footprints, 
+inscriptions made by human agency, or any other archaeological, paleonto-
+logical or historical feature, situated on public lands, except with the express 
+permission of the public agency having jurisdiction over such lands. Violation 
+of this section is a misdemeanor. 
+As used in this section, “public lands” means lands owned by, or under the jurisdiction of, the 
+state or any city, county, district, authority or public corporation, or any agency thereof. Con-
+sequently, the City is required to comply with Public Resource Code Section 5097.5 for its 
+activities on publicly owned land. 
+Section 5097.98 further defines the standards for the handling of Native American human 
+remains. Section 5097.993 sets requirements for the unlawful and malicious excavation, re-
+moval, destruction, injury, or defacing of a Native American historic, cultural, or sacred site, 
+that is listed or may be eligible for listing in the California Register of Historical Resources. 
+
+
+ 
+3-5 
+California Health and Safety Code 
+Section 7052 of the California Health and Safety Code makes the willful mutilation, disinter-
+ment, or removal of human remains a felony. Section 7050.5 requires that construction 
+activities be stopped near discovered human remains until the coroner can determine whether 
+the remains are those of a Native American. If determined to be Native American, the coroner 
+must contact the Native American Heritage Commission. 
+California Native American Graves Protection and Repatriation 
+Act 
+The California Native American Graves Protection and Repatriation Act (2001) ensures that 
+Native American human remains and cultural items be treated with respect and dignity. 
+Assembly Bill 52 
+Assembly Bill 52 requires consideration of a project’s potential to significantly impact a tribal 
+cultural resource and requires early notice of projects and, if requested by a tribe, consultation 
+with requesting tribes to inform the CEQA process. A tribal cultural resource might be a site, 
+feature, place, cultural landscape, sacred place, or object with cultural value to a “California 
+Native American tribe,” or that is eligible for inclusion into the California Historic Regis-
+ter/local register, or is determined and supported by the local agency as a tribal cultural 
+resource. Lead agencies are required to consult with any California Native American tribe that 
+requests consultation and is traditionally and culturally affiliated with the geographic area of 
+a proposed project. 
+Senate Bill 18 
+Senate Bill 18 requires local (City and County) governments to consult with California Native 
+American tribes to aid in the protection of traditional tribal cultural places (cultural places) 
+through local land use planning. The intent of Senate Bill 18 is to provide California Native 
+American tribes an opportunity to participate in local land use decisions at an early planning 
+stage, for the purpose of protecting, or mitigating impacts to cultural places. 
+Senate Bill 18 requires local governments to consult with tribes prior to making certain plan-
+ning decisions and to provide notice to tribes at certain key points in the planning process. 
+These consultation and notice requirements apply to adoption and amendment of both gen-
+eral plans (defined in Government Code Section 65300 et seq.) and specific plans (defined in 
+Government Code Section 65450 et seq.). 
+
+
+ 
+3-6 
+3.2.2 LOCAL 
+City of Oceanside General Plan 
+Existing General Plan Elements/Policies 
+The City's General Plan (City of Oceanside 2002) includes direction for the identification of 
+new, and the preservation of known historic and archaeological resources. 
+Land Use Element  
+The Land Use Element contains policies for the acquisition, restoration, and preservation of 
+cultural resources with specific requiring archaeological surveys for proposed projects that 
+meet the following specific criteria: 
+1) The site is completely or largely in a natural state; 
+2) There are recorded sites on early properties; 
+3) The project site is near or overlooks a water body (creek, stream, lake, freshwater 
+lagoon); 
+4) The project site includes large boulders and/or oak trees; or 
+5) The project site is located one-half mile of Mission San Luis Rey. (General Plan 
+Land Use Element Policy 3.2D; City of Oceanside 2002) 
+Environmental Resource Management Element  
+The existing Environmental Resource Management Element has been relied upon for the con-
+servation of natural resources and the preservation of open space. With respect to cultural 
+sites, the element’s objective is to “encourage the conservation and protection of significant 
+cultural resources for future scientific, historic, and education purposes” (General Plan Envi-
+ronmental Resource Management Element, page 8; City of Oceanside 2002). The prominent 
+sites identified are Mission San Luis Rey, Rancho Guajome, and Grave of Francisco de Ulloa. 
+Additionally, archaeological sites have been identified in the Fire Mountain area, near San 
+Francisco Peak and in the Guajome Lake Region.  
+3.3 Key Findings and Planning Considerations 
+The preservation of cultural resources has been an important part of City planning. The Gen-
+eral Plan Update provides an opportunity to continue to further the goal of identification and 
+
+
+ 
+3-7 
+preservation of cultural resources. Specific recommendations for planning considerations in-
+clude the following:  
+• 
+Conservation of known and potential cultural resources. The General Plan Up-
+date can reemphasize citywide goals for the identification of cultural resources, 
+especially in close proximity to known sites. Individual policies can be developed to 
+assist in ensuring consistency with existing regulations. 
+ 
+• 
+Using open space as a cultural resource conservation tool. The General Plan up-
+date provides an opportunity to develop policies focused on creating open space and 
+other means of preserving known cultural resource areas, along with educational and 
+historical context. 
+ 
+
+
+ 
+4-1 
+4 
+Air Quality  
+4.1 EXISTING CONDITIONS 
+This chapter discusses Oceanside's climate and air quality, contaminants, and relevant air 
+quality regulations at local, regional, and state level, as well as key findings and opportunities 
+for the updated General Plan goals and policies related to air quality. 
+ 
+CLIMATE 
+The City of Oceanside extends from the coastline to 10 miles east of the Pacific Ocean. The 
+City, like the rest of San Diego County, has a Mediterranean climate characterized by warm, 
+dry summers and mild winters. The local temperature range is relatively limited. Long-term 
+measurements at the Oceanside Marina indicate that winter low temperatures in the City 
+average about 45 degrees Fahrenheit, and summer high temperatures average about 71 
+degrees Fahrenheit. The average annual precipitation is 10.5 inches, falling primarily from 
+December to March (Western Regional Climate Center 2016). 
+The dominant meteorological feature affecting the region is the Pacific High Pressure Zone, 
+which produces the prevailing westerly to northwesterly winds. These winds tend to blow 
+pollutants away from the coast toward the inland areas. Consequently, air quality near the 
+coast is generally better than at the base of the coastal mountain range.  
+Fluctuations in the strength and pattern of winds from the Pacific High Pressure Zone creates 
+a temperature inversion layer (a layer in the atmosphere in which temperature increases with 
+height) that acts as a lid to the vertical dispersion of air pollutants in the San Diego Air Basin 
+(SDAB). Beneath the inversion layer pollutants become “trapped” as their ability to disperse 
+diminishes. Sunlight reacts with air pollutants (reactive organic gas [ROG] and oxides of 
+nitrogen [NOX]) to create ozone (O3). Thus, poorly dispersed pollutants along with strong 
+sunlight results in the creation of ozone at this surface layer.  
+Strong Santa Ana winds tend to blow pollutants out over the ocean, producing clear days. 
+However, at the onset or during breakdown of these conditions, or if the Santa Ana is weak, 
+local air quality may be adversely affected. In these cases, emissions from the South Coast Air 
+Basin to the north are blown out over the ocean, and low pressure over Baja California, 
+Mexico, draws this pollutant-laden air mass southward. As the high pressure weakens, 
+prevailing northwesterly winds reassert themselves and send this cloud of contamination 
+ashore in the SDAB. When this event does occur, the combination of transported and locally 
+
+
+ 
+4-2 
+produced contaminants results in air quality conditions worse than normal (California Air 
+Resources Board [CARB] 1997).  
+AIR POLLUTANTS OF KEY CONCERN 
+The U.S Environmental Protection Agency (U.S. EPA) has identified six pollutants of key 
+concern known as “criteria pollutants.” These criteria pollutants are each common in outdoor 
+environments across the United States and each pose a threat to human health. Criteria 
+pollutants include ozone, carbon monoxide (CO), nitrogen dioxide (NO2), sulfur dioxide (SO2), 
+particulate matter (PM10 and PM2.5), and lead (Pb).  
+Ozone 
+Ozone is the primary component of smog. Ozone is not directly emitted into the air but is 
+formed through complex chemical reactions between precursor emissions of NOX and ROGs 
+(also known as volatile organic chemicals [VOC] or reactive organic compounds [ROC]) in the 
+presence of sunlight. The adverse health effects associated with exposure to ozone pertain 
+primarily to the respiratory system. Scientific evidence indicates that ambient levels of ozone 
+affect not only sensitive receptors, such as asthma sufferers and children, but healthy adults 
+as well. Exposure to ozone has been found to significantly alter lung functions by increasing 
+respiratory rates and pulmonary resistance, decreasing tidal volumes (the amount of air 
+inhaled and exhaled), and impairing respiratory mechanics. Symptomatic responses include 
+such as throat dryness, chest tightness, headache, and nausea. About half of smog-forming 
+emissions come from automobiles. 
+Carbon Monoxide 
+Carbon monoxide is a colorless, odorless gas that is formed when carbon in fuel is not burned 
+completely. It is a component of motor vehicle exhaust, which contributes about 56 percent 
+of all CO emissions nationwide. CO enters the bloodstream through the lungs by combining 
+with hemoglobin, which normally supplies oxygen to the cells. However, CO combines with 
+hemoglobin much more readily than oxygen does, resulting in a drastic reduction in the 
+amount of oxygen available to the cells. Adverse health effects associated with exposure to 
+CO concentrations include such symptoms as dizziness, headaches, and fatigue. CO exposure 
+is especially harmful to individuals who suffer from cardiovascular and respiratory diseases 
+(U.S. EPA 2014). 
+Small-scale, localized concentrations of CO above the federal and state Ambient Air Quality 
+Standards (AAQS) may occur at intersections with stagnation points such as those that occur 
+on major highways and heavily traveled and congested roadways. Localized high 
+
+
+ 
+4-3 
+concentrations of CO are referred to as “CO hotspots” and are a concern at congested 
+intersections, where automobile engines burn fuel less efficiently and their exhaust contains 
+more CO.  
+Nitrogen Dioxide 
+Nitrogen dioxide is a brownish, highly reactive gas that is present in all urban environments. 
+The major human-made sources of NO2 are combustion devices, such as boilers, gas turbines, 
+and mobile and stationary reciprocating internal combustion engines. Inhalation is the most 
+common route of exposure to NO2. Because NO2 has relatively low solubility in water, the 
+principal site of toxicity is in the lower respiratory tract. The severity of the adverse health 
+effects depends primarily on the concentration inhaled rather than the duration of exposure. 
+An individual may experience a variety of acute symptoms, including coughing, difficulty with 
+breathing, vomiting, headache, and eye irritation during or shortly after exposure. After a 
+period of approximately 4 to 12 hours, an exposed individual may experience chemical 
+pneumonitis or pulmonary edema with breathing abnormalities, cough, cyanosis, chest pain, 
+and rapid heartbeat. 
+Sulfur Dioxide 
+Sulfur dioxide is a combustion product, with the primary source being power plants and heavy 
+industries that use coal or oil as fuel. SO2 is also a product of diesel engine combustion. The 
+health effects of SO2 include lung disease and breathing problems for people with asthma. SO2 
+in the atmosphere contributes to the formation of acid rain. 
+Inhalable Coarse Particles 
+PM10 is particulate matter with an aerodynamic diameter of 10 microns or less. (Ten microns 
+is about one-seventh of the diameter of a human hair.) Particulate matter is a complex 
+mixture of very tiny solid or liquid particles composed of chemicals, soot, and dust. Under 
+typical conditions (i.e., no wildfires) particles classified under the PM10 category are mainly 
+emitted directly from activities that disturb the soil including travel on roads and 
+construction, mining, or agricultural operations. Other sources include windblown dust, salts, 
+brake dust, and tire wear.  
+Health studies have shown a significant association between exposure to particulate matter 
+and premature death in people with heart or lung diseases. Other important effects include 
+aggravation of respiratory and cardiovascular disease, lung disease, decreased lung function, 
+asthma attacks, and certain cardiovascular problems such as heart attacks and irregular 
+heartbeat (U.S. EPA 2014). 
+
+
+ 
+4-4 
+Inhalable Fine Particles 
+Airborne, inhalable particles with aerodynamic diameter of 2.5 microns or less have been 
+recognized as an air quality concern requiring regular monitoring. Federal regulations required 
+that PM2.5 monitoring begin January 1, 1999. Similar to PM10, PM2.5 is also inhaled into the lungs 
+and causes serious health problems. 
+Lead 
+Lead is a metal found naturally in the environment as well as in manufactured products. At 
+high levels of exposure, lead can have detrimental effects on the central nervous system. The 
+major sources of lead emissions have historically been mobile and industrial sources. As a 
+result of the phase out of leaded gasoline, metal processing is currently the primary source of 
+lead emissions. 
+TOXIC AIR CONTAMINANTS 
+A toxic air contaminant (TAC) is any air pollutant which may cause or contribute to an increase in 
+mortality or serious illness or which may pose a present or potential hazard to human health. CARB 
+lists approximately 800 compounds that are assessed under its Air Toxics Hot Spots Program; these 
+compounds may be carcinogenic or may cause acute or chronic non-cancer health problems. Of 
+note, diesel-exhaust particulate matter (DPM) has been determined to be carcinogenic and 
+therefore is categorized as a TAC.  
+LOCAL AIR POLLUTION SOURCES 
+Stationary Air Pollution Sources 
+Regulated Stationary Sources 
+Air pollutant emissions originate from a wide variety of stationary sources such as factories, 
+power plants, gasoline stations, and other businesses and industrial operations. The local air 
+district, San Diego Air Pollution Control District (SDAPCD) is responsible for monitoring air 
+quality and developing plans to reduce air pollution in the SDAB. The SDAPCD New Source 
+Review Rules require permitting for new stationary sources with potential to generate criteria 
+pollutant emissions that exceed de minimis levels. As listed in the most recent SDAPCD 
+Emissions Inventory (SDAPCD 2020), stationary sources in the City of Oceanside include: 
+• 
+TE Connectivity Ltd. at 250 Eddie Jones Way Oceanside, CA 92058 
+
+
+ 
+4-5 
+• 
+Former Mission Landfill at 2080 Mission Avenue, Oceanside CA 92058 
+• 
+Former Maxson Landfill at 215 Barnes Street Oceanside, CA 92054 
+• 
+Former Escondido Sand & Gravel at 3210 Oceanside Boulevard, Oceanside CA 920561 
+Regulated stationary sources are shown in Figure 4-1.  
+Unregulated Stationary Sources  
+Gas stations are known to release benzene, a carcinogenic TAC, into the air. Studies have 
+shown that the impact from gas stations decreases rapidly as the distance from the facility 
+increases (CARB 2005). In April 2005, CARB published the Air Quality and Land Use Handbook: 
+A Community Health Perspective (CARB 2005). The term “sensitive receptor” refers to a person 
+in the population who is more susceptible to health effects due to exposure to an air 
+contaminant than the population at large or to a land use that may reasonably be associated 
+with such a person. Examples include residences, schools, playgrounds, childcare centers, 
+churches, athletic facilities, retirement homes, and long-term health care facilities. The 
+handbook makes recommendations directed at protecting sensitive receptors from air 
+pollutant emissions. As stated in the handbook, the concern is generally limited to siting new 
+sensitive land uses within 50 feet of a gas station or constructing a new gas station within 50 
+feet of existing sensitive land use (CARB 2005).  
+ 
+ 
+1 The 2017 Emissions Inventory Report also lists emissions associated with the Escondido Sand & Gravel quarry at 3210 
+Oceanside Boulevard, Oceanside, California 92056. This site has been extensively redeveloped as part of the El Corazon 
+Specific Plan. Remaining operations which may generate notable air emissions include the El Corazon Compost Facility 
+and Moody's El Corazon Recycling.  
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig4-1.mxd
+!(
+T
+!(
+!(
+!(
+!(
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizens'
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+Socal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 4-1: Local Air Pollution Sources
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+City of Oceanside
+Sphere of Influence
+Neighbor City
+!(
+Permitted Point Sources
+High Volume Roadway Segments
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/13/2020
+
+
+ 
+4-7 
+Mobile Source Air Pollution 
+As discussed in Section 4.1.3, CARB has identified DPM as a carcinogenic TAC. Vehicle traffic 
+is responsible for the majority of DPM emissions in California as well as several other 
+carcinogens, CARB recommends caution when siting sensitive land uses near heavily traveled 
+roadways. Specific recommendations from CARB’s Air Quality and Land Use Handbook: A 
+Community Health Perspective include maintaining a 500-foot buffer zone between sensitive 
+receptors and freeways, urban road with 100,000 or more vehicles per day or rural road with 
+50,000 vehicles per day whenever possible (CARB 2005).  As listed in the City's existing 
+General Plan Circulation Element (City of Oceanside 2012), roadway segments with capacity 
+of 50,000 vehicles per day or greater in the City of Oceanside include: 
+• 
+Interstate 5 throughout City limits 
+• 
+State Route 78 throughout City limits 
+• 
+State Route 76 from Interstate 5 to Melrose Drive 
+• 
+El Camino Real from Oceanside Boulevard to State Route 78 
+• 
+Melrose Drive from Sunset Drive to southern City limits 
+• 
+Oceanside Boulevard from El Camino Real to College Boulevard 
+• 
+College Boulevard from North River Road to State Route 76 
+• 
+College Boulevard from Waring Road to Lake Boulevard 
+Regulated stationary sources are shown in Figure 4-1.  
+LOCAL AIR QUALITY 
+The state of California is divided geographically into 15 air basins for the purpose of managing 
+the air resources of the state on a regional basis. Areas within each air basin are considered 
+to share the same air masses and, therefore, are expected to have similar ambient air quality. 
+The City is located within the northwestern portion of the SDAB, which encompasses all of 
+San Diego County. The western portion of the SDAB generally includes coastal plains which 
+are surrounded by mountains to the north, east, and south. These mountains tend to restrict 
+airflow and concentrate pollutants in the valleys and low-lying areas below.  
+Air quality is commonly expressed as the number of days in which air pollution levels exceed 
+state standards set by the CARB or federal standards set by the U.S. EPA. The local air district, 
+SDAPCD is responsible for monitoring air quality and developing plans to reduce air pollution 
+in the SDAB. The SDAPCD actively monitors air pollutant concentrations and meteorological 
+information at nine monitoring stations throughout the SDAB. Measurements are then used 
+by scientists to help forecast daily air pollution levels. 
+
+
+ 
+4-8 
+The nearest monitoring station is the Marine Corps Base Camp Pendleton (Camp Pendleton) 
+monitoring station, which is located 0.3 mile north of the Oceanside Marina along B Street 
+between 5th Street and C Street. The Camp Pendleton monitoring station measures ozone, 
+PM2.5, and NO2. Table 4-1 provides a summary of measurements for the years 2014 through 
+2018. 
+Table 4-1: Ambient Air Quality Measurements 
+Pollutant/Standard 
+2014 
+2015 
+2016 
+2017 
+2018 
+Ozone 
+Federal Max 8-hr (ppm) 
+0.079 
+0.076 
+0.073 
+0.081 
+0.068 
+Days 2015 Federal 8-hour Standard Exceeded (0.070 ppm) 
+5 
+2 
+4 
+4 
+0 
+Days 2008 Federal 8-hour Standard Exceeded (0.075 ppm) 
+1 
+1 
+0 
+1 
+0 
+State Max 8-hr (ppm) 
+0.080 
+0.077 
+0.073 
+0.082 
+0.069 
+Days State 8-hour Standard Exceeded (0.07 ppm) 
+6 
+3 
+5 
+5 
+0 
+Max. 1-hr (ppm) 
+0.097 
+0.093 
+0.083 
+0.094 
+0.084 
+Days State 1-hour Standard Exceeded (0.09 ppm) 
+1 
+0 
+0 
+0 
+0 
+NO2 
+Max 1-hr (ppm) 
+0.060 
+0.060 
+0.072 
+0.063 
+0.048 
+Days State 1-hour Standard Exceeded (0.18 ppm) 
+0 
+0 
+0 
+0 
+0 
+Days Federal 1-hour Standard Exceeded (0.100 ppm) 
+0 
+0 
+0 
+0 
+0 
+Annual Average (ppm) 
+7 
+7 
+6 
+6 
+6 
+PM2.5 
+Federal Max. Daily (µg/m3) 
+28.0 
+-- 
+-- 
+-- 
+-- 
+Measured Days Federal 24-hour Standard Exceeded (35 µg/m3) 
+0 
+-- 
+-- 
+-- 
+-- 
+Calculated Days Federal 24-hour Standard Exceeded (35 µg/m3) 
+-- 
+-- 
+-- 
+-- 
+-- 
+Federal Annual Average (µg/m3) 
+-- 
+-- 
+-- 
+-- 
+-- 
+State Max. Daily (µg/m3) 
+28.0 
+41.2 
+28.8 
+26.0 
+30.5 
+State Annual Average (µg/m3) 
+-- 
+-- 
+-- 
+-- 
+-- 
+ppm = parts per million; µg/m3 = micrograms per cubic meter; -- = not available 
+* Calculated days value. Calculated days are the estimated number of days that a measurement would have been 
+greater than the level of the standard had measurements been collected every day. The number of days above the 
+standard is not necessarily the number of violations of the standard for the year. 
+Source:  CARB 2020. 
+
+
+ 
+4-9 
+As shown in Table 4-1, the Camp Pendleton monitoring station recorded days when air quality 
+standards for ozone were exceeded 2014 through 2017, but not in 2018. These exceedances 
+are discussed later under Local Air Quality Regulations.  
+4.2 Regulatory Setting 
+FEDERAL AIR QUALITY REGULATIONS 
+AAQS represent the maximum levels of background pollution considered safe, with an 
+adequate margin of safety, to protect the public health and welfare. The federal Clean Air Act 
+(CAA) was enacted in 1970 and amended in 1977 and 1990 (42 United States Code [USC] 7401) 
+for the purposes of protecting and enhancing the quality of the nation’s air resources to 
+benefit public health, welfare, and productivity. In 1971, in order to achieve the purposes of 
+Section 109 of the CAA (42 USC 7409), the U.S. EPA developed primary and secondary 
+National AAQS (NAAQS). 
+Six criteria pollutants of primary concern have been designated: ozone, CO, SO2, NO2, Pb, and 
+PM10 and PM2.5. The primary NAAQS “. . . in the judgment of the Administrator, based on such 
+criteria and allowing an adequate margin of safety, are requisite to protect the public 
+health . . .” and the secondary standards “. . . protect the public welfare from any known or 
+anticipated adverse effects associated with the presence of such air pollutant in the ambient 
+air” (42 USC 7409[b][2]). The primary NAAQS were established, with a margin of safety, 
+considering long-term exposure for the most sensitive groups in the general population (i.e., 
+children, senior citizens, and people with breathing difficulties). The NAAQS are presented in 
+Table 4-2. 
+If an air basin is not in either federal or state attainment for a particular pollutant, the basin 
+is classified as non-attainment area for that pollutant (there is also a marginal classification 
+for federal nonattainment areas). Once a nonattainment area has achieved the air quality 
+standards for a particular pollutant, it may be re-designated to an attainment area for that 
+pollutant. To be re-designated, the area must meet air quality standards and have a 10-year 
+plan for continuing to meet and maintain air quality standards, as well as satisfy other 
+requirements of the federal CAA. Areas that have been re-designated to attainment are called 
+maintenance areas. The SDAB is currently classified as a federal non-attainment area for 
+ozone.  
+
+
+ 
+4-10 
+STATE AIR QUALITY REGULATIONS 
+California Ambient Air Quality Standards 
+The U.S. EPA allows states the option to develop different (stricter) standards. The State of 
+California has developed the California AAQS (CAAQS) and generally has set more stringent 
+limits on the criteria pollutants (see Table 4-2). In addition to the federal criteria pollutants, 
+the CAAQS also specify standards for visibility-reducing particles, sulfates, hydrogen sulfide, 
+and vinyl chloride (see Table 4-2). Similar to the federal CAA, the state classifies specific 
+geographic areas as either “attainment” or “nonattainment” areas for each pollutant based 
+on the comparison of measured data with the CAAQS. The SDAB is a non-attainment area for 
+the state ozone standards, the state PM10 standard, and the state PM2.5 standard. 
+ 
+
+
+ 
+4-11 
+Table 4-2: Ambient Air Quality Standards 
+Pollutant 
+Averaging 
+Time 
+California Standards1 
+National Standards2 
+Concentratio
+n3 
+Method4 
+Primary3,5 
+Secondary3,6 
+Method7 
+Ozone8 
+1 Hour 
+0.09 
+ppm 
+(180 µg/m3) 
+Ultraviolet 
+Photometry 
+– 
+Same 
+as 
+Primary Standard 
+Ultraviolet 
+Photometry 
+8 Hour 
+0.07 
+ppm  
+(137 µg/m3) 
+0.070 
+ppm 
+(137 µg/m3) 
+Respirable 
+Particulate 
+Matter (PM10)9 
+24 Hour 
+50 µg/m3 
+Gravimetric 
+or 
+Beta Attenuation 
+150 µg/m3 
+Same 
+as 
+Primary Standard 
+Inertial 
+Separation 
+and 
+Gravimetric 
+Analysis 
+Annual 
+Arithmetic Mean 
+20 µg/m3 
+– 
+Fine Particulate 
+Matter (PM2.5)9 
+24 Hour 
+No Separate State Standard 
+35 µg/m3 
+Same 
+as 
+Primary Standard 
+Inertial 
+Separation 
+and 
+Gravimetric 
+Analysis 
+Annual 
+Arithmetic Mean 
+12 µg/m3 
+Gravimetric 
+or 
+Beta Attenuation 
+12 µg/m3 
+15 µg/m3 
+ 
+Carbon 
+Monoxide (CO) 
+1 Hour 
+20 
+ppm 
+(23 mg/m3) 
+Non-dispersive 
+Infrared 
+Photometry 
+35 
+ppm 
+(40 mg/m3) 
+– 
+Non-dispersive 
+Infrared 
+Photometry 
+8 Hour 
+9.0 
+ppm 
+(10 mg/m3) 
+9 
+ppm 
+(10 mg/m3) 
+– 
+8 
+Hour  
+(Lake Tahoe) 
+6 
+ppm 
+(7 mg/m3) 
+– 
+– 
+Nitrogen 
+Dioxide (NO2)10 
+1 Hour 
+0.18 
+ppm 
+(339 µg/m3) 
+Gas 
+Phase 
+Chemi-
+luminescence 
+100 
+ppb 
+(188 µg/m3) 
+– 
+Gas Phase Chemi-
+luminescence 
+Annual 
+Arithmetic Mean 
+0.030 
+ppm 
+(57 µg/m3) 
+0.053 
+ppm 
+(100 µg/m3) 
+Same 
+as 
+Primary Standard 
+Sulfur Dioxide 
+(SO2)11 
+1 Hour 
+0.25 
+ppm 
+(655 µg/m3) 
+Ultraviolet 
+Fluorescence 
+75 
+ppb 
+(196 µg/m3) 
+– 
+Ultraviolet 
+Fluorescence; 
+Spectro- 
+photometry 
+(Pararosaniline 
+Method) 
+3 Hour 
+– 
+– 
+0.5 
+ppm 
+(1,300 µg/m3) 
+24 Hour 
+0.04 
+ppm 
+(105 µg/m3) 
+0.14 
+ppm 
+ (for certain areas)11 
+– 
+Annual 
+Arithmetic Mean 
+– 
+0.030 
+ppm 
+(for certain areas)11 
+– 
+Lead12,13 
+30 Day Average 
+1.5 µg/m3 
+Atomic 
+Absorption 
+– 
+– 
+High 
+Volume 
+Sampler 
+and 
+Atomic 
+Absorption 
+Calendar 
+Quarter 
+– 
+1.5 µg/m3 
+(for certain areas)12 
+Same 
+as 
+Primary Standard 
+Rolling  
+3-Month Average 
+– 
+0.15 µg/m3 
+Visibility 
+Reducing 
+Particles14 
+8 Hour 
+See footnote 14 
+Beta Attenuation 
+and Transmittance 
+through 
+Filter 
+Tape 
+No National Standards 
+Sulfates 
+24 Hour 
+25 µg/m3 
+Ion 
+Chroma-
+tography 
+Hydrogen Sulfide 
+1 Hour 
+0.03 
+ppm 
+(42 µg/m3) 
+Ultraviolet 
+Fluorescence 
+
+
+ 
+4-12 
+Vinyl Chloride12 
+24 Hour 
+0.01 
+ppm 
+(26 µg/m3) 
+Gas 
+Chroma-
+tography 
+See footnotes on next page. 
+ppm = parts per million; ppb = parts per billion; µg/m3 = micrograms per cubic meter; – = not applicable. 
+1 California standards for ozone, carbon monoxide (except 8-hour Lake Tahoe), sulfur dioxide (1 and 24 hour), nitrogen dioxide, PM (PM10, 
+PM2.5, and visibility reducing particles), are values that are not to be exceeded. All others are not to be equaled or exceeded. California 
+ambient air quality standards are listed in the Table of Standards in Section 70200 of Title 17 of the California Code of Regulations. 
+2 National standards (other than ozone, PM, and those based on annual arithmetic mean) are not to be exceeded more than once a year. 
+The ozone standard is attained when the fourth highest 8-hour concentration measured at each site in a year, averaged over three years, is 
+equal to or less than the standard. For PM10, the 24-hour standard is attained when the expected number of days per calendar year with a 
+24-hour average concentration above 150 µg/m3 is equal to or less than one. For PM2.5, the 24-hour standard is attained when 98 percent 
+of the daily concentrations, averaged over three years, are equal to or less than the standard. Contact the U.S. EPA for further clarification 
+and current national policies. 
+3 Concentration expressed first in units in which it was promulgated. Equivalent units given in parentheses are based upon a reference 
+temperature of 25°C and a reference pressure of 760 torr. Most measurements of air quality are to be corrected to a reference 
+temperature of 25°C and a reference pressure of 760 torr; ppm in this table refers to ppm by volume, or micromoles of pollutant per mole 
+of gas. 
+4 Any equivalent measurement method which can be shown to the satisfaction of the Air Resources Board to give equivalent results at or 
+near the level of the air quality standard may be used. 
+5 National Primary Standards: The levels of air quality necessary, with an adequate margin of safety to protect the public health. 
+6 National Secondary Standards: The levels of air quality necessary to protect the public welfare from any known or anticipated adverse 
+effects of a pollutant. 
+7 Reference method as described by the U.S. EPA. An “equivalent method” of measurement may be used but must have a “consistent 
+relationship to the reference method” and must be approved by the U.S. EPA. 
+8 On October 1, 2015, the national 8-hour ozone primary and secondary standards were lowered from 0.075 to 0.070 ppm. 
+9 On December 14, 2012, the national annual PM2.5 primary standard was lowered from 15 µg/m3 to 12.0 µg/m3. The existing national 24-
+hour PM2.5 standards (primary and secondary) were retained at 35 µg/m3, as was the annual secondary standards of 15 µg/m3. The existing 
+24-hour PM10 standards (primary and secondary) of 150 µg/m3 also were retained. The form of the annual primary and secondary standards 
+is the annual mean, averaged over 3 years. 
+10 To attain the 1-hour national standard, the 3-year average of the annual 98th percentile of the 1-hour daily maximum concentrations at 
+each site must not exceed 100 ppb. Note that the national standards are in units of parts per billion (ppb). California standards are in units 
+of parts per million (ppm). To directly compare the national standards to the California standards the units can be converted from ppb to 
+ppm.  In this case, the national standard of 100 ppb is identical to 0.100 ppm. 
+11 On June 2, 2010, a new 1-hour SO2 standard was established and the existing 24-hour and annual primary standards were revoked. To 
+attain the 1-hour national standard, the 3-year average of the annual 99th percentile of the 1-hour daily maximum concentrations at each 
+site must not exceed 75 ppb. The 1971 SO2 national standards (24-hour and annual) remain in effect until one year after an area is 
+designated for the 2010 standard, except that in areas designated nonattainment for the 1971 standards, the 1971 standards remain in 
+effect until implementation plans to attain or maintain the 2010 standards are approved. 
+ 
+Note that the 1-hour national standard is in units of parts per billion (ppb). California standards are in units of parts per million (ppm). To 
+directly compare the 1-hour national standard to the California standard the units can be converted to ppm. In this case, the national 
+standard of 75 ppb is identical to 0.075 ppm. 
+12 The ARB has identified lead and vinyl chloride as ‘toxic air contaminants’ with no threshold level of exposure for adverse health effects 
+determined. These actions allow for the implementation of control measures at levels below the ambient concentrations specified for these 
+pollutants. 
+13 The national standard for lead was revised on October 15, 2008 to a rolling 3-month average. The 1978 lead standard (1.5 μg/m3 as a 
+quarterly average) remains in effect until one year after an area is designated for the 2008 standard, except that in areas designated 
+nonattainment for the 1978 standard, the 1978 standard remains in effect until implementation plans to attain or maintain the 2008 
+standard are approved. 
+14 In 1989, the ARB converted both the general statewide 10-mile visibility standard and the Lake Tahoe 30-mile visibility standard to 
+instrumental equivalents, which are “extinction of 0.23 per kilometer” and “extinction of 0.07 per kilometer” for the statewide and Lake 
+Tahoe Air Basin standards, respectively. 
+Source: CARB 2016 
+
+
+ 
+4-13 
+ 
+  
+Toxic Air Contaminants 
+The public’s exposure to TACs is a significant public health issue in California. DPM emissions 
+have been established as TACs. In 1983, the California State Legislature enacted a program to 
+identify the health effects of TACs and to reduce exposure to these contaminants to protect 
+the public health (Assembly Bill [AB] 1807: Health and Safety Code Sections 39650–39674). 
+The California State Legislature established a two-step process to address the potential health 
+effects from TACs. The first step is the risk assessment (or identification) phase. The second 
+step is the risk management (or control) phase of the process.  
+The California Air Toxics Program establishes the process for the identification and control 
+of TACs and includes provisions to make the public aware of significant toxic exposures and 
+for reducing risk. Additionally, the Air Toxics "Hot Spots" Information and Assessment Act 
+(Assembly Bill 2588, 1987, Connelly Bill) was enacted in 1987 and requires stationary sources 
+to report the types and quantities of certain substances routinely released into the air. The 
+goals of the Air Toxics "Hot Spots" Act are to collect emission data, to identify facilities having 
+localized impacts, to ascertain health risks, to notify nearby residents of significant risks, and 
+to reduce those significant risks to acceptable levels.  
+The Children's Environmental Health Protection Act, California Senate Bill 25 (Chapter 731, 
+Escutia, Statutes of 1999), focuses on children's exposure to air pollutants. The act requires 
+CARB to review its air quality standards from a children's health perspective, evaluate the 
+statewide air quality monitoring network, and develop any additional air toxic control 
+measures needed to protect children's health. Locally, toxic air pollutants are regulated 
+through the SDAPCD Regulation XII. Of particular concern statewide are DPM emissions. 
+DPM was established as a TAC in 1998 and is estimated to represent a majority of the cancer 
+risk from TACs statewide (based on the statewide average). Diesel exhaust is a complex 
+mixture of gases, vapors, and fine particles. This complexity makes the evaluation of health 
+effects of diesel exhaust a complex scientific issue. Some of the chemicals in diesel exhaust, 
+such as benzene and formaldehyde, have been previously identified as TACs by the CARB and 
+are listed as carcinogens either under the state's Proposition 65 or under the federal 
+Hazardous Air Pollutants program.  
+Following the identification of DPM as a TAC in 1998, CARB has worked on developing 
+strategies and regulations aimed at reducing the risk from DPM. The overall strategy for 
+achieving these reductions is found in the Risk Reduction Plan to Reduce Particulate Matter 
+
+
+ 
+4-14 
+Emissions from Diesel-Fueled Engines and Vehicles (CARB 2000). A stated goal of the plan is 
+to reduce the statewide cancer risk arising from exposure to DPM by 85 percent by 2020. To 
+monitor the effectiveness of these efforts, CARB has supported field campaigns that measure 
+real-world emissions from heavy-duty vehicles, and results indicate that regulations aimed at 
+reducing emissions of DPM have been successful. 
+In April 2005, CARB published the Air Quality and Land Use Handbook: A Community Health 
+Perspective (CARB 2005). The handbook makes recommendations directed at protecting 
+sensitive land uses from air pollutant emissions while balancing a myriad of other land use 
+issues (e.g., housing, transportation needs, economics, etc.). It notes that the handbook is not 
+regulatory or binding on local agencies and recognizes that application takes a qualitative 
+approach. As reflected in the CARB handbook, there is currently no adopted standard for the 
+significance of health effects from mobile sources. Therefore, the CARB has provided 
+guidelines for the siting of land uses near heavily traveled roadways. Of pertinence to this 
+study, the CARB guidelines indicate that siting new sensitive land uses within 500 feet of a 
+freeway or an urban road with 100,000 or more vehicles per day should be avoided when 
+possible. Existing traffic volumes obtained from the San Diego Association of Government’s 
+(SANDAG) Series 13 Traffic Forecast indicate that in the vicinity of City, Interstate 5 and State 
+Route 78 currently carry more than 100,000 vehicles per day (SANDAG 2013). All other 
+roadways within and in the vicinity of the City carry less than 100,000 vehicles per day. 
+As an ongoing process, CARB continues to establish new programs and regulations for the 
+control of diesel-particulate and other air-toxics emissions as appropriate. The continued 
+development and implementation of these programs and policies will ensure that the public’s 
+exposure to DPM will continue to decline.  
+State Implementation Plan 
+The State Implementation Plan (SIP) is a collection of documents that set forth the state’s 
+strategies for achieving the NAAQS. In California, the SIP is a compilation of new and 
+previously submitted plans, programs (such as monitoring, modeling, permitting, etc.), 
+district rules, state regulations, and federal controls. The CARB is the lead agency for all 
+purposes related to the SIP under state law. Local air districts and other agencies, such as the 
+Department of Pesticide Regulation and the Bureau of Automotive Repair, prepare SIP 
+elements and submit them to CARB for review and approval. The CARB then forwards SIP 
+revisions to the U.S. EPA for approval and publication in the Federal Register. All of the items 
+included in the California SIP are listed in the Code of Federal Regulations (CFR) at 40 CFR 
+52.220. 
+
+
+ 
+4-15 
+As the regional air pollution control district, the SDAPCD is responsible for preparing and 
+implementing the portion of the SIP applicable to the SDAB. The air pollution control district 
+adopts rules, regulations, and programs to attain federal and state air quality standards and 
+appropriates money (including permit fees) to achieve these objectives.  
+LOCAL AIR QUALITY REGULATIONS 
+San Diego Air Pollution Control District 
+As discussed previously in Section 4.1.1, the City is located within the SDAB and air quality 
+within the SDAB is regulated by SDAPCD. The SDAB is currently classified a federal non-
+attainment area for 8-hour ozone, and a state non-attainment area for PM10, PM2.5, and 1-
+hour and 8-hour ozone. Accordingly, the SDAPCD has prepared the Regional Air Quality 
+Strategy (RAQS) to identify feasible emission control measures and provide expeditious 
+progress toward attaining the state standards for ozone.  
+Included as part of the RAQS, transportation control measures were prepared for the air 
+quality plan by SANDAG in accordance with Assembly Bill 2595 and adopted by SANDAG on 
+March 27, 1992 as Resolution Number 92-49 and Addendum. The RAQS and transportation 
+control measures set forth the steps needed to accomplish attainment of state AAQS. The 
+required periodic updates of the RAQS and corresponding transportation control measures 
+were adopted in 1995, 1998, 2001, 2004, 2009, and 2016. The SDAPCD published a workshop 
+draft of the 2020 RAQS in July 2020 and has solicited feedback through public meetings. 
+City of Oceanside General Plan 
+Existing General Plan Elements/Policies 
+The City’s General Plan (City of Oceanside 2002) includes policies relating to air quality.  
+Environmental Resource Management Element 
+The Air Quality policy includes cooperation with County, State, and federal agencies in continuing 
+programs of air quality improvement. Specific implementation includes continuing to cooperate 
+with the San Diego County Air Pollution Control Board, including participation in the development 
+of the Regional Air Quality Strategy through cooperation with the San Diego County Air Quality 
+Planning Team. 
+
+
+ 
+4-16 
+4.3 Key Findings and Planning Considerations 
+The following is a summary of key findings and implications for the General Plan Update 
+process related to air quality and related issues: 
+• 
+Opportunities to reduce vehicle emissions Citywide through land use planning. 
+Air pollutant emissions in and surrounding the Planning Area are generated primarily 
+by mobile sources. High volume roadways that traverse the Planning Area include 
+Interstate 5, State Route 78, State Route 76, El Camino Real, Melrose Drive, Oceanside 
+Boulevard, and College Boulevard. Pollutant emissions from these roadways 
+contribute to regional air pollution. The General Plan Update provides an opportunity 
+to support regional efforts to reduce mobile source air. Land use planning, such as 
+creating denser and more walkable neighborhoods, building transit-oriented 
+development, and improving bicycle infrastructure, would reduce the number of miles 
+traveled in cars and therefore improve regional air quality. 
+ 
+• 
+Reducing resident exposure to poor air quality through land use planning 
+policies that better reflect recommended land use adjacencies. Both mobile and 
+stationary sources are present in the Planning Area and result in emissions of TACs. 
+While the City does not have direct control over the regulation of air pollution 
+sources, the General Plan Update could provide a vehicle for developing objectives 
+and policies for future consideration of reducing exposure to TACs. Land use planning 
+policies could establish criteria for siting new residential projects and other new 
+sensitive receptors (e.g., schools, day care centers, hospitals, retirement homes, etc.) 
+that reflect CARB recommendations for land use separation from various sources of 
+air pollution.  
+ 
+• 
+Ensuring that certain neighborhoods in Oceanside are not disproportionately 
+burdened by poor air quality.  The City intends to address the issue of 
+environmental justice throughout the General Plan, in keeping with Senate Bill 1000 
+and recently-updated general plan guidelines promulgated by the California Office of 
+Planning and Research.  CalEnviroScreen 4.0, a mapping tool administered by the 
+California Office of Environmental Health Hazard Assessment, identifies two census 
+tracts in Oceanside as experiencing a pollution burden greater than 70 percent of 
+California neighborhoods.  Both of these census tracts abut Interstate 5.  One of these 
+census tracts also straddles State Highway 76.The updated General Plan will include 
+goals and policies that acknowledge this pollution burden and identify ways to reduce 
+it.  Strategies could include expanded tree canopy, incentives for plumbing and paint 
+
+
+ 
+4-17 
+upgrades, a no idling policy, and new operational standards for facilities that general 
+hazardous waste.  
+
+
+ 
+5-1 
+5 
+Geologic and Seismic Hazards 
+This chapter discusses existing conditions, regulatory setting, opportunities, and challenges 
+affecting the Oceanside General Plan Planning Area, and planning efforts related to geologic 
+and seismic hazards (including those related to soils). Issues are discussed in terms of related 
+plans and programs on a federal, state and local level throughout the city. 
+5.1 Existing Conditions 
+GEOLOGY/TOPOGRAPHY  
+The city is located in northwestern San Diego County within the coastal sub-province of the 
+Peninsular Ranges Geomorphic Province. Geological formations underlying the Planning 
+Area are largely composed of sedimentary rocks, identified as coarse-grained, with alluvial 
+formations along and fanning out from the San Luis Rey River, Loma Alta Creek, and Buena 
+Vista Creek beds. Alluvial deposits are defined as material deposited by rivers consisting of 
+silt, sand, clay, and gravel, as well as much organic matter. Alluvial deposits are usually most 
+extensive in the lower part of a river’s course, forming floodplains as shown in Figure 5-1: 
+Geologic Formations. Landslide deposits are mapped in areas adjacent to the alluvial planes. 
+These areas where unsorted gravel, sand, and clay have been loosely deposited from river flow 
+coincide with high landslide susceptibility areas (discussed below).  
+Citywide relief is shown on Figure 5-2. The topography throughout the Planning Area can be 
+characterized by three physiographic regions. The first is the low-lying coastal area along the 
+Pacific Ocean. The next region is comprised of the city’s three principal waterways, and the 
+third includes the foothills and higher elevations located along the eastern boundary of the 
+city. Planning Area elevations range from zero along the coast to 940 feet above sea level, 
+inland.  
+SOILS 
+Soil types within the Planning Area are shown in Figure 5-3. Table 5-1 provides a breakdown 
+of the soil type by acreage and percent of planning area. 
+
+
+ 
+5-2 
+The Planning Area is primarily underlain by Sandy Loam, Loamy Sand, Clay, and Loam. The 
+remaining soil types each cover only a minimal portion of the planning area. Descriptions of 
+the general characteristics of the primary soils are presented below.  
+ 
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig5-1.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+Qa
+Qa
+gr
+gr
+Tss
+Qa
+Qya
+Qya
+Qya
+Qw
+Qya
+Qls
+Tsh
+Qls
+Tss
+Qol
+Tss
+Tss
+Qol
+Qol
+Qb
+Qw
+Tss
+gr
+Tv
+gr
+Tss
+Qya
+Qoa
+Tss
+Qoa
+Qa
+Qa
+Qa
+Qa
+Tss
+Qvol
+Qol
+Qoa
+Qya
+Qls
+gr
+Qls
+Qls
+Qvol
+Tss
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 5-1: Geological Formations
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Geological Formations
+Alluvial Valley Deposits: Qa
+Young Alluvial Valley Deposits: Qya
+Old Alluvial Valley Deposits: Qoa
+Alluvial Wash Deposits: Qw
+Beach Deposits: Qb
+Fine-grained Tertiary Age Formations
+of Sedimentary Origin: Tsh
+Coarse-grained Tertiary Age
+Formations of Sedimentary Origin: Tss
+Granitic and Other Intrusive
+Crystalline Rocks of All Ages: gr
+Landslide Deposits; May Include Debris
+Flows and Older Landslides: Qls
+Old Lacustrine, Playa and
+Estuarine (Paralic) Deposits: Qol
+Very Old Lacustrine, Playa and
+Estuarine (Paralic) Deposits: Qvol
+Tertiary Age Formations of Volcanic Origin: Tv
+Water
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig5-2.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizens'
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+Socal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 5-2: Citywide Topography
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+5-5 
+Table 5-1: Soils Information 
+Soil Type 
+Acreage 
+Percentage of 
+Planning Area 
+Chino silt loam saline 
+180.02 
+0.67% 
+Chino silt loam saline 
+180.02 
+  
+Clay 
+3,917.60 
+14.51% 
+Altamont clay 
+440.32 
+  
+Bosanko clay 
+408.41 
+  
+Bosanko stony clay 
+1.34 
+  
+Diablo clay 
+2,720.90 
+  
+Salinas clay 
+346.64 
+  
+Coastal beaches 
+98.56 
+0.37% 
+Coastal beaches 
+98.56 
+  
+Gravel pits 
+17.30 
+0.06% 
+Gravel pits 
+17.30 
+  
+Igneous Rock Land 
+9.27 
+0.03% 
+Acid igneous rock land 
+9.27 
+  
+Lagoon Water 
+80.02 
+0.30% 
+Lagoon Water 
+80.02 
+  
+Loam 
+1,751.38 
+6.49% 
+Huerhuero loam 
+465.00 
+  
+Linne clay loam 
+331.54 
+  
+Olivenhain cobbly loam 
+107.77 
+  
+Salinas clay loam 
+847.08 
+  
+Loamy Sand 
+7,107.42 
+26.33% 
+Carlsbad gravelly loamy sand 
+391.18 
+  
+Corralis loamy sand 
+94.60 
+  
+Las Flores loamy fine sand 
+6,421.41 
+  
+Marina loamy coarse sand 
+200.23 
+  
+Made Land 
+216.03 
+0.80% 
+Made land 
+216.03 
+  
+Riverwash 
+471.15 
+1.75% 
+Riverwash 
+471.15 
+  
+Salt Pond 
+247.11 
+0.92% 
+Salt Pond 
+247.11 
+  
+Sandy Loam 
+7,375.03 
+27.32% 
+Bonsall sandy loam 
+678.78 
+  
+Chestern fine sandy loam 
+670.47 
+  
+Cieneba coarse sandy loam 
+900.59 
+  
+Cieneba rocky coarse sandy loam 
+37.37 
+  
+Cieneba very rocky coarse sandy loam 
+300.33 
+  
+Cieneba-Fallbrook rocky sandy loams 
+225.12 
+  
+
+
+ 
+5-6 
+Soil Type 
+Acreage 
+Percentage of 
+Planning Area 
+Fallbrook rocky sandy loam 
+32.10 
+  
+Fallbrook sandy loam 
+808.64 
+  
+Fallbrook-Vista sandy loams 
+162.89 
+  
+Gaviota fine sandy loam 
+151.90 
+  
+Grangeville fine sandy loam 
+704.85 
+  
+Las Posas stony fine sandy loam 
+15.49 
+  
+Placentia sandy loam 
+477.34 
+  
+Ramona gravelly sandy loam 
+4.58 
+  
+Ramona sandy loam 
+354.31 
+  
+Visalia gravelly sandy loam 
+2.07 
+  
+Visalia sandy loam 
+1,433.02 
+  
+Vista coarse sandy loam 
+415.19 
+  
+Steep gullied land 
+476.26 
+1.76% 
+Steep gullied land 
+476.26 
+  
+Terrace escarpments 
+457.94 
+1.70% 
+Terrace escarpments 
+457.94 
+  
+Tidal flats 
+70.42 
+0.26% 
+Tidal flats 
+70.42 
+  
+Tujunga sand 
+3,374.95 
+12.50% 
+Tujunga sand 
+3,374.95 
+  
+Urban Land Complex 
+1,034.37 
+3.83% 
+Carlsbad-Urban land complex 
+138.33 
+  
+Diablo-Urban land complex 
+121.09 
+  
+Las Flores-Urban land complex 
+606.77 
+  
+Loamy alluvial land- 
+Huerhuero complex 
+168.18 
+  
+Water 
+44.09 
+0.16% 
+Water 
+44.09 
+  
+Grand Total 
+26,928.92 
+99.77% 
+Planning Area Total 
+26,991.241 
+ 
+Note: 
+ 1. The missing 0.23% is in the harbor and there is no soils data for that area 
+Source: SanGIS 2020 
+Sandy loam comprises 27.32 percent of the Planning Area. Sandy loam soils are broken down 
+into four categories, including coarse sandy loam, fine sandy loam, sandy loam and very fine 
+sandy loam. As shown in Figure 5-3, sandy loam soils are located northeastern (Morro Hills) 
+portion of the City, through the northern central area to the coastal beaches. The primary 
+types of sandy loam Identified throughout the Planning Area is Visalia coarse sandy loam, 
+Cieneba coarse sandy loam, and Fallbrook sandy loam.  
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig5-3.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 5-3: Soils
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Soil Type
+Igneous Rock Land
+Clay
+Sandy Loam
+Loamy Sand
+Urban Land Complex
+Chino Silt Loam Saline
+Coastal Beaches
+Gravel Pits
+Loam
+Loamy Alluvial Land
+Made Land
+Riverwash
+Steep Gullied Land
+Terrace Escarpments
+Tidal Flats
+Tujunga Sand
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+5-8 
+Loamy sand is the next most prominent soil type found within 26.33 percent of the Planning 
+Area. Loamy sands differ from sandy loams as loamy sands contain more silt separates and 
+fewer particles of sand and clay. As shown in Figure 5-3, loamy sand soils are located through-
+out the central portion of the Planning Area, as well areas between the Loma Alta and Buena 
+Vista Creeks.  The primary type of loamy sand supported by the Planning Area is Las Flores 
+loamy fine sand. Las Flores soils are gently to strongly sloping and are on marine terraces at 
+elevations of less than 700 feet and are characterized as moderately well-drained, medium to 
+rapid runoff, and very slow permeability. 
+Clay soils, primarily categorized as diablo clay, comprise 14.51 percent of the Planning Area. 
+The diablo series soils are generally set on undulating, rolling to steep uplands with slopes of 
+5 to 50 percent. As shown in Figure 5-3, clay soils are located in masses in the northern, east-
+ern, and southern portions of the Planning Area, generally within proximity to alluvial 
+formations. These soils are characterized as well draining with slow runoff when soil is dry, 
+medium to rapid when soils are moist, and slow permeability. 
+Loam soils comprise 6.49 percent of citywide soils and are located consistent with areas of 
+alluvial formations along the City’s waterways.  
+Lands and soils classified as supporting farmland are further discussed under Section 1.0.  
+SEISMIC CONDITIONS AND HAZARDS 
+Active Faults 
+There are no known active or potentially active faults within the city. The nearest faults are 
+the Elsinore Fault to the east and the Rose Canyon Fault to the south, which traverses the 
+Pacific Ocean in a north-northeasterly direction. There is no potential for ground rupture due 
+to the lack of any active faults. However, like most of Southern California, the community is 
+considered seismically active and susceptible to earthquakes resulting from fault movement.    
+Ground Shaking 
+Ground shaking is a general term referring to all aspects of motion of the Earth’s surface re-
+sulting from an earthquake and is normally the major cause of damage in seismic events. The 
+extent of ground shaking is controlled by the magnitude and intensity of the earthquake, dis-
+tance from the rupture, and local geologic conditions. Intensity is a subjective measure of the 
+perceptible effects of seismic energy at a given point and varies with distance from the epi-
+center and local geologic conditions. The Modified Mercalli Intensity Scale is a commonly 
+used scale for measurement of the subjective effects of earthquake intensity. It reports the 
+
+
+ 
+5-9 
+intensity of shaking on a scale from not felt, “not felt except by a few under especially favor-
+able circumstances” (I), to extreme, “damage total” (XII). The moment magnitude scale, 
+abbreviated MW, is the scale typically used to report the objective size of an earthquake. It 
+measures the total moment release of the earthquake, where moment is a product of the dis-
+tance a fault moved and the force required to move it. 
+Liquefaction and Landslides 
+Liquefaction is a phenomenon whereby unconsolidated and/or near-saturated soils lose co-
+hesion as a result of severe vibratory motion. The relatively rapid loss of soil shear strength 
+during strong earthquake shaking results in temporary, fluid-like behavior of the soil. Re-
+gional liquefaction hazard mapping indicates that the Planning Area includes areas of 
+liquefaction potential (Figure 5-4). Areas of potential liquefaction are located within alluvial 
+valley deposits in proximity to the City’s waterways including the San Luis Rey, Loma Alts 
+Creek, and Buena Vista Creek (see Figure 5-1). 
+Slopes steeper than 2:1 (horizontal:vertical) are susceptible to landslides or slope failure. 
+Slope failure is dependent on topography and underlying geologic materials, as well as factors 
+such as rainfall, excavation, or seismic activities that can precipitate slope instability. Earth-
+quake motions can induce significant horizontal and vertical dynamic stresses along potential 
+failure surfaces within a slope. The regional landslide susceptibility map is classified into clas-
+ses of varying landslide susceptibility. As shown in Figure 5-5, landslide susceptibility areas 
+are located throughout the Planning Area, with the highest susceptibility class located within 
+landslide deposit zones along the City’s waterways (see Figure 5-1).  
+5.2 Regulatory Setting 
+STATE 
+California Geologic Survey 
+The California Geologic Survey provides guidance with regard to seismic hazards. The Cali-
+fornia Geologic Survey’s Special Publication 117A, Guidelines for Evaluating and Mitigating 
+Seismic Hazards in California (CGS 2008), provides guidance for evaluation and mitigation of 
+earthquake-related hazards for projects within designated zones of required investigation. 
+
+
+ 
+5-10 
+Seismic Hazards Mapping Act 
+The Seismic Hazards Mapping Act (California Public Resources Code, Sections 2690–2699.6) 
+addresses earthquake hazards from non-surface fault rupture, including liquefaction, land-
+slides, strong ground shaking, or other earthquake and geologic hazards. The Seismic Hazards 
+Mapping Act also specifies that the lead agency for a project may withhold development per-
+mits until geologic or soils investigations are conducted for specific sites and mitigation 
+measures are incorporated into plans to reduce hazards associated with seismicity and unsta-
+ble soils.  
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig5-4.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 5-4: Liquefaction Zones
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Liquefaction Zones
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig5-5.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 5-5: Landslides
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+Landslide Susceptiblity Classes
+0
+III
+V
+VI
+VII
+VIII
+IX
+X
+
+
+ 
+5-13 
+LOCAL 
+City of Oceanside General Plan 
+Existing General Plan Elements/Policies 
+The City’s General Plan (City of Oceanside 2002) includes policies relating to seismic hazards 
+and geologic conditions.  
+Land Use Element  
+The Land Use Element contains policies related to protecting from hazards related to soil ex-
+cavation, diversion and drainage. General Plan Land Use Element Sections 3.15 and 3.16; City 
+of Oceanside 2002). Soil types which underlay the planning area are shown in Figure 5-3, and 
+detailed in Table 5-1. 
+Public Safety Element 
+The Public Safety Element contains the following objectives related to seismic and geological 
+hazards: 
+1. Consider seismic and geologic hazards when making land use decisions particu-
+larly in regard to critical structures. 
+2. Minimize the risk of occupancy of all structures from seismic and geologic occur-
+rences. 
+3. Provide to the public all available information about existing seismic and geologic 
+conditions. (General Plan Public Safety Element, page 5; City of Oceanside 2002) 
+City of Oceanside Code of Ordinances 
+The City's Building Construction Regulations requires certification that buildings meet min-
+imum seismic standards (Section 6.53).  
+5.3 Key Findings and Planning Considerations 
+The following is a summary of key findings and implications for the General Plan Update pro-
+cess related to geological and seismic hazards: 
+• 
+The General Plan Update could include increased seismic safety policies in hazard 
+areas. The Planning Area is situated in an area subject to seismic ground shaking and as-
+sociated geologic hazards. The General Plan Update provides an opportunity to address 
+
+
+ 
+5-14 
+City goals such as increasing construction requirements for projects in areas of high seis-
+mic risk. These higher risk areas are those identified in Figures 5-4 and 5-5 as being most 
+susceptible to liquefaction and landslide.  
+• 
+Oceanside could improve safety from liquefaction and landslides by providing 
+stronger policy direction for future development in hazard zones. Regional map-
+ping of reveals areas of vulnerability such as liquefaction and landslide due to 
+underlying geological and soil conditions; however, site-specific analysis is necessary 
+to identify specific conditions to offer geotechnical protections. The General Plan Up-
+date provides an opportunity to emphasize constraints within hazard zones and 
+provide policy direction for future development within and in close proximity to sen-
+sitive and hazardous areas.   
+
+
+ 
+6-1 
+6 
+Hydrology, Flooding and Water 
+Quality 
+This chapter describes flood patterns and hydrology within the Planning Area, provides a brief 
+overview of wildland fire hazards, and identifies areas of potential wildfire concern within the 
+Planning Area. In addition, this chapter summarizes existing plans and programs that relate 
+to fire protection and prevention efforts, and identifies key findings and opportunities for the 
+updated General Plan goals and policies. 
+6.1 Existing Conditions 
+FLOODING 
+Substantial portions of the Planning Area, including the immediate coastal boundary and ar-
+eas within historic floodplains, can be affected by flooding, particularly during the winter 
+rainy season. Specifically, the Planning Area is exposed to two general types of flooding: Riv-
+erine and Coastal. Riverine flooding is usually the result of heavy or prolonged rainfall 
+occurring in main creeks and rivers in the city, especially the largest, San Luis Rey River. Alt-
+hough rainfall is the main contributing factor to flooding, other factors, including soil 
+moisture conditions before the storm, extent of urban development and impervious surfaces, 
+and initial level of the upstream reservoirs may increase flooding conditions downstream 
+(City of Oceanside, 2013). 
+Coastal flooding is usually the result of a large storm and high tides. Floodwaters are driven 
+ashore by high winds, an event known as storm surge. Damage from coastal flooding is often 
+severe since it involves high velocity wave action and high tides. Structures located within 
+flood hazard areas are particularly vulnerable to flooding.  
+City Special Flood Hazard Area/Federal Emergency Manage-
+ment Agency 
+The land area covered by the floodwaters of the base flood is the Special Flood Hazard Area 
+(SFHA). The SFHA is the area where the National Flood Insurance Program's (NFIP's) flood-
+plain management regulations must be enforced and the area where the mandatory purchase 
+
+
+ 
+6-2 
+of flood insurance applies.  The SFHA is an area identified by the United States Federal Emer-
+gency Management Agency (FEMA) as an area with a special flood or mudflow, and/or flood 
+related erosion hazard, as shown on a flood hazard boundary map.  Several portions of the 
+Planning Area are subject to a 100-year flood, meaning a flood with a one percent chance of 
+occurring in any given year. Figure 6-1 identifies the FEMA floodplains/floodways throughout 
+the Planning Area. 
+A permit is required before commencing any construction or development within the SHFA 
+so that the City may determine that the proposed development meets the requirements of the 
+NFIP and the City's Floodplain Management Regulations (Article IX of the Municipal Code). 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig6-1.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 6-1: FEMA Floodplains and Floodways
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+FEMA Floodplains and Floodways
+500-year Floodplain
+100-year Floodplain
+Floodway
+Area with Reduced Risk Due to Levee
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+6-4
+DRAINAGE 
+The Planning Area has an area of approximately 42 square miles and is divided into seven 
+major watersheds (City of Oceanside 2013). Most of the Planning Area drains to rivers that 
+flow to the Pacific Ocean.  
+
+
+6-5
+1 
+Pilgrim Creek 
+71% Residential 
+0% Commercial 
+12% Open Space 
+16% Agriculture  
+1% Institutional 
+0% Industrial 
+3.6 
+2 
+San Luis Rey River 
+48% Residential 
+6% Commercial 
+16% Open Space 
+23% Agriculture  
+4% Institutional 
+3% Industrial 
+21.2 
+3 
+Garrison Creek 
+62% Residential 
+2% Commercial 
+8% Open Space 
+0% Agriculture 
+8% institutional 
+20% Industrial 
+2.4 
+4 
+Loma Alta Creek 
+52% Residential 
+9% Commercial 
+6% Open Space 
+0% Agriculture 
+3% Institutional 
+30% Industrial 
+7.1 
+5 
+Buena Vista Creek 
+69% Residential  
+19% Commercial 
+7% Open Space  
+0% Agriculture 
+5% Institutional 
+0% Industrial 
+5.3 
+6 
+Agua Hedionda Head Waters 
+89% Residential 
+5% Commercial 
+3% Open Space 
+0% Agriculture 
+3% Institutional 
+0% Industrial 
+1.8 
+7 
+Pacific Ocean/Beach Area 
+59% Residential 
+32% Commercial 
+6% Open Space 
+0% Agriculture 
+2% Institutional 
+1% Industrial 
+0.9 
+Source: City of Oceanside 2013 Master Plan of Drainage, Update 2013 
+Table 6-1: City Watersheds 
+Watershed 
+Number 
+Watershed Name 
+Composition of 
+Watershed 
+Area within City 
+(square miles) 
+
+
+ 
+6-6 
+WATER QUALITY 
+The Planning Area is home to a variety of water bodies, such as rivers, creeks, lakes, lagoons, 
+and the Pacific Ocean, that are popular destinations for fishing enthusiasts, boaters, surfers, 
+bathers, and birdwatchers. Every water body within the Planning Area is part of a watershed.  
+A watershed is an area of land that drains water to the nearest river, creek, lake, lagoon or 
+ocean. Each watershed is usually named after the main river to which that water drains (City 
+of Oceanside 2020). The Regional Water Quality Control Plan (Basin Plan) for the San Diego 
+Region identifies beneficial uses associated with each surface water body within the Planning 
+Area. Beneficial uses include but are not limited to use categories such as municipal water 
+supply, rare and endangered species habitat and water contact recreation. The Federal Clean 
+Water Act (CWA) requires the State to identify surface waters where these uses are impaired 
+due to point source and/or non-point source pollution. For those water bodies with beneficial 
+uses that are impaired due to an identified pollutant(s), Federal law requires the California 
+State Water Board and Regional Water Quality Control Boards to develop and use Total Max-
+imum Daily Loads (TMDLs) and discharge permitting programs to implement long-term 
+improvements to each impaired water body with the goal of restoring and maintaining those 
+beneficial uses. (see Section 6.2).  
+The Planning Area supports three Watershed Management Areas (WMAs): Santa Margarita, 
+San Luis Rey, and Carlsbad watersheds as depicted in Figure 6-2. Each WMA is delineated and 
+discussed below.  
+Santa Margarita  
+The Santa Margarita WMA encompasses a land area of roughly 750 square miles, of which 
+about 200 square miles, or 27 percent, lies within San Diego County. Only 155 acres of the 
+Ysidora hydrological area (HA 902.1) portion of the Santa Margarita WMA lies within the 
+northwest corner of the Planning Area and is not considered a primary WMA under City reg-
+ulations nor the City's watershed management and protection programs. Under Section 
+303(d) of CWA, the Santa Margarita HA is impaired for enterococcus, coliform bacteria, phos-
+phorus, and nitrogen. 
+San Luis Rey  
+The San Luis Rey WMA encompasses a land area of about 560 square miles throughout the 
+northern portion of the County of San Diego. The Lower San Luis Rey HA (903.1) portion of 
+the San Luis Rey WMA comprises nearly 16,000 acres of the Planning Area. Pursuant to the 
+CWA 303(d) list, the Lower San Luis Rey River, which drains into the Pacific Ocean, is listed 
+as impaired for chloride, indicator bacteria, phosphorus, total dissolved solids (TDS), total 
+
+
+ 
+6-7 
+nitrogen, benthic community effects and toxicity. Additionally, the Pacific Ocean shoreline 
+at the San Luis Rey River outlet in Oceanside is impaired for indicator bacteria and is included 
+as a regulated waterway under the regional Bacterial TMDL. Under the TMDL, the Pacific 
+Ocean waters at the river's outlet is subject to additional regulatory requirements to reduce 
+the frequency of public health advisories for bacterial contamination and is a significant 
+driver of watershed management programs implemented by the City of Oceanside, City of 
+Vista and County of San Diego.   
+Carlsbad 
+The Carlsbad WMA is comprised of six distinct hydrologic areas covering a land area of 211 
+square miles. A total of 10,940 acres of the Carlsbad WMA are within the city. Three specific 
+HAs including Loma Alta HA (904.1), Buena Vista Creek HA (904.2), and Agua Hedionda HA 
+(904.3) are all within the Planning Area. The majority of surface runoff within these HAs drain 
+into the Pacific Ocean. All but the Agua Hedionda HA are listed on the 303(d) list for height-
+ened bacterial levels and concentrations of nutrients, sediment, toxicity, benthic community 
+effects, pesticides and eutrophication. The Agua Hedionda Lagoon, which had previously 
+been listed as impaired, has seen significant improvements in overall water quality over the 
+last few years that inevitably warranted removal from the 303(d) list of impaired water bodies.  
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig6-2.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+SANTA
+MARGARITA
+WATERSHED
+SAN LUIS REY
+WATERSHED
+CARLSBAD
+WATERSHED
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 6-2: Watersheds
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Watersheds
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+6-9 
+COASTAL ZONE 
+The City's Coastal Zone includes all property from the inland side of Pacific Coast Highway to 
+the Pacific Ocean, as well as property in proximity to portions of the San Luis Rey River, Loma 
+Alta Creek, and Buena Vista Lagoon. The protection and preservation of the Coastal Zone is 
+regulated through the Local Coastal Program which provides planning assistance to guide de-
+velopment in the Coastal Zone, in partnership with the California Coastal Commission (CCC). 
+The City's Local Coastal Program was originally certified in 1986 and is currently undergoing 
+an update.   
+DAM INUNDATION 
+Dam inundation is a potential flood hazard in several portions of the Planning Area from Lake 
+Henshaw Dam as shown in Figure 6-3. If the dam was to fail, 4,775 acres of the Planning Area 
+could be flooded. 
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig6-3.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizens'
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+Socal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 6-3: Dam Inundation Area
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Dam Inundation Area
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+6-11 
+6.2 Regulatory Setting 
+FEDERAL 
+The Clean Water Act (CWA) 
+Under section 303(d) of the CWA, states, territories, and authorized tribes are required to de-
+velop lists of impaired waters. These are waters that based on available scientific monitoring 
+data are too polluted or otherwise degraded to meet the water quality standards set by states, 
+territories, or authorized tribes. Within the Planning Area, the law requires that the State 
+Water Resources Control Board (SWCRB) and Regional Water Quality Control Boards 
+(RWQCB) establish priority rankings for waters on the lists and develop TMDLs for these wa-
+ters. A TMDL is a calculation of the maximum amount of a pollutant that a waterbody can 
+receive and still safely meet water quality standards. Furthermore, TMDLs are regulatory tools 
+that incorporate implementation plans and compliance schedules to ensure that water quality 
+standards are met through discharge permits and watershed management strategies imple-
+mented by responsible discharges and local jurisdictions.  
+National Pollutant Discharge Elimination System 
+The NPDES Program is a Federal permit program which is implemented in State of California 
+through the SWRCB and the nine RWQCBs under the authority of the California Environmen-
+tal Protection Agency to protect water resources and control pollutants in discharges of waste 
+(e.g. stormwater and treated wastewater) to Waters of the State. Under the State's municipal 
+stormwater NPDES program, municipalities are required to obtain discharge permits from the 
+local RWQCB. The City is a co-permittee of RWQCB Region 9 along with other regional cities 
+and agencies, the County of San Diego, and portions of the County of Orange and the County 
+of Riverside. Under the San Diego Regional Phase 1 Municipal Stormwater Permit the City has 
+the following obligations and responsibilities: 
+• 
+Conduct storm drain system inspections and discharge water quality monitoring; 
+• 
+Conduct and coordinate surveys and characterizations needed to identify the pollu-
+tant sources and drainage areas; 
+• 
+Implement watershed management programs, monitoring programs, and implemen-
+tation plans including the Carlsbad and San Luis Rey Water Quality Improvement 
+Plans; 
+• 
+Enact legislation and ordinances as necessary to establish legal authority; 
+
+
+ 
+6-12 
+• 
+Conduct inspections of active construction sites, municipal, commercial, industrial 
+and residential areas to verify compliance with local urban runoff ordinances and pro-
+tection of stormwater quality 
+• 
+Pursue enforcement actions as necessary to ensure compliance with the storm water 
+management programs and the implementation plans; and 
+• 
+Respond to emergency situations (e.g., accidental spills, leaks, illegal discharges and 
+illicit connections) to prevent or reduce the discharge of pollutants to storm drain 
+systems and streams. 
+See Section 6.2.3 for additional details relating to local regulatory compliance with the NPDES 
+permit programs.  
+Executive Order 11988, Floodplain Management (1977) 
+The major requirements of this federal order are to avoid support of floodplain development; 
+to prevent uneconomic, hazardous, or incompatible use of floodplains; to protect and pre-
+serve the natural and beneficial floodplain values; and to be consistent with the standards 
+and criteria of the NFIP. The basic tools for regulating construction in potentially hazardous 
+floodplain areas are local zoning techniques. Proper floodplain zoning can be beneficial in the 
+preservation of open space, retention of floodplains as groundwater recharge areas, and di-
+recting of development to less flood-prone areas. 
+STATE 
+California Toxics Rule 
+Because of gaps in California’s regulations, the California Environmental Protection Agency 
+promulgated the California Toxics Rule (40 Code of Federal Regulations [CFR] 131.38), which 
+established numeric water quality criteria for certain toxic substances in California surface 
+waters. The California Toxics Rule establishes acute (i.e., short-term) and chronic (i.e., long-
+term) standards for water bodies that are designated by the San Diego RWQCB as having ben-
+eficial uses protective of aquatic life or human health. The California Toxics Rule criteria are 
+applicable to the receiving waters from the project site. 
+Porter-Cologne Water Quality Control Act 
+The Porter-Cologne Water Quality Control Act (Porter-Cologne Act) established the principal 
+California legal and regulatory framework for water quality control. The Porter-Cologne Wa-
+ter Quality Control Act is embodied in Division 7 of the California Water Code. The California 
+
+
+ 
+6-13 
+Water Code authorizes the SWRCB to implement the provisions of the CWA. California is di-
+vided into nine regions governed by RWQCBs. The RWQCBs implement and enforce 
+provisions of the California Water Code and the CWA under the oversight of the SWRCB. 
+The Planning Area is located in Region 9, and is governed by the San Diego RWQCB. The San 
+Diego RWQCB has adopted and periodically amends a water quality control plan titled Water 
+Quality Control Plan for the San Diego Basin (Basin Plan). The San Diego RWQCB Basin Plan 
+must conform to the policies set forth in the Porter-Cologne Act as established by the SWRCB 
+in its state water policy. The Porter-Cologne Act also provides the RWQCBs with authority to 
+include within their basin plans waste discharge prohibitions applicable to particular condi-
+tions, areas, or types of waste. These prohibitions and regulatory controls are implemented 
+through the NDPES permit program, waste discharge requirements (WDRs) and waivers of 
+waste discharge requirements.  
+San Diego Regional Water Quality Control Board Order No. R9-
+2013-0001, as amended (San Diego Regional Phase 1 Municipal 
+Stormwater Permit) 
+Under the authority of the Porter-Cologne Act, CWA amendments and Federal NPDES Permit 
+regulations (40 CFR Part 122), the Water Board issued this order to the co-permittees consist-
+ing of 39 co-permittees in the San Diego Region, including the County of San Diego, portions 
+of the County of Orange and the County of Riverside, the San Diego Regional Airport Author-
+ity, San Diego Unified Port District, Orange County Flood control District, and the Riverside 
+Flood Control and Water Conservation District. This order requires that all jurisdictions 
+within the San Diego region prepare and implement Jurisdictional Runoff Management Plans 
+(JRMP) to control the discharge of pollutants in municipal stormwater to the Maximum Extent 
+Practicable under State and Federal law. Each of these jurisdictional plans contain watershed 
+management  components to control pollutant discharges from construction activities, exist-
+ing development and municipal operations. Furthermore, the Order requires implementation 
+watershed management strategies specific to each WMA within each co-permittee's jurisdic-
+tion to meet long-term water quality improvement goals as outlined in the Water Quality 
+Improvement Plans (WQIPs). The WQIPs set numeric water quality goals for each water body 
+in its WMA with an associated timeline and set of management strategies to meet those goals. 
+The WQIPs are intended to be living documents and are regularly updated to reflect changes 
+in water quality conditions resulting from the strategies implemented by their member juris-
+dictions. The subsequent amendments expanded coverage to portions of Orange County and 
+Riverside County within the San Diego Region (Region 9) and made other modifications. 
+
+
+ 
+6-14 
+LOCAL 
+San Diego Basin Plan 
+The San Diego Basin encompasses approximately 3,900 square miles, including most of San 
+Diego County and portions of southwestern Riverside and Orange counties. The basin is com-
+posed of 11 major Hydrologic Units, 54 Hydrologic Areas, and 147 Hydrologic Sub Areas, 
+extending from Laguna Beach southerly to the U.S./Mexico International Border. Drainage 
+from higher elevations in the east flow to the west, ultimately into the Pacific Ocean. The 
+RWQCB prepared the Basin Plan, which defines existing and potential beneficial uses and 
+water quality objectives for coastal waters, groundwater, surface waters, imported surface wa-
+ters, and reclaimed waters in the basin. Water quality objectives seek to protect the most 
+sensitive of the beneficial uses designated for a specific water body. 
+City of Oceanside Jurisdictional Runoff Management Program 
+The City's Jurisdictional Runoff Management Program (JRMP) is the City's approach to pre-
+vent polluted stormwater and other waste from entering its storm drain system and to protect 
+the beneficial uses of receiving waters within its jurisdiction. The JRMP document presents 
+an integrated programmatic approach to reduce the discharge of pollutants from the City's 
+storm drain system to the Maximum Extent Practicable, effectively prohibit non-storm water 
+discharges, and protect and improve the quality of waterbodies within the City (City 2015 p. 
+ES-2). The JRMP is an implementation framework of watershed management strategies that 
+integrates with the Carlsbad and San Luis Rey WQIPs to which the City is a responsible 
+agency. It also serves as a regulatory compliance tool to satisfy the requirements of the San 
+Diego Regional Phase 1 Municipal Stormwater Permit and establish the City's legal authority 
+to control and prevent the discharge of pollutants in stormwater through its local ordinance.  
+Water Quality Improvement Plans 
+Under the San Diego Regional Phase 1 Municipal Stormwater Permit, the Water Quality Im-
+provement Plans (WQIPs) are required to be developed to guide the co-permittees’ JRMPs 
+towards achieving improved water quality in stormwater discharges and receiving waters. The 
+WQIPs further the CWA’s objectives to protect, preserve, enhance, and restore the water qual-
+ity and designated beneficial uses of Waters of the State. The requirement sets forth a 
+collaborative and adaptive planning and management process that identifies the highest pri-
+ority water quality conditions within a watershed management area and implements 
+strategies identified in the JRMPs. These strategies are utilized to improve the quality of 
+stormwater discharges that will, in turn, improve water quality in receiving waterbodies. The 
+
+
+ 
+6-15 
+WQIPs include overarching watershed management strategies, including both local initia-
+tives and regional collaborative projects, that strive to restore beneficial uses and enhance, 
+restore and protect water resources.  
+The City has collaborated in the development of WQIPs for the Carlsbad and San Luis Rey 
+WMAs.   
+Master Drainage Plan 
+Since the City's Master Plan of Drainage (MPD) was updated in 2013, various developments 
+have affected storm runoff flow patterns, and new drainage facilities have been added to the 
+City’s storm drainage system. The objectives of the update model the City’s master planned 
+drainage facilities, and then identify deficiencies and recommended upgrades which could be 
+constructed as future development occurs. 
+Oceanside Storm Water Management 
+Best Management Practices for Development 
+All development and redevelopment projects are obligated to comply with Federal, state, and 
+local stormwater regulations during the planning, construction, and post-construction 
+phases of development. Projects entering into the construction phase of development are reg-
+ulated under City grading and erosion control ordinances, and, dependent on acreage, the 
+SWRCB under the Construction General Stormwater Permit (Order 2009-0009-DWQ and any 
+amendments or reissuances thereto). The City is responsible for local administration and en-
+forcement of stormwater management requirements throughout the development planning 
+and construction stages for each project. To ensure that new and redevelopment complies 
+with City ordinances and the San Diego Phase 1 Municipal Stormwater Permit, the City has 
+developed a Best Management Practices (BMP) Design Manual which addresses onsite post-
+construction storm water requirements for Standard Projects and Priority Development Pro-
+jects (PDPs).The BMP Design Manual provides guidance and procedures for planning, design, 
+selection, and construction of permanent post-construction stormwater BMPs. Based on a 
+site-specific analysis of a proposed new or redevelopment project, permanent post-construc-
+tion structural/treatment control BMPs may be required to ensure that a project controls the 
+discharge of pollutants in stormwater to the Maximum Extent Practicable and reduces the 
+volume and flow rate of runoff due to increases in impervious surfaces.  (City of Oceanside 
+2016, updated 2018).  
+
+
+ 
+6-16 
+Storm Water Quality Assessment 
+Prior to project submittal all development and redevelopment projects applying for discre-
+tionary or administrative permits are subject to a formal Storm Water Quality Assessment 
+(SWQA) determination.  The objective of the SWQA is to ensure that all new and redevelop-
+ment projects receive a consistent and thorough initial review, with the purpose of 
+categorizing projects, determining applicable Storm Water Quality Management Plan 
+(SWQMP) requirements, and serving as a mechanism for recordkeeping of approved projects. 
+The SWQA determination also demonstrates to the RWQCB that each project receives a con-
+sistent review and enables the City to document project categorization and satisfy the MS4 
+Permit requirements. The SWQA is an integral component and procedure of the aforemen-
+tioned City BMP Design Manual.  
+Operation and Maintenance Plan 
+The San Diego Regional Phase 1 Municipal Stormwater Permit requires the City to annually 
+verify that all permanent post-construction BMPs (such as structural/treatment control BMPs 
+and flow-control facilities) are correctly installed and adequately maintained. Implementa-
+tion of a long term Operation and Maintenance Plan (O&M) is required as part of the final 
+engineering phase of any project within the City that qualifies as a PDP through the SWQA 
+and BMP Design Manual process.   
+Storm Water Facilities Maintenance Agreement 
+The City Standard Storm Water Facilities Maintenance Agreement with Access Rights and 
+Covenants (SWFMA) is a recorded agreement for the maintenance and repair of storm water 
+management facilities (i.e. permanent post-construction BMPs), entered into between the 
+Owner and the City.  The SWFMA is the final step to ensure ongoing storm water manage-
+ment. It binds the Owner, the Successors, and runs with the property. 
+6.3 Key Findings and Planning Considerations 
+The following is a summary of key findings and implications for the General Plan Update pro-
+cess related to hydrology, flooding and water quality: 
+• 
+Facility improvement objectives and specific policies in the General Plan Up-
+date to reduce flooding risk and impacts. The City's Master Drainage Plan proposes 
+facility improvements to provide additional protection from the 100-year storm 
+event. The General Plan Update provides an opportunity to identify specific policies 
+
+
+ 
+6-17 
+to meet these existing objectives, including increasing construction requirements for 
+projects in areas of high flood risk. 
+ 
+Opportunities to improve water quality Citywide. Impaired waterways within 
+Oceanside present significant opportunities for water quality improvements, in turn 
+improving habitat and overall ecosystem health. The General Plan Update provides 
+opportunities for policy direction focused on the implementation of stormwater run-
+off protection and prevention. This policy direction will need to rely on collaboration 
+with relevant local, regional, and State agencies. In concert with the City's JRMP and 
+the Carlsbad and San Luis Rey WQIPs, there are also opportunities to develop pro-
+grams and policies that encourage watershed management strategies to restore, 
+enhance and protect water quality and aquatic resources within the Planning Area, 
+and policies that promote habitat restoration, improve water quality through targeted 
+mitigation, and stormwater capture and reuse projects.  
+• 
+Opportunities for development within flood zones.  Key opportunity areas are 
+mapped as within FEMA floodplain, especially along Mission Avenue. This area en-
+compasses a significant share of reuse opportunities in the Oceanside, including those 
+being considered as part of the Smart and Sustainable Corridors Specific Plan. New 
+development or redevelopment within these areas is possible if the proposed devel-
+opment meets the City’s Floodplain Management provisions of the Municipal Code 
+Sections 6.43 and 6.44. While hazard reduction measures may be required; conditions 
+may also exist for variances to be issued. Additionally, pursuant to the Master Drain-
+age Plan, new or redevelopment may be required to upgrade/upsize storm drains 
+(and/or pay development fees) to accommodate the proposed development plan.  
+ 
+ 
+
+
+ 
+7-1 
+7 
+Fire Hazards (Urban and Wildland) 
+The purpose of this chapter is to provide a brief overview of wildland fire hazards, identify 
+areas of potential wildfire concern within the Planning Area, summarize existing plans and 
+programs that relate to fire protection and prevention efforts, and identify key findings and 
+opportunities for the updated General Plan goals and policies. 
+7.1 Existing Conditions 
+CITY OF OCEANSIDE FIRE DEPARTMENT  
+The goal of the Oceanside Fire Department (OFD) is to “efficiently and effectively serve the 
+community” (https://www.ci.oceanside.ca.us/gov/fire/about/overview.asp). The OFD main-
+tains eight firehouses throughout the city as shown on Figure 7-1 and further summarized 
+in Table 7-1. The OFD has the following personnel including the following: Fire Chief (1); 
+Deputy Chief (1); Division Chiefs (3); Battalion Chiefs (3); Captains (30); Engineers (27); 
+Firefighter / Paramedics (45); Emergency Medical Technicians (29); Fire Safety Specialists 
+(1); Fire Inspectors (5); Fire Plans Examiners (2); Assistant Training Officers (1); and addi-
+tional Administrative Support Staff.  
+Staffing includes all those necessary to serve administration, training, and prevention de-
+partments. Fire apparatus is delineated in Table 7-1.    
+Table 7-1: Fire Stations in the City of Oceanside 
+Station Name 
+Address 
+Apparatus 
+Fire Station 1 
+714 Pier View Way 
+8 Fire Engines 
+1 Ladder-Tiller Truck 
+5 Ambulances 
+3 Type-3 Brush Fire Engines 
+1 Water Tender 
+1 Type-6 Brush Patrol Engine 
+1 Command Vehicle 
+1 Command & Interoperability Trailer 
+1 Incident Support Trailer 
+1 Mass Casualty Response Vehicle 
+1 Confined Space Trailer 
+Fire Station 2 
+1740 South Ditmar Street 
+Fire Station 3 
+3101 Oceanside Boulevard 
+Fire Station 4 
+3990 Lake Boulevard 
+Fire Station 5 
+4841 North River Road 
+Fire Station 6 
+895 North Santa Fe Avenue 
+Fire Station 7 
+3350 Mission Avenue 
+Fire Station 8 
+1835 Avenida Del Oro, Suite F 
+Source: City of Oceanside (https://www.ci.oceanside.ca.us/gov/fire/about/overview.asp ) 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig7-1.mxd
+!(
+T
+!.
+!.
+!.
+!.
+!.
+!.
+!.
+!.
+!.
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Palisades
+Park
+Capistrano
+Park
+Tyson
+Street Park
+Libby
+Lake Park
+Rancho Del
+Oro Park
+Marshall
+St Swim
+Ctr & Park
+Buccaneer
+Park
+John
+Landes
+Park
+Luiseno
+Park
+Spring
+Creek Park
+Lake Park
+Ivey Ranch
+Park
+Melba
+Bishop
+Park
+Oceanside
+Dog Park
+Senior
+Citizens'
+Center
+Joseph
+Balderrama
+Park
+Joseph
+Sepulveda
+Park
+Martin Luther
+King Jr. Park
+Alex Rd
+Skate Park
+Joseph
+Carrasco
+Park
+Socal
+Sport
+Fields
+Buddy
+Todd
+Park
+Alamosa
+Park
+Marlado
+Highlands
+Park
+Fireside
+Park
+El Corazon
+Senior Center
+Cesar
+Chavez
+Park
+Strand
+Beach
+Park
+Ron Ortega
+Recreation
+Park
+Mance
+Buchanon
+Park
+Heritage
+Park
+Oak Riparian
+Park
+South
+Oceanside
+School
+Park
+Guajome
+County Park
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+Station 7
+Station 8
+Station 3
+Station 4
+Station 5
+Station 6
+Station 7
+Station 1
+Station 2
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 7-1: Existing and Proposed Fire Stations
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+Park
+Agriculture
+Open Space Park or Preserve
+Military Training
+City of Oceanside
+Sphere of Influence
+Neighbor City
+!.
+Existing Fire Stations
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+7-3 
+OFD responded to 21,138 calls for service for the year 2019 comprised of fire response, 
+emergency medical response, investigative/good intent, service calls, false alarms, and haz-
+ardous conditions. In addition to providing emergency response services to the community, 
+there are a number of non-emergency functions performed by the OFD. These services in-
+clude fire investigations, plan checks for all new development, fire prevention inspections, 
+and public education and informational programs.  
+DEPARTMENT OF FORESTRY AND FIRE PROTECTION  
+The California Department of Forestry and Fire Protection (CalFire) serves and safeguards 
+the people and protects the property and resources of California. While preventing wildfires 
+in the State Responsibility Area (SRA) is a primary part of CalFire’s mission, its fire preven-
+tion program consists of multiple activities including wildland pre-fire engineering, 
+vegetation management, fire planning, education and law enforcement. Typical fire preven-
+tion projects include brush clearance, prescribed fire, defensible space inspections, 
+emergency evacuation planning, fire prevention education, fire hazard severity mapping, 
+and fire-related law enforcement activities.  
+CalFire has developed two datasets for fire threat and hazard mapping. The first mapping 
+dataset consists of Fire Hazard Severity Zones (FHSZs), which were developed for communi-
+ty planning and real estate disclosure purposes, are meant to help limit wildfire damage to 
+structures through planning, prevention, and mitigation activities/requirements that reduce 
+risk. The FHSZs serve several purposes: they are used to designate areas where California’s 
+wildland urban interface building codes apply to new buildings; they can be a factor in real 
+estate disclosure; and local governments consider fire hazard severity in the safety elements 
+of their general plans. This dataset categorizes threat levels ranging from Low to Very High, 
+and provides the basis for the application of various mitigation strategies to reduce risks to 
+buildings associated with wildland fires. Very High FHSZ mapping is based on data and 
+models of potential fuels over a 30- to 50-year time horizon and their associated expected 
+fire behavior, and expected burn probabilities to quantify the likelihood and nature of vege-
+tation fire exposure (including firebrands) to buildings. As shown in Figure 7-2, there are 
+approximately 2,092.74 acres of land mapped as Very High FHSZ within the Planning Area 
+according to CalFire. Table 7-2 presents the acreage of land within the Planning Area desig-
+nated under each FHSZ. 
+Table 7-2: Fire Hazard Severity Zone Acreages 
+Fire 
+Hazard 
+Severity 
+Zone 
+Acreage
+s 
+Percentage 
+
+
+ 
+7-4 
+High 
+2,469.90 
+22.18 
+Moderate 
+2,479.98 
+22.27 
+Non-Wildland/Non-Urban 
+4,095.53 
+36.77 
+Very High 
+2,092.74 
+18.79 
+Grand Total 
+11,138.15 
+100 
+Source: CalFire 
+Note: The Fire Hazard Severity Zone maps were developed using a science-based and field tested 
+computer model that assigns a hazard score based on the factors that influence fire likelihood and 
+fire behavior, from “Moderate” to “Very High”. Many factors are considered such as fire history, ex-
+isting and potential fuel (natural vegetation), flame length, blowing embers, terrain, and typical 
+weather for the area. “Non-Wildland Non-Urban” refers to land that has not been significantly 
+modified by human development, but does not contain flammable vegetation (e.g., Buena Vista La-
+goon.) 
+ 
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig7-2.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+!(6
+7
+!"^$
+!"^$
+!(6
+7
+?¸
+P a c i f i c
+O c e a n
+Figure 7-2: CalFire Fire Hazard Severity Zones
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Fire Hazard Severity Zones
+Non-Wildland/Non-Urban
+Moderate
+High
+Very High
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/16/2020
+
+
+ 
+7-6 
+The second CalFire mapping dataset are Fire Threat Areas, which provide a measure of fuel 
+conditions and fire potential in the ecosystem, representing the relative likelihood of dam-
+aging or difficult to control wildfires occurring for a given area. Fire Threat Area mapping is 
+not a risk assessment by itself, but can be used to assess the potential for impacts on various 
+assets and values susceptible to fire. Impacts are more likely to occur and/or be of increased 
+severity for the higher threat classes. Fire threat is a combination of two factors: (1) fire 
+probability, or the likelihood of a given area burning, and (2) potential fire behavior (haz-
+ard). These two factors are combined to create a five-point scale of fire threats ranging from 
+Low to Extreme. As shown on Figure 7-3, the majority of the Planning Area is unranked be-
+cause it consists of urban development that has no wildfire potential. However, areas 
+designated as having Very High (there are no Extreme designated areas) risk are located 
+along the norther boundary of the Planning Area adjacent to Marine Corps Base Camp Pend-
+leton (Camp Pendleton). Table 7-3 presents the acreage of land within the Planning Area 
+under each Fire Threat Area classification. 
+Table 7-3: Fire Threat Area Acreages 
+Fire Threat Area 
+Acreages 
+Percentag
+e 
+Extreme 
+2.03 
+0.41 
+Very High 
+581.22 
+11.83 
+High 
+1,660.82 
+33.79 
+Moderate 
+1,456.24 
+29.63 
+Low 
+1,213.96 
+24.70 
+Grand Total 
+4,914.27 
+100 
+Source: CalFire 
+IMPACTS OF CLIMATE CHANGE 
+The length of the typical fire season has increased by nearly 20 percent over the past 35 
+years, and the global area now impacted by long fire seasons has doubled. Climate change, 
+primarily caused by the burning of fossil fuels, is increasing the frequency and severity of 
+wildfires not only in California but also all over the world.  
+Oceanside and the surrounding region have been experiencing an increase in wildfire events 
+due to climate change. The terrain, vegetation, Santa Ana wind patterns, temperature in-
+creases, and decreased moisture due to longer periods of drought have contributed to the 
+increase in wildfire activities. Oceanside’s Climate Action Planidentifies increase in the in-
+
+
+ 
+7-7 
+cidence of wildfires as one of the major impacts due to climate change. Oceanside has expe-
+rienced many wildfires in the past decade, which supports that the increased temperatures, 
+changes in precipitation patterns, and effects of climate change are becoming a direct con-
+tributor to fire impacts. In addition to increased threats to the population and the City, the 
+increased frequency of wildfires results in the release of harmful air pollutants into the at-
+mosphere that can lead to respiratory health issues for residents. 
+ 
+7.2 Regulatory Setting 
+LOCAL 
+City of Oceanside General Plan 
+Existing General Plan Elements/Policies 
+The City’s General Plan (City of Oceanside, 2002) includes policies relating to fire hazards.  
+ 
+ 
+ 
+ 
+
+
+Document Path: M:\JOBS5\9550\common_gis\reports\GPU\fig7-3.mxd
+!(
+T
+Guajome
+County Park
+Ocea
+nside
+Blvd
+Melrose Dr
+Mission Ave
+Jeffe
+rson
+St
+Olive Ave
+Vista Way
+College
+Blvd
+El
+Ca
+mi
+no
+Re
+al
+Fr
+az
+ee
+Rd
+S Coast Hwy
+Oceanside Blvd
+El Cami
+no Real
+Vista Way
+Mission A
+ve
+Ca
+ny
+on
+Dr
+N Emerald Dr
+Vista W
+ay
+Mission Ave
+M
+is
+si
+o
+n
+A
+v
+e
+North River Rd
+Col
+leg
+e B
+lvd
+No
+rth
+Riv
+er
+Rd
+R
+a
+n
+c
+h
+o
+D
+e
+l
+O
+r
+o
+D
+r
+College Blvd
+N Sa
+nta F
+e Av
+e
+Cannon Rd
+Ol
+d
+Gr
+ov
+e
+Rd
+Mesa Dr
+Mes
+a D
+r
+Lake Blvd
+Vandergift Blvd
+Douglas Dr
+Douglas Dr
+Lo ma
+Alta Creek
+Bue
+n
+a
+V
+i
+s
+ta
+C
+reek
+L
+o
+w
+er San
+L
+uis Rey River
+Lo
+w
+e
+r
+S
+an
+Luis Re
+y River
+?
+!"^$
+!"^$
+?
+?¸
+P a c i f i c
+O c e a n
+Figure 7-3: CalFire Fire Threat Areas
+Source: SanGIS, 2020; City of Ocenaside, 2020; Dyett & Bhatia, 2020
+Carlsbad
+Vista
+South
+Camp
+Pendleton
+San Diego County
+0
+1
+2
+½
+Miles
+Map Date: 7/17/2020
+!(
+T
+Oceanside
+Transportation Center
+Rail
+River/Creek
+City of Oceanside
+Sphere of Influence
+Neighbor City
+Fire Threat Class
+Extreme
+High
+Moderate
+Very High
+Low
+
+
+ 
+7-9 
+Public Safety Element  
+The Public Safety Element, adopted in 1975 and reformatted in 2002, discusses the severe 
+threat of wildfire noting brush fires primarily occur in areas in proximity to residential de-
+velopment. The City’s Natural Fire Hazards Map (General Plan Figure PS-5; City of 
+Oceanside 2002) identifies “extreme” hazard areas where the vegetation changes from grass 
+and sage to denser and more flammable chaparral. Similar to the CalFire maps, these areas 
+are along the northern City boundary adjacent to Camp Pendleton. Additional risk is as-
+sessed where residential development is scattered on large lots (northern part of Morro 
+Hills; General Plan Public Safety Element pages 16–17; City of Oceanside 2002). 
+Urban fires are also discussed, noting most structural fires are the result of human activity.  
+The Fire Code of the City of Oceanside  
+Chapter 11 Fire Protection 
+City Code Section 11, Fire Protection, addresses the creation and maintenance of the City’s 
+fire department, fire prevention, and brush management. The City adopts the California Fire 
+Code for all standards relating to building construction, maintenance, and access. City code 
+Sections 11.29 through 11.33 specifically address vegetation clearing and fire hazard abate-
+ment.    
+Emergency Operations Plan 
+The all-hazards Emergency Operations Plan (EOP), adopted in 2016, provides guidance for 
+the City of Oceanside’s response to emergencies associated with natural, manmade, and 
+technological disasters. The EOP creates a system for the effective management of emer-
+gency situations through an emergency management organization, defining the overall 
+responsibilities for all agencies and individuals that have a role in emergency preparedness, 
+response, recovery, and/or mitigation in the City of Oceanside.  Developed in accordance 
+with the Standardized Emergency Management System (SEMS) and the National Incident 
+Management System (NIMS), the plan is a management document intended to be read, un-
+derstood, and exercised before an emergency occurs.  
+ 
+
+
+ 
+7-10 
+7.3 Key Findings and Planning Considerations 
+The following is a summary of key findings and implications for the General Plan Update 
+process related to fire hazards: 
+• 
+Wildfire is a growing threat to development at the edges of urban areas. Wild-
+fire is a growing concern throughout California, and Oceanside is no exception. As 
+climate change brings longer, hotter summers and more severe droughts, wildfires 
+are becoming more extensive and severe. The risk of wildfire is greatest on the City’s 
+edges and other areas where vegetation is densest: along the Camp Pendleton 
+boundary, urban canyons throughout the City, and the San Luis Rey River.  
+• 
+A more detailed consideration of risk mitigation strategies will be necessary both for 
+existing and planned development in these locations in order to identify new poli-
+cies for housing potential in these areas. CalFire is also in the process of updating 
+the statewide fire hazard zones, including reflecting wind patterns as part of the new 
+mapping, which would likely result in expansion of areas subject to wildfire risks.  
